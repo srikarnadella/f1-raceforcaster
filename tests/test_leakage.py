@@ -65,3 +65,21 @@ def test_harness_trains_only_on_past(results):
 
     harness.walk_forward(Spy, feats, test_from=2025, test_to=2025)
     assert len(seen) == 24
+
+
+def test_race_pace_features_leak_free(results):
+    from f1.features import RACE_PACE_FEATURES
+    season, rnd = 2026, 10
+    rng = np.random.default_rng(0)
+    keys = results[results.season >= 2025][["season", "round", "driver_id"]]
+    pace = keys.assign(race_pace_gap=rng.random(len(keys)) * 2)
+    base = _race(build_features(results, race_pace=pace), season, rnd)
+    m = (pace.season == season) & (pace["round"] == rnd)
+    pace2 = pace.copy()
+    pace2.loc[m, "race_pace_gap"] = 9.0          # change this race's own pace
+    later = (pace2.season == season) & (pace2["round"] > rnd)
+    pace2.loc[later, "race_pace_gap"] = 7.0      # and every later race
+    pert = _race(build_features(results, race_pace=pace2), season, rnd)
+    pd.testing.assert_frame_equal(base[RACE_PACE_FEATURES], pert[RACE_PACE_FEATURES])
+    nxt = _race(build_features(results, race_pace=pace2), season, rnd + 1)
+    assert not np.allclose(nxt["drv_race_pace"], _race(build_features(results, race_pace=pace), season, rnd + 1)["drv_race_pace"])

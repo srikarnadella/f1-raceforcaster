@@ -105,12 +105,15 @@ def driver_race_pace(laps: pd.DataFrame) -> pd.DataFrame:
     out = pd.DataFrame({
         "clean_median_s": clean.groupby("driver_id")["time_s"].median(),
         "corrected_median_s": green.groupby("driver_id")["corrected_s"].median(),
+        "corrected_clean_s": clean.groupby("driver_id")["corrected_s"].median(),
         "n_clean": clean.groupby("driver_id").size(),
         "n_traffic": l[l["category"] == "traffic"].groupby("driver_id").size(),
         "stops": l.groupby("driver_id")["pit_this_lap"].sum(),
     }).fillna({"n_clean": 0, "n_traffic": 0})
     # need a reasonable sample; otherwise pace is not comparable
     ok = (out["n_clean"] + out["n_traffic"]) >= 10
+    # prefer clean-air laps (traffic slows a car regardless of its pace); fall back to all green laps
+    out["corrected_median_s"] = np.where(out["n_clean"] >= 10, out["corrected_clean_s"], out["corrected_median_s"])
     best = out.loc[ok, "corrected_median_s"].min()
     out["race_pace_gap"] = np.where(ok, (out["corrected_median_s"] - best) / best * 100, np.nan)
     out.attrs.update(l.attrs, neutral_laps=int((l.groupby("lap")["category"].first() == "neutral").sum()))
@@ -143,3 +146,29 @@ def infer_compounds(laps: pd.DataFrame, k: int = 3, seed: int = 0) -> pd.DataFra
     names = dict(zip(order, ["fast-like", "medium-like", "durable-like"][:k]))
     st["inferred_class"] = [names[x] for x in lab]
     return st
+
+
+def pace_table(refresh: bool = False) -> pd.DataFrame:
+    """Race pace gap per driver for every race with lap data (cached in data/laps/pace_summary.csv)."""
+    out_path = LAPS_DIR / "pace_summary.csv"
+    files = sorted(p for p in LAPS_DIR.glob("*_*.csv") if p.name != "pace_summary.csv")
+    if out_path.exists() and not refresh:
+        cached = pd.read_csv(out_path)
+        done = set(zip(cached.season, cached["round"]))
+        files = [f for f in files if tuple(map(int, f.stem.split("_"))) not in done]
+    else:
+        cached = None
+    rows = []
+    for f in files:
+        season, rnd = map(int, f.stem.split("_"))
+        try:
+            rp = driver_race_pace(pd.read_csv(f))
+        except Exception:
+            continue
+        rows.append(rp[["driver_id", "race_pace_gap", "n_clean", "n_traffic", "stops"]].assign(season=season, round=rnd))
+    new = pd.concat(rows, ignore_index=True) if rows else pd.DataFrame()
+    tab = pd.concat([d for d in (cached, new) if d is not None and len(d)], ignore_index=True) if (rows or cached is not None) else pd.DataFrame(
+        columns=["season", "round", "driver_id", "race_pace_gap"])
+    if rows and LAPS_DIR.exists():
+        tab.to_csv(out_path, index=False)
+    return tab

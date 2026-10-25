@@ -1,5 +1,32 @@
 [
  {
+  "slug": "race-pace-features",
+  "hypothesis": "Lap-derived race pace (clean-air, fuel/tyre-corrected) and each team's race-vs-quali pace delta add signal beyond one-lap pace and start position (user suggestion; R17 showed team deltas up to 0.9%).",
+  "patch": {
+   "form": {
+    "race_pace": true
+   },
+   "strength": {
+    "features": [
+     "log_start",
+     "quali_gap",
+     "tm_quali_gap",
+     "sprint_delta",
+     "drv_form_pos",
+     "con_form_pos",
+     "drv_form_quali",
+     "drv_gain",
+     "drv_form_pos_early",
+     "con_form_pos_early",
+     "no_history",
+     "drv_race_pace",
+     "exp_race_gap",
+     "con_race_minus_quali"
+    ]
+   }
+  }
+ },
+ {
   "slug": "season-half-life-1.5",
   "hypothesis": "2026 is a new era; down-weighting older seasons harder in the strength fit should cut stale-form error.",
   "patch": {

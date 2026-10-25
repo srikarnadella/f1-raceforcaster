@@ -33,6 +33,7 @@ STRENGTH_FEATURES = [
 ]
 FORM_ONLY_FEATURES = ["drv_form_pos", "con_form_pos", "drv_form_quali",
                       "drv_form_pos_early", "con_form_pos_early", "no_history"]
+RACE_PACE_FEATURES = ["drv_race_pace", "exp_race_gap", "con_race_minus_quali"]
 DNF_FEATURES = ["con_dnf_rate", "drv_dnf_rate", "circuit_dnf_rate", "log_start", "early_era"]
 
 
@@ -78,9 +79,14 @@ def weekend_features(race: pd.DataFrame) -> pd.DataFrame:
 
 
 def build_features(results: pd.DataFrame, entry: pd.DataFrame | None = None,
-                   form_half_life: float = 6.0, dnf_half_life: float = 12.0) -> pd.DataFrame:
+                   form_half_life: float = 6.0, dnf_half_life: float = 12.0,
+                   race_pace: bool | pd.DataFrame = False) -> pd.DataFrame:
     """Feature rows for every race in `results`, plus `entry` (an upcoming race
-    with pre-race data only) if given. Rows of each race only see earlier races."""
+    with pre-race data only) if given. Rows of each race only see earlier races.
+
+    race_pace: True loads lap-derived race pace (src/f1/laps.py) for past races,
+    or pass the table directly. A race's pace enters the state only after its
+    own features are fixed, like every other outcome."""
     races = results if entry is None else pd.concat([results, entry], ignore_index=True)
     races = races.sort_values(["season", "round"], kind="stable")
 
@@ -93,6 +99,13 @@ def build_features(results: pd.DataFrame, entry: pd.DataFrame | None = None,
     circ_dnf_sum, circ_dnf_n = defaultdict(float), defaultdict(int)
     global_dnf = [0.0, 0]
     era_count = defaultdict(int)
+    if race_pace is True:
+        from .laps import pace_table
+        race_pace = pace_table()
+    pace_by_race = ({k: g for k, g in race_pace.groupby(["season", "round"])}
+                    if isinstance(race_pace, pd.DataFrame) and len(race_pace) else {})
+    drv_rp = _EWM(form_half_life, 1.5)
+    con_rmq = _EWM(form_half_life, 0.0)
 
     out = []
     for (season, rnd), race in races.groupby(["season", "round"], sort=False):
@@ -110,6 +123,10 @@ def build_features(results: pd.DataFrame, entry: pd.DataFrame | None = None,
         r["no_history"] = r["driver_id"].map(lambda d: float(drv_pos.n[d] == 0))
         r["drv_form_pos_early"] = r["drv_form_pos"] * early
         r["con_form_pos_early"] = r["con_form_pos"] * early
+        r["drv_race_pace"] = r["driver_id"].map(drv_rp.get)
+        r["con_race_minus_quali"] = r["constructor_id"].map(con_rmq.get)
+        # expected race-trim gap: this weekend's one-lap gap plus the team's usual race-vs-quali delta
+        r["exp_race_gap"] = r["quali_gap"] + r["con_race_minus_quali"]
         r["con_dnf_rate"] = r["constructor_id"].map(con_dnf.get)
         r["drv_dnf_rate"] = r["driver_id"].map(drv_dnf.get)
         # shrink circuit DNF rate toward the global rate (strength of 40 driver-starts)
@@ -133,6 +150,15 @@ def build_features(results: pd.DataFrame, entry: pd.DataFrame | None = None,
             con_pos.update(c, float(m))
         for c, m in pd.Series(dnf.values, index=r["constructor_id"]).groupby(level=0).mean().items():
             con_dnf.update(c, float(m))
+        rp = pace_by_race.get((season, rnd))
+        if rp is not None:
+            j = r[["driver_id", "constructor_id", "quali_gap"]].merge(rp[["driver_id", "race_pace_gap"]], on="driver_id")
+            j = j[j["race_pace_gap"].notna()]
+            for d, g in zip(j["driver_id"], j["race_pace_gap"]):
+                drv_rp.update(d, float(min(g, QUALI_GAP_CAP)))
+            team = j.groupby("constructor_id")[["race_pace_gap", "quali_gap"]].min()
+            for c, t in team.iterrows():
+                con_rmq.update(c, float(np.clip(t.race_pace_gap - t.quali_gap, -2, 2)))
         circ_dnf_sum[circ] += dnf.sum()
         circ_dnf_n[circ] += len(r)
         global_dnf[0] += dnf.sum()
