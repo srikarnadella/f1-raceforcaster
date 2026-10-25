@@ -23,3 +23,9 @@ uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requi
 | `predictions/log.jsonl` | append-only pre-race forecasts; `scores.jsonl` their scores |
 | `models/registry.json` | versions, champion and shadow pointers, history |
 | `experiments/queue.json` | candidate changes for the improvement cycle; results in `experiments/log.jsonl` |
+
+## Data
+
+Everything the models use is committed under `data/`: race results and qualifying (`data/results/`), calendar,
+per-race lap timings (`data/laps/`), and championship history. Raw API responses are cached in `.cache/`
+(gitignored, disposable). Current status, work in progress and the planned roadmap are kept in `CLAUDE.md` section 2.

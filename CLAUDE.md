@@ -23,7 +23,36 @@ _Updated 2026-10-25._ The v0 scaffold files (`f1data.py`, `train.py`, ...) never
 - **Champion v1:** Plackett-Luce strength (depth 3) + logistic DNF model → 10k-sample order simulation; winner, podium, top-10, order and championship all come from that one simulation (coherent; sums checked in tests).
 - **Real-data baseline (walk-forward 2019–2026, 169 races):** v1 winner log-loss 1.267 (grid baseline 1.445, pole 2.001, uniform 3.005); podium Brier 0.0674 (grid 0.0686); top-10 Brier 0.1542 (grid 0.1633); Spearman 0.661 (grid 0.647); top-1 hit 56% (pole sitter 56%). **2026 only (17 races): v1 is worse than grid on winner log-loss (1.271 vs 1.139)**, likely because pre-2026 form is stale. Details in `reports/backtest*.json`.
 - **Milestones:** M0–M5 built and run on real data; M6/M7 (workflow, registry, gate, shadow, rollback) built, with the gate exercised in dry run. First live forecast: 2026 R18, logged 19:39 UTC before the 20:00 start.
-- **Lap analysis:** `src/f1/laps.py` tags race laps (lap 1, in/out, neutralised, slow, traffic, clean), fits fuel and tyre slopes per race, and clusters stints into inferred compound classes (the free data has no compound).
+- **Lap analysis:** `src/f1/laps.py` tags race laps (lap 1, in/out, neutralised, slow, traffic, clean), fits fuel and tyre slopes per race, and clusters stints into inferred compound classes (the free data has no compound). Race pace uses clean-air laps when a driver has ≥ 10 of them.
+- **Race-pace features** (`drv_race_pace`, `exp_race_gap`, `con_race_minus_quali` in `features.py`) are built and leak-tested but **dormant**: they only run when a spec sets `form.race_pace: true`. Queued as experiment `race-pace-features` (top of `experiments/queue.json`).
+
+### Data storage
+All data lives in the repo; nothing depends on the API staying up.
+- `data/results/<season>.csv`, `data/calendar.csv`: committed. Finished seasons are written once; completed races are never rewritten.
+- `data/laps/<season>_<round>.csv`: per-race lap timings and pit stops, about 50 KB per race. `data/laps/pace_summary.csv` is a derived cache (rebuildable). Backfill is `scripts/fetch_laps.py --from 2022`, throttled to Jolpica's 500 req/hour (about 100 s per race), resumable.
+- `data/championship/<season>.json`: title probabilities per round. `data/dashboard/next_race.json`: latest forecast.
+- `.cache/` (gitignored): raw API pages. Disposable; rebuilt on demand.
+
+### In progress (as of 2026-10-25 ~20:00 UTC)
+1. **Lap backfill 2022–2026** (109 races, about 3 h). Commit `data/laps/` when it finishes.
+2. **2026 R18 review**, once results publish: score the logged forecast, write `reports/2026_18_pace.md`, update the championship, then run the **first live improvement cycle**: race-pace features, season half-life 1.5, form half-life 4, DNF C 0.3. The three tuning tweaks moved the composite < 1% in dry run, so they're expected to be rejected.
+
+### Built but not yet run end to end
+- `scripts/run_forecast.py` (R18 was logged by calling `forecast()` directly). First real run: R19 Mexico City, after qualifying on 2026-10-31.
+- `scripts/should_run.py` (only its `state.due_jobs` logic is tested) and `.github/workflows/race-weekend.yml`: no GitHub remote yet, so never run in CI.
+- Shadow mode and auto-rollback: only active after a promotion.
+
+### Planned next (in priority order)
+1. **Championship evaluation** (section 6): RPS at rounds 5/10/15/20 of 2019–2025 vs "standings hold" and uniform; then tune `strength_noise` (currently a guessed 0.35) in `championship.simulate`. This belongs in `eval/` as part of the harness, so it needs a human-approved addition there.
+2. **Grid penalties**: the model uses qualifying position. R17's review flagged that penalties changed the start order.
+3. **Lap backfill 2019–2021** (about 1.5 h), so race-pace features carry information across the whole test window.
+4. Circuit-type features, wet-session flag (needs a weather source), car-vs-driver ratings, richer sprint-weekend features.
+5. Probability calibration and ensembling; season-end review after Abu Dhabi (2026-12-06).
+
+### Open decisions for a human (`proposals/`)
+- `2026-10-25-f1tv-practice-data.md`: add F1TV credentials as CI secrets to unlock practice laps and tyre compounds.
+- `2026-10-25-rollback-min-sample.md`: require ≥ 3 shadow races before auto-rollback.
+- Push to a GitHub remote so the scheduled workflow can run.
 
 ## 3. The two weekly triggers
 
