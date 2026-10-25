@@ -1,0 +1,59 @@
+{
+ "champion": "v1",
+ "shadow": null,
+ "shadow_since": null,
+ "versions": {
+  "v1": {
+   "spec": {
+    "name": "pl-dnf",
+    "strength": {
+     "features": [
+      "log_start",
+      "quali_gap",
+      "tm_quali_gap",
+      "sprint_delta",
+      "drv_form_pos",
+      "con_form_pos",
+      "drv_form_quali",
+      "drv_gain",
+      "drv_form_pos_early",
+      "con_form_pos_early",
+      "no_history"
+     ],
+     "l2": 1.0,
+     "depth": 3,
+     "season_half_life": 3.0
+    },
+    "dnf": {
+     "features": [
+      "con_dnf_rate",
+      "drv_dnf_rate",
+      "circuit_dnf_rate",
+      "log_start",
+      "early_era"
+     ],
+     "C": 1.0,
+     "season_half_life": 4.0
+    },
+    "form": {
+     "form_half_life": 6.0,
+     "dnf_half_life": 12.0
+    },
+    "n_sims": 10000
+   },
+   "created": "2026-10-25T19:39:28+00:00",
+   "git_commit": "e4c71b0",
+   "data_hash": "2b1410d4a79c68b6",
+   "parent": null,
+   "note": "initial champion",
+   "backtest": null
+  }
+ },
+ "history": [
+  {
+   "date": "2026-10-25T19:39:28+00:00",
+   "event": "init",
+   "version": "v1"
+  }
+ ]
+}
