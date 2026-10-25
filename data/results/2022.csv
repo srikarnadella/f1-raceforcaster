@@ -1,0 +1,441 @@
+season,round,race_name,date,circuit_id,format,driver_id,code,constructor_id,number,quali_pos,q1,q2,q3,sprint_pos,sprint_classified,sprint_points,grid,position,position_text,classified,status,points,laps
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,leclerc,LEC,ferrari,16,1,91.471,90.932,90.55799999999999,,,0.0,1,1,1,True,Finished,26.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,sainz,SAI,ferrari,55,3,91.56700000000001,90.787,90.687,,,0.0,3,2,2,True,Finished,18.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,hamilton,HAM,mercedes,44,5,92.285,91.048,91.238,,,0.0,5,3,3,True,Finished,15.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,russell,RUS,mercedes,63,9,92.269,91.252,92.21600000000001,,,0.0,9,4,4,True,Finished,12.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,kevin_magnussen,MAG,haas,20,7,91.955,91.461,91.80799999999999,,,0.0,7,5,5,True,Finished,10.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,bottas,BOT,alfa,77,6,91.919,91.717,91.56,,,0.0,6,6,6,True,Finished,8.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,ocon,OCO,alpine,31,11,92.041,91.782,,,,0.0,11,7,7,True,Finished,6.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,tsunoda,TSU,alphatauri,22,16,92.75,,,,,0.0,16,8,8,True,Finished,4.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,alonso,ALO,alpine,14,8,92.346,91.621,92.195,,,0.0,8,9,9,True,Finished,2.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,zhou,ZHO,alfa,24,15,92.493,93.543,,,,0.0,15,10,10,True,Finished,1.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,mick_schumacher,MSC,haas,47,12,92.38,91.998,,,,0.0,12,11,11,True,Finished,0.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,stroll,STR,aston_martin,18,19,93.032,,,,,0.0,19,12,12,True,Finished,0.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,albon,ALB,williams,23,14,92.726,92.664,,,,0.0,14,13,13,True,Finished,0.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,ricciardo,RIC,mclaren,3,18,92.945,,,,,0.0,18,14,14,True,Finished,0.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,norris,NOR,mclaren,4,13,92.239,92.00800000000001,,,,0.0,13,15,15,True,Finished,0.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,latifi,LAT,williams,6,20,93.634,,,,,0.0,20,16,16,True,Finished,0.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,hulkenberg,HUL,aston_martin,27,17,92.777,,,,,0.0,17,17,17,True,Finished,0.0,57
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,perez,PER,red_bull,11,4,92.311,91.008,90.92099999999999,,,0.0,4,18,18,True,Fuel pressure,0.0,56
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,max_verstappen,VER,red_bull,1,2,91.785,90.757,90.681,,,0.0,2,19,19,True,Fuel pressure,0.0,54
+2022,1,Bahrain Grand Prix,2022-03-20,bahrain,conventional,gasly,GAS,alphatauri,10,10,92.096,91.635,92.338,,,0.0,10,20,R,False,Power Unit,0.0,44
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,max_verstappen,VER,red_bull,1,4,88.928,88.945,88.461,,,0.0,4,1,1,True,Finished,25.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,leclerc,LEC,ferrari,16,2,89.039,88.78,88.225,,,0.0,2,2,2,True,Finished,19.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,sainz,SAI,ferrari,55,3,88.855,88.686,88.402,,,0.0,3,3,3,True,Finished,15.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,perez,PER,red_bull,11,1,89.705,88.924,88.2,,,0.0,1,4,4,True,Finished,12.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,russell,RUS,mercedes,63,6,89.68,89.618,89.104,,,0.0,6,5,5,True,Finished,10.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,ocon,OCO,alpine,31,5,90.093,89.584,89.068,,,0.0,5,6,6,True,Finished,8.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,norris,NOR,mclaren,4,11,89.957,89.651,,,,0.0,11,7,7,True,Finished,6.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,gasly,GAS,alphatauri,10,9,89.89099999999999,89.418,89.254,,,0.0,9,8,8,True,Finished,4.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,kevin_magnussen,MAG,haas,20,10,89.831,89.54599999999999,89.588,,,0.0,10,9,9,True,Finished,2.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,hamilton,HAM,mercedes,44,16,90.343,,,,,0.0,15,10,10,True,Finished,1.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,zhou,ZHO,alfa,24,13,89.97800000000001,89.819,,,,0.0,12,11,11,True,Finished,0.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,hulkenberg,HUL,aston_martin,27,18,90.543,,,,,0.0,17,12,12,True,Finished,0.0,50
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,stroll,STR,aston_martin,18,15,90.256,91.009,,,,0.0,13,13,13,True,+1 Lap,0.0,49
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,albon,ALB,williams,23,17,90.492,,,,,0.0,16,14,14,True,Collision damage,0.0,47
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,bottas,BOT,alfa,77,8,89.68299999999999,89.404,89.18299999999999,,,0.0,8,15,R,False,Cooling system,0.0,36
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,alonso,ALO,alpine,14,7,89.97800000000001,89.295,89.14699999999999,,,0.0,7,16,R,False,Water pump,0.0,35
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,ricciardo,RIC,mclaren,3,12,90.009,89.773,,,,0.0,14,17,R,False,Gearbox,0.0,35
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,latifi,LAT,williams,6,19,91.81700000000001,,,,,0.0,18,18,R,False,Accident,0.0,14
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,tsunoda,TSU,alphatauri,22,20,,,,,,0.0,19,19,R,False,Power Unit,0.0,0
+2022,2,Saudi Arabian Grand Prix,2022-03-27,jeddah,conventional,mick_schumacher,MSC,haas,47,14,90.167,89.92,,,,0.0,0,20,W,False,Withdrew,0.0,0
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,leclerc,LEC,ferrari,16,1,78.881,78.606,77.868,,,0.0,1,1,1,True,Finished,26.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,perez,PER,red_bull,11,3,78.834,78.34,78.24,,,0.0,3,2,2,True,Finished,18.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,russell,RUS,mercedes,63,6,79.405,79.076,78.93299999999999,,,0.0,6,3,3,True,Finished,15.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,hamilton,HAM,mercedes,44,5,79.401,79.106,78.825,,,0.0,5,4,4,True,Finished,12.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,norris,NOR,mclaren,4,4,79.28,79.066,78.703,,,0.0,4,5,5,True,Finished,10.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,ricciardo,RIC,mclaren,3,7,79.66499999999999,79.13,79.032,,,0.0,7,6,6,True,Finished,8.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,ocon,OCO,alpine,31,8,79.605,79.136,79.061,,,0.0,8,7,7,True,Finished,6.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,bottas,BOT,alfa,77,12,79.251,79.41,,,,0.0,12,8,8,True,Finished,4.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,gasly,GAS,alphatauri,10,11,79.58,79.226,,,,0.0,11,9,9,True,Finished,2.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,albon,ALB,williams,23,16,80.135,,,,,0.0,20,10,10,True,Finished,1.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,zhou,ZHO,alfa,24,14,79.91,80.155,,,,0.0,14,11,11,True,Finished,0.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,stroll,STR,aston_martin,18,20,,,,,,0.0,19,12,12,True,Finished,0.0,58
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,mick_schumacher,MSC,haas,47,15,80.104,80.465,,,,0.0,15,13,13,True,+1 Lap,0.0,57
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,kevin_magnussen,MAG,haas,20,17,80.254,,,,,0.0,16,14,14,True,+1 Lap,0.0,57
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,tsunoda,TSU,alphatauri,22,13,79.742,79.424,,,,0.0,13,15,15,True,+1 Lap,0.0,57
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,latifi,LAT,williams,6,19,81.372,,,,,0.0,18,16,16,True,+1 Lap,0.0,57
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,alonso,ALO,alpine,14,10,79.19200000000001,78.815,,,,0.0,10,17,17,True,+1 Lap,0.0,57
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,max_verstappen,VER,red_bull,1,2,78.58,78.611,78.154,,,0.0,2,18,R,False,Fuel leak,0.0,38
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,vettel,VET,aston_martin,5,18,81.149,,,,,0.0,17,19,R,False,Accident,0.0,22
+2022,3,Australian Grand Prix,2022-04-10,albert_park,conventional,sainz,SAI,ferrari,55,9,78.983,78.469,79.408,,,0.0,9,20,R,False,Spun off,0.0,1
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,max_verstappen,VER,red_bull,1,1,79.295,78.793,87.999,1.0,True,8.0,1,1,1,True,Finished,26.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,perez,PER,red_bull,11,7,79.773,79.29599999999999,89.80799999999999,3.0,True,6.0,3,2,2,True,Finished,18.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,norris,NOR,mclaren,4,3,80.168,79.294,89.131,5.0,True,4.0,5,3,3,True,Finished,15.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,russell,RUS,mercedes,63,11,80.383,80.757,,11.0,True,0.0,11,4,4,True,Finished,12.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,bottas,BOT,alfa,77,8,80.419,80.19200000000001,90.439,7.0,True,2.0,7,5,5,True,Finished,10.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,leclerc,LEC,ferrari,16,2,78.79599999999999,79.584,88.77799999999999,2.0,True,7.0,2,6,6,True,Finished,8.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,tsunoda,TSU,alphatauri,22,16,80.474,,,12.0,True,0.0,12,7,7,True,Finished,6.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,vettel,VET,aston_martin,5,9,80.364,79.957,91.062,13.0,True,0.0,13,8,8,True,Finished,4.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,kevin_magnussen,MAG,haas,20,4,80.14699999999999,79.902,89.164,8.0,True,1.0,8,9,9,True,Finished,2.0,63
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,stroll,STR,aston_martin,18,15,80.342,88.119,,15.0,True,0.0,15,10,10,True,+1 Lap,1.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,albon,ALB,williams,23,20,,,,18.0,True,0.0,18,11,11,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,gasly,GAS,alphatauri,10,17,80.732,,,17.0,True,0.0,17,12,12,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,hamilton,HAM,mercedes,44,13,80.47,81.138,,14.0,True,0.0,14,13,13,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,ocon,OCO,alpine,31,19,82.338,,,16.0,True,0.0,16,14,14,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,zhou,ZHO,alfa,24,14,79.73,81.434,,20.0,False,0.0,0,15,15,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,latifi,LAT,williams,6,18,81.971,,,19.0,True,0.0,19,16,16,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,mick_schumacher,MSC,haas,47,12,80.422,80.916,,10.0,True,0.0,10,17,17,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,ricciardo,RIC,mclaren,3,6,79.98,80.031,89.742,6.0,True,3.0,6,18,18,True,+1 Lap,0.0,62
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,alonso,ALO,alpine,14,5,80.19800000000001,79.595,89.202,9.0,True,0.0,9,19,R,False,Collision damage,0.0,6
+2022,4,Emilia Romagna Grand Prix,2022-04-24,imola,sprint,sainz,SAI,ferrari,55,10,79.305,78.99,,4.0,True,5.0,4,20,R,False,Collision,0.0,0
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,max_verstappen,VER,red_bull,1,3,89.836,89.202,88.991,,,0.0,3,1,1,True,Finished,26.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,leclerc,LEC,ferrari,16,1,89.474,89.13,88.79599999999999,,,0.0,1,2,2,True,Finished,18.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,sainz,SAI,ferrari,55,2,90.07900000000001,89.729,88.986,,,0.0,2,3,3,True,Finished,15.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,perez,PER,red_bull,11,4,90.055,89.673,89.036,,,0.0,4,4,4,True,Finished,12.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,russell,RUS,mercedes,63,12,90.49,90.173,,,,0.0,12,5,5,True,Finished,10.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,hamilton,HAM,mercedes,44,6,90.388,89.797,89.625,,,0.0,6,6,6,True,Finished,8.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,bottas,BOT,alfa,77,5,90.845,89.751,89.475,,,0.0,5,7,7,True,Finished,6.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,ocon,OCO,alpine,31,20,,,,,,0.0,20,8,8,True,Finished,4.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,albon,ALB,williams,23,18,91.26599999999999,,,,,0.0,18,9,9,True,Finished,2.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,stroll,STR,aston_martin,18,10,90.441,89.996,90.676,,,0.0,0,10,10,True,Finished,1.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,alonso,ALO,alpine,14,11,90.407,90.16,,,,0.0,11,11,11,True,Finished,0.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,tsunoda,TSU,alphatauri,22,9,90.485,90.031,89.932,,,0.0,9,12,12,True,Finished,0.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,ricciardo,RIC,mclaren,3,14,90.583,90.31,,,,0.0,14,13,13,True,Finished,0.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,latifi,LAT,williams,6,19,91.325,,,,,0.0,19,14,14,True,Finished,0.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,mick_schumacher,MSC,haas,47,15,90.645,90.423,,,,0.0,15,15,15,True,Finished,0.0,57
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,kevin_magnussen,MAG,haas,20,16,90.975,,,,,0.0,16,16,16,True,Front wing,0.0,56
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,vettel,VET,aston_martin,5,13,90.67699999999999,90.214,,,,0.0,0,17,17,True,Collision,0.0,54
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,gasly,GAS,alphatauri,10,7,90.779,90.128,89.69,,,0.0,7,18,R,False,Suspension,0.0,45
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,norris,NOR,mclaren,4,8,90.761,89.634,89.75,,,0.0,8,19,R,False,Collision,0.0,39
+2022,5,Miami Grand Prix,2022-05-08,miami,conventional,zhou,ZHO,alfa,24,17,91.02,,,,,0.0,17,20,R,False,Water leak,0.0,6
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,max_verstappen,VER,red_bull,1,2,80.09100000000001,79.219,79.07300000000001,,,0.0,2,1,1,True,Finished,25.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,perez,PER,red_bull,11,5,80.447,79.83,79.42,,,0.0,5,2,2,True,Finished,19.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,russell,RUS,mercedes,63,4,80.218,79.47,79.393,,,0.0,4,3,3,True,Finished,15.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,sainz,SAI,ferrari,55,3,79.892,79.453,79.166,,,0.0,3,4,4,True,Finished,12.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,hamilton,HAM,mercedes,44,6,80.252,79.794,79.512,,,0.0,6,5,5,True,Finished,10.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,bottas,BOT,alfa,77,7,80.355,80.053,79.608,,,0.0,7,6,6,True,Finished,8.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,ocon,OCO,alpine,31,12,80.88,80.638,,,,0.0,12,7,7,True,Finished,6.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,norris,NOR,mclaren,4,11,80.838,80.471,,,,0.0,11,8,8,True,Finished,4.0,66
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,alonso,ALO,alpine,14,17,81.043,,,,,0.0,20,9,9,True,+1 Lap,2.0,65
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,tsunoda,TSU,alphatauri,22,13,80.707,80.639,,,,0.0,13,10,10,True,+1 Lap,1.0,65
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,vettel,VET,aston_martin,5,16,80.95400000000001,,,,,0.0,16,11,11,True,+1 Lap,0.0,65
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,ricciardo,RIC,mclaren,3,9,80.549,80.287,80.297,,,0.0,9,12,12,True,+1 Lap,0.0,65
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,gasly,GAS,alphatauri,10,14,80.719,80.861,,,,0.0,14,13,13,True,+1 Lap,0.0,65
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,mick_schumacher,MSC,haas,47,10,80.68299999999999,80.436,80.368,,,0.0,10,14,14,True,+1 Lap,0.0,65
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,stroll,STR,aston_martin,18,18,81.418,,,,,0.0,17,15,15,True,+1 Lap,0.0,65
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,latifi,LAT,williams,6,20,81.91499999999999,,,,,0.0,19,16,16,True,+2 Laps,0.0,64
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,kevin_magnussen,MAG,haas,20,8,80.227,79.81,79.682,,,0.0,8,17,17,True,+2 Laps,0.0,64
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,albon,ALB,williams,23,19,81.645,,,,,0.0,18,18,18,True,+2 Laps,0.0,64
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,zhou,ZHO,alfa,24,15,80.476,81.094,,,,0.0,15,19,R,False,Power loss,0.0,28
+2022,6,Spanish Grand Prix,2022-05-22,catalunya,conventional,leclerc,LEC,ferrari,16,1,79.861,79.969,78.75,,,0.0,1,20,R,False,Turbo,0.0,27
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,perez,PER,red_bull,11,3,73.004,71.95400000000001,71.629,,,0.0,3,1,1,True,Finished,25.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,sainz,SAI,ferrari,55,2,72.616,72.074,71.601,,,0.0,2,2,2,True,Finished,18.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,max_verstappen,VER,red_bull,1,4,72.993,72.117,71.666,,,0.0,4,3,3,True,Finished,15.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,leclerc,LEC,ferrari,16,1,72.569,71.864,71.376,,,0.0,1,4,4,True,Finished,12.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,russell,RUS,mercedes,63,6,72.787,72.617,72.112,,,0.0,6,5,5,True,Finished,10.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,norris,NOR,mclaren,4,5,72.92699999999999,72.266,71.849,,,0.0,5,6,6,True,Finished,9.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,alonso,ALO,alpine,14,7,73.394,72.688,72.247,,,0.0,7,7,7,True,Finished,6.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,hamilton,HAM,mercedes,44,8,73.444,72.595,72.56,,,0.0,8,8,8,True,Finished,4.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,bottas,BOT,alfa,77,12,73.541,72.909,,,,0.0,12,9,9,True,Finished,2.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,vettel,VET,aston_martin,5,9,73.313,72.613,72.732,,,0.0,9,10,10,True,Finished,1.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,gasly,GAS,alphatauri,10,17,73.66,,,,,0.0,17,11,11,True,Finished,0.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,ocon,OCO,alpine,31,10,72.848,72.528,73.047,,,0.0,10,12,12,True,Finished,0.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,ricciardo,RIC,mclaren,3,14,73.338,72.964,,,,0.0,14,13,13,True,Finished,0.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,stroll,STR,aston_martin,18,18,73.678,,,,,0.0,18,14,14,True,Finished,0.0,64
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,latifi,LAT,williams,6,19,74.403,,,,,0.0,19,15,15,True,+1 Lap,0.0,63
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,zhou,ZHO,alfa,24,20,75.606,,,,,0.0,20,16,16,True,+1 Lap,0.0,63
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,tsunoda,TSU,alphatauri,22,11,73.11,72.797,,,,0.0,11,17,17,True,+1 Lap,0.0,63
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,albon,ALB,williams,23,16,73.611,,,,,0.0,16,18,R,False,Mechanical,0.0,48
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,mick_schumacher,MSC,haas,47,15,73.469,73.081,,,,0.0,15,19,R,False,Accident,0.0,24
+2022,7,Monaco Grand Prix,2022-05-29,monaco,conventional,kevin_magnussen,MAG,haas,20,13,73.069,72.92099999999999,,,,0.0,13,20,R,False,Water pressure,0.0,19
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,max_verstappen,VER,red_bull,1,3,102.72200000000001,102.227,101.706,,,0.0,3,1,1,True,Finished,25.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,perez,PER,red_bull,11,2,102.733,101.955,101.64099999999999,,,0.0,2,2,2,True,Finished,19.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,russell,RUS,mercedes,63,5,103.75399999999999,103.281,102.712,,,0.0,5,3,3,True,Finished,15.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,hamilton,HAM,mercedes,44,7,103.939,103.182,102.924,,,0.0,7,4,4,True,Finished,12.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,gasly,GAS,alphatauri,10,6,103.268,103.12899999999999,102.845,,,0.0,6,5,5,True,Finished,10.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,vettel,VET,aston_martin,5,9,103.279,103.268,103.09100000000001,,,0.0,9,6,6,True,Finished,8.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,alonso,ALO,alpine,14,10,104.083,103.36,103.173,,,0.0,10,7,7,True,Finished,6.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,ricciardo,RIC,mclaren,3,12,104.437,103.574,,,,0.0,12,8,8,True,Finished,4.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,norris,NOR,mclaren,4,11,104.237,103.398,,,,0.0,11,9,9,True,Finished,2.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,ocon,OCO,alpine,31,13,103.90299999999999,103.58500000000001,,,,0.0,13,10,10,True,Finished,1.0,51
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,bottas,BOT,alfa,77,15,104.47800000000001,104.444,,,,0.0,15,11,11,True,+1 Lap,0.0,50
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,albon,ALB,williams,23,17,104.719,,,,,0.0,17,12,12,True,+1 Lap,0.0,50
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,tsunoda,TSU,alphatauri,22,8,103.595,103.376,103.056,,,0.0,8,13,13,True,+1 Lap,0.0,50
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,mick_schumacher,MSC,haas,47,20,105.775,,,,,0.0,20,14,14,True,+1 Lap,0.0,50
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,latifi,LAT,williams,6,18,105.36699999999999,,,,,0.0,18,15,15,True,+1 Lap,0.0,50
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,stroll,STR,aston_martin,18,19,105.37100000000001,,,,,0.0,19,16,16,True,Vibrations,0.0,46
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,kevin_magnussen,MAG,haas,20,16,104.643,,,,,0.0,16,17,R,False,Power Unit,0.0,31
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,zhou,ZHO,alfa,24,14,103.777,103.78999999999999,,,,0.0,14,18,R,False,Hydraulics,0.0,23
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,leclerc,LEC,ferrari,16,1,102.86500000000001,102.04599999999999,101.35900000000001,,,0.0,1,19,R,False,Power Unit,0.0,21
+2022,8,Azerbaijan Grand Prix,2022-06-12,baku,conventional,sainz,SAI,ferrari,55,4,102.957,102.088,101.814,,,0.0,4,20,R,False,Hydraulics,0.0,8
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,max_verstappen,VER,red_bull,1,1,92.219,83.746,81.299,,,0.0,1,1,1,True,Finished,25.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,sainz,SAI,ferrari,55,3,92.781,85.197,82.096,,,0.0,3,2,2,True,Finished,19.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,hamilton,HAM,mercedes,44,4,93.84100000000001,85.543,82.89099999999999,,,0.0,4,3,3,True,Finished,15.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,russell,RUS,mercedes,63,8,93.16,84.95,83.557,,,0.0,8,4,4,True,Finished,12.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,leclerc,LEC,ferrari,16,15,93.00800000000001,,,,,0.0,19,5,5,True,Finished,10.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,ocon,OCO,alpine,31,7,93.012,86.135,83.529,,,0.0,7,6,6,True,Finished,8.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,bottas,BOT,alfa,77,11,93.689,86.788,,,,0.0,11,7,7,True,Finished,6.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,zhou,ZHO,alfa,24,10,93.69200000000001,86.116,84.03,,,0.0,10,8,8,True,Finished,4.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,alonso,ALO,alpine,14,2,92.277,84.848,81.944,,,0.0,2,9,9,True,Finished,2.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,stroll,STR,aston_martin,18,18,95.532,,,,,0.0,17,10,10,True,Finished,1.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,ricciardo,RIC,mclaren,3,9,93.636,86.375,83.749,,,0.0,9,11,11,True,Finished,0.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,vettel,VET,aston_martin,5,17,94.512,,,,,0.0,16,12,12,True,Finished,0.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,albon,ALB,williams,23,12,94.047,86.858,,,,0.0,12,13,13,True,Finished,0.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,gasly,GAS,alphatauri,10,16,94.49199999999999,,,,,0.0,15,14,14,True,Finished,0.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,norris,NOR,mclaren,4,14,94.066,,,,,0.0,14,15,15,True,Finished,0.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,latifi,LAT,williams,6,19,95.66,,,,,0.0,18,16,16,True,Finished,0.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,kevin_magnussen,MAG,haas,20,5,92.957,86.254,82.96000000000001,,,0.0,5,17,17,True,Finished,0.0,70
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,tsunoda,TSU,alphatauri,22,20,96.575,,,,,0.0,20,18,R,False,Accident,0.0,47
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,mick_schumacher,MSC,haas,47,6,93.707,85.684,83.356,,,0.0,6,19,R,False,Engine,0.0,18
+2022,9,Canadian Grand Prix,2022-06-19,villeneuve,conventional,perez,PER,red_bull,11,13,93.929,93.12700000000001,,,,0.0,13,20,R,False,Gearbox,0.0,7
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,sainz,SAI,ferrari,55,1,100.19,101.602,100.983,,,0.0,1,1,1,True,Finished,25.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,perez,PER,red_bull,11,4,100.521,102.513,101.616,,,0.0,4,2,2,True,Finished,18.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,hamilton,HAM,mercedes,44,5,100.428,101.062,101.995,,,0.0,5,3,3,True,Finished,16.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,leclerc,LEC,ferrari,16,3,99.846,101.247,101.298,,,0.0,3,4,4,True,Finished,12.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,alonso,ALO,alpine,14,7,101.598,102.209,102.116,,,0.0,7,5,5,True,Finished,10.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,norris,NOR,mclaren,4,6,101.515,101.821,102.084,,,0.0,6,6,6,True,Finished,8.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,max_verstappen,VER,red_bull,1,2,99.12899999999999,100.655,101.055,,,0.0,2,7,7,True,Finished,6.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,mick_schumacher,MSC,haas,47,19,102.708,,,,,0.0,19,8,8,True,Finished,4.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,vettel,VET,aston_martin,5,18,102.666,,,,,0.0,18,9,9,True,Finished,2.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,kevin_magnussen,MAG,haas,20,17,102.15899999999999,,,,,0.0,17,10,10,True,Finished,1.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,stroll,STR,aston_martin,18,20,103.43,,,,,0.0,20,11,11,True,Finished,0.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,latifi,LAT,williams,6,10,101.99799999999999,103.273,123.095,,,0.0,10,12,12,True,Finished,0.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,ricciardo,RIC,mclaren,3,14,101.93299999999999,104.35499999999999,,,,0.0,14,13,13,True,Finished,0.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,tsunoda,TSU,alphatauri,22,13,101.893,104.311,,,,0.0,13,14,14,True,Finished,0.0,52
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,ocon,OCO,alpine,31,15,101.72999999999999,105.19,,,,0.0,15,15,R,False,Fuel pump,0.0,37
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,gasly,GAS,alphatauri,10,11,101.68,103.702,,,,0.0,11,16,R,False,Collision damage,0.0,26
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,bottas,BOT,alfa,77,12,101.396,104.232,,,,0.0,12,17,R,False,Gearbox,0.0,20
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,russell,RUS,mercedes,63,8,100.02799999999999,101.725,102.161,,,0.0,8,18,R,False,Collision,0.0,0
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,zhou,ZHO,alfa,24,9,100.791,102.64,102.719,,,0.0,9,19,R,False,Collision,0.0,0
+2022,10,British Grand Prix,2022-07-03,silverstone,conventional,albon,ALB,williams,23,16,102.078,,,,,0.0,16,20,R,False,Collision,0.0,0
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,leclerc,LEC,ferrari,16,2,65.419,65.287,65.013,2.0,True,7.0,2,1,1,True,Finished,25.0,71
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,max_verstappen,VER,red_bull,1,1,65.852,65.374,64.984,1.0,True,8.0,1,2,2,True,Finished,19.0,71
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,hamilton,HAM,mercedes,44,9,66.079,65.475,73.151,8.0,True,1.0,8,3,3,True,Finished,15.0,71
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,russell,RUS,mercedes,63,4,66.235,65.697,65.431,4.0,True,5.0,4,4,4,True,Finished,12.0,71
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,ocon,OCO,alpine,31,5,66.468,65.993,65.726,6.0,True,3.0,6,5,5,True,Finished,10.0,71
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,mick_schumacher,MSC,haas,47,7,66.405,66.151,66.011,9.0,True,0.0,9,6,6,True,+1 Lap,8.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,norris,NOR,mclaren,4,15,66.33,85.84700000000001,,11.0,True,0.0,10,7,7,True,+1 Lap,6.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,kevin_magnussen,MAG,haas,20,6,66.366,65.894,65.879,7.0,True,2.0,7,8,8,True,+1 Lap,4.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,ricciardo,RIC,mclaren,3,16,66.613,,,12.0,True,0.0,11,9,9,True,+1 Lap,2.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,alonso,ALO,alpine,14,8,66.016,66.082,66.103,20.0,False,0.0,19,10,10,True,+1 Lap,1.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,bottas,BOT,alfa,77,12,66.44200000000001,66.319,,10.0,True,0.0,0,11,11,True,+1 Lap,0.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,albon,ALB,williams,23,11,66.516,66.23,,16.0,True,0.0,15,12,12,True,+1 Lap,0.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,stroll,STR,aston_martin,18,17,66.847,,,13.0,True,0.0,12,13,13,True,+1 Lap,0.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,zhou,ZHO,alfa,24,18,66.901,,,14.0,True,0.0,13,14,14,True,+1 Lap,0.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,gasly,GAS,alphatauri,10,10,66.589,66.16,,15.0,True,0.0,14,15,15,True,+1 Lap,0.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,tsunoda,TSU,alphatauri,22,14,66.463,66.851,,17.0,True,0.0,16,16,16,True,+1 Lap,0.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,vettel,VET,aston_martin,5,20,67.083,,,19.0,True,0.0,18,17,17,True,+1 Lap,0.0,70
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,sainz,SAI,ferrari,55,3,65.66,65.576,65.066,3.0,True,6.0,3,18,R,False,Power Unit,0.0,56
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,latifi,LAT,williams,6,19,67.003,,,18.0,True,0.0,17,19,R,False,Undertray,0.0,48
+2022,11,Austrian Grand Prix,2022-07-10,red_bull_ring,sprint,perez,PER,red_bull,11,13,66.143,66.458,,5.0,True,4.0,5,20,R,False,Collision damage,0.0,24
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,max_verstappen,VER,red_bull,1,2,91.89099999999999,91.99,91.176,,,0.0,2,1,1,True,Finished,25.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,hamilton,HAM,mercedes,44,4,93.041,92.274,91.765,,,0.0,4,2,2,True,Finished,18.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,russell,RUS,mercedes,63,6,93.10900000000001,92.63300000000001,92.131,,,0.0,6,3,3,True,Finished,15.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,perez,PER,red_bull,11,3,92.354,92.12,91.33500000000001,,,0.0,3,4,4,True,Finished,12.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,sainz,SAI,ferrari,55,9,92.297,91.081,,,,0.0,19,5,5,True,Finished,11.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,alonso,ALO,alpine,14,7,92.819,92.631,92.55199999999999,,,0.0,7,6,6,True,Finished,8.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,norris,NOR,mclaren,4,5,92.672,92.777,92.032,,,0.0,5,7,7,True,Finished,6.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,ocon,OCO,alpine,31,12,93.346,93.048,,,,0.0,10,8,8,True,Finished,4.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,ricciardo,RIC,mclaren,3,11,93.404,92.922,,,,0.0,9,9,9,True,Finished,2.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,stroll,STR,aston_martin,18,17,93.439,,,,,0.0,15,10,10,True,Finished,1.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,vettel,VET,aston_martin,5,14,93.285,93.27600000000001,,,,0.0,12,11,11,True,Finished,0.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,gasly,GAS,alphatauri,10,16,93.439,,,,,0.0,14,12,12,True,Finished,0.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,albon,ALB,williams,23,15,93.423,93.307,,,,0.0,13,13,13,True,Finished,0.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,bottas,BOT,alfa,77,13,93.03399999999999,93.05199999999999,,,,0.0,11,14,14,True,Finished,0.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,mick_schumacher,MSC,haas,47,19,93.701,,,,,0.0,17,15,15,True,Finished,0.0,53
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,zhou,ZHO,alfa,24,18,93.674,,,,,0.0,16,16,16,True,+6 Laps,0.0,47
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,latifi,LAT,williams,6,20,93.794,,,,,0.0,18,17,R,False,Collision damage,0.0,40
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,kevin_magnussen,MAG,haas,20,10,92.756,92.649,,,,0.0,20,18,R,False,Collision damage,0.0,37
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,leclerc,LEC,ferrari,16,1,91.727,91.21600000000001,90.872,,,0.0,1,19,R,False,Accident,0.0,17
+2022,12,French Grand Prix,2022-07-24,ricard,conventional,tsunoda,TSU,alphatauri,22,8,93.394,92.836,92.78,,,0.0,8,20,R,False,Undertray,0.0,17
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,max_verstappen,VER,red_bull,1,10,78.509,77.703,78.82300000000001,,,0.0,10,1,1,True,Finished,25.0,70
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,hamilton,HAM,mercedes,44,7,78.374,78.035,78.142,,,0.0,7,2,2,True,Finished,19.0,70
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,russell,RUS,mercedes,63,1,78.407,78.154,77.377,,,0.0,1,3,3,True,Finished,15.0,70
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,sainz,SAI,ferrari,55,2,78.434,77.946,77.42099999999999,,,0.0,2,4,4,True,Finished,12.0,70
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,perez,PER,red_bull,11,11,79.118,78.51599999999999,,,,0.0,11,5,5,True,Finished,10.0,70
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,leclerc,LEC,ferrari,16,3,78.806,77.768,77.56700000000001,,,0.0,3,6,6,True,Finished,8.0,70
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,norris,NOR,mclaren,4,4,78.65299999999999,78.121,77.769,,,0.0,4,7,7,True,Finished,6.0,70
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,alonso,ALO,alpine,14,6,78.71600000000001,77.904,78.078,,,0.0,6,8,8,True,+1 Lap,4.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,ocon,OCO,alpine,31,5,78.866,78.21600000000001,78.018,,,0.0,5,9,9,True,+1 Lap,2.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,vettel,VET,aston_martin,5,18,79.273,,,,,0.0,18,10,10,True,+1 Lap,1.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,stroll,STR,aston_martin,18,14,79.205,79.137,,,,0.0,14,11,11,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,gasly,GAS,alphatauri,10,19,79.527,,,,,0.0,0,12,12,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,zhou,ZHO,alfa,24,12,78.973,78.57300000000001,,,,0.0,12,13,13,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,mick_schumacher,MSC,haas,47,15,79.164,79.202,,,,0.0,15,14,14,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,ricciardo,RIC,mclaren,3,9,78.775,78.19800000000001,78.379,,,0.0,9,15,15,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,kevin_magnussen,MAG,haas,20,13,78.993,78.825,,,,0.0,13,16,16,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,albon,ALB,williams,23,17,79.256,,,,,0.0,17,17,17,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,latifi,LAT,williams,6,20,79.57,,,,,0.0,19,18,18,True,+1 Lap,0.0,69
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,tsunoda,TSU,alphatauri,22,16,79.24,,,,,0.0,16,19,19,True,+2 Laps,0.0,68
+2022,13,Hungarian Grand Prix,2022-07-31,hungaroring,conventional,bottas,BOT,alfa,77,8,78.935,78.445,78.157,,,0.0,8,20,20,True,Power Unit,0.0,65
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,max_verstappen,VER,red_bull,1,1,104.581,104.723,103.66499999999999,,,0.0,14,1,1,True,Finished,26.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,perez,PER,red_bull,11,3,105.37700000000001,104.794,104.462,,,0.0,2,2,2,True,Finished,18.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,sainz,SAI,ferrari,55,2,105.05,105.418,104.297,,,0.0,1,3,3,True,Finished,15.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,russell,RUS,mercedes,63,8,105.65,105.461,105.77600000000001,,,0.0,5,4,4,True,Finished,12.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,alonso,ALO,alpine,14,6,106.075,105.55199999999999,105.368,,,0.0,3,5,5,True,Finished,10.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,leclerc,LEC,ferrari,16,4,105.572,104.551,104.553,,,0.0,15,6,6,True,Finished,8.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,ocon,OCO,alpine,31,5,106.039,105.475,105.18,,,0.0,16,7,7,True,Finished,6.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,vettel,VET,aston_martin,5,16,106.344,,,,,0.0,10,8,8,True,Finished,4.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,gasly,GAS,alphatauri,10,12,106.18299999999999,105.827,,,,0.0,0,9,9,True,Finished,2.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,albon,ALB,williams,23,9,105.672,105.675,105.837,,,0.0,6,10,10,True,Finished,1.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,stroll,STR,aston_martin,18,14,106.256,106.61099999999999,,,,0.0,9,11,11,True,Finished,0.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,norris,NOR,mclaren,4,10,105.745,105.60300000000001,106.178,,,0.0,17,12,12,True,Finished,0.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,tsunoda,TSU,alphatauri,22,19,106.69200000000001,,,,,0.0,0,13,13,True,Finished,0.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,zhou,ZHO,alfa,24,13,106.178,106.08500000000001,,,,0.0,18,14,14,True,Finished,0.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,ricciardo,RIC,mclaren,3,11,106.212,105.767,,,,0.0,7,15,15,True,Finished,0.0,44
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,kevin_magnussen,MAG,haas,20,18,106.557,,,,,0.0,12,16,16,True,+1 Lap,0.0,43
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,mick_schumacher,MSC,haas,47,15,106.342,107.718,,,,0.0,19,17,17,True,+1 Lap,0.0,43
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,latifi,LAT,williams,6,17,106.40100000000001,,,,,0.0,11,18,18,True,+1 Lap,0.0,43
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,bottas,BOT,alfa,77,20,107.866,,,,,0.0,13,19,R,False,Accident,0.0,1
+2022,14,Belgian Grand Prix,2022-08-28,spa,conventional,hamilton,HAM,mercedes,44,7,105.73599999999999,105.42,105.503,,,0.0,4,20,R,False,Collision damage,0.0,0
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,max_verstappen,VER,red_bull,1,1,71.31700000000001,70.92699999999999,70.342,,,0.0,1,1,1,True,Finished,26.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,russell,RUS,mercedes,63,6,71.561,70.824,71.147,,,0.0,6,2,2,True,Finished,18.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,leclerc,LEC,ferrari,16,2,71.443,70.988,70.363,,,0.0,2,3,3,True,Finished,15.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,hamilton,HAM,mercedes,44,4,71.331,71.075,70.648,,,0.0,4,4,4,True,Finished,12.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,perez,PER,red_bull,11,5,71.641,71.314,71.077,,,0.0,5,5,5,True,Finished,10.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,alonso,ALO,alpine,14,13,71.667,71.613,,,,0.0,13,6,6,True,Finished,8.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,norris,NOR,mclaren,4,7,71.556,71.116,71.174,,,0.0,7,7,7,True,Finished,6.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,sainz,SAI,ferrari,55,3,71.767,70.814,70.434,,,0.0,3,8,8,True,Finished,4.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,ocon,OCO,alpine,31,12,71.748,71.605,,,,0.0,12,9,9,True,Finished,2.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,stroll,STR,aston_martin,18,10,71.568,71.416,,,,0.0,10,10,10,True,Finished,1.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,gasly,GAS,alphatauri,10,11,71.705,71.512,,,,0.0,11,11,11,True,Finished,0.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,albon,ALB,williams,23,15,71.695,71.80199999999999,,,,0.0,15,12,12,True,Finished,0.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,mick_schumacher,MSC,haas,47,8,71.741,71.42,71.44200000000001,,,0.0,8,13,13,True,Finished,0.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,vettel,VET,aston_martin,5,19,72.391,,,,,0.0,19,14,14,True,Finished,0.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,kevin_magnussen,MAG,haas,20,18,72.319,,,,,0.0,18,15,15,True,Finished,0.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,zhou,ZHO,alfa,24,14,71.826,71.70400000000001,,,,0.0,14,16,16,True,Finished,0.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,ricciardo,RIC,mclaren,3,17,72.081,,,,,0.0,17,17,17,True,Finished,0.0,72
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,latifi,LAT,williams,6,20,73.353,,,,,0.0,20,18,18,True,+1 Lap,0.0,71
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,bottas,BOT,alfa,77,16,71.961,,,,,0.0,16,19,R,False,Engine,0.0,53
+2022,15,Dutch Grand Prix,2022-09-04,zandvoort,conventional,tsunoda,TSU,alphatauri,22,9,71.42699999999999,71.428,72.556,,,0.0,9,20,R,False,Differential,0.0,43
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,max_verstappen,VER,red_bull,1,2,80.922,81.265,80.306,,,0.0,7,1,1,True,Finished,25.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,leclerc,LEC,ferrari,16,1,81.28,81.208,80.161,,,0.0,1,2,2,True,Finished,18.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,russell,RUS,mercedes,63,6,81.785,81.747,81.542,,,0.0,2,3,3,True,Finished,15.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,sainz,SAI,ferrari,55,3,81.348,80.878,80.429,,,0.0,18,4,4,True,Finished,12.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,hamilton,HAM,mercedes,44,5,82.048,81.708,81.524,,,0.0,19,5,5,True,Finished,10.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,perez,PER,red_bull,11,4,81.495,81.358,81.206,,,0.0,13,6,6,True,Finished,9.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,norris,NOR,mclaren,4,7,82.13,81.831,81.584,,,0.0,3,7,7,True,Finished,6.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,gasly,GAS,alphatauri,10,9,82.01,82.062,82.648,,,0.0,5,8,8,True,Finished,4.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,de_vries,DEV,williams,45,13,82.56700000000001,82.471,,,,0.0,8,9,9,True,Finished,2.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,zhou,ZHO,alfa,24,14,82.003,82.577,,,,0.0,9,10,10,True,Finished,1.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,ocon,OCO,alpine,31,11,82.166,82.13,,,,0.0,14,11,11,True,Finished,0.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,mick_schumacher,MSC,haas,47,20,83.005,,,,,0.0,17,12,12,True,Finished,0.0,53
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,bottas,BOT,alfa,77,12,82.254,82.235,,,,0.0,15,13,13,True,+1 Lap,0.0,52
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,tsunoda,TSU,alphatauri,22,15,82.02,,,,,0.0,20,14,14,True,+1 Lap,0.0,52
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,latifi,LAT,williams,6,16,82.587,,,,,0.0,10,15,15,True,+1 Lap,0.0,52
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,kevin_magnussen,MAG,haas,20,19,82.908,,,,,0.0,16,16,16,True,+1 Lap,0.0,52
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,ricciardo,RIC,mclaren,3,8,82.139,81.855,81.925,,,0.0,4,17,R,False,Oil leak,0.0,45
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,stroll,STR,aston_martin,18,18,82.748,,,,,0.0,12,18,R,False,Engine,0.0,39
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,alonso,ALO,alpine,14,10,82.089,81.861,,,,0.0,6,19,R,False,Water pressure,0.0,31
+2022,16,Italian Grand Prix,2022-09-11,monza,conventional,vettel,VET,aston_martin,5,17,82.636,,,,,0.0,11,20,R,False,Engine,0.0,10
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,perez,PER,red_bull,11,2,114.404,112.818,109.434,,,0.0,2,1,1,True,Finished,25.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,leclerc,LEC,ferrari,16,1,114.12899999999999,112.343,109.412,,,0.0,1,2,2,True,Finished,18.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,sainz,SAI,ferrari,55,4,114.559,113.219,109.583,,,0.0,4,3,3,True,Finished,15.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,norris,NOR,mclaren,4,6,115.914,113.94200000000001,110.584,,,0.0,6,4,4,True,Finished,12.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,ricciardo,RIC,mclaren,3,17,116.226,,,,,0.0,16,5,5,True,Finished,10.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,stroll,STR,aston_martin,18,12,115.62899999999999,114.211,,,,0.0,11,6,6,True,Finished,8.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,max_verstappen,VER,red_bull,1,8,113.057,112.723,111.39500000000001,,,0.0,8,7,7,True,Finished,6.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,vettel,VET,aston_martin,5,14,115.602,114.38,,,,0.0,13,8,8,True,Finished,4.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,hamilton,HAM,mercedes,44,3,113.161,112.691,109.46600000000001,,,0.0,3,9,9,True,Finished,2.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,gasly,GAS,alphatauri,10,7,115.606,113.54599999999999,111.211,,,0.0,7,10,10,True,Finished,1.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,bottas,BOT,alfa,77,16,116.083,,,,,0.0,15,11,11,True,Finished,0.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,kevin_magnussen,MAG,haas,20,9,115.10300000000001,114.006,111.57300000000001,,,0.0,9,12,12,True,Finished,0.0,59
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,mick_schumacher,MSC,haas,47,13,115.73599999999999,114.37,,,,0.0,12,13,13,True,+1 Lap,0.0,58
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,russell,RUS,mercedes,63,11,114.63300000000001,114.012,,,,0.0,0,14,14,True,+2 Laps,0.0,57
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,tsunoda,TSU,alphatauri,22,10,115.314,113.848,111.983,,,0.0,10,15,R,False,Accident,0.0,34
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,ocon,OCO,alpine,31,18,116.337,,,,,0.0,17,16,R,False,Engine,0.0,26
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,albon,ALB,williams,23,19,116.985,,,,,0.0,18,17,R,False,Collision damage,0.0,25
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,alonso,ALO,alpine,14,5,115.36,113.12700000000001,109.96600000000001,,,0.0,5,18,R,False,Engine,0.0,20
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,latifi,LAT,williams,6,20,117.532,,,,,0.0,19,19,R,False,Collision damage,0.0,7
+2022,17,Singapore Grand Prix,2022-10-02,marina_bay,conventional,zhou,ZHO,alfa,24,15,115.375,115.518,,,,0.0,14,20,R,False,Collision,0.0,6
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,max_verstappen,VER,red_bull,1,1,90.224,90.346,89.304,,,0.0,1,1,1,True,Finished,25.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,perez,PER,red_bull,11,4,90.622,89.925,89.709,,,0.0,4,2,2,True,Finished,18.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,leclerc,LEC,ferrari,16,2,90.402,90.486,89.314,,,0.0,2,3,3,True,Finished,15.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,ocon,OCO,alpine,31,5,90.696,90.357,90.16499999999999,,,0.0,5,4,4,True,Finished,12.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,hamilton,HAM,mercedes,44,6,90.906,90.443,90.261,,,0.0,6,5,5,True,Finished,10.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,vettel,VET,aston_martin,5,9,91.256,90.656,90.554,,,0.0,9,6,6,True,Finished,8.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,alonso,ALO,alpine,14,7,90.60300000000001,90.343,90.322,,,0.0,7,7,7,True,Finished,6.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,russell,RUS,mercedes,63,8,90.865,90.465,90.389,,,0.0,8,8,8,True,Finished,4.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,latifi,LAT,williams,6,20,91.511,,,,,0.0,20,9,9,True,Finished,2.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,norris,NOR,mclaren,4,10,90.881,90.473,91.003,,,0.0,10,10,10,True,Finished,1.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,ricciardo,RIC,mclaren,3,11,90.88,90.65899999999999,,,,0.0,11,11,11,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,stroll,STR,aston_martin,18,19,91.419,,,,,0.0,19,12,12,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,tsunoda,TSU,alphatauri,22,13,91.13,90.80799999999999,,,,0.0,13,13,13,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,kevin_magnussen,MAG,haas,20,18,91.352,,,,,0.0,18,14,14,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,bottas,BOT,alfa,77,12,91.226,90.709,,,,0.0,12,15,15,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,zhou,ZHO,alfa,24,14,90.894,90.953,,,,0.0,14,16,16,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,mick_schumacher,MSC,haas,47,15,91.152,91.439,,,,0.0,15,17,17,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,gasly,GAS,alphatauri,10,17,91.322,,,,,0.0,17,18,18,True,Finished,0.0,28
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,sainz,SAI,ferrari,55,3,90.336,90.444,89.361,,,0.0,3,19,R,False,Accident,0.0,0
+2022,18,Japanese Grand Prix,2022-10-09,suzuka,conventional,albon,ALB,williams,23,16,91.311,,,,,0.0,16,20,R,False,Hydraulics,0.0,0
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,max_verstappen,VER,red_bull,1,3,95.864,95.294,94.44800000000001,,,0.0,2,1,1,True,Finished,25.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,hamilton,HAM,mercedes,44,5,96.148,95.732,94.947,,,0.0,3,2,2,True,Finished,18.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,leclerc,LEC,ferrari,16,2,95.795,95.24600000000001,94.42099999999999,,,0.0,12,3,3,True,Finished,15.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,perez,PER,red_bull,11,4,96.163,95.864,94.64500000000001,,,0.0,9,4,4,True,Finished,12.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,russell,RUS,mercedes,63,6,96.195,95.69200000000001,94.988,,,0.0,4,5,5,True,Finished,11.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,norris,NOR,mclaren,4,8,96.465,96.34100000000001,95.69,,,0.0,6,6,6,True,Finished,8.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,alonso,ALO,alpine,14,9,96.446,95.988,95.876,,,0.0,14,7,7,True,Finished,6.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,vettel,VET,aston_martin,5,12,96.695,96.398,,,,0.0,10,8,8,True,Finished,4.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,kevin_magnussen,MAG,haas,20,16,96.949,,,,,0.0,13,9,9,True,Finished,2.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,tsunoda,TSU,alphatauri,22,15,96.80799999999999,97.14699999999999,,,,0.0,19,10,10,True,Finished,1.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,ocon,OCO,alpine,31,18,97.068,,,,,0.0,0,11,11,True,Finished,0.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,zhou,ZHO,alfa,24,14,96.656,96.97,,,,0.0,18,12,12,True,Finished,0.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,albon,ALB,williams,23,11,96.932,96.368,,,,0.0,8,13,13,True,Finished,0.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,gasly,GAS,alphatauri,10,13,96.577,96.74000000000001,,,,0.0,11,14,14,True,Finished,0.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,mick_schumacher,MSC,haas,47,19,97.11099999999999,,,,,0.0,16,15,15,True,Finished,0.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,ricciardo,RIC,mclaren,3,17,97.04599999999999,,,,,0.0,15,16,16,True,Finished,0.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,latifi,LAT,williams,6,20,97.244,,,,,0.0,17,17,17,True,Finished,0.0,56
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,stroll,STR,aston_martin,18,7,96.86,96.032,95.598,,,0.0,5,18,R,False,Collision,0.0,21
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,bottas,BOT,alfa,77,10,96.74600000000001,96.321,96.319,,,0.0,7,19,R,False,Spun off,0.0,16
+2022,19,United States Grand Prix,2022-10-23,americas,conventional,sainz,SAI,ferrari,55,1,95.297,95.59,94.356,,,0.0,1,20,R,False,Collision damage,0.0,1
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,max_verstappen,VER,red_bull,1,1,79.22200000000001,78.566,77.775,,,0.0,1,1,1,True,Finished,25.0,71
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,hamilton,HAM,mercedes,44,3,79.169,78.55199999999999,78.084,,,0.0,3,2,2,True,Finished,18.0,71
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,perez,PER,red_bull,11,4,79.706,78.615,78.128,,,0.0,4,3,3,True,Finished,15.0,71
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,russell,RUS,mercedes,63,2,79.583,78.565,78.07900000000001,,,0.0,2,4,4,True,Finished,13.0,71
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,sainz,SAI,ferrari,55,5,79.566,78.56,78.351,,,0.0,5,5,5,True,Finished,10.0,71
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,leclerc,LEC,ferrari,16,7,79.505,79.10900000000001,78.555,,,0.0,7,6,6,True,Finished,8.0,71
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,ricciardo,RIC,mclaren,3,11,80.279,79.325,,,,0.0,11,7,7,True,+1 Lap,6.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,ocon,OCO,alpine,31,10,79.945,79.081,79.01,,,0.0,10,8,8,True,+1 Lap,4.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,norris,NOR,mclaren,4,8,79.857,79.119,78.721,,,0.0,8,9,9,True,+1 Lap,2.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,bottas,BOT,alfa,77,6,79.523,78.762,78.401,,,0.0,6,10,10,True,+1 Lap,1.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,gasly,GAS,alphatauri,10,14,80.256,79.672,,,,0.0,14,11,11,True,+1 Lap,0.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,albon,ALB,williams,23,19,80.85900000000001,,,,,0.0,17,12,12,True,+1 Lap,0.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,zhou,ZHO,alfa,24,12,80.283,79.476,,,,0.0,12,13,13,True,+1 Lap,0.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,vettel,VET,aston_martin,5,17,80.419,,,,,0.0,16,14,14,True,+1 Lap,0.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,stroll,STR,aston_martin,18,18,80.52,,,,,0.0,20,15,15,True,+1 Lap,0.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,mick_schumacher,MSC,haas,47,16,80.419,,,,,0.0,15,16,16,True,+1 Lap,0.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,kevin_magnussen,MAG,haas,20,15,80.293,79.833,,,,0.0,19,17,17,True,+1 Lap,0.0,70
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,latifi,LAT,williams,6,20,81.167,,,,,0.0,18,18,18,True,+2 Laps,0.0,69
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,alonso,ALO,alpine,14,9,80.006,79.27199999999999,78.939,,,0.0,9,19,19,True,Engine,0.0,63
+2022,20,Mexico City Grand Prix,2022-10-30,rodriguez,conventional,tsunoda,TSU,alphatauri,22,13,79.907,79.589,,,,0.0,13,20,R,False,Collision damage,0.0,50
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,russell,RUS,mercedes,63,3,74.42699999999999,71.318,72.059,1.0,True,8.0,1,1,1,True,Finished,26.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,hamilton,HAM,mercedes,44,8,73.403,71.539,72.611,3.0,True,6.0,2,2,2,True,Finished,18.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,sainz,SAI,ferrari,55,5,74.68,70.89,72.357,2.0,True,7.0,7,3,3,True,Finished,15.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,leclerc,LEC,ferrari,16,10,74.486,70.95,,6.0,True,3.0,5,4,4,True,Finished,12.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,alonso,ALO,alpine,14,7,73.542,71.394,72.504,18.0,True,0.0,17,5,5,True,Finished,10.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,max_verstappen,VER,red_bull,1,2,73.625,70.881,71.877,4.0,True,5.0,3,6,6,True,Finished,8.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,perez,PER,red_bull,11,9,73.613,71.456,75.601,5.0,True,4.0,4,7,7,True,Finished,6.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,ocon,OCO,alpine,31,6,74.663,71.587,72.425,17.0,True,0.0,16,8,8,True,Finished,4.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,bottas,BOT,alfa,77,18,75.486,,,14.0,True,0.0,14,9,9,True,Finished,2.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,stroll,STR,aston_martin,18,15,74.398,72.21000000000001,,16.0,True,0.0,15,10,10,True,Finished,1.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,vettel,VET,aston_martin,5,13,73.597,71.678,,9.0,True,0.0,9,11,11,True,Finished,0.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,zhou,ZHO,alfa,24,17,75.197,,,13.0,True,0.0,13,12,12,True,Finished,0.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,mick_schumacher,MSC,haas,47,20,76.361,,,12.0,True,0.0,12,13,13,True,Finished,0.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,gasly,GAS,alphatauri,10,12,74.371,71.675,,10.0,True,0.0,10,14,14,True,Finished,0.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,albon,ALB,williams,23,11,74.324,71.631,,20.0,False,0.0,19,15,15,True,Finished,0.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,latifi,LAT,williams,6,16,75.095,,,19.0,True,0.0,18,16,16,True,Finished,0.0,71
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,tsunoda,TSU,alphatauri,22,19,76.264,,,15.0,True,0.0,0,17,17,True,+1 Lap,0.0,70
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,norris,NOR,mclaren,4,4,73.106,71.377,72.263,7.0,True,2.0,6,18,R,False,Gearbox,0.0,50
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,kevin_magnussen,MAG,haas,20,1,73.95400000000001,71.41,71.674,8.0,True,1.0,8,19,R,False,Collision,0.0,0
+2022,21,São Paulo Grand Prix,2022-11-13,interlagos,sprint,ricciardo,RIC,mclaren,3,14,74.931,72.14,,11.0,True,0.0,11,20,R,False,Collision,0.0,0
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,max_verstappen,VER,red_bull,1,1,84.754,84.622,83.824,,,0.0,1,1,1,True,Finished,25.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,leclerc,LEC,ferrari,16,3,85.211,84.517,84.092,,,0.0,3,2,2,True,Finished,18.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,perez,PER,red_bull,11,2,84.82,84.419,84.05199999999999,,,0.0,2,3,3,True,Finished,15.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,sainz,SAI,ferrari,55,4,85.09,84.521,84.242,,,0.0,4,4,4,True,Finished,12.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,russell,RUS,mercedes,63,6,85.545,84.94,84.511,,,0.0,6,5,5,True,Finished,10.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,norris,NOR,mclaren,4,7,85.387,84.90299999999999,84.769,,,0.0,7,6,6,True,Finished,9.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,ocon,OCO,alpine,31,8,85.735,85.007,84.83,,,0.0,8,7,7,True,Finished,6.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,stroll,STR,aston_martin,18,14,85.741,85.35900000000001,,,,0.0,14,8,8,True,Finished,4.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,ricciardo,RIC,mclaren,3,10,85.76599999999999,85.068,85.045,,,0.0,13,9,9,True,Finished,2.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,vettel,VET,aston_martin,5,9,85.523,84.974,84.961,,,0.0,9,10,10,True,Finished,1.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,tsunoda,TSU,alphatauri,22,12,85.63,85.219,,,,0.0,11,11,11,True,Finished,0.0,58
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,zhou,ZHO,alfa,24,15,85.594,85.408,,,,0.0,15,12,12,True,+1 Lap,0.0,57
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,albon,ALB,williams,23,19,86.02799999999999,,,,,0.0,19,13,13,True,+1 Lap,0.0,57
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,gasly,GAS,alphatauri,10,17,85.85900000000001,,,,,0.0,17,14,14,True,+1 Lap,0.0,57
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,bottas,BOT,alfa,77,18,85.892,,,,,0.0,18,15,15,True,+1 Lap,0.0,57
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,mick_schumacher,MSC,haas,47,13,85.711,85.225,,,,0.0,12,16,16,True,+1 Lap,0.0,57
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,kevin_magnussen,MAG,haas,20,16,85.834,,,,,0.0,16,17,17,True,+1 Lap,0.0,57
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,hamilton,HAM,mercedes,44,5,85.594,84.774,84.508,,,0.0,5,18,18,True,Hydraulics,0.0,55
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,latifi,LAT,williams,6,20,86.054,,,,,0.0,20,19,19,True,Collision damage,0.0,55
+2022,22,Abu Dhabi Grand Prix,2022-11-20,yas_marina,conventional,alonso,ALO,alpine,14,11,85.782,85.096,,,,0.0,10,20,R,False,Water leak,0.0,27

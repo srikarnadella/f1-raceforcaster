@@ -1,0 +1,379 @@
+season,round,race_name,date,circuit_id,format,driver_id,code,constructor_id,number,quali_pos,q1,q2,q3,sprint_pos,sprint_classified,sprint_points,grid,position,position_text,classified,status,points,laps
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,hamilton,HAM,mercedes,44,1.0,88.586,86.894,86.327,,,0.0,1,1,1,True,Finished,25.0,58
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,rosberg,ROS,mercedes,6,2.0,88.906,87.09700000000001,86.92099999999999,,,0.0,2,2,2,True,Finished,18.0,58
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,vettel,VET,ferrari,5,4.0,89.307,87.742,87.757,,,0.0,4,3,3,True,Finished,15.0,58
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,massa,MAS,williams,19,3.0,89.246,87.895,87.718,,,0.0,3,4,4,True,Finished,12.0,58
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,nasr,NAS,sauber,12,11.0,90.43,88.8,,,,0.0,10,5,5,True,Finished,10.0,58
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,ricciardo,RIC,red_bull,3,7.0,89.788,88.679,88.32900000000001,,,0.0,6,6,6,True,+1 Lap,8.0,57
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,hulkenberg,HUL,force_india,27,14.0,89.651,89.208,,,,0.0,13,7,7,True,+1 Lap,6.0,57
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,ericsson,ERI,sauber,9,16.0,91.376,,,,,0.0,15,8,8,True,+1 Lap,4.0,57
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,sainz,SAI,toro_rosso,55,8.0,89.59700000000001,88.601,88.51,,,0.0,7,9,9,True,+1 Lap,2.0,57
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,perez,PER,force_india,11,15.0,89.99,89.209,,,,0.0,14,10,10,True,+1 Lap,1.0,57
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,button,BUT,mclaren,22,17.0,91.422,,,,,0.0,16,11,11,True,+2 Laps,0.0,56
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,raikkonen,RAI,ferrari,7,5.0,89.754,87.807,87.78999999999999,,,0.0,5,12,R,False,Wheel,0.0,40
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,max_verstappen,VER,toro_rosso,33,12.0,89.248,88.868,,,,0.0,11,13,R,False,Engine,0.0,32
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,grosjean,GRO,lotus_f1,8,9.0,89.537,88.589,88.56,,,0.0,8,14,R,False,Power loss,0.0,0
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,maldonado,MAL,lotus_f1,13,10.0,89.84700000000001,88.726,89.48,,,0.0,9,15,R,False,Accident,0.0,0
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,kvyat,KVY,red_bull,26,13.0,90.402,89.07,,,,0.0,12,16,W,False,Withdrew,0.0,0
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,kevin_magnussen,MAG,mclaren,20,18.0,92.037,,,,,0.0,17,17,W,False,Withdrew,0.0,0
+2015,1,Australian Grand Prix,2015-03-15,albert_park,conventional,bottas,BOT,williams,77,6.0,89.64099999999999,87.79599999999999,88.087,,,0.0,0,18,W,False,Withdrew,0.0,0
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,vettel,VET,ferrari,5,2.0,99.814,99.632,109.908,,,0.0,2,1,1,True,Finished,25.0,56
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,hamilton,HAM,mercedes,44,1.0,99.269,101.517,109.834,,,0.0,1,2,2,True,Finished,18.0,56
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,rosberg,ROS,mercedes,6,3.0,99.374,99.37700000000001,110.299,,,0.0,3,3,3,True,Finished,15.0,56
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,raikkonen,RAI,ferrari,7,11.0,100.41499999999999,102.173,,,,0.0,11,4,4,True,Finished,12.0,56
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,bottas,BOT,williams,77,9.0,100.249,100.65,113.179,,,0.0,8,5,5,True,Finished,10.0,56
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,massa,MAS,williams,19,7.0,100.543,101.22999999999999,112.473,,,0.0,7,6,6,True,Finished,8.0,56
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,max_verstappen,VER,toro_rosso,33,6.0,100.793,101.43,111.981,,,0.0,6,7,7,True,Finished,6.0,56
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,sainz,SAI,toro_rosso,55,15.0,99.814,103.701,,,,0.0,15,8,8,True,+1 Lap,4.0,55
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,kvyat,KVY,red_bull,26,5.0,100.54599999999999,101.66499999999999,111.951,,,0.0,5,9,9,True,+1 Lap,2.0,55
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,ricciardo,RIC,red_bull,3,4.0,100.50399999999999,101.08500000000001,111.541,,,0.0,4,10,10,True,+1 Lap,1.0,55
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,grosjean,GRO,lotus_f1,8,8.0,100.303,101.209,112.981,,,0.0,10,11,11,True,+1 Lap,0.0,55
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,nasr,NAS,sauber,12,16.0,101.30799999999999,,,,,0.0,16,12,12,True,+1 Lap,0.0,55
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,perez,PER,force_india,11,14.0,101.036,103.469,,,,0.0,14,13,13,True,+1 Lap,0.0,55
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,hulkenberg,HUL,force_india,27,13.0,100.83,103.023,,,,0.0,13,14,14,True,+1 Lap,0.0,55
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,merhi,MER,manor,98,19.0,106.67699999999999,,,,,0.0,19,15,15,True,+3 Laps,0.0,53
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,maldonado,MAL,lotus_f1,13,12.0,100.36099999999999,102.19800000000001,,,,0.0,12,16,R,False,Retired,0.0,47
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,button,BUT,mclaren,22,17.0,101.636,,,,,0.0,17,17,R,False,Turbo,0.0,41
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,alonso,ALO,mclaren,14,18.0,101.74600000000001,,,,,0.0,18,18,R,False,ERS,0.0,21
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,ericsson,ERI,sauber,9,10.0,100.34,101.74799999999999,113.261,,,0.0,9,19,R,False,Spun off,0.0,3
+2015,2,Malaysian Grand Prix,2015-03-29,sepang,conventional,stevens,STE,manor,28,,,,,,,0.0,0,20,W,False,Fuel system,0.0,0
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,hamilton,HAM,mercedes,44,1.0,98.285,96.423,95.782,,,0.0,1,1,1,True,Finished,25.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,rosberg,ROS,mercedes,6,2.0,98.49600000000001,96.747,95.828,,,0.0,2,2,2,True,Finished,18.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,vettel,VET,ferrari,5,3.0,97.50200000000001,96.957,96.687,,,0.0,3,3,3,True,Finished,15.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,raikkonen,RAI,ferrari,7,6.0,97.78999999999999,97.10900000000001,97.232,,,0.0,6,4,4,True,Finished,12.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,massa,MAS,williams,19,4.0,98.43299999999999,97.357,96.95400000000001,,,0.0,4,5,5,True,Finished,10.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,bottas,BOT,williams,77,5.0,98.01400000000001,97.763,97.143,,,0.0,5,6,6,True,Finished,8.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,grosjean,GRO,lotus_f1,8,8.0,98.209,98.063,97.905,,,0.0,8,7,7,True,Finished,6.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,nasr,NAS,sauber,12,9.0,98.521,98.017,98.06700000000001,,,0.0,9,8,8,True,Finished,4.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,ricciardo,RIC,red_bull,3,7.0,98.53399999999999,97.939,97.53999999999999,,,0.0,7,9,9,True,Finished,2.0,56
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,ericsson,ERI,sauber,9,10.0,98.941,98.12700000000001,98.158,,,0.0,10,10,10,True,+1 Lap,1.0,55
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,perez,PER,force_india,11,15.0,98.90299999999999,99.28999999999999,,,,0.0,15,11,11,True,+1 Lap,0.0,55
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,alonso,ALO,mclaren,14,18.0,99.28,,,,,0.0,18,12,12,True,+1 Lap,0.0,55
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,sainz,SAI,toro_rosso,55,14.0,98.622,98.538,,,,0.0,14,13,13,True,+1 Lap,0.0,55
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,button,BUT,mclaren,22,17.0,99.27600000000001,,,,,0.0,17,14,14,True,+1 Lap,0.0,55
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,stevens,STE,manor,28,19.0,102.09100000000001,,,,,0.0,19,15,15,True,+2 Laps,0.0,54
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,merhi,MER,manor,98,20.0,102.842,,,,,0.0,20,16,16,True,+2 Laps,0.0,54
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,max_verstappen,VER,toro_rosso,33,13.0,98.387,98.393,,,,0.0,13,17,17,True,Transmission,0.0,52
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,maldonado,MAL,lotus_f1,13,11.0,98.563,98.134,,,,0.0,11,18,R,False,Brakes,0.0,49
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,kvyat,KVY,red_bull,26,12.0,99.051,98.209,,,,0.0,12,19,R,False,Power Unit,0.0,15
+2015,3,Chinese Grand Prix,2015-04-12,shanghai,conventional,hulkenberg,HUL,force_india,27,16.0,99.21600000000001,,,,,0.0,16,20,R,False,Gearbox,0.0,9
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,hamilton,HAM,mercedes,44,1.0,93.928,92.669,92.571,,,0.0,1,1,1,True,Finished,25.0,57
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,raikkonen,RAI,ferrari,7,4.0,94.568,93.53999999999999,93.227,,,0.0,4,2,2,True,Finished,18.0,57
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,rosberg,ROS,mercedes,6,3.0,94.398,93.878,93.12899999999999,,,0.0,3,3,3,True,Finished,15.0,57
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,bottas,BOT,williams,77,5.0,94.161,93.89699999999999,93.381,,,0.0,5,4,4,True,Finished,12.0,57
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,vettel,VET,ferrari,5,2.0,94.919,93.62299999999999,92.982,,,0.0,2,5,5,True,Finished,10.0,57
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,ricciardo,RIC,red_bull,3,7.0,94.691,94.40299999999999,93.832,,,0.0,7,6,6,True,Finished,8.0,57
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,grosjean,GRO,lotus_f1,8,10.0,95.007,94.12299999999999,94.48400000000001,,,0.0,10,7,7,True,Finished,6.0,57
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,perez,PER,force_india,11,11.0,95.451,94.70400000000001,,,,0.0,11,8,8,True,+1 Lap,4.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,kvyat,KVY,red_bull,26,17.0,95.8,,,,,0.0,17,9,9,True,+1 Lap,2.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,massa,MAS,williams,19,6.0,94.488,93.551,93.744,,,0.0,6,10,10,True,+1 Lap,1.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,alonso,ALO,mclaren,14,14.0,95.205,95.039,,,,0.0,14,11,11,True,+1 Lap,0.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,nasr,NAS,sauber,12,12.0,95.31,94.737,,,,0.0,12,12,12,True,+1 Lap,0.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,hulkenberg,HUL,force_india,27,8.0,95.65299999999999,94.613,94.45,,,0.0,8,13,13,True,+1 Lap,0.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,ericsson,ERI,sauber,9,13.0,95.438,95.03399999999999,,,,0.0,13,14,14,True,+1 Lap,0.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,maldonado,MAL,lotus_f1,13,16.0,95.67699999999999,,,,,0.0,16,15,15,True,+1 Lap,0.0,56
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,stevens,STE,manor,28,18.0,98.713,,,,,0.0,18,16,16,True,+2 Laps,0.0,55
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,merhi,MER,manor,98,19.0,99.72200000000001,,,,,0.0,19,17,17,True,+3 Laps,0.0,54
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,max_verstappen,VER,toro_rosso,33,15.0,95.61099999999999,95.10300000000001,,,,0.0,15,18,R,False,Electrical,0.0,34
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,sainz,SAI,toro_rosso,55,9.0,95.37100000000001,94.64099999999999,94.462,,,0.0,9,19,R,False,Engine,0.0,29
+2015,4,Bahrain Grand Prix,2015-04-19,bahrain,conventional,button,BUT,mclaren,22,,,,,,,0.0,20,20,W,False,ERS,0.0,0
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,rosberg,ROS,mercedes,6,1.0,86.49,85.166,84.681,,,0.0,1,1,1,True,Finished,25.0,66
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,hamilton,HAM,mercedes,44,2.0,86.382,85.74,84.94800000000001,,,0.0,2,2,2,True,Finished,18.0,66
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,vettel,VET,ferrari,5,3.0,87.53399999999999,86.167,85.458,,,0.0,3,3,3,True,Finished,15.0,66
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,bottas,BOT,williams,77,4.0,87.262,86.197,85.694,,,0.0,4,4,4,True,Finished,12.0,66
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,raikkonen,RAI,ferrari,7,7.0,86.637,86.01599999999999,86.414,,,0.0,7,5,5,True,Finished,10.0,66
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,massa,MAS,williams,19,9.0,87.16499999999999,86.14699999999999,86.757,,,0.0,9,6,6,True,Finished,8.0,66
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,ricciardo,RIC,red_bull,3,10.0,87.611,86.69200000000001,86.77,,,0.0,10,7,7,True,+1 Lap,6.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,grosjean,GRO,lotus_f1,8,11.0,87.383,87.375,,,,0.0,11,8,8,True,+1 Lap,4.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,sainz,SAI,toro_rosso,55,5.0,86.773,86.475,86.136,,,0.0,5,9,9,True,+1 Lap,2.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,kvyat,KVY,red_bull,26,8.0,87.833,86.889,86.629,,,0.0,8,10,10,True,+1 Lap,1.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,max_verstappen,VER,toro_rosso,33,6.0,87.393,86.441,86.249,,,0.0,6,11,11,True,+1 Lap,0.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,nasr,NAS,sauber,12,15.0,87.625,88.005,,,,0.0,15,12,12,True,+1 Lap,0.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,perez,PER,force_india,11,18.0,88.44200000000001,,,,,0.0,18,13,13,True,+1 Lap,0.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,ericsson,ERI,sauber,9,16.0,88.112,,,,,0.0,16,14,14,True,+1 Lap,0.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,hulkenberg,HUL,force_india,27,17.0,88.365,,,,,0.0,17,15,15,True,+1 Lap,0.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,button,BUT,mclaren,22,14.0,87.813,87.854,,,,0.0,14,16,16,True,+1 Lap,0.0,65
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,stevens,STE,manor,28,19.0,91.2,,,,,0.0,19,17,17,True,+3 Laps,0.0,63
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,merhi,MER,manor,98,20.0,92.038,,,,,0.0,20,18,18,True,+4 Laps,0.0,62
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,maldonado,MAL,lotus_f1,13,12.0,87.281,87.45,,,,0.0,12,19,R,False,Accident,0.0,45
+2015,5,Spanish Grand Prix,2015-05-10,catalunya,conventional,alonso,ALO,mclaren,14,13.0,87.941,87.76,,,,0.0,13,20,R,False,Brakes,0.0,26
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,rosberg,ROS,mercedes,6,2.0,76.52799999999999,75.471,75.44,,,0.0,2,1,1,True,Finished,25.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,vettel,VET,ferrari,5,3.0,77.502,76.181,75.849,,,0.0,3,2,2,True,Finished,18.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,hamilton,HAM,mercedes,44,1.0,76.588,75.864,75.098,,,0.0,1,3,3,True,Finished,15.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,kvyat,KVY,red_bull,26,5.0,76.845,76.453,76.182,,,0.0,5,4,4,True,Finished,12.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,ricciardo,RIC,red_bull,3,4.0,77.254,76.706,76.041,,,0.0,4,5,5,True,Finished,10.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,raikkonen,RAI,ferrari,7,6.0,77.66,76.44,76.42699999999999,,,0.0,6,6,6,True,Finished,8.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,perez,PER,force_india,11,7.0,77.376,76.999,76.80799999999999,,,0.0,7,7,7,True,Finished,6.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,button,BUT,mclaren,22,12.0,77.492,77.093,,,,0.0,10,8,8,True,Finished,4.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,nasr,NAS,sauber,12,16.0,78.101,,,,,0.0,14,9,9,True,Finished,2.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,sainz,SAI,toro_rosso,55,8.0,77.246,76.762,76.931,,,0.0,0,10,10,True,Finished,1.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,hulkenberg,HUL,force_india,27,13.0,77.55199999999999,77.193,,,,0.0,11,11,11,True,Finished,0.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,grosjean,GRO,lotus_f1,8,11.0,77.767,77.007,,,,0.0,15,12,12,True,Finished,0.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,ericsson,ERI,sauber,9,18.0,78.513,,,,,0.0,17,13,13,True,Finished,0.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,bottas,BOT,williams,77,17.0,78.434,,,,,0.0,16,14,14,True,Finished,0.0,78
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,massa,MAS,williams,19,14.0,77.679,77.27799999999999,,,,0.0,12,15,15,True,+1 Lap,0.0,77
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,merhi,MER,manor,98,20.0,80.904,,,,,0.0,19,16,16,True,+2 Laps,0.0,76
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,stevens,STE,manor,28,19.0,80.655,,,,,0.0,18,17,17,True,+2 Laps,0.0,76
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,max_verstappen,VER,toro_rosso,33,10.0,76.75,76.54599999999999,76.957,,,0.0,9,18,R,False,Accident,0.0,62
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,alonso,ALO,mclaren,14,15.0,77.77799999999999,86.632,,,,0.0,13,19,R,False,Gearbox,0.0,41
+2015,6,Monaco Grand Prix,2015-05-24,monaco,conventional,maldonado,MAL,lotus_f1,13,9.0,77.63,76.775,76.946,,,0.0,8,20,R,False,Brakes,0.0,5
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,hamilton,HAM,mercedes,44,1.0,75.895,74.661,74.393,,,0.0,1,1,1,True,Finished,25.0,70
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,rosberg,ROS,mercedes,6,2.0,75.893,74.673,74.702,,,0.0,2,2,2,True,Finished,18.0,70
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,bottas,BOT,williams,77,4.0,76.55199999999999,75.506,75.102,,,0.0,4,3,3,True,Finished,15.0,70
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,raikkonen,RAI,ferrari,7,3.0,76.259,75.348,75.014,,,0.0,3,4,4,True,Finished,12.0,70
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,vettel,VET,ferrari,5,16.0,77.344,,,,,0.0,18,5,5,True,Finished,10.0,70
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,massa,MAS,williams,19,17.0,77.886,,,,,0.0,15,6,6,True,Finished,8.0,70
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,maldonado,MAL,lotus_f1,13,6.0,76.098,75.622,75.32900000000001,,,0.0,6,7,7,True,Finished,6.0,70
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,hulkenberg,HUL,force_india,27,7.0,76.186,75.706,75.614,,,0.0,7,8,8,True,+1 Lap,4.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,kvyat,KVY,red_bull,26,8.0,76.41499999999999,75.891,76.07900000000001,,,0.0,8,9,9,True,+1 Lap,2.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,grosjean,GRO,lotus_f1,8,5.0,75.833,75.187,75.194,,,0.0,5,10,10,True,+1 Lap,1.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,perez,PER,force_india,11,10.0,76.827,75.974,76.338,,,0.0,10,11,11,True,+1 Lap,0.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,sainz,SAI,toro_rosso,55,11.0,76.611,76.042,,,,0.0,11,12,12,True,+1 Lap,0.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,ricciardo,RIC,red_bull,3,9.0,76.41,76.006,76.114,,,0.0,9,13,13,True,+1 Lap,0.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,ericsson,ERI,sauber,9,13.0,76.79599999999999,76.262,,,,0.0,12,14,14,True,+1 Lap,0.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,max_verstappen,VER,toro_rosso,33,12.0,76.361,76.245,,,,0.0,19,15,15,True,+1 Lap,0.0,69
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,nasr,NAS,sauber,12,15.0,76.968,76.62,,,,0.0,14,16,16,True,+2 Laps,0.0,68
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,stevens,STE,manor,28,19.0,79.157,,,,,0.0,17,17,17,True,+4 Laps,0.0,66
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,merhi,MER,manor,98,18.0,79.133,,,,,0.0,16,18,R,False,Retired,0.0,57
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,button,BUT,mclaren,22,,,,,,,0.0,20,19,R,False,Retired,0.0,54
+2015,7,Canadian Grand Prix,2015-06-07,villeneuve,conventional,alonso,ALO,mclaren,14,14.0,77.012,76.276,,,,0.0,13,20,R,False,Engine,0.0,44
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,rosberg,ROS,mercedes,6,2.0,70.976,68.634,68.655,,,0.0,2,1,1,True,Finished,25.0,71
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,hamilton,HAM,mercedes,44,1.0,72.218,69.062,68.455,,,0.0,1,2,2,True,Finished,18.0,71
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,massa,MAS,williams,19,4.0,71.83,69.719,69.19200000000001,,,0.0,4,3,3,True,Finished,15.0,71
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,vettel,VET,ferrari,5,3.0,71.184,69.392,68.81,,,0.0,3,4,4,True,Finished,12.0,71
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,bottas,BOT,williams,77,6.0,71.894,69.598,69.319,,,0.0,6,5,5,True,Finished,10.0,71
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,hulkenberg,HUL,force_india,27,5.0,71.319,69.604,69.278,,,0.0,5,6,6,True,Finished,8.0,71
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,maldonado,MAL,lotus_f1,13,11.0,71.661,70.374,,,,0.0,10,7,7,True,+1 Lap,6.0,70
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,max_verstappen,VER,toro_rosso,33,7.0,71.307,69.631,69.612,,,0.0,7,8,8,True,+1 Lap,4.0,70
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,perez,PER,force_india,11,16.0,72.522,,,,,0.0,13,9,9,True,+1 Lap,2.0,70
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,ricciardo,RIC,red_bull,3,14.0,71.973,70.482,,,,0.0,18,10,10,True,+1 Lap,1.0,70
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,nasr,NAS,sauber,12,9.0,72.001,69.652,69.713,,,0.0,8,11,11,True,+1 Lap,0.0,70
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,kvyat,KVY,red_bull,26,8.0,72.092,70.187,69.694,,,0.0,15,12,12,True,+1 Lap,0.0,70
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,ericsson,ERI,sauber,9,12.0,72.388,70.426,,,,0.0,11,13,13,True,+2 Laps,0.0,69
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,merhi,MER,manor,98,19.0,74.071,,,,,0.0,16,14,14,True,+3 Laps,0.0,68
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,grosjean,GRO,lotus_f1,8,10.0,71.821,69.92,,,,0.0,9,15,R,False,Gearbox,0.0,35
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,sainz,SAI,toro_rosso,55,13.0,71.158,70.465,,,,0.0,12,16,R,False,Power loss,0.0,35
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,button,BUT,mclaren,22,17.0,72.632,,,,,0.0,20,17,R,False,Retired,0.0,8
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,stevens,STE,manor,28,20.0,75.368,,,,,0.0,17,18,R,False,Oil leak,0.0,1
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,raikkonen,RAI,ferrari,7,18.0,72.867,,,,,0.0,14,19,R,False,Collision,0.0,0
+2015,8,Austrian Grand Prix,2015-06-21,red_bull_ring,conventional,alonso,ALO,mclaren,14,15.0,72.508,70.736,,,,0.0,19,20,R,False,Collision,0.0,0
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,hamilton,HAM,mercedes,44,1.0,93.79599999999999,93.068,92.24799999999999,,,0.0,1,1,1,True,Finished,25.0,52
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,rosberg,ROS,mercedes,6,2.0,93.475,92.737,92.36099999999999,,,0.0,2,2,2,True,Finished,18.0,52
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,vettel,VET,ferrari,5,6.0,93.562,93.64099999999999,93.547,,,0.0,6,3,3,True,Finished,15.0,52
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,massa,MAS,williams,19,3.0,94.542,93.707,93.08500000000001,,,0.0,3,4,4,True,Finished,12.0,52
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,bottas,BOT,williams,77,4.0,94.17099999999999,93.02000000000001,93.149,,,0.0,4,5,5,True,Finished,10.0,52
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,kvyat,KVY,red_bull,26,7.0,94.422,93.52000000000001,93.636,,,0.0,7,6,6,True,Finished,8.0,52
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,hulkenberg,HUL,force_india,27,9.0,94.594,93.693,93.673,,,0.0,9,7,7,True,Finished,6.0,52
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,raikkonen,RAI,ferrari,7,5.0,93.426,93.911,93.37899999999999,,,0.0,5,8,8,True,+1 Lap,4.0,51
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,perez,PER,force_india,11,11.0,94.25,94.268,,,,0.0,11,9,9,True,+1 Lap,2.0,51
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,alonso,ALO,mclaren,14,17.0,94.959,,,,,0.0,17,10,10,True,+1 Lap,1.0,51
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,ericsson,ERI,sauber,9,15.0,94.643,94.868,,,,0.0,15,11,11,True,+1 Lap,0.0,51
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,merhi,MER,manor,98,20.0,99.37700000000001,,,,,0.0,20,12,12,True,+3 Laps,0.0,49
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,stevens,STE,manor,28,19.0,97.364,,,,,0.0,19,13,13,True,+3 Laps,0.0,49
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,sainz,SAI,toro_rosso,55,8.0,94.64099999999999,94.071,93.649,,,0.0,8,14,R,False,Electrical,0.0,31
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,ricciardo,RIC,red_bull,3,10.0,94.27199999999999,93.749,93.943,,,0.0,10,15,R,False,Electrical,0.0,21
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,max_verstappen,VER,toro_rosso,33,13.0,94.819,94.50200000000001,,,,0.0,13,16,R,False,Spun off,0.0,3
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,grosjean,GRO,lotus_f1,8,12.0,94.646,94.43,,,,0.0,12,17,R,False,Collision,0.0,0
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,maldonado,MAL,lotus_f1,13,14.0,94.87700000000001,94.511,,,,0.0,14,18,R,False,Collision,0.0,0
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,button,BUT,mclaren,22,18.0,95.207,,,,,0.0,18,19,R,False,Collision,0.0,0
+2015,9,British Grand Prix,2015-07-05,silverstone,conventional,nasr,NAS,sauber,12,16.0,94.888,,,,,0.0,16,20,W,False,Gearbox,0.0,0
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,vettel,VET,ferrari,5,3.0,83.312,83.168,82.739,,,0.0,3,1,1,True,Finished,25.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,kvyat,KVY,red_bull,26,7.0,83.587,83.59700000000001,83.332,,,0.0,7,2,2,True,Finished,18.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,ricciardo,RIC,red_bull,3,4.0,84.408,83.23,82.774,,,0.0,4,3,3,True,Finished,15.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,max_verstappen,VER,toro_rosso,33,9.0,84.032,83.781,83.679,,,0.0,9,4,4,True,Finished,12.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,alonso,ALO,mclaren,14,15.0,84.563,,,,,0.0,15,5,5,True,Finished,10.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,hamilton,HAM,mercedes,44,1.0,82.89,82.285,82.02,,,0.0,1,6,6,True,Finished,8.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,grosjean,GRO,lotus_f1,8,10.0,84.242,83.805,84.181,,,0.0,10,7,7,True,Finished,6.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,rosberg,ROS,mercedes,6,2.0,82.979,82.775,82.595,,,0.0,2,8,8,True,Finished,4.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,button,BUT,mclaren,22,16.0,84.739,,,,,0.0,16,9,9,True,Finished,2.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,ericsson,ERI,sauber,9,17.0,84.843,,,,,0.0,17,10,10,True,Finished,1.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,nasr,NAS,sauber,12,18.0,84.997,,,,,0.0,18,11,11,True,Finished,0.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,massa,MAS,williams,19,8.0,83.895,83.598,83.537,,,0.0,8,12,12,True,Finished,0.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,bottas,BOT,williams,77,6.0,83.649,83.555,83.22200000000001,,,0.0,6,13,13,True,Finished,0.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,maldonado,MAL,lotus_f1,13,14.0,83.895,84.60900000000001,,,,0.0,14,14,14,True,Finished,0.0,69
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,merhi,MER,manor,98,19.0,87.416,,,,,0.0,19,15,15,True,+2 Laps,0.0,67
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,stevens,STE,manor,28,20.0,87.949,,,,,0.0,20,16,16,True,+4 Laps,0.0,65
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,sainz,SAI,toro_rosso,55,12.0,84.623,83.869,,,,0.0,12,17,R,False,Electrical,0.0,60
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,raikkonen,RAI,ferrari,7,5.0,83.596,83.46000000000001,83.02,,,0.0,5,18,R,False,Power Unit,0.0,55
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,perez,PER,force_india,11,13.0,84.444,84.461,,,,0.0,13,19,R,False,Suspension,0.0,53
+2015,10,Hungarian Grand Prix,2015-07-26,hungaroring,conventional,hulkenberg,HUL,force_india,27,11.0,84.115,83.826,,,,0.0,11,20,R,False,Front wing,0.0,41
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,hamilton,HAM,mercedes,44,1.0,108.908,108.024,107.197,,,0.0,1,1,1,True,Finished,25.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,rosberg,ROS,mercedes,6,2.0,108.923,107.955,107.655,,,0.0,2,2,2,True,Finished,18.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,grosjean,GRO,lotus_f1,8,4.0,109.35300000000001,108.981,108.561,,,0.0,9,3,3,True,Finished,15.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,kvyat,KVY,red_bull,26,12.0,109.469,109.22800000000001,,,,0.0,12,4,4,True,Finished,12.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,perez,PER,force_india,11,5.0,109.006,108.792,108.59899999999999,,,0.0,4,5,5,True,Finished,10.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,massa,MAS,williams,19,7.0,109.688,108.806,108.685,,,0.0,6,6,6,True,Finished,8.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,raikkonen,RAI,ferrari,7,14.0,109.288,,,,,0.0,16,7,7,True,Finished,6.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,max_verstappen,VER,toro_rosso,33,15.0,109.831,,,,,0.0,18,8,8,True,Finished,4.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,bottas,BOT,williams,77,3.0,109.02600000000001,109.044,108.537,,,0.0,3,9,9,True,Power Unit,2.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,ericsson,ERI,sauber,9,13.0,109.523,109.586,,,,0.0,13,10,10,True,Finished,1.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,nasr,NAS,sauber,12,16.0,109.952,,,,,0.0,14,11,11,True,Finished,0.0,43
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,vettel,VET,ferrari,5,9.0,109.26400000000001,108.761,108.825,,,0.0,8,12,12,True,Tyre,0.0,42
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,alonso,ALO,mclaren,14,18.0,111.42,,,,,0.0,20,13,13,True,+1 Lap,0.0,42
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,button,BUT,mclaren,22,17.0,110.97800000000001,,,,,0.0,19,14,14,True,+1 Lap,0.0,42
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,merhi,MER,manor,98,20.0,113.09899999999999,,,,,0.0,17,15,15,True,+1 Lap,0.0,42
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,stevens,STE,manor,28,19.0,112.94800000000001,,,,,0.0,15,16,16,True,+1 Lap,0.0,42
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,sainz,SAI,toro_rosso,55,10.0,109.10900000000001,109.065,109.771,,,0.0,10,17,R,False,Power Unit,0.0,32
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,ricciardo,RIC,red_bull,3,6.0,109.664,109.042,108.63900000000001,,,0.0,5,18,R,False,Power Unit,0.0,19
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,maldonado,MAL,lotus_f1,13,8.0,109.568,108.956,108.75399999999999,,,0.0,7,19,R,False,Engine,0.0,2
+2015,11,Belgian Grand Prix,2015-08-23,spa,conventional,hulkenberg,HUL,force_india,27,11.0,109.499,109.12100000000001,,,,0.0,11,20,W,False,Power loss,0.0,0
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,hamilton,HAM,mercedes,44,1.0,84.251,83.383,83.39699999999999,,,0.0,1,1,1,True,Finished,25.0,53
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,vettel,VET,ferrari,5,3.0,84.989,83.577,83.685,,,0.0,3,2,2,True,Finished,18.0,53
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,massa,MAS,williams,19,5.0,85.184,83.983,83.94,,,0.0,5,3,3,True,Finished,15.0,53
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,bottas,BOT,williams,77,6.0,84.979,84.313,84.127,,,0.0,6,4,4,True,Finished,12.0,53
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,raikkonen,RAI,ferrari,7,2.0,84.662,83.757,83.631,,,0.0,2,5,5,True,Finished,10.0,53
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,perez,PER,force_india,11,7.0,84.801,84.379,84.626,,,0.0,7,6,6,True,Finished,8.0,53
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,hulkenberg,HUL,force_india,27,9.0,84.937,84.51,85.31700000000001,,,0.0,9,7,7,True,+1 Lap,6.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,ricciardo,RIC,red_bull,3,15.0,85.633,,,,,0.0,19,8,8,True,+1 Lap,4.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,ericsson,ERI,sauber,9,10.0,85.122,84.457,86.214,,,0.0,12,9,9,True,+1 Lap,2.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,kvyat,KVY,red_bull,26,14.0,85.742,85.79599999999999,,,,0.0,18,10,10,True,+1 Lap,1.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,sainz,SAI,toro_rosso,55,13.0,85.41,85.618,,,,0.0,17,11,11,True,+1 Lap,0.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,max_verstappen,VER,toro_rosso,33,20.0,,,,,,0.0,20,12,12,True,+1 Lap,0.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,nasr,NAS,sauber,12,12.0,85.121,84.898,,,,0.0,17,13,13,True,+1 Lap,0.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,button,BUT,mclaren,22,16.0,86.05799999999999,,,,,0.0,15,14,14,True,+1 Lap,0.0,52
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,stevens,STE,manor,28,18.0,87.731,,,,,0.0,13,15,15,True,+2 Laps,0.0,51
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,merhi,MER,manor,98,19.0,87.912,,,,,0.0,14,16,16,True,+2 Laps,0.0,51
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,rosberg,ROS,mercedes,6,4.0,84.60900000000001,83.864,83.703,,,0.0,4,17,17,True,+3 Laps,0.0,50
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,alonso,ALO,mclaren,14,17.0,86.154,,,,,0.0,16,18,18,True,+6 Laps,0.0,47
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,grosjean,GRO,lotus_f1,8,8.0,85.144,84.44800000000001,85.054,,,0.0,8,19,R,False,Collision damage,0.0,1
+2015,12,Italian Grand Prix,2015-09-06,monza,conventional,maldonado,MAL,lotus_f1,13,11.0,85.429,84.525,,,,0.0,10,20,R,False,Collision damage,0.0,1
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,vettel,VET,ferrari,5,1.0,106.017,104.743,103.88499999999999,,,0.0,1,1,1,True,Finished,25.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,ricciardo,RIC,red_bull,3,2.0,106.166,105.291,104.428,,,0.0,2,2,2,True,Finished,18.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,raikkonen,RAI,ferrari,7,3.0,106.467,105.14,104.667,,,0.0,3,3,3,True,Finished,15.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,rosberg,ROS,mercedes,6,6.0,106.201,105.65299999999999,105.41499999999999,,,0.0,6,4,4,True,Finished,12.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,bottas,BOT,williams,77,7.0,106.231,105.887,105.676,,,0.0,7,5,5,True,Finished,10.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,kvyat,KVY,red_bull,26,4.0,105.34,104.979,104.745,,,0.0,4,6,6,True,Finished,8.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,perez,PER,force_india,11,13.0,106.576,106.38499999999999,,,,0.0,13,7,7,True,Finished,6.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,max_verstappen,VER,toro_rosso,33,8.0,106.483,105.63499999999999,105.798,,,0.0,8,8,8,True,Finished,4.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,sainz,SAI,toro_rosso,55,14.0,106.465,106.894,,,,0.0,14,9,9,True,Finished,2.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,nasr,NAS,sauber,12,16.0,106.965,,,,,0.0,16,10,10,True,Finished,1.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,ericsson,ERI,sauber,9,17.0,107.088,,,,,0.0,17,11,11,True,Finished,0.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,maldonado,MAL,lotus_f1,13,18.0,107.32300000000001,,,,,0.0,18,12,12,True,Finished,0.0,61
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,grosjean,GRO,lotus_f1,8,10.0,106.86,105.805,106.413,,,0.0,10,13,13,True,Tyre,0.0,59
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,rossi,RSS,manor,53,20.0,111.523,,,,,0.0,20,14,14,True,+2 Laps,0.0,59
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,stevens,STE,manor,28,19.0,111.021,,,,,0.0,19,15,15,True,+2 Laps,0.0,59
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,button,BUT,mclaren,22,15.0,105.89099999999999,107.019,,,,0.0,15,16,R,False,Gearbox,0.0,52
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,alonso,ALO,mclaren,14,12.0,106.6,106.328,,,,0.0,12,17,R,False,Gearbox,0.0,33
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,hamilton,HAM,mercedes,44,5.0,105.765,105.65,105.3,,,0.0,5,18,R,False,Throttle,0.0,32
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,massa,MAS,williams,19,9.0,106.87899999999999,105.701,106.077,,,0.0,9,19,R,False,Gearbox,0.0,30
+2015,13,Singapore Grand Prix,2015-09-20,marina_bay,conventional,hulkenberg,HUL,force_india,27,11.0,106.669,106.305,,,,0.0,11,20,R,False,Collision,0.0,12
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,hamilton,HAM,mercedes,44,2.0,92.844,92.789,92.66,,,0.0,2,1,1,True,Finished,25.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,rosberg,ROS,mercedes,6,1.0,93.015,92.632,92.584,,,0.0,1,2,2,True,Finished,18.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,vettel,VET,ferrari,5,4.0,94.431,93.844,93.245,,,0.0,4,3,3,True,Finished,15.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,raikkonen,RAI,ferrari,7,6.0,94.17099999999999,93.36099999999999,93.34700000000001,,,0.0,6,4,4,True,Finished,12.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,bottas,BOT,williams,77,3.0,94.326,93.416,93.024,,,0.0,3,5,5,True,Finished,10.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,hulkenberg,HUL,force_india,27,11.0,95.328,94.39,,,,0.0,13,6,6,True,Finished,8.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,grosjean,GRO,lotus_f1,8,8.0,94.398,94.27799999999999,93.967,,,0.0,8,7,7,True,Finished,6.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,maldonado,MAL,lotus_f1,13,13.0,94.79599999999999,94.497,,,,0.0,11,8,8,True,Finished,4.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,max_verstappen,VER,toro_rosso,33,15.0,94.52199999999999,,,,,0.0,17,9,9,True,Finished,2.0,53
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,sainz,SAI,toro_rosso,55,12.0,94.87299999999999,94.453,,,,0.0,10,10,10,True,+1 Lap,1.0,52
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,alonso,ALO,mclaren,14,14.0,95.467,94.785,,,,0.0,12,11,11,True,+1 Lap,0.0,52
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,perez,PER,force_india,11,9.0,95.001,94.174,,,,0.0,9,12,12,True,+1 Lap,0.0,52
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,kvyat,KVY,red_bull,26,10.0,94.646,94.201,,,,0.0,20,13,13,True,+1 Lap,0.0,52
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,ericsson,ERI,sauber,9,17.0,95.673,,,,,0.0,15,14,14,True,+1 Lap,0.0,52
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,ricciardo,RIC,red_bull,3,7.0,94.399,94.15299999999999,93.497,,,0.0,7,15,15,True,+1 Lap,0.0,52
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,button,BUT,mclaren,22,16.0,95.664,,,,,0.0,14,16,16,True,+1 Lap,0.0,52
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,massa,MAS,williams,19,5.0,94.744,93.37700000000001,93.337,,,0.0,5,17,17,True,+2 Laps,0.0,51
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,rossi,RSS,manor,53,20.0,107.114,,,,,0.0,19,18,18,True,+2 Laps,0.0,51
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,stevens,STE,manor,28,19.0,98.783,,,,,0.0,18,19,19,True,+3 Laps,0.0,50
+2015,14,Japanese Grand Prix,2015-09-27,suzuka,conventional,nasr,NAS,sauber,12,18.0,95.75999999999999,,,,,0.0,16,20,R,False,Retired,0.0,49
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,hamilton,HAM,mercedes,44,2.0,98.55799999999999,97.672,97.43299999999999,,,0.0,2,1,1,True,Finished,25.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,vettel,VET,ferrari,5,4.0,98.598,98.402,97.965,,,0.0,4,2,2,True,Finished,18.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,perez,PER,force_india,11,7.0,99.61699999999999,98.914,98.691,,,0.0,7,3,3,True,Finished,15.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,massa,MAS,williams,19,15.0,98.926,99.89500000000001,,,,0.0,15,4,4,True,Finished,12.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,kvyat,KVY,red_bull,26,11.0,99.58,99.214,,,,0.0,11,5,5,True,Finished,10.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,nasr,NAS,sauber,12,12.0,100.042,99.32300000000001,,,,0.0,12,6,6,True,Finished,8.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,maldonado,MAL,lotus_f1,13,14.0,99.72399999999999,99.811,,,,0.0,14,7,7,True,Finished,6.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,raikkonen,RAI,ferrari,7,5.0,99.207,98.22399999999999,98.348,,,0.0,5,8,8,True,Finished,4.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,button,BUT,mclaren,22,13.0,99.739,99.763,,,,0.0,13,9,9,True,Finished,2.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,max_verstappen,VER,toro_rosso,33,9.0,99.411,99.119,98.924,,,0.0,9,10,10,True,Finished,1.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,alonso,ALO,mclaren,14,16.0,100.144,,,,,0.0,19,11,11,True,Finished,0.0,53
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,bottas,BOT,williams,77,3.0,98.44800000000001,98.194,97.912,,,0.0,3,12,12,True,Collision,0.0,52
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,merhi,MER,manor,98,19.0,103.804,,,,,0.0,18,13,13,True,+1 Lap,0.0,52
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,stevens,STE,manor,28,18.0,103.693,,,,,0.0,17,14,14,True,+2 Laps,0.0,51
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,ricciardo,RIC,red_bull,3,10.0,99.574,99.005,99.72800000000001,,,0.0,10,15,15,True,Suspension,0.0,47
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,sainz,SAI,toro_rosso,55,,,,,,,0.0,20,16,R,False,Brakes,0.0,45
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,grosjean,GRO,lotus_f1,8,8.0,99.056,98.75399999999999,98.787,,,0.0,8,17,R,False,Accident,0.0,11
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,rosberg,ROS,mercedes,6,1.0,98.343,97.5,97.113,,,0.0,1,18,R,False,Throttle,0.0,7
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,hulkenberg,HUL,force_india,27,6.0,99.25,98.727,98.65899999999999,,,0.0,6,19,R,False,Collision,0.0,0
+2015,15,Russian Grand Prix,2015-10-11,sochi,conventional,ericsson,ERI,sauber,9,17.0,100.66,,,,,0.0,17,20,R,False,Collision,0.0,0
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,hamilton,HAM,mercedes,44,2.0,116.87100000000001,116.929,,,,0.0,2,1,1,True,Finished,25.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,rosberg,ROS,mercedes,6,1.0,116.67099999999999,116.824,,,,0.0,1,2,2,True,Finished,18.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,vettel,VET,ferrari,5,5.0,120.95,118.596,,,,0.0,13,3,3,True,Finished,15.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,max_verstappen,VER,toro_rosso,33,10.0,118.689,120.199,,,,0.0,8,4,4,True,Finished,12.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,perez,PER,force_india,11,6.0,119.26400000000001,119.21000000000001,,,,0.0,5,5,5,True,Finished,10.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,button,BUT,mclaren,22,14.0,120.261,121.193,,,,0.0,11,6,6,True,Finished,8.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,sainz,SAI,toro_rosso,55,20.0,127.304,,,,,0.0,20,7,7,True,Finished,6.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,maldonado,MAL,lotus_f1,13,15.0,120.844,121.604,,,,0.0,12,8,8,True,Finished,4.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,nasr,NAS,sauber,12,17.0,123.194,,,,,0.0,15,9,9,True,Finished,2.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,ricciardo,RIC,red_bull,3,3.0,116.495,117.969,,,,0.0,3,10,10,True,Finished,1.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,alonso,ALO,mclaren,14,11.0,119.70400000000001,120.265,,,,0.0,9,11,11,True,Finished,0.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,rossi,RSS,manor,53,18.0,124.176,,,,,0.0,17,12,12,True,Finished,0.0,56
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,kvyat,KVY,red_bull,26,4.0,117.64,118.434,,,,0.0,4,13,R,False,Accident,0.0,41
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,hulkenberg,HUL,force_india,27,7.0,118.325,119.333,,,,0.0,6,14,R,False,Accident,0.0,35
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,ericsson,ERI,sauber,9,16.0,122.212,,,,,0.0,14,15,R,False,Retired,0.0,25
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,raikkonen,RAI,ferrari,7,8.0,118.19800000000001,119.703,,,,0.0,18,16,R,False,Brake duct,0.0,25
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,massa,MAS,williams,19,9.0,120.902,119.999,,,,0.0,7,17,R,False,Retired,0.0,23
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,grosjean,GRO,lotus_f1,8,13.0,120.236,120.595,,,,0.0,10,18,R,False,Retired,0.0,10
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,bottas,BOT,williams,77,12.0,119.569,120.334,,,,0.0,16,19,R,False,Retired,0.0,5
+2015,16,United States Grand Prix,2015-10-25,americas,conventional,stevens,STE,manor,28,19.0,124.526,,,,,0.0,19,20,R,False,Retired,0.0,1
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,rosberg,ROS,mercedes,6,1.0,80.436,80.053,79.48,,,0.0,1,1,1,True,Finished,25.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,hamilton,HAM,mercedes,44,2.0,80.80799999999999,79.82900000000001,79.668,,,0.0,2,2,2,True,Finished,18.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,bottas,BOT,williams,77,6.0,80.81700000000001,80.458,80.44800000000001,,,0.0,6,3,3,True,Finished,15.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,kvyat,KVY,red_bull,26,4.0,80.826,80.49,80.398,,,0.0,4,4,4,True,Finished,12.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,ricciardo,RIC,red_bull,3,5.0,81.166,80.783,80.399,,,0.0,5,5,5,True,Finished,10.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,massa,MAS,williams,19,7.0,81.379,80.642,80.56700000000001,,,0.0,7,6,6,True,Finished,8.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,hulkenberg,HUL,force_india,27,10.0,81.315,80.935,80.788,,,0.0,10,7,7,True,Finished,6.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,perez,PER,force_india,11,9.0,80.96600000000001,80.669,80.71600000000001,,,0.0,9,8,8,True,Finished,4.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,max_verstappen,VER,toro_rosso,33,8.0,80.995,80.894,80.71000000000001,,,0.0,8,9,9,True,Finished,2.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,grosjean,GRO,lotus_f1,8,12.0,81.577,81.038,,,,0.0,12,10,10,True,Finished,1.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,maldonado,MAL,lotus_f1,13,13.0,81.52,81.261,,,,0.0,13,11,11,True,Finished,0.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,ericsson,ERI,sauber,9,14.0,81.299,81.544,,,,0.0,14,12,12,True,Finished,0.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,sainz,SAI,toro_rosso,55,11.0,80.96000000000001,80.94200000000001,,,,0.0,11,13,13,True,Finished,0.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,button,BUT,mclaren,22,20.0,,,,,,0.0,20,14,14,True,Finished,0.0,71
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,rossi,RSS,manor,53,18.0,84.136,,,,,0.0,16,15,15,True,+2 Laps,0.0,69
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,stevens,STE,manor,28,19.0,84.386,,,,,0.0,17,16,16,True,+2 Laps,0.0,69
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,nasr,NAS,sauber,12,17.0,81.788,,,,,0.0,15,17,R,False,Brakes,0.0,57
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,vettel,VET,ferrari,5,3.0,80.503,80.045,79.85,,,0.0,3,18,R,False,Accident,0.0,50
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,raikkonen,RAI,ferrari,7,15.0,81.422,82.494,,,,0.0,19,19,R,False,Collision,0.0,21
+2015,17,Mexican Grand Prix,2015-11-01,rodriguez,conventional,alonso,ALO,mclaren,14,16.0,81.779,,,,,0.0,18,20,R,False,Retired,0.0,1
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,rosberg,ROS,mercedes,6,1.0,71.746,72.213,71.282,,,0.0,1,1,1,True,Finished,25.0,71
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,hamilton,HAM,mercedes,44,2.0,71.682,71.66499999999999,71.36,,,0.0,2,2,2,True,Finished,18.0,71
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,vettel,VET,ferrari,5,3.0,72.24,71.928,71.804,,,0.0,3,3,3,True,Finished,15.0,71
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,raikkonen,RAI,ferrari,7,5.0,72.185,72.243,72.144,,,0.0,4,4,4,True,Finished,12.0,71
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,bottas,BOT,williams,77,4.0,72.934,72.374,72.08500000000001,,,0.0,7,5,5,True,+1 Lap,10.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,hulkenberg,HUL,force_india,27,6.0,72.595,72.485,72.265,,,0.0,5,6,6,True,+1 Lap,8.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,kvyat,KVY,red_bull,26,7.0,72.73,72.527,72.322,,,0.0,6,7,7,True,+1 Lap,6.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,grosjean,GRO,lotus_f1,8,15.0,73.056,73.913,,,,0.0,14,8,8,True,+1 Lap,4.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,max_verstappen,VER,toro_rosso,33,10.0,72.824,72.712,72.739,,,0.0,9,9,9,True,+1 Lap,2.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,maldonado,MAL,lotus_f1,13,16.0,73.385,,,,,0.0,15,10,10,True,+1 Lap,1.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,ricciardo,RIC,red_bull,3,9.0,72.639,72.825,72.417,,,0.0,19,11,11,True,+1 Lap,0.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,perez,PER,force_india,11,13.0,73.14,73.147,,,,0.0,11,12,12,True,+1 Lap,0.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,nasr,NAS,sauber,12,11.0,73.111,72.989,,,,0.0,13,13,13,True,+1 Lap,0.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,button,BUT,mclaren,22,17.0,73.425,,,,,0.0,16,14,14,True,+1 Lap,0.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,alonso,ALO,mclaren,14,20.0,,,,,,0.0,20,15,15,True,+1 Lap,0.0,70
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,ericsson,ERI,sauber,9,14.0,73.346,73.233,,,,0.0,12,16,16,True,+2 Laps,0.0,69
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,stevens,STE,manor,28,19.0,76.283,,,,,0.0,18,17,17,True,+4 Laps,0.0,67
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,rossi,RSS,manor,53,18.0,76.151,,,,,0.0,17,18,18,True,+4 Laps,0.0,67
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,sainz,SAI,toro_rosso,55,12.0,73.267,73.045,,,,0.0,10,19,R,False,Retired,0.0,0
+2015,18,Brazilian Grand Prix,2015-11-15,interlagos,conventional,massa,MAS,williams,19,8.0,72.98,72.858,72.41499999999999,,,0.0,8,20,D,False,Excluded,0.0,70
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,rosberg,ROS,mercedes,6,1.0,101.11099999999999,100.979,100.237,,,0.0,1,1,1,True,Finished,25.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,hamilton,HAM,mercedes,44,2.0,100.97399999999999,100.75800000000001,100.614,,,0.0,2,2,2,True,Finished,18.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,raikkonen,RAI,ferrari,7,3.0,102.5,101.612,101.051,,,0.0,3,3,3,True,Finished,15.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,vettel,VET,ferrari,5,16.0,102.941,,,,,0.0,15,4,4,True,Finished,12.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,perez,PER,force_india,11,4.0,101.983,101.56,101.184,,,0.0,4,5,5,True,Finished,10.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,ricciardo,RIC,red_bull,3,5.0,102.275,101.83,101.444,,,0.0,5,6,6,True,Finished,8.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,hulkenberg,HUL,force_india,27,7.0,101.99600000000001,101.925,101.686,,,0.0,7,7,7,True,Finished,6.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,massa,MAS,williams,19,8.0,102.303,102.34899999999999,101.759,,,0.0,8,8,8,True,Finished,4.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,grosjean,GRO,lotus_f1,8,15.0,102.58500000000001,,,,,0.0,18,9,9,True,Finished,2.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,kvyat,KVY,red_bull,26,9.0,102.53999999999999,102.328,101.93299999999999,,,0.0,9,10,10,True,Finished,1.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,sainz,SAI,toro_rosso,55,10.0,102.911,102.482,102.708,,,0.0,10,11,11,True,Finished,0.0,55
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,button,BUT,mclaren,22,12.0,102.57,102.668,,,,0.0,12,12,12,True,+1 Lap,0.0,54
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,bottas,BOT,williams,77,6.0,102.608,101.868,101.656,,,0.0,6,13,13,True,+1 Lap,0.0,54
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,ericsson,ERI,sauber,9,18.0,103.838,,,,,0.0,17,14,14,True,+1 Lap,0.0,54
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,nasr,NAS,sauber,12,14.0,102.896,103.614,,,,0.0,14,15,15,True,+1 Lap,0.0,54
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,max_verstappen,VER,toro_rosso,33,11.0,102.88900000000001,102.521,,,,0.0,11,16,16,True,+1 Lap,0.0,54
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,alonso,ALO,mclaren,14,17.0,103.187,,,,,0.0,16,17,17,True,+2 Laps,0.0,53
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,stevens,STE,manor,28,19.0,106.297,,,,,0.0,19,18,18,True,+2 Laps,0.0,53
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,merhi,MER,manor,98,20.0,107.434,,,,,0.0,20,19,19,True,+3 Laps,0.0,52
+2015,19,Abu Dhabi Grand Prix,2015-11-29,yas_marina,conventional,maldonado,MAL,lotus_f1,13,13.0,102.929,102.807,,,,0.0,13,20,R,False,Collision,0.0,0

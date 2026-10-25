@@ -1,0 +1,408 @@
+season,round,race_name,date,circuit_id,format,driver_id,code,constructor_id,number,quali_pos,q1,q2,q3,sprint_pos,sprint_classified,sprint_points,grid,position,position_text,classified,status,points,laps
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,rosberg,ROS,mercedes,6,3.0,92.564,102.26400000000001,104.595,,,0.0,3,1,1,True,Finished,25.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,kevin_magnussen,MAG,mclaren,20,4.0,90.949,103.247,105.745,,,0.0,4,2,2,True,Finished,18.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,button,BUT,mclaren,22,11.0,91.396,104.437,,,,0.0,10,3,3,True,Finished,15.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,alonso,ALO,ferrari,14,5.0,91.388,102.805,105.819,,,0.0,5,4,4,True,Finished,12.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,bottas,BOT,williams,77,10.0,91.601,103.852,108.14699999999999,,,0.0,15,5,5,True,Finished,10.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,hulkenberg,HUL,force_india,27,7.0,93.893,103.658,106.03,,,0.0,7,6,6,True,Finished,8.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,raikkonen,RAI,ferrari,7,12.0,92.439,104.494,,,,0.0,11,7,7,True,Finished,6.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,vergne,VER,toro_rosso,25,6.0,93.488,103.84899999999999,105.864,,,0.0,6,8,8,True,Finished,4.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,kvyat,KVY,toro_rosso,26,8.0,93.777,104.331,107.368,,,0.0,8,9,9,True,Finished,2.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,perez,PER,force_india,11,16.0,94.14099999999999,107.293,,,,0.0,16,10,10,True,Finished,1.0,57
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,sutil,SUT,sauber,99,14.0,93.673,105.655,,,,0.0,13,11,11,True,+1 Lap,0.0,56
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,gutierrez,GUT,sauber,21,19.0,95.11699999999999,,,,,0.0,20,12,12,True,+1 Lap,0.0,56
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,chilton,CHI,marussia,4,17.0,94.293,,,,,0.0,17,13,13,True,+2 Laps,0.0,55
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,jules_bianchi,BIA,marussia,17,18.0,94.794,,,,,0.0,18,14,R,False,+8 Laps,0.0,49
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,grosjean,GRO,lotus_f1,8,21.0,96.993,,,,,0.0,22,15,R,False,ERS,0.0,43
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,maldonado,MAL,lotus_f1,13,22.0,,,,,,0.0,21,16,R,False,ERS,0.0,29
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,ericsson,ERI,caterham,9,20.0,95.157,,,,,0.0,19,17,R,False,Oil pressure,0.0,27
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,vettel,VET,red_bull,1,13.0,91.931,104.688,,,,0.0,12,18,R,False,Engine,0.0,3
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,hamilton,HAM,mercedes,44,1.0,91.699,102.89,104.231,,,0.0,1,19,R,False,Engine,0.0,2
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,massa,MAS,williams,19,9.0,91.22800000000001,104.24199999999999,108.07900000000001,,,0.0,9,20,R,False,Collision,0.0,0
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,kobayashi,KOB,caterham,10,15.0,94.274,105.86699999999999,,,,0.0,14,21,R,False,Collision,0.0,0
+2014,1,Australian Grand Prix,2014-03-16,albert_park,conventional,ricciardo,RIC,red_bull,3,2.0,90.775,102.295,104.548,,,0.0,2,22,D,False,Disqualified,0.0,57
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,hamilton,HAM,mercedes,44,1.0,117.202,119.041,119.431,,,0.0,1,1,1,True,Finished,25.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,rosberg,ROS,mercedes,6,3.0,117.18299999999999,119.445,120.05,,,0.0,3,2,2,True,Finished,18.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,vettel,VET,red_bull,1,2.0,117.654,119.399,119.48599999999999,,,0.0,2,3,3,True,Finished,15.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,alonso,ALO,ferrari,14,4.0,118.88900000000001,121.356,120.175,,,0.0,4,4,4,True,Finished,12.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,hulkenberg,HUL,force_india,27,7.0,118.88300000000001,120.839,121.712,,,0.0,7,5,5,True,Finished,10.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,button,BUT,mclaren,22,10.0,120.889,121.81,124.053,,,0.0,10,6,6,True,Finished,8.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,massa,MAS,williams,19,13.0,120.047,122.46,,,,0.0,13,7,7,True,Finished,6.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,bottas,BOT,williams,77,15.0,119.709,122.756,,,,0.0,18,8,8,True,Finished,4.0,56
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,kevin_magnussen,MAG,mclaren,20,8.0,120.356,122.094,122.213,,,0.0,8,9,9,True,+1 Lap,2.0,55
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,kvyat,KVY,toro_rosso,26,11.0,121.175,122.351,,,,0.0,11,10,10,True,+1 Lap,1.0,55
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,grosjean,GRO,lotus_f1,8,16.0,120.202,122.885,,,,0.0,15,11,11,True,+1 Lap,0.0,55
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,raikkonen,RAI,ferrari,7,6.0,119.257,121.532,121.218,,,0.0,6,12,12,True,+1 Lap,0.0,55
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,kobayashi,KOB,caterham,10,20.0,123.595,,,,,0.0,20,13,13,True,+1 Lap,0.0,55
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,ericsson,ERI,caterham,9,22.0,124.407,,,,,0.0,22,14,14,True,+2 Laps,0.0,54
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,chilton,CHI,marussia,4,21.0,124.388,,,,,0.0,21,15,15,True,+2 Laps,0.0,54
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,ricciardo,RIC,red_bull,3,5.0,118.913,120.147,120.541,,,0.0,5,16,R,False,Technical,0.0,49
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,gutierrez,GUT,sauber,21,12.0,121.134,122.369,,,,0.0,12,17,R,False,Gearbox,0.0,35
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,sutil,SUT,sauber,99,18.0,122.131,,,,,0.0,17,18,R,False,Electrical,0.0,32
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,vergne,VER,toro_rosso,25,9.0,121.689,122.096,123.078,,,0.0,9,19,R,False,Power Unit,0.0,18
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,jules_bianchi,BIA,marussia,17,19.0,122.702,,,,,0.0,19,20,R,False,Brakes,0.0,8
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,maldonado,MAL,lotus_f1,13,17.0,122.074,,,,,0.0,16,21,R,False,Engine,0.0,7
+2014,2,Malaysian Grand Prix,2014-03-30,sepang,conventional,perez,PER,force_india,11,14.0,120.076,122.511,,,,0.0,14,22,W,False,Withdrew,0.0,0
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,hamilton,HAM,mercedes,44,2.0,95.32300000000001,93.872,93.464,,,0.0,2,1,1,True,Finished,25.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,rosberg,ROS,mercedes,6,1.0,95.439,93.708,93.185,,,0.0,1,2,2,True,Finished,18.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,perez,PER,force_india,11,5.0,94.99799999999999,94.747,94.346,,,0.0,4,3,3,True,Finished,15.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,ricciardo,RIC,red_bull,3,3.0,96.22,94.592,94.051,,,0.0,13,4,4,True,Finished,12.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,hulkenberg,HUL,force_india,27,12.0,94.874,95.116,,,,0.0,11,5,5,True,Finished,10.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,vettel,VET,red_bull,1,11.0,95.549,94.985,,,,0.0,10,6,6,True,Finished,8.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,massa,MAS,williams,19,8.0,95.08500000000001,94.842,94.511,,,0.0,7,7,7,True,Finished,6.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,bottas,BOT,williams,77,4.0,94.934,94.842,94.247,,,0.0,3,8,8,True,Finished,4.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,alonso,ALO,ferrari,14,10.0,95.251,94.723,94.99199999999999,,,0.0,9,9,9,True,Finished,2.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,raikkonen,RAI,ferrari,7,6.0,95.23400000000001,94.925,94.368,,,0.0,5,10,10,True,Finished,1.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,kvyat,KVY,toro_rosso,26,13.0,95.39500000000001,95.14500000000001,,,,0.0,12,11,11,True,Finished,0.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,grosjean,GRO,lotus_f1,8,16.0,96.654,95.908,,,,0.0,16,12,12,True,Finished,0.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,chilton,CHI,marussia,4,22.0,97.913,,,,,0.0,21,13,13,True,Finished,0.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,maldonado,MAL,lotus_f1,13,17.0,96.663,,,,,0.0,17,14,14,True,Finished,0.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,kobayashi,KOB,caterham,10,19.0,97.08500000000001,,,,,0.0,18,15,15,True,Finished,0.0,57
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,jules_bianchi,BIA,marussia,17,20.0,97.31,,,,,0.0,19,16,16,True,+1 Lap,0.0,56
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,button,BUT,mclaren,22,7.0,95.699,94.714,94.387,,,0.0,6,17,17,True,Clutch,0.0,55
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,kevin_magnussen,MAG,mclaren,20,9.0,95.288,94.904,94.712,,,0.0,8,18,R,False,Clutch,0.0,40
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,gutierrez,GUT,sauber,21,15.0,96.56700000000001,95.89099999999999,,,,0.0,15,19,R,False,Collision,0.0,39
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,ericsson,ERI,caterham,9,21.0,97.875,,,,,0.0,20,20,R,False,Retired,0.0,33
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,vergne,VER,toro_rosso,25,14.0,95.815,95.286,,,,0.0,14,21,R,False,Retired,0.0,18
+2014,3,Bahrain Grand Prix,2014-04-06,bahrain,conventional,sutil,SUT,sauber,99,18.0,96.84,,,,,0.0,22,22,R,False,Collision,0.0,17
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,hamilton,HAM,mercedes,44,1.0,115.51599999999999,114.029,113.86,,,0.0,1,1,1,True,Finished,25.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,rosberg,ROS,mercedes,6,4.0,116.05799999999999,115.294,115.143,,,0.0,4,2,2,True,Finished,18.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,alonso,ALO,ferrari,14,5.0,116.961,115.765,115.637,,,0.0,5,3,3,True,Finished,15.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,ricciardo,RIC,red_bull,3,2.0,116.64099999999999,115.30199999999999,114.455,,,0.0,2,4,4,True,Finished,12.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,vettel,VET,red_bull,1,3.0,115.926,114.499,114.96000000000001,,,0.0,3,5,5,True,Finished,10.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,hulkenberg,HUL,force_india,27,8.0,115.913,116.84700000000001,116.366,,,0.0,8,6,6,True,Finished,8.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,bottas,BOT,williams,77,7.0,116.501,116.253,116.282,,,0.0,7,7,7,True,Finished,6.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,raikkonen,RAI,ferrari,7,11.0,118.279,116.86,,,,0.0,11,8,8,True,Finished,4.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,perez,PER,force_india,11,16.0,118.362,118.26400000000001,,,,0.0,16,9,9,True,Finished,2.0,54
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,kvyat,KVY,toro_rosso,26,13.0,117.261,117.289,,,,0.0,13,10,10,True,+1 Lap,1.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,button,BUT,mclaren,22,12.0,117.783,116.963,,,,0.0,12,11,11,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,vergne,VER,toro_rosso,25,9.0,117.477,116.584,116.773,,,0.0,9,12,12,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,kevin_magnussen,MAG,mclaren,20,15.0,117.369,117.675,,,,0.0,15,13,13,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,maldonado,MAL,lotus_f1,13,22.0,,,,,,0.0,22,14,14,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,massa,MAS,williams,19,6.0,116.85,116.757,116.14699999999999,,,0.0,6,15,15,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,gutierrez,GUT,sauber,21,17.0,118.988,,,,,0.0,17,16,16,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,jules_bianchi,BIA,marussia,17,19.0,119.326,,,,,0.0,19,17,17,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,kobayashi,KOB,caterham,10,18.0,119.25999999999999,,,,,0.0,18,18,18,True,+1 Lap,0.0,53
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,chilton,CHI,marussia,4,21.0,120.865,,,,,0.0,21,19,19,True,+2 Laps,0.0,52
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,ericsson,ERI,caterham,9,20.0,120.646,,,,,0.0,20,20,20,True,+2 Laps,0.0,52
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,grosjean,GRO,lotus_f1,8,10.0,118.411,116.407,117.07900000000001,,,0.0,10,21,R,False,Gearbox,0.0,28
+2014,4,Chinese Grand Prix,2014-04-20,shanghai,conventional,sutil,SUT,sauber,99,14.0,118.138,117.393,,,,0.0,14,22,R,False,Engine,0.0,5
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,hamilton,HAM,mercedes,44,1.0,87.238,86.21000000000001,85.232,,,0.0,1,1,1,True,Finished,25.0,66
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,rosberg,ROS,mercedes,6,2.0,86.764,86.088,85.4,,,0.0,2,2,2,True,Finished,18.0,66
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,ricciardo,RIC,red_bull,3,3.0,88.053,86.613,86.285,,,0.0,3,3,3,True,Finished,15.0,66
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,vettel,VET,red_bull,1,10.0,87.958,87.05199999999999,,,,0.0,15,4,4,True,Finished,12.0,66
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,bottas,BOT,williams,77,4.0,88.19800000000001,87.563,86.632,,,0.0,4,5,5,True,Finished,10.0,66
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,alonso,ALO,ferrari,14,7.0,88.32900000000001,87.602,87.14,,,0.0,7,6,6,True,Finished,8.0,66
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,raikkonen,RAI,ferrari,7,6.0,88.30799999999999,87.33500000000001,87.104,,,0.0,6,7,7,True,+1 Lap,6.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,grosjean,GRO,lotus_f1,8,5.0,88.47200000000001,87.258,86.96000000000001,,,0.0,5,8,8,True,+1 Lap,4.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,perez,PER,force_india,11,12.0,88.469,88.002,,,,0.0,11,9,9,True,+1 Lap,2.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,hulkenberg,HUL,force_india,27,11.0,88.155,87.685,,,,0.0,10,10,10,True,+1 Lap,1.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,button,BUT,mclaren,22,8.0,88.279,87.57,87.33500000000001,,,0.0,8,11,11,True,+1 Lap,0.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,kevin_magnussen,MAG,mclaren,20,15.0,88.389,,,,,0.0,14,12,12,True,+1 Lap,0.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,massa,MAS,williams,19,9.0,88.061,87.01599999999999,87.402,,,0.0,9,13,13,True,+1 Lap,0.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,kvyat,KVY,toro_rosso,26,13.0,88.074,88.039,,,,0.0,12,14,14,True,+1 Lap,0.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,maldonado,MAL,lotus_f1,13,22.0,,,,,,0.0,22,15,15,True,+1 Lap,0.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,gutierrez,GUT,sauber,21,14.0,88.374,88.28,,,,0.0,13,16,16,True,+1 Lap,0.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,sutil,SUT,sauber,99,17.0,88.563,,,,,0.0,16,17,17,True,+1 Lap,0.0,65
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,jules_bianchi,BIA,marussia,17,19.0,90.17699999999999,,,,,0.0,18,18,18,True,+2 Laps,0.0,64
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,chilton,CHI,marussia,4,18.0,89.586,,,,,0.0,17,19,19,True,+2 Laps,0.0,64
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,ericsson,ERI,caterham,9,20.0,90.312,,,,,0.0,19,20,20,True,+2 Laps,0.0,64
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,kobayashi,KOB,caterham,10,21.0,90.375,,,,,0.0,20,21,R,False,Brakes,0.0,34
+2014,5,Spanish Grand Prix,2014-05-11,catalunya,conventional,vergne,VER,toro_rosso,25,16.0,88.194,,,,,0.0,21,22,R,False,Exhaust,0.0,24
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,rosberg,ROS,mercedes,6,1.0,77.678,76.465,75.989,,,0.0,1,1,1,True,Finished,25.0,78
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,hamilton,HAM,mercedes,44,2.0,77.82300000000001,76.354,76.048,,,0.0,2,2,2,True,Finished,18.0,78
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,ricciardo,RIC,red_bull,3,3.0,77.9,77.233,76.384,,,0.0,3,3,3,True,Finished,15.0,78
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,alonso,ALO,ferrari,14,5.0,77.85300000000001,77.2,76.686,,,0.0,5,4,4,True,Finished,12.0,78
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,hulkenberg,HUL,force_india,27,11.0,78.432,77.846,,,,0.0,11,5,5,True,+1 Lap,10.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,button,BUT,mclaren,22,12.0,77.89,77.988,,,,0.0,12,6,6,True,+1 Lap,8.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,massa,MAS,williams,19,16.0,78.209,,,,,0.0,16,7,7,True,+1 Lap,6.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,grosjean,GRO,lotus_f1,8,14.0,78.33500000000001,78.196,,,,0.0,14,8,8,True,+1 Lap,4.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,jules_bianchi,BIA,marussia,17,19.0,79.332,,,,,0.0,21,9,9,True,+1 Lap,2.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,kevin_magnussen,MAG,mclaren,20,8.0,77.97800000000001,77.60900000000001,77.555,,,0.0,8,10,10,True,+1 Lap,1.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,ericsson,ERI,caterham,9,22.0,81.732,,,,,0.0,22,11,11,True,+1 Lap,0.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,raikkonen,RAI,ferrari,7,6.0,77.902,77.398,77.389,,,0.0,6,12,12,True,+1 Lap,0.0,77
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,kobayashi,KOB,caterham,10,21.0,80.133,,,,,0.0,20,13,13,True,+2 Laps,0.0,75
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,chilton,CHI,marussia,4,20.0,79.928,,,,,0.0,19,14,14,True,+3 Laps,0.0,75
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,gutierrez,GUT,sauber,21,17.0,78.741,,,,,0.0,17,15,R,False,Accident,0.0,59
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,bottas,BOT,williams,77,13.0,78.407,78.082,,,,0.0,13,16,R,False,Engine,0.0,55
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,vergne,VER,toro_rosso,25,7.0,77.557,77.657,77.53999999999999,,,0.0,7,17,R,False,Engine,0.0,50
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,sutil,SUT,sauber,99,18.0,78.745,,,,,0.0,18,18,R,False,Accident,0.0,23
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,kvyat,KVY,toro_rosso,26,9.0,78.616,77.594,78.09,,,0.0,9,19,R,False,Mechanical,0.0,10
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,vettel,VET,red_bull,1,4.0,78.383,77.074,76.547,,,0.0,4,20,R,False,Turbo,0.0,5
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,perez,PER,force_india,11,10.0,78.108,77.755,78.327,,,0.0,10,21,R,False,Collision,0.0,0
+2014,6,Monaco Grand Prix,2014-05-25,monaco,conventional,maldonado,MAL,lotus_f1,13,15.0,78.58500000000001,78.356,,,,0.0,15,22,W,False,Withdrew,0.0,0
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,ricciardo,RIC,red_bull,3,6.0,77.113,75.897,75.589,,,0.0,6,1,1,True,Finished,25.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,rosberg,ROS,mercedes,6,1.0,76.471,75.289,74.874,,,0.0,1,2,2,True,Finished,18.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,vettel,VET,red_bull,1,3.0,77.47,76.10900000000001,75.548,,,0.0,3,3,3,True,Finished,15.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,button,BUT,mclaren,22,9.0,76.631,76.214,76.182,,,0.0,9,4,4,True,Finished,12.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,hulkenberg,HUL,force_india,27,11.0,76.89699999999999,76.3,,,,0.0,11,5,5,True,Finished,10.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,alonso,ALO,ferrari,14,7.0,77.01,76.131,75.814,,,0.0,7,6,6,True,Finished,8.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,bottas,BOT,williams,77,4.0,76.77199999999999,75.806,75.55,,,0.0,4,7,7,True,Finished,6.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,vergne,VER,toro_rosso,25,8.0,77.178,76.255,76.162,,,0.0,8,8,8,True,Finished,4.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,kevin_magnussen,MAG,mclaren,20,12.0,76.446,76.31,,,,0.0,12,9,9,True,Finished,2.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,raikkonen,RAI,ferrari,7,10.0,77.013,76.245,76.214,,,0.0,10,10,10,True,Finished,1.0,70
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,perez,PER,force_india,11,13.0,78.235,76.47200000000001,,,,0.0,13,11,11,True,Collision,0.0,69
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,massa,MAS,williams,19,5.0,76.666,75.773,75.578,,,0.0,5,12,12,True,Collision,0.0,69
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,sutil,SUT,sauber,99,16.0,77.519,77.314,,,,0.0,16,13,13,True,+1 Lap,0.0,69
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,gutierrez,GUT,sauber,21,22.0,,,,,,0.0,22,14,14,True,ERS,0.0,64
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,grosjean,GRO,lotus_f1,8,14.0,77.732,76.687,,,,0.0,14,15,R,False,Rear wing,0.0,59
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,kvyat,KVY,toro_rosso,26,15.0,76.938,76.713,,,,0.0,15,16,R,False,Drivetrain,0.0,47
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,hamilton,HAM,mercedes,44,2.0,75.75,75.054,74.953,,,0.0,2,17,R,False,Brakes,0.0,46
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,kobayashi,KOB,caterham,10,20.0,79.27799999999999,,,,,0.0,21,18,R,False,Suspension,0.0,23
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,maldonado,MAL,lotus_f1,13,17.0,78.328,,,,,0.0,17,19,R,False,Power Unit,0.0,21
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,ericsson,ERI,caterham,9,21.0,79.82,,,,,0.0,20,20,R,False,Turbo,0.0,7
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,chilton,CHI,marussia,4,18.0,78.348,,,,,0.0,18,21,R,False,Collision,0.0,0
+2014,7,Canadian Grand Prix,2014-06-08,villeneuve,conventional,jules_bianchi,BIA,marussia,17,19.0,78.35900000000001,,,,,0.0,19,22,R,False,Collision,0.0,0
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,rosberg,ROS,mercedes,6,3.0,69.695,68.974,68.944,,,0.0,3,1,1,True,Finished,25.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,hamilton,HAM,mercedes,44,9.0,69.514,69.092,,,,0.0,9,2,2,True,Finished,18.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,bottas,BOT,williams,77,2.0,70.356,69.096,68.846,,,0.0,2,3,3,True,Finished,15.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,massa,MAS,williams,19,1.0,70.292,69.239,68.759,,,0.0,1,4,4,True,Finished,12.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,alonso,ALO,ferrari,14,4.0,70.405,69.479,69.285,,,0.0,4,5,5,True,Finished,10.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,perez,PER,force_india,11,11.0,70.124,69.754,,,,0.0,15,6,6,True,Finished,8.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,kevin_magnussen,MAG,mclaren,20,6.0,70.081,69.473,69.515,,,0.0,6,7,7,True,Finished,6.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,ricciardo,RIC,red_bull,3,5.0,70.395,69.638,69.466,,,0.0,5,8,8,True,Finished,4.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,hulkenberg,HUL,force_india,27,10.0,70.389,69.624,,,,0.0,10,9,9,True,Finished,2.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,raikkonen,RAI,ferrari,7,8.0,70.285,69.657,70.795,,,0.0,8,10,10,True,Finished,1.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,button,BUT,mclaren,22,12.0,70.252,69.78,,,,0.0,11,11,11,True,Finished,0.0,71
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,maldonado,MAL,lotus_f1,13,14.0,70.821,69.939,,,,0.0,13,12,12,True,+1 Lap,0.0,70
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,sutil,SUT,sauber,99,17.0,70.825,,,,,0.0,16,13,13,True,+1 Lap,0.0,70
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,grosjean,GRO,lotus_f1,8,16.0,70.461,70.642,,,,0.0,22,14,14,True,+1 Lap,0.0,70
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,jules_bianchi,BIA,marussia,17,19.0,71.412,,,,,0.0,18,15,15,True,+2 Laps,0.0,69
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,kobayashi,KOB,caterham,10,20.0,71.673,,,,,0.0,19,16,16,True,+2 Laps,0.0,69
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,chilton,CHI,marussia,4,21.0,71.775,,,,,0.0,21,17,17,True,+2 Laps,0.0,69
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,ericsson,ERI,caterham,9,22.0,72.673,,,,,0.0,20,18,18,True,+2 Laps,0.0,69
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,gutierrez,GUT,sauber,21,18.0,71.349,,,,,0.0,17,19,19,True,+2 Laps,0.0,69
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,vergne,VER,toro_rosso,25,15.0,70.161,70.07300000000001,,,,0.0,14,20,R,False,Brakes,0.0,59
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,vettel,VET,red_bull,1,13.0,70.63,69.801,,,,0.0,12,21,R,False,Electrical,0.0,34
+2014,8,Austrian Grand Prix,2014-06-22,red_bull_ring,conventional,kvyat,KVY,toro_rosso,26,7.0,69.678,69.49,69.619,,,0.0,7,22,R,False,Suspension,0.0,24
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,hamilton,HAM,mercedes,44,6.0,101.05799999999999,94.87,99.232,,,0.0,6,1,1,True,Finished,25.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,bottas,BOT,williams,77,17.0,105.318,,,,,0.0,14,2,2,True,Finished,18.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,ricciardo,RIC,red_bull,3,8.0,104.71000000000001,98.166,100.606,,,0.0,8,3,3,True,Finished,15.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,button,BUT,mclaren,22,3.0,104.425,96.57900000000001,98.2,,,0.0,3,4,4,True,Finished,12.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,vettel,VET,red_bull,1,2.0,105.086,96.41,97.386,,,0.0,2,5,5,True,Finished,10.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,alonso,ALO,ferrari,14,19.0,105.935,,,,,0.0,16,6,6,True,Finished,8.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,kevin_magnussen,MAG,mclaren,20,5.0,102.507,97.37,98.417,,,0.0,5,7,7,True,Finished,6.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,hulkenberg,HUL,force_india,27,4.0,101.271,97.112,98.32900000000001,,,0.0,4,8,8,True,Finished,4.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,kvyat,KVY,toro_rosso,26,9.0,101.032,96.813,100.707,,,0.0,9,9,9,True,Finished,2.0,52
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,vergne,VER,toro_rosso,25,10.0,103.03999999999999,97.8,100.85499999999999,,,0.0,10,10,10,True,+1 Lap,1.0,51
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,perez,PER,force_india,11,7.0,102.146,97.35,100.457,,,0.0,7,11,11,True,+1 Lap,0.0,51
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,grosjean,GRO,lotus_f1,8,11.0,103.12100000000001,98.49600000000001,,,,0.0,11,12,12,True,+1 Lap,0.0,51
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,sutil,SUT,sauber,99,16.0,102.60300000000001,,,,,0.0,13,13,13,True,+1 Lap,0.0,51
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,jules_bianchi,BIA,marussia,17,12.0,101.169,98.709,,,,0.0,12,14,14,True,+1 Lap,0.0,51
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,kobayashi,KOB,caterham,10,22.0,109.625,,,,,0.0,22,15,15,True,+2 Laps,0.0,50
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,chilton,CHI,marussia,4,13.0,102.082,99.8,,,,0.0,17,16,16,True,+2 Laps,0.0,50
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,maldonado,MAL,lotus_f1,13,15.0,103.892,104.018,,,,0.0,20,17,17,True,+3 Laps,0.0,49
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,rosberg,ROS,mercedes,6,1.0,100.38,95.179,95.76599999999999,,,0.0,1,18,R,False,Gearbox,0.0,28
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,ericsson,ERI,caterham,9,21.0,109.42099999999999,,,,,0.0,21,19,R,False,Suspension,0.0,11
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,gutierrez,GUT,sauber,21,14.0,103.285,100.912,,,,0.0,19,20,R,False,Collision,0.0,9
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,massa,MAS,williams,19,18.0,105.695,,,,,0.0,15,21,R,False,Collision,0.0,0
+2014,9,British Grand Prix,2014-07-06,silverstone,conventional,raikkonen,RAI,ferrari,7,20.0,106.684,,,,,0.0,18,22,R,False,Collision,0.0,0
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,rosberg,ROS,mercedes,6,1.0,77.631,77.10900000000001,76.53999999999999,,,0.0,1,1,1,True,Finished,25.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,bottas,BOT,williams,77,2.0,78.215,77.35300000000001,76.759,,,0.0,2,2,2,True,Finished,18.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,hamilton,HAM,mercedes,44,16.0,78.68299999999999,,,,,0.0,20,3,3,True,Finished,15.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,vettel,VET,red_bull,1,6.0,78.194,77.646,77.577,,,0.0,6,4,4,True,Finished,12.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,alonso,ALO,ferrari,14,7.0,78.389,77.866,77.649,,,0.0,7,5,5,True,Finished,10.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,ricciardo,RIC,red_bull,3,5.0,78.117,77.855,77.273,,,0.0,5,6,6,True,Finished,8.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,hulkenberg,HUL,force_india,27,9.0,78.92699999999999,78.017,78.014,,,0.0,9,7,7,True,Finished,6.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,button,BUT,mclaren,22,11.0,78.425,78.193,,,,0.0,11,8,8,True,Finished,4.0,67
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,kevin_magnussen,MAG,mclaren,20,4.0,78.26,77.788,77.214,,,0.0,4,9,9,True,+1 Lap,2.0,66
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,perez,PER,force_india,11,10.0,78.916,78.161,78.035,,,0.0,10,10,10,True,+1 Lap,1.0,66
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,raikkonen,RAI,ferrari,7,12.0,78.53399999999999,78.273,,,,0.0,12,11,11,True,+1 Lap,0.0,66
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,maldonado,MAL,lotus_f1,13,19.0,80.195,,,,,0.0,18,12,12,True,+1 Lap,0.0,66
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,vergne,VER,toro_rosso,25,13.0,78.496,78.285,,,,0.0,13,13,13,True,+1 Lap,0.0,66
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,gutierrez,GUT,sauber,21,14.0,78.739,78.787,,,,0.0,16,14,14,True,+1 Lap,0.0,66
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,jules_bianchi,BIA,marussia,17,18.0,79.676,,,,,0.0,17,15,15,True,+1 Lap,0.0,66
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,kobayashi,KOB,caterham,10,20.0,80.408,,,,,0.0,19,16,16,True,+2 Laps,0.0,65
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,chilton,CHI,marussia,4,21.0,80.489,,,,,0.0,21,17,17,True,+2 Laps,0.0,65
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,ericsson,ERI,caterham,9,22.0,,,,,,0.0,22,18,18,True,+2 Laps,0.0,65
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,sutil,SUT,sauber,99,17.0,79.142,,,,,0.0,15,19,R,False,Brakes,0.0,47
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,kvyat,KVY,toro_rosso,26,8.0,78.53,78.10300000000001,77.965,,,0.0,8,20,R,False,Oil leak,0.0,44
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,grosjean,GRO,lotus_f1,8,15.0,78.894,78.983,,,,0.0,14,21,R,False,Water leak,0.0,26
+2014,10,German Grand Prix,2014-07-20,hockenheimring,conventional,massa,MAS,williams,19,3.0,78.381,77.37,77.078,,,0.0,3,22,R,False,Collision,0.0,0
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,ricciardo,RIC,red_bull,3,4.0,85.495,83.676,83.39099999999999,,,0.0,4,1,1,True,Finished,25.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,alonso,ALO,ferrari,14,5.0,86.087,84.249,83.90899999999999,,,0.0,5,2,2,True,Finished,18.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,hamilton,HAM,mercedes,44,21.0,,,,,,0.0,22,3,3,True,Finished,15.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,rosberg,ROS,mercedes,6,1.0,85.227,83.31,82.715,,,0.0,1,4,4,True,Finished,12.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,massa,MAS,williams,19,6.0,86.592,84.03,84.223,,,0.0,6,5,5,True,Finished,10.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,raikkonen,RAI,ferrari,7,17.0,86.792,,,,,0.0,16,6,6,True,Finished,8.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,vettel,VET,red_bull,1,2.0,85.662,83.606,83.201,,,0.0,2,7,7,True,Finished,6.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,bottas,BOT,williams,77,3.0,85.69,83.776,83.354,,,0.0,3,8,8,True,Finished,4.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,vergne,VER,toro_rosso,25,8.0,84.941,84.637,84.72,,,0.0,8,9,9,True,Finished,2.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,button,BUT,mclaren,22,7.0,86.612,84.502,84.294,,,0.0,7,10,10,True,Finished,1.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,sutil,SUT,sauber,99,12.0,86.027,85.136,,,,0.0,11,11,11,True,Finished,0.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,kevin_magnussen,MAG,mclaren,20,10.0,86.578,84.58500000000001,,,,0.0,21,12,12,True,Finished,0.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,maldonado,MAL,lotus_f1,13,22.0,,,,,,0.0,20,13,13,True,Finished,0.0,70
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,kvyat,KVY,toro_rosso,26,11.0,85.361,84.706,,,,0.0,10,14,14,True,+1 Lap,0.0,69
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,jules_bianchi,BIA,marussia,17,16.0,86.72800000000001,87.419,,,,0.0,15,15,15,True,+1 Lap,0.0,69
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,chilton,CHI,marussia,4,19.0,87.819,,,,,0.0,18,16,16,True,+1 Lap,0.0,69
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,gutierrez,GUT,sauber,21,14.0,85.709,85.26,,,,0.0,13,17,R,False,Retired,0.0,33
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,kobayashi,KOB,caterham,10,18.0,87.139,,,,,0.0,17,18,R,False,Retired,0.0,26
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,perez,PER,force_india,11,13.0,85.91,85.211,,,,0.0,12,19,R,False,Accident,0.0,23
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,hulkenberg,HUL,force_india,27,9.0,86.149,84.64699999999999,84.775,,,0.0,9,20,R,False,Accident,0.0,16
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,grosjean,GRO,lotus_f1,8,15.0,86.136,85.337,,,,0.0,14,21,R,False,Accident,0.0,11
+2014,11,Hungarian Grand Prix,2014-07-27,hungaroring,conventional,ericsson,ERI,caterham,9,20.0,88.643,,,,,0.0,19,22,R,False,Accident,0.0,8
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,ricciardo,RIC,red_bull,3,5.0,130.089,128.989,127.911,,,0.0,5,1,1,True,Finished,25.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,rosberg,ROS,mercedes,6,1.0,127.13,126.723,125.591,,,0.0,1,2,2,True,Finished,18.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,bottas,BOT,williams,77,6.0,129.25,128.451,128.049,,,0.0,6,3,3,True,Finished,15.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,raikkonen,RAI,ferrari,7,8.0,129.885,128.64600000000002,128.78,,,0.0,8,4,4,True,Finished,12.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,vettel,VET,red_bull,1,3.0,130.105,128.868,127.717,,,0.0,3,5,5,True,Finished,10.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,button,BUT,mclaren,22,10.0,130.529,129.272,129.776,,,0.0,10,6,6,True,Finished,8.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,alonso,ALO,ferrari,14,4.0,130.197,128.45,127.786,,,0.0,4,7,7,True,Finished,6.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,perez,PER,force_india,11,13.0,130.666,130.084,,,,0.0,13,8,8,True,Finished,4.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,kvyat,KVY,toro_rosso,26,11.0,130.445,129.377,,,,0.0,11,9,9,True,Finished,2.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,hulkenberg,HUL,force_india,27,18.0,131.267,,,,,0.0,18,10,10,True,Finished,1.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,vergne,VER,toro_rosso,25,12.0,129.811,129.805,,,,0.0,12,11,11,True,Finished,0.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,kevin_magnussen,MAG,mclaren,20,7.0,131.081,128.901,128.679,,,0.0,7,12,12,True,Finished,0.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,massa,MAS,williams,19,9.0,128.403,128.833,129.178,,,0.0,9,13,13,True,Finished,0.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,sutil,SUT,sauber,99,14.0,131.051,130.238,,,,0.0,14,14,14,True,Finished,0.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,gutierrez,GUT,sauber,21,20.0,133.414,,,,,0.0,20,15,15,True,Finished,0.0,44
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,chilton,CHI,marussia,4,19.0,132.566,,,,,0.0,19,16,16,True,+1 Lap,0.0,43
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,ericsson,ERI,caterham,9,22.0,134.438,,,,,0.0,22,17,17,True,+1 Lap,0.0,43
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,jules_bianchi,BIA,marussia,17,16.0,131.051,132.47,,,,0.0,16,18,18,True,Gearbox,0.0,39
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,hamilton,HAM,mercedes,44,2.0,127.28,126.609,125.819,,,0.0,2,19,R,False,Retired,0.0,38
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,grosjean,GRO,lotus_f1,8,15.0,130.898,131.087,,,,0.0,15,20,R,False,Retired,0.0,33
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,maldonado,MAL,lotus_f1,13,17.0,131.261,,,,,0.0,17,21,R,False,Mechanical,0.0,1
+2014,12,Belgian Grand Prix,2014-08-24,spa,conventional,lotterer,LOT,caterham,45,21.0,133.469,,,,,0.0,21,22,R,False,Power Unit,0.0,1
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,hamilton,HAM,mercedes,44,1.0,85.363,84.56,84.10900000000001,,,0.0,1,1,1,True,Finished,25.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,rosberg,ROS,mercedes,6,2.0,85.493,84.6,84.383,,,0.0,2,2,2,True,Finished,18.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,massa,MAS,williams,19,4.0,85.52799999999999,85.04599999999999,84.865,,,0.0,4,3,3,True,Finished,15.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,bottas,BOT,williams,77,3.0,86.012,84.858,84.697,,,0.0,3,4,4,True,Finished,12.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,ricciardo,RIC,red_bull,3,9.0,86.721,85.946,85.709,,,0.0,9,5,5,True,Finished,10.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,vettel,VET,red_bull,1,8.0,86.631,85.769,85.436,,,0.0,8,6,6,True,Finished,8.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,perez,PER,force_india,11,10.0,86.569,85.863,85.944,,,0.0,10,7,7,True,Finished,6.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,button,BUT,mclaren,22,6.0,86.328,85.63,85.379,,,0.0,6,8,8,True,Finished,4.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,raikkonen,RAI,ferrari,7,12.0,86.689,86.11,,,,0.0,11,9,9,True,Finished,2.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,kevin_magnussen,MAG,mclaren,20,5.0,86.337,85.973,85.314,,,0.0,5,10,10,True,Finished,1.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,kvyat,KVY,toro_rosso,26,11.0,86.261,86.07,,,,0.0,21,11,11,True,Finished,0.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,hulkenberg,HUL,force_india,27,14.0,86.371,86.279,,,,0.0,13,12,12,True,Finished,0.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,vergne,VER,toro_rosso,25,13.0,86.14,86.157,,,,0.0,12,13,13,True,Finished,0.0,53
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,maldonado,MAL,lotus_f1,13,17.0,87.52,,,,,0.0,16,14,14,True,+1 Lap,0.0,52
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,sutil,SUT,sauber,99,15.0,87.03399999999999,86.588,,,,0.0,14,15,15,True,+1 Lap,0.0,52
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,grosjean,GRO,lotus_f1,8,18.0,87.632,,,,,0.0,17,16,16,True,+1 Lap,0.0,52
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,kobayashi,KOB,caterham,10,19.0,87.67099999999999,,,,,0.0,18,17,17,True,+1 Lap,0.0,52
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,jules_bianchi,BIA,marussia,17,20.0,87.738,,,,,0.0,19,18,18,True,+1 Lap,0.0,52
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,gutierrez,GUT,sauber,21,16.0,86.999,86.69200000000001,,,,0.0,15,19,19,True,+2 Laps,0.0,51
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,ericsson,ERI,caterham,9,22.0,88.562,,,,,0.0,22,20,20,True,+2 Laps,0.0,51
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,alonso,ALO,ferrari,14,7.0,86.514,85.525,85.43,,,0.0,7,21,R,False,Engine,0.0,28
+2014,13,Italian Grand Prix,2014-09-07,monza,conventional,chilton,CHI,marussia,4,21.0,88.247,,,,,0.0,20,22,R,False,Accident,0.0,5
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,hamilton,HAM,mercedes,44,1.0,106.92099999999999,106.287,105.681,,,0.0,1,1,1,True,Finished,25.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,vettel,VET,red_bull,1,4.0,107.476,106.586,105.902,,,0.0,4,2,2,True,Finished,18.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,ricciardo,RIC,red_bull,3,3.0,107.488,106.493,105.854,,,0.0,3,3,3,True,Finished,15.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,alonso,ALO,ferrari,14,5.0,106.88900000000001,106.328,105.907,,,0.0,5,4,4,True,Finished,12.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,massa,MAS,williams,19,6.0,107.61500000000001,106.47200000000001,106.0,,,0.0,6,5,5,True,Finished,10.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,vergne,VER,toro_rosso,25,12.0,107.407,106.989,,,,0.0,12,6,6,True,Finished,8.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,perez,PER,force_india,11,15.0,108.143,107.575,,,,0.0,15,7,7,True,Finished,6.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,raikkonen,RAI,ferrari,7,7.0,106.685,106.35900000000001,106.17,,,0.0,7,8,8,True,Finished,4.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,hulkenberg,HUL,force_india,27,13.0,107.37,107.30799999999999,,,,0.0,13,9,9,True,Finished,2.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,kevin_magnussen,MAG,mclaren,20,9.0,107.976,106.7,106.25,,,0.0,9,10,10,True,Finished,1.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,bottas,BOT,williams,77,8.0,107.196,106.622,106.187,,,0.0,8,11,11,True,Finished,0.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,maldonado,MAL,lotus_f1,13,18.0,109.063,,,,,0.0,18,12,12,True,Finished,0.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,grosjean,GRO,lotus_f1,8,16.0,107.862,107.812,,,,0.0,16,13,13,True,Finished,0.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,kvyat,KVY,toro_rosso,26,10.0,107.656,106.926,107.362,,,0.0,10,14,14,True,Finished,0.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,ericsson,ERI,caterham,9,22.0,112.287,,,,,0.0,22,15,15,True,Finished,0.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,jules_bianchi,BIA,marussia,17,19.0,109.44,,,,,0.0,19,16,16,True,Finished,0.0,60
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,chilton,CHI,marussia,4,21.0,110.473,,,,,0.0,21,17,17,True,+1 Lap,0.0,59
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,button,BUT,mclaren,22,11.0,107.161,106.943,,,,0.0,11,18,R,False,Retired,0.0,52
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,sutil,SUT,sauber,99,17.0,108.324,,,,,0.0,17,19,R,False,Water pressure,0.0,40
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,gutierrez,GUT,sauber,21,14.0,107.97,107.333,,,,0.0,14,20,R,False,Electrical,0.0,17
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,rosberg,ROS,mercedes,6,2.0,107.244,105.825,105.688,,,0.0,2,21,R,False,Electrical,0.0,13
+2014,14,Singapore Grand Prix,2014-09-21,marina_bay,conventional,kobayashi,KOB,caterham,10,20.0,110.405,,,,,0.0,20,22,W,False,Power Unit,0.0,0
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,hamilton,HAM,mercedes,44,2.0,93.61099999999999,92.982,92.703,,,0.0,2,1,1,True,Finished,25.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,rosberg,ROS,mercedes,6,1.0,93.67099999999999,92.95,92.506,,,0.0,1,2,2,True,Finished,18.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,vettel,VET,red_bull,1,9.0,95.517,94.78399999999999,94.432,,,0.0,9,3,3,True,Finished,15.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,ricciardo,RIC,red_bull,3,6.0,95.593,94.46600000000001,94.075,,,0.0,6,4,4,True,Finished,12.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,button,BUT,mclaren,22,8.0,95.15,94.648,94.31700000000001,,,0.0,8,5,5,True,Finished,10.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,bottas,BOT,williams,77,3.0,94.301,93.443,93.128,,,0.0,3,6,6,True,Finished,8.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,massa,MAS,williams,19,4.0,94.483,93.551,93.527,,,0.0,4,7,7,True,Finished,6.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,hulkenberg,HUL,force_india,27,14.0,95.0,95.09899999999999,,,,0.0,13,8,8,True,Finished,4.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,vergne,VER,toro_rosso,25,11.0,95.155,94.98400000000001,,,,0.0,20,9,9,True,Finished,2.0,44
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,perez,PER,force_india,11,12.0,95.439,95.089,,,,0.0,11,10,10,True,+1 Lap,1.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,kvyat,KVY,toro_rosso,26,13.0,95.21000000000001,95.092,,,,0.0,12,11,11,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,raikkonen,RAI,ferrari,7,10.0,94.98400000000001,94.771,94.548,,,0.0,10,12,12,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,gutierrez,GUT,sauber,21,16.0,95.30799999999999,95.681,,,,0.0,15,13,13,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,kevin_magnussen,MAG,mclaren,20,7.0,94.93,94.229,94.24199999999999,,,0.0,7,14,14,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,grosjean,GRO,lotus_f1,8,18.0,95.98400000000001,,,,,0.0,16,15,15,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,maldonado,MAL,lotus_f1,13,17.0,95.917,,,,,0.0,22,16,16,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,ericsson,ERI,caterham,9,19.0,96.813,,,,,0.0,17,17,17,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,chilton,CHI,marussia,4,22.0,97.481,,,,,0.0,21,18,18,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,kobayashi,KOB,caterham,10,21.0,97.015,,,,,0.0,19,19,19,True,+1 Lap,0.0,43
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,jules_bianchi,BIA,marussia,17,20.0,96.943,,,,,0.0,18,20,20,True,Accident,0.0,41
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,sutil,SUT,sauber,99,15.0,95.73599999999999,95.364,,,,0.0,14,21,21,True,Accident,0.0,40
+2014,15,Japanese Grand Prix,2014-10-05,suzuka,conventional,alonso,ALO,ferrari,14,5.0,94.497,93.675,93.74000000000001,,,0.0,5,22,R,False,Electronics,0.0,2
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,hamilton,HAM,mercedes,44,1.0,98.759,98.338,98.513,,,0.0,1,1,1,True,Finished,25.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,rosberg,ROS,mercedes,6,2.0,99.076,98.606,98.713,,,0.0,2,2,2,True,Finished,18.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,bottas,BOT,williams,77,3.0,99.125,98.971,98.92,,,0.0,3,3,3,True,Finished,15.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,button,BUT,mclaren,22,4.0,99.56,99.381,99.12100000000001,,,0.0,4,4,4,True,Finished,12.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,kevin_magnussen,MAG,mclaren,20,6.0,99.735,99.02199999999999,99.62899999999999,,,0.0,11,5,5,True,Finished,10.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,alonso,ALO,ferrari,14,8.0,100.255,99.786,99.709,,,0.0,7,6,6,True,Finished,8.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,ricciardo,RIC,red_bull,3,7.0,100.519,99.666,99.63499999999999,,,0.0,6,7,7,True,Finished,6.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,vettel,VET,red_bull,1,11.0,100.382,100.05199999999999,,,,0.0,10,8,8,True,Finished,4.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,raikkonen,RAI,ferrari,7,9.0,100.098,99.838,99.771,,,0.0,8,9,9,True,Finished,2.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,perez,PER,force_india,11,13.0,100.723,100.163,,,,0.0,12,10,10,True,Finished,1.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,massa,MAS,williams,19,18.0,103.064,,,,,0.0,18,11,11,True,Finished,0.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,hulkenberg,HUL,force_india,27,12.0,100.273,100.05799999999999,,,,0.0,17,12,12,True,Finished,0.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,vergne,VER,toro_rosso,25,10.0,100.354,99.929,100.02000000000001,,,0.0,9,13,13,True,Finished,0.0,53
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,kvyat,KVY,toro_rosso,26,5.0,100.074,99.29599999999999,99.277,,,0.0,5,14,14,True,+1 Lap,0.0,52
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,gutierrez,GUT,sauber,21,14.0,101.15899999999999,100.536,,,,0.0,13,15,15,True,+1 Lap,0.0,52
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,sutil,SUT,sauber,99,15.0,100.76599999999999,100.98400000000001,,,,0.0,14,16,16,True,+1 Lap,0.0,52
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,grosjean,GRO,lotus_f1,8,16.0,102.52600000000001,101.39699999999999,,,,0.0,15,17,17,True,+1 Lap,0.0,52
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,maldonado,MAL,lotus_f1,13,20.0,103.205,,,,,0.0,21,18,18,True,+1 Lap,0.0,52
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,ericsson,ERI,caterham,9,17.0,102.648,,,,,0.0,16,19,19,True,+2 Laps,0.0,51
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,kobayashi,KOB,caterham,10,19.0,103.166,,,,,0.0,19,20,R,False,Brakes,0.0,21
+2014,16,Russian Grand Prix,2014-10-12,sochi,conventional,chilton,CHI,marussia,4,21.0,103.649,,,,,0.0,20,21,R,False,Suspension,0.0,9
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,hamilton,HAM,mercedes,44,2.0,97.196,97.287,96.443,,,0.0,2,1,1,True,Finished,25.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,rosberg,ROS,mercedes,6,1.0,98.303,96.28999999999999,96.06700000000001,,,0.0,1,2,2,True,Finished,18.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,ricciardo,RIC,red_bull,3,5.0,98.814,97.87299999999999,97.244,,,0.0,5,3,3,True,Finished,15.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,massa,MAS,williams,19,4.0,97.87700000000001,97.34700000000001,97.205,,,0.0,4,4,4,True,Finished,12.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,bottas,BOT,williams,77,3.0,98.249,97.499,96.906,,,0.0,3,5,5,True,Finished,10.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,alonso,ALO,ferrari,14,6.0,98.34899999999999,98.00999999999999,97.61,,,0.0,6,6,6,True,Finished,8.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,vettel,VET,red_bull,1,17.0,99.62100000000001,,,,,0.0,18,7,7,True,Finished,6.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,kevin_magnussen,MAG,mclaren,20,8.0,98.557,98.047,97.706,,,0.0,7,8,8,True,Finished,4.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,maldonado,MAL,lotus_f1,13,11.0,98.608,98.467,,,,0.0,10,9,9,True,Finished,2.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,vergne,VER,toro_rosso,25,15.0,99.25,,,,,0.0,14,10,10,True,Finished,1.0,56
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,grosjean,GRO,lotus_f1,8,18.0,99.679,,,,,0.0,16,11,11,True,+1 Lap,0.0,55
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,button,BUT,mclaren,22,7.0,98.574,98.024,97.655,,,0.0,12,12,12,True,+1 Lap,0.0,55
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,raikkonen,RAI,ferrari,7,9.0,98.669,98.263,97.804,,,0.0,8,13,13,True,+1 Lap,0.0,55
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,gutierrez,GUT,sauber,21,16.0,99.555,,,,,0.0,15,14,14,True,+1 Lap,0.0,55
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,kvyat,KVY,toro_rosso,26,14.0,98.936,98.699,,,,0.0,17,15,15,True,+1 Lap,0.0,55
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,hulkenberg,HUL,force_india,27,13.0,98.931,98.598,,,,0.0,13,16,R,False,Engine,0.0,16
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,perez,PER,force_india,11,12.0,99.2,98.554,,,,0.0,11,17,R,False,Collision damage,0.0,1
+2014,17,United States Grand Prix,2014-11-02,americas,conventional,sutil,SUT,sauber,99,10.0,98.85499999999999,98.378,98.81,,,0.0,9,18,R,False,Collision,0.0,0
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,rosberg,ROS,mercedes,6,1.0,70.347,70.303,70.023,,,0.0,1,1,1,True,Finished,25.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,hamilton,HAM,mercedes,44,2.0,70.457,70.712,70.056,,,0.0,2,2,2,True,Finished,18.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,massa,MAS,williams,19,3.0,70.602,70.343,70.247,,,0.0,3,3,3,True,Finished,15.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,button,BUT,mclaren,22,5.0,71.097,71.127,70.93,,,0.0,5,4,4,True,Finished,12.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,vettel,VET,red_bull,1,6.0,71.88,71.129,70.938,,,0.0,6,5,5,True,Finished,10.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,alonso,ALO,ferrari,14,8.0,71.55799999999999,71.215,70.977,,,0.0,8,6,6,True,Finished,8.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,raikkonen,RAI,ferrari,7,10.0,71.193,71.188,71.099,,,0.0,10,7,7,True,Finished,6.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,hulkenberg,HUL,force_india,27,12.0,71.848,71.976,,,,0.0,12,8,8,True,Finished,4.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,kevin_magnussen,MAG,mclaren,20,7.0,71.134,71.211,70.969,,,0.0,7,9,9,True,Finished,2.0,71
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,bottas,BOT,williams,77,4.0,70.832,70.42099999999999,70.305,,,0.0,4,10,10,True,+1 Lap,1.0,70
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,kvyat,KVY,toro_rosso,26,14.0,71.423,,,,,0.0,17,11,11,True,+1 Lap,0.0,70
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,maldonado,MAL,lotus_f1,13,18.0,72.233,,,,,0.0,16,12,12,True,+1 Lap,0.0,70
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,vergne,VER,toro_rosso,25,16.0,72.03999999999999,,,,,0.0,15,13,13,True,+1 Lap,0.0,70
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,gutierrez,GUT,sauber,21,11.0,71.52,71.591,,,,0.0,11,14,14,True,+1 Lap,0.0,70
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,perez,PER,force_india,11,17.0,72.076,,,,,0.0,18,15,15,True,+1 Lap,0.0,70
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,sutil,SUT,sauber,99,13.0,71.943,72.099,,,,0.0,13,16,16,True,+1 Lap,0.0,70
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,grosjean,GRO,lotus_f1,8,15.0,72.037,,,,,0.0,14,17,17,True,+8 Laps,0.0,63
+2014,18,Brazilian Grand Prix,2014-11-09,interlagos,conventional,ricciardo,RIC,red_bull,3,9.0,71.593,71.208,71.075,,,0.0,9,18,R,False,Suspension,0.0,39
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,hamilton,HAM,mercedes,44,2.0,101.207,100.92,100.866,,,0.0,2,1,1,True,Finished,50.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,massa,MAS,williams,19,4.0,101.475,101.144,101.119,,,0.0,4,2,2,True,Finished,36.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,bottas,BOT,williams,77,3.0,102.346,101.376,101.025,,,0.0,3,3,3,True,Finished,30.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,ricciardo,RIC,red_bull,3,,,,,,,0.0,20,4,4,True,Finished,24.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,button,BUT,mclaren,22,6.0,102.137,101.875,101.964,,,0.0,6,5,5,True,Finished,20.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,hulkenberg,HUL,force_india,27,12.0,102.444,102.384,,,,0.0,12,6,6,True,Finished,16.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,perez,PER,force_india,11,11.0,102.654,102.239,,,,0.0,11,7,7,True,Finished,12.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,vettel,VET,red_bull,1,,,,,,,0.0,19,8,8,True,Finished,8.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,alonso,ALO,ferrari,14,8.0,102.467,101.94,102.866,,,0.0,8,9,9,True,Finished,4.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,raikkonen,RAI,ferrari,7,7.0,102.439,102.168,102.23599999999999,,,0.0,7,10,10,True,Finished,2.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,kevin_magnussen,MAG,mclaren,20,9.0,102.104,102.19800000000001,,,,0.0,9,11,11,True,Finished,0.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,vergne,VER,toro_rosso,25,10.0,102.413,102.207,,,,0.0,10,12,12,True,Finished,0.0,55
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,grosjean,GRO,lotus_f1,8,14.0,102.768,,,,,0.0,18,13,13,True,+1 Lap,0.0,54
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,rosberg,ROS,mercedes,6,1.0,101.30799999999999,101.459,100.47999999999999,,,0.0,1,14,14,True,+1 Lap,0.0,54
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,gutierrez,GUT,sauber,21,15.0,102.819,,,,,0.0,14,15,15,True,+1 Lap,0.0,54
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,sutil,SUT,sauber,99,13.0,102.74600000000001,103.074,,,,0.0,13,16,16,True,+1 Lap,0.0,54
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,stevens,STE,caterham,46,18.0,105.095,,,,,0.0,17,17,17,True,+1 Lap,0.0,54
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,kobayashi,KOB,caterham,10,17.0,104.53999999999999,,,,,0.0,16,18,R,False,Retired,0.0,42
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,maldonado,MAL,lotus_f1,13,16.0,102.86,,,,,0.0,15,19,R,False,Power Unit,0.0,26
+2014,19,Abu Dhabi Grand Prix,2014-11-23,yas_marina,conventional,kvyat,KVY,toro_rosso,26,5.0,102.30199999999999,102.082,101.908,,,0.0,5,20,R,False,Power Unit,0.0,14

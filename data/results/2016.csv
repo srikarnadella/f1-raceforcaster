@@ -1,0 +1,463 @@
+season,round,race_name,date,circuit_id,format,driver_id,code,constructor_id,number,quali_pos,q1,q2,q3,sprint_pos,sprint_classified,sprint_points,grid,position,position_text,classified,status,points,laps
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,rosberg,ROS,mercedes,6,2.0,86.934,84.79599999999999,84.197,,,0.0,2,1,1,True,Finished,25.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,hamilton,HAM,mercedes,44,1.0,85.351,84.605,83.837,,,0.0,1,2,2,True,Finished,18.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,vettel,VET,ferrari,5,3.0,86.945,85.257,84.675,,,0.0,3,3,3,True,Finished,15.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,ricciardo,RIC,red_bull,3,8.0,86.945,85.599,85.589,,,0.0,8,4,4,True,Finished,12.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,massa,MAS,williams,19,6.0,85.918,85.644,85.458,,,0.0,6,5,5,True,Finished,10.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,grosjean,GRO,haas,8,19.0,88.322,,,,,0.0,19,6,6,True,Finished,8.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,hulkenberg,HUL,force_india,27,10.0,86.55,85.865,,,,0.0,10,7,7,True,Finished,6.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,bottas,BOT,williams,77,11.0,87.135,85.961,,,,0.0,16,8,8,True,Finished,4.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,sainz,SAI,toro_rosso,55,7.0,87.057,85.384,85.582,,,0.0,7,9,9,True,Finished,2.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,max_verstappen,VER,toro_rosso,33,5.0,86.934,85.615,85.434,,,0.0,5,10,10,True,Finished,1.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,jolyon_palmer,PAL,renault,30,14.0,87.241,87.601,,,,0.0,13,11,11,True,Finished,0.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,kevin_magnussen,MAG,renault,20,15.0,87.297,87.742,,,,0.0,14,12,12,True,Finished,0.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,perez,PER,force_india,11,9.0,86.607,85.753,,,,0.0,9,13,13,True,Finished,0.0,57
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,button,BUT,mclaren,22,13.0,86.74,86.304,,,,0.0,12,14,14,True,+1 Lap,0.0,56
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,nasr,NAS,sauber,12,17.0,87.958,,,,,0.0,17,15,15,True,+1 Lap,0.0,56
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,wehrlein,WEH,manor,94,22.0,89.642,,,,,0.0,21,16,16,True,+1 Lap,0.0,56
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,ericsson,ERI,sauber,9,16.0,87.435,,,,,0.0,15,17,R,False,Engine,0.0,38
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,raikkonen,RAI,ferrari,7,4.0,86.57900000000001,85.615,85.033,,,0.0,4,18,R,False,Engine,0.0,21
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,haryanto,HAR,manor,88,21.0,89.627,,,,,0.0,22,19,R,False,Mechanical,0.0,17
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,gutierrez,GUT,haas,21,20.0,89.606,,,,,0.0,20,20,R,False,Collision,0.0,16
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,alonso,ALO,mclaren,14,12.0,86.537,86.125,,,,0.0,11,21,R,False,Collision,0.0,16
+2016,1,Australian Grand Prix,2016-03-20,albert_park,conventional,kvyat,KVY,red_bull,26,18.0,88.006,,,,,0.0,18,22,W,False,Retired,0.0,0
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,rosberg,ROS,mercedes,6,2.0,91.325,90.535,89.57,,,0.0,2,1,1,True,Finished,25.0,57
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,raikkonen,RAI,ferrari,7,4.0,91.685,90.559,90.244,,,0.0,4,2,2,True,Finished,18.0,57
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,hamilton,HAM,mercedes,44,1.0,91.39099999999999,90.039,89.493,,,0.0,1,3,3,True,Finished,15.0,57
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,ricciardo,RIC,red_bull,3,5.0,91.40299999999999,91.122,90.854,,,0.0,5,4,4,True,Finished,12.0,57
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,grosjean,GRO,haas,8,9.0,92.005,91.756,,,,0.0,9,5,5,True,Finished,10.0,57
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,max_verstappen,VER,toro_rosso,33,10.0,91.888,91.77199999999999,,,,0.0,10,6,6,True,Finished,8.0,57
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,kvyat,KVY,red_bull,26,15.0,92.559,92.241,,,,0.0,15,7,7,True,+1 Lap,6.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,massa,MAS,williams,19,7.0,92.045,91.374,91.155,,,0.0,7,8,8,True,+1 Lap,4.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,bottas,BOT,williams,77,6.0,91.672,90.931,91.15299999999999,,,0.0,6,9,9,True,+1 Lap,2.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,vandoorne,VAN,mclaren,47,12.0,92.47200000000001,91.934,,,,0.0,12,10,10,True,+1 Lap,1.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,kevin_magnussen,MAG,renault,20,19.0,93.181,,,,,0.0,22,11,11,True,+1 Lap,0.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,ericsson,ERI,sauber,9,17.0,92.84,,,,,0.0,17,12,12,True,+1 Lap,0.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,wehrlein,WEH,manor,94,16.0,92.806,,,,,0.0,16,13,13,True,+1 Lap,0.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,nasr,NAS,sauber,12,22.0,94.388,,,,,0.0,21,14,14,True,+1 Lap,0.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,hulkenberg,HUL,force_india,27,8.0,91.987,91.604,91.62,,,0.0,8,15,15,True,+1 Lap,0.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,perez,PER,force_india,11,18.0,92.911,,,,,0.0,18,16,16,True,+1 Lap,0.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,haryanto,HAR,manor,88,21.0,94.19,,,,,0.0,20,17,17,True,+1 Lap,0.0,56
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,sainz,SAI,toro_rosso,55,11.0,91.71600000000001,91.816,,,,0.0,11,18,R,False,Retired,0.0,29
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,gutierrez,GUT,haas,21,13.0,92.118,91.945,,,,0.0,13,19,R,False,Retired,0.0,9
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,button,BUT,mclaren,22,14.0,91.976,91.998,,,,0.0,14,20,R,False,Power Unit,0.0,6
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,vettel,VET,ferrari,5,3.0,91.636,90.40899999999999,90.012,,,0.0,3,21,W,False,Engine,0.0,0
+2016,2,Bahrain Grand Prix,2016-04-03,bahrain,conventional,jolyon_palmer,PAL,renault,30,20.0,93.438,,,,,0.0,19,22,W,False,Hydraulics,0.0,0
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,rosberg,ROS,mercedes,6,1.0,97.669,96.24000000000001,95.402,,,0.0,1,1,1,True,Finished,25.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,vettel,VET,ferrari,5,4.0,97.001,96.18299999999999,96.24600000000001,,,0.0,4,2,2,True,Finished,18.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,kvyat,KVY,red_bull,26,6.0,97.719,96.94800000000001,96.399,,,0.0,6,3,3,True,Finished,15.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,ricciardo,RIC,red_bull,3,2.0,97.672,96.815,95.917,,,0.0,2,4,4,True,Finished,12.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,raikkonen,RAI,ferrari,7,3.0,97.34700000000001,96.118,95.97200000000001,,,0.0,3,5,5,True,Finished,10.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,massa,MAS,williams,19,11.0,98.01599999999999,97.34700000000001,,,,0.0,10,6,6,True,Finished,8.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,hamilton,HAM,mercedes,44,22.0,,,,,,0.0,22,7,7,True,Finished,6.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,max_verstappen,VER,toro_rosso,33,9.0,98.181,97.265,97.194,,,0.0,9,8,8,True,Finished,4.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,sainz,SAI,toro_rosso,55,8.0,97.656,97.20400000000001,96.881,,,0.0,8,9,9,True,Finished,2.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,bottas,BOT,williams,77,5.0,97.537,96.831,96.29599999999999,,,0.0,5,10,10,True,Finished,1.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,perez,PER,force_india,11,7.0,98.096,97.149,96.86500000000001,,,0.0,7,11,11,True,Finished,0.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,alonso,ALO,mclaren,14,12.0,98.451,98.826,,,,0.0,11,12,12,True,Finished,0.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,button,BUT,mclaren,22,13.0,97.593,99.093,,,,0.0,12,13,13,True,Finished,0.0,56
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,gutierrez,GUT,haas,21,18.0,98.77000000000001,,,,,0.0,18,14,14,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,hulkenberg,HUL,force_india,27,10.0,98.16499999999999,97.333,,,,0.0,13,15,15,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,ericsson,ERI,sauber,9,15.0,98.321,100.74199999999999,,,,0.0,15,16,16,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,kevin_magnussen,MAG,renault,20,17.0,98.673,,,,,0.0,17,17,17,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,wehrlein,WEH,manor,94,21.0,,,,,,0.0,21,18,18,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,grosjean,GRO,haas,8,14.0,98.425,99.83,,,,0.0,14,19,19,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,nasr,NAS,sauber,12,16.0,98.654,102.43,,,,0.0,16,20,20,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,haryanto,HAR,manor,88,20.0,100.26400000000001,,,,,0.0,20,21,21,True,+1 Lap,0.0,55
+2016,3,Chinese Grand Prix,2016-04-17,shanghai,conventional,jolyon_palmer,PAL,renault,30,19.0,99.52799999999999,,,,,0.0,19,22,22,True,+1 Lap,0.0,55
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,rosberg,ROS,mercedes,6,1.0,96.119,95.337,95.417,,,0.0,1,1,1,True,Finished,25.0,53
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,hamilton,HAM,mercedes,44,10.0,96.006,95.82,,,,0.0,10,2,2,True,Finished,18.0,53
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,raikkonen,RAI,ferrari,7,4.0,96.976,96.741,96.663,,,0.0,3,3,3,True,Finished,15.0,53
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,bottas,BOT,williams,77,3.0,97.74600000000001,97.14,96.536,,,0.0,2,4,4,True,Finished,12.0,53
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,massa,MAS,williams,19,5.0,97.753,97.22999999999999,97.01599999999999,,,0.0,4,5,5,True,Finished,10.0,53
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,alonso,ALO,mclaren,14,14.0,97.971,97.807,,,,0.0,14,6,6,True,+1 Lap,8.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,kevin_magnussen,MAG,renault,20,17.0,98.914,,,,,0.0,17,7,7,True,+1 Lap,6.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,grosjean,GRO,haas,8,15.0,98.38300000000001,98.055,,,,0.0,15,8,8,True,+1 Lap,4.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,perez,PER,force_india,11,7.0,98.006,97.282,97.212,,,0.0,6,9,9,True,+1 Lap,2.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,button,BUT,mclaren,22,12.0,98.332,97.701,,,,0.0,12,10,10,True,+1 Lap,1.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,ricciardo,RIC,red_bull,3,6.0,98.09100000000001,97.569,97.125,,,0.0,5,11,11,True,+1 Lap,0.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,sainz,SAI,toro_rosso,55,11.0,97.78399999999999,97.652,,,,0.0,11,12,12,True,+1 Lap,0.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,jolyon_palmer,PAL,renault,30,18.0,99.009,,,,,0.0,18,13,13,True,+1 Lap,0.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,ericsson,ERI,sauber,9,22.0,99.519,,,,,0.0,22,14,14,True,+1 Lap,0.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,kvyat,KVY,red_bull,26,8.0,98.265,97.606,97.459,,,0.0,8,15,15,True,+1 Lap,0.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,nasr,NAS,sauber,12,19.0,99.018,,,,,0.0,19,16,16,True,+1 Lap,0.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,gutierrez,GUT,haas,21,16.0,98.678,98.11500000000001,,,,0.0,16,17,17,True,+1 Lap,0.0,52
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,wehrlein,WEH,manor,94,20.0,99.399,,,,,0.0,20,18,18,True,+2 Laps,0.0,51
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,max_verstappen,VER,toro_rosso,33,9.0,98.12299999999999,97.50999999999999,97.583,,,0.0,9,19,R,False,Power Unit,0.0,33
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,vettel,VET,ferrari,5,2.0,96.555,96.62299999999999,96.12299999999999,,,0.0,7,20,R,False,Collision,0.0,0
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,hulkenberg,HUL,force_india,27,13.0,98.562,97.771,,,,0.0,13,21,R,False,Collision,0.0,0
+2016,4,Russian Grand Prix,2016-05-01,sochi,conventional,haryanto,HAR,manor,88,21.0,99.463,,,,,0.0,21,22,R,False,Collision,0.0,0
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,max_verstappen,VER,red_bull,33,4.0,83.578,83.178,83.087,,,0.0,4,1,1,True,Finished,25.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,raikkonen,RAI,ferrari,7,5.0,83.79599999999999,83.504,83.113,,,0.0,5,2,2,True,Finished,18.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,vettel,VET,ferrari,5,6.0,84.124,83.688,83.334,,,0.0,6,3,3,True,Finished,15.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,ricciardo,RIC,red_bull,3,3.0,83.749,83.58500000000001,82.68,,,0.0,3,4,4,True,Finished,12.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,bottas,BOT,williams,77,7.0,84.251,84.023,83.52199999999999,,,0.0,7,5,5,True,Finished,10.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,sainz,SAI,toro_rosso,55,8.0,84.496,84.077,83.643,,,0.0,8,6,6,True,Finished,8.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,perez,PER,force_india,11,9.0,84.69800000000001,84.003,83.782,,,0.0,9,7,7,True,Finished,6.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,massa,MAS,williams,19,18.0,84.941,,,,,0.0,18,8,8,True,Finished,4.0,66
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,button,BUT,mclaren,22,12.0,84.583,84.348,,,,0.0,12,9,9,True,+1 Lap,2.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,kvyat,KVY,toro_rosso,26,13.0,84.696,84.445,,,,0.0,13,10,10,True,+1 Lap,1.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,gutierrez,GUT,haas,21,16.0,84.406,84.77799999999999,,,,0.0,16,11,11,True,+1 Lap,0.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,ericsson,ERI,sauber,9,19.0,85.202,,,,,0.0,19,12,12,True,+1 Lap,0.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,jolyon_palmer,PAL,renault,30,17.0,84.90299999999999,,,,,0.0,17,13,13,True,+1 Lap,0.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,kevin_magnussen,MAG,renault,20,15.0,84.669,84.625,,,,0.0,15,14,14,True,+1 Lap,0.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,nasr,NAS,sauber,12,20.0,85.57900000000001,,,,,0.0,20,15,15,True,+1 Lap,0.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,wehrlein,WEH,manor,94,21.0,85.745,,,,,0.0,21,16,16,True,+1 Lap,0.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,haryanto,HAR,manor,88,22.0,85.939,,,,,0.0,22,17,17,True,+1 Lap,0.0,65
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,grosjean,GRO,haas,8,14.0,84.71600000000001,84.48,,,,0.0,14,18,R,False,Engine,0.0,56
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,alonso,ALO,mclaren,14,10.0,84.578,84.19200000000001,83.981,,,0.0,10,19,R,False,Engine,0.0,45
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,hulkenberg,HUL,force_india,27,11.0,84.463,84.203,,,,0.0,11,20,R,False,Engine,0.0,20
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,hamilton,HAM,mercedes,44,1.0,83.214,82.15899999999999,82.0,,,0.0,1,21,R,False,Collision,0.0,0
+2016,5,Spanish Grand Prix,2016-05-15,catalunya,conventional,rosberg,ROS,mercedes,6,2.0,83.002,82.759,82.28,,,0.0,2,22,R,False,Collision,0.0,0
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,hamilton,HAM,mercedes,44,3.0,74.826,74.056,73.94200000000001,,,0.0,3,1,1,True,Finished,25.0,78
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,ricciardo,RIC,red_bull,3,1.0,74.912,74.357,73.622,,,0.0,1,2,2,True,Finished,18.0,78
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,perez,PER,force_india,11,8.0,75.328,74.937,74.902,,,0.0,7,3,3,True,Finished,15.0,78
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,vettel,VET,ferrari,5,4.0,74.61,74.318,74.55199999999999,,,0.0,4,4,4,True,Finished,12.0,78
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,alonso,ALO,mclaren,14,10.0,75.504,75.107,75.363,,,0.0,9,5,5,True,Finished,10.0,78
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,hulkenberg,HUL,force_india,27,5.0,75.333,74.989,74.726,,,0.0,5,6,6,True,Finished,8.0,78
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,rosberg,ROS,mercedes,6,2.0,74.873,74.043,73.791,,,0.0,2,7,7,True,Finished,6.0,78
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,sainz,SAI,toro_rosso,55,7.0,75.467,74.805,74.749,,,0.0,6,8,8,True,+1 Lap,4.0,77
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,button,BUT,mclaren,22,13.0,75.554,75.352,,,,0.0,13,9,9,True,+1 Lap,2.0,77
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,massa,MAS,williams,19,14.0,75.71000000000001,75.385,,,,0.0,14,10,10,True,+1 Lap,1.0,77
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,gutierrez,GUT,haas,21,12.0,75.592,75.293,,,,0.0,12,11,11,True,+1 Lap,0.0,77
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,bottas,BOT,williams,77,11.0,75.521,75.273,,,,0.0,10,12,12,True,+1 Lap,0.0,77
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,grosjean,GRO,haas,8,15.0,75.465,75.571,,,,0.0,15,13,13,True,+2 Laps,0.0,76
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,wehrlein,WEH,manor,94,20.0,77.452,,,,,0.0,20,14,14,True,+2 Laps,0.0,76
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,haryanto,HAR,manor,88,19.0,77.295,,,,,0.0,19,15,15,True,+4 Laps,0.0,74
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,ericsson,ERI,sauber,9,17.0,76.299,,,,,0.0,17,16,R,False,Collision,0.0,51
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,nasr,NAS,sauber,12,22.0,,,,,,0.0,0,17,R,False,Retired,0.0,48
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,max_verstappen,VER,red_bull,33,21.0,82.467,,,,,0.0,0,18,R,False,Accident,0.0,34
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,kevin_magnussen,MAG,renault,20,16.0,76.253,76.05799999999999,,,,0.0,16,19,R,False,Retired,0.0,32
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,kvyat,KVY,toro_rosso,26,9.0,75.384,74.794,75.273,,,0.0,8,20,R,False,Accident,0.0,18
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,raikkonen,RAI,ferrari,7,6.0,75.499,74.789,74.732,,,0.0,11,21,R,False,Accident,0.0,10
+2016,6,Monaco Grand Prix,2016-05-29,monaco,conventional,jolyon_palmer,PAL,renault,30,18.0,76.586,,,,,0.0,18,22,R,False,Accident,0.0,7
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,hamilton,HAM,mercedes,44,1.0,74.121,73.076,72.812,,,0.0,1,1,1,True,Finished,25.0,70
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,vettel,VET,ferrari,5,3.0,73.925,73.857,72.99,,,0.0,3,2,2,True,Finished,18.0,70
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,bottas,BOT,williams,77,7.0,74.389,73.791,73.67,,,0.0,7,3,3,True,Finished,15.0,70
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,max_verstappen,VER,red_bull,33,5.0,74.601,73.793,73.414,,,0.0,5,4,4,True,Finished,12.0,70
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,rosberg,ROS,mercedes,6,2.0,73.714,73.094,72.874,,,0.0,2,5,5,True,Finished,10.0,70
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,raikkonen,RAI,ferrari,7,6.0,74.477,73.849,73.57900000000001,,,0.0,6,6,6,True,Finished,8.0,70
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,ricciardo,RIC,red_bull,3,4.0,74.03,73.53999999999999,73.166,,,0.0,4,7,7,True,Finished,6.0,70
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,hulkenberg,HUL,force_india,27,9.0,74.663,74.166,73.952,,,0.0,9,8,8,True,+1 Lap,4.0,69
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,sainz,SAI,toro_rosso,55,16.0,74.714,81.956,,,,0.0,20,9,9,True,+1 Lap,2.0,69
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,perez,PER,force_india,11,11.0,74.814,74.31700000000001,,,,0.0,11,10,10,True,+1 Lap,1.0,69
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,alonso,ALO,mclaren,14,10.0,75.026,74.26,74.338,,,0.0,10,11,11,True,+1 Lap,0.0,69
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,kvyat,KVY,toro_rosso,26,13.0,74.82900000000001,74.457,,,,0.0,15,12,12,True,+1 Lap,0.0,69
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,gutierrez,GUT,haas,21,14.0,75.148,74.571,,,,0.0,13,13,13,True,+2 Laps,0.0,68
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,grosjean,GRO,haas,8,15.0,75.444,74.803,,,,0.0,14,14,14,True,+2 Laps,0.0,68
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,ericsson,ERI,sauber,9,19.0,75.635,,,,,0.0,21,15,15,True,+2 Laps,0.0,68
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,kevin_magnussen,MAG,renault,20,,,,,,,0.0,22,16,16,True,+2 Laps,0.0,68
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,wehrlein,WEH,manor,94,18.0,75.599,,,,,0.0,17,17,17,True,+2 Laps,0.0,68
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,nasr,NAS,sauber,12,20.0,76.663,,,,,0.0,18,18,18,True,+2 Laps,0.0,68
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,haryanto,HAR,manor,88,21.0,77.05199999999999,,,,,0.0,19,19,19,True,+2 Laps,0.0,68
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,massa,MAS,williams,19,8.0,74.815,73.864,73.769,,,0.0,8,20,R,False,Retired,0.0,35
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,jolyon_palmer,PAL,renault,30,17.0,75.459,,,,,0.0,16,21,R,False,Retired,0.0,16
+2016,7,Canadian Grand Prix,2016-06-12,villeneuve,conventional,button,BUT,mclaren,22,12.0,74.755,74.437,,,,0.0,12,22,R,False,Power Unit,0.0,9
+2016,8,European Grand Prix,2016-06-19,baku,conventional,rosberg,ROS,mercedes,6,1.0,103.685,102.52000000000001,102.75800000000001,,,0.0,1,1,1,True,Finished,25.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,vettel,VET,ferrari,5,4.0,105.062,104.461,103.96600000000001,,,0.0,3,2,2,True,Finished,18.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,perez,PER,force_india,11,2.0,104.462,103.939,103.515,,,0.0,7,3,3,True,Finished,15.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,raikkonen,RAI,ferrari,7,5.0,104.936,104.533,104.269,,,0.0,4,4,4,True,Finished,12.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,hamilton,HAM,mercedes,44,10.0,104.259,103.52600000000001,121.954,,,0.0,10,5,5,True,Finished,10.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,bottas,BOT,williams,77,8.0,104.706,104.477,105.24600000000001,,,0.0,8,6,6,True,Finished,8.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,ricciardo,RIC,red_bull,3,3.0,104.57,104.14099999999999,103.96600000000001,,,0.0,2,7,7,True,Finished,6.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,max_verstappen,VER,red_bull,33,9.0,104.939,104.387,105.57,,,0.0,9,8,8,True,Finished,4.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,hulkenberg,HUL,force_india,27,12.0,104.86,104.824,,,,0.0,12,9,9,True,Finished,2.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,massa,MAS,williams,19,6.0,105.494,104.696,104.483,,,0.0,5,10,10,True,Finished,1.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,button,BUT,mclaren,22,19.0,105.804,,,,,0.0,19,11,11,True,Finished,0.0,51
+2016,8,European Grand Prix,2016-06-19,baku,conventional,nasr,NAS,sauber,12,16.0,105.549,106.048,,,,0.0,15,12,12,True,+1 Lap,0.0,50
+2016,8,European Grand Prix,2016-06-19,baku,conventional,grosjean,GRO,haas,8,11.0,105.507,104.755,,,,0.0,11,13,13,True,+1 Lap,0.0,50
+2016,8,European Grand Prix,2016-06-19,baku,conventional,kevin_magnussen,MAG,renault,20,21.0,106.348,,,,,0.0,22,14,14,True,+1 Lap,0.0,50
+2016,8,European Grand Prix,2016-06-19,baku,conventional,jolyon_palmer,PAL,renault,30,22.0,106.394,,,,,0.0,21,15,15,True,+1 Lap,0.0,50
+2016,8,European Grand Prix,2016-06-19,baku,conventional,gutierrez,GUT,haas,21,15.0,105.3,105.34899999999999,,,,0.0,14,16,16,True,+1 Lap,0.0,50
+2016,8,European Grand Prix,2016-06-19,baku,conventional,ericsson,ERI,sauber,9,20.0,106.231,,,,,0.0,20,17,17,True,+1 Lap,0.0,50
+2016,8,European Grand Prix,2016-06-19,baku,conventional,haryanto,HAR,manor,88,17.0,105.66499999999999,,,,,0.0,16,18,18,True,+2 Laps,0.0,49
+2016,8,European Grand Prix,2016-06-19,baku,conventional,alonso,ALO,mclaren,14,14.0,105.525,105.27000000000001,,,,0.0,13,19,R,False,Gearbox,0.0,42
+2016,8,European Grand Prix,2016-06-19,baku,conventional,wehrlein,WEH,manor,94,18.0,105.75,,,,,0.0,17,20,R,False,Brakes,0.0,39
+2016,8,European Grand Prix,2016-06-19,baku,conventional,sainz,SAI,toro_rosso,55,13.0,104.827,105.0,,,,0.0,18,21,R,False,Suspension,0.0,31
+2016,8,European Grand Prix,2016-06-19,baku,conventional,kvyat,KVY,toro_rosso,26,7.0,104.694,104.687,104.717,,,0.0,6,22,R,False,Suspension,0.0,6
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,hamilton,HAM,mercedes,44,1.0,66.947,66.228,67.922,,,0.0,1,1,1,True,Finished,25.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,max_verstappen,VER,red_bull,33,9.0,67.131,66.866,71.153,,,0.0,8,2,2,True,Finished,18.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,raikkonen,RAI,ferrari,7,6.0,67.24,66.94,69.901,,,0.0,4,3,3,True,Finished,15.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,rosberg,ROS,mercedes,6,2.0,66.516,66.403,68.465,,,0.0,6,4,4,True,Finished,12.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,ricciardo,RIC,red_bull,3,7.0,67.5,66.84,69.98,,,0.0,5,5,5,True,Finished,10.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,button,BUT,mclaren,22,5.0,67.653,67.572,69.9,,,0.0,3,6,6,True,Finished,8.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,grosjean,GRO,haas,8,13.0,67.662,67.85,,,,0.0,13,7,7,True,Finished,6.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,sainz,SAI,toro_rosso,55,15.0,67.618,,,,,0.0,15,8,8,True,Finished,4.0,71
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,bottas,BOT,williams,77,8.0,67.148,66.911,70.44,,,0.0,7,9,9,True,+1 Lap,2.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,wehrlein,WEH,manor,94,12.0,67.565,67.7,,,,0.0,12,10,10,True,+1 Lap,1.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,gutierrez,GUT,haas,21,11.0,67.66,67.578,,,,0.0,11,11,11,True,+1 Lap,0.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,jolyon_palmer,PAL,renault,30,18.0,67.965,,,,,0.0,19,12,12,True,+1 Lap,0.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,nasr,NAS,sauber,12,22.0,68.446,,,,,0.0,21,13,13,True,+1 Lap,0.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,kevin_magnussen,MAG,renault,20,17.0,67.941,,,,,0.0,17,14,14,True,+1 Lap,0.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,ericsson,ERI,sauber,9,21.0,68.418,,,,,0.0,18,15,15,True,+1 Lap,0.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,haryanto,HAR,manor,88,19.0,68.026,,,,,0.0,20,16,16,True,+1 Lap,0.0,70
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,perez,PER,force_india,11,16.0,67.657,,,,,0.0,16,17,17,True,Brakes,0.0,69
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,alonso,ALO,mclaren,14,14.0,67.671,68.154,,,,0.0,14,18,18,True,Battery,0.0,64
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,hulkenberg,HUL,force_india,27,3.0,67.385,67.257,69.285,,,0.0,2,19,19,True,Brakes,0.0,64
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,massa,MAS,williams,19,10.0,67.419,67.145,71.977,,,0.0,0,20,20,True,Brakes,0.0,63
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,vettel,VET,ferrari,5,4.0,66.761,66.602,69.781,,,0.0,9,21,R,False,Tyre,0.0,26
+2016,9,Austrian Grand Prix,2016-07-03,red_bull_ring,conventional,kvyat,KVY,toro_rosso,26,20.0,68.409,,,,,0.0,0,22,R,False,Retired,0.0,2
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,hamilton,HAM,mercedes,44,1.0,90.739,89.243,89.287,,,0.0,1,1,1,True,Finished,25.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,max_verstappen,VER,red_bull,33,3.0,91.305,90.697,90.313,,,0.0,3,2,2,True,Finished,18.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,rosberg,ROS,mercedes,6,2.0,90.724,89.97,89.606,,,0.0,2,3,3,True,Finished,15.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,ricciardo,RIC,red_bull,3,4.0,91.684,91.319,90.618,,,0.0,4,4,4,True,Finished,12.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,raikkonen,RAI,ferrari,7,5.0,91.326,91.385,90.881,,,0.0,5,5,5,True,Finished,10.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,perez,PER,force_india,11,11.0,92.336,91.875,,,,0.0,10,6,6,True,Finished,8.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,hulkenberg,HUL,force_india,27,9.0,92.34899999999999,91.77,92.172,,,0.0,8,7,7,True,Finished,6.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,sainz,SAI,toro_rosso,55,8.0,92.11500000000001,91.708,91.989,,,0.0,7,8,8,True,Finished,4.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,vettel,VET,ferrari,5,6.0,91.606,90.711,91.49,,,0.0,11,9,9,True,Finished,2.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,kvyat,KVY,toro_rosso,26,15.0,92.553,92.306,,,,0.0,15,10,10,True,Finished,1.0,52
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,massa,MAS,williams,19,12.0,92.146,92.00200000000001,,,,0.0,12,11,11,True,+1 Lap,0.0,51
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,button,BUT,mclaren,22,17.0,92.788,,,,,0.0,17,12,12,True,+1 Lap,0.0,51
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,alonso,ALO,mclaren,14,10.0,92.281,91.74,92.343,,,0.0,9,13,13,True,+1 Lap,0.0,51
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,bottas,BOT,williams,77,7.0,91.913,91.47800000000001,91.557,,,0.0,6,14,14,True,+1 Lap,0.0,51
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,nasr,NAS,sauber,12,21.0,93.544,,,,,0.0,21,15,15,True,+1 Lap,0.0,51
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,gutierrez,GUT,haas,21,14.0,92.237,92.241,,,,0.0,14,16,16,True,+1 Lap,0.0,51
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,kevin_magnussen,MAG,renault,20,16.0,92.729,97.06,,,,0.0,16,17,17,True,Gearbox,0.0,49
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,jolyon_palmer,PAL,renault,30,18.0,92.905,,,,,0.0,18,18,R,False,Gearbox,0.0,37
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,haryanto,HAR,manor,88,19.0,93.098,,,,,0.0,19,19,R,False,Spun off,0.0,24
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,grosjean,GRO,haas,8,13.0,92.283,92.05,,,,0.0,13,20,R,False,Retired,0.0,17
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,ericsson,ERI,sauber,9,,,,,,,0.0,22,21,R,False,Power Unit,0.0,11
+2016,10,British Grand Prix,2016-07-10,silverstone,conventional,wehrlein,WEH,manor,94,20.0,93.15100000000001,,,,,0.0,20,22,R,False,Spun off,0.0,6
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,hamilton,HAM,mercedes,44,2.0,94.21000000000001,84.836,80.108,,,0.0,2,1,1,True,Finished,25.0,70
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,rosberg,ROS,mercedes,6,1.0,93.30199999999999,82.806,79.965,,,0.0,1,2,2,True,Finished,18.0,70
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,ricciardo,RIC,red_bull,3,3.0,99.968,83.23400000000001,80.28,,,0.0,3,3,3,True,Finished,15.0,70
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,vettel,VET,ferrari,5,5.0,95.718,84.082,80.874,,,0.0,5,4,4,True,Finished,12.0,70
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,max_verstappen,VER,red_bull,33,4.0,100.424,82.66,80.557,,,0.0,4,5,5,True,Finished,10.0,70
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,raikkonen,RAI,ferrari,7,14.0,96.85300000000001,85.435,,,,0.0,14,6,6,True,Finished,8.0,70
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,alonso,ALO,mclaren,14,7.0,95.16499999999999,83.816,81.211,,,0.0,7,7,7,True,+1 Lap,6.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,sainz,SAI,toro_rosso,55,6.0,96.11500000000001,84.73400000000001,81.131,,,0.0,6,8,8,True,+1 Lap,4.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,bottas,BOT,williams,77,10.0,102.75800000000001,84.506,82.182,,,0.0,10,9,9,True,+1 Lap,2.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,hulkenberg,HUL,force_india,27,9.0,101.471,83.901,81.82300000000001,,,0.0,9,10,10,True,+1 Lap,1.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,perez,PER,force_india,11,13.0,101.411,85.416,,,,0.0,13,11,11,True,+1 Lap,0.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,jolyon_palmer,PAL,renault,30,17.0,103.965,,,,,0.0,17,12,12,True,+1 Lap,0.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,gutierrez,GUT,haas,21,15.0,98.959,86.189,,,,0.0,15,13,13,True,+1 Lap,0.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,grosjean,GRO,haas,8,11.0,95.906,84.941,,,,0.0,11,14,14,True,+1 Lap,0.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,kevin_magnussen,MAG,renault,20,19.0,104.543,,,,,0.0,19,15,15,True,+1 Lap,0.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,kvyat,KVY,toro_rosso,26,12.0,96.714,85.301,,,,0.0,12,16,16,True,+1 Lap,0.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,nasr,NAS,sauber,12,16.0,97.77199999999999,87.063,,,,0.0,16,17,17,True,+1 Lap,0.0,69
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,massa,MAS,williams,19,18.0,103.999,,,,,0.0,18,18,18,True,+2 Laps,0.0,68
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,wehrlein,WEH,manor,94,21.0,107.343,,,,,0.0,20,19,19,True,+2 Laps,0.0,68
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,ericsson,ERI,sauber,9,20.0,106.98400000000001,,,,,0.0,22,20,20,True,+2 Laps,0.0,68
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,haryanto,HAR,manor,88,22.0,110.189,,,,,0.0,21,21,21,True,+2 Laps,0.0,68
+2016,11,Hungarian Grand Prix,2016-07-24,hungaroring,conventional,button,BUT,mclaren,22,8.0,97.983,84.456,81.59700000000001,,,0.0,8,22,R,False,Oil leak,0.0,60
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,hamilton,HAM,mercedes,44,2.0,75.243,74.748,74.47,,,0.0,2,1,1,True,Finished,25.0,67
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,ricciardo,RIC,red_bull,3,3.0,75.591,75.545,74.726,,,0.0,3,2,2,True,Finished,18.0,67
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,max_verstappen,VER,red_bull,33,4.0,75.875,75.124,74.834,,,0.0,4,3,3,True,Finished,15.0,67
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,rosberg,ROS,mercedes,6,1.0,75.485,74.839,74.363,,,0.0,1,4,4,True,Finished,12.0,67
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,vettel,VET,ferrari,5,6.0,75.92699999999999,75.63,75.315,,,0.0,6,5,5,True,Finished,10.0,67
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,raikkonen,RAI,ferrari,7,5.0,75.752,75.242,75.142,,,0.0,5,6,6,True,Finished,8.0,67
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,hulkenberg,HUL,force_india,27,7.0,76.301,75.623,75.51,,,0.0,8,7,7,True,Finished,6.0,67
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,button,BUT,mclaren,22,12.0,76.172,75.909,,,,0.0,12,8,8,True,+1 Lap,4.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,bottas,BOT,williams,77,8.0,75.952,75.49,75.53,,,0.0,7,9,9,True,+1 Lap,2.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,perez,PER,force_india,11,9.0,76.169,75.5,75.537,,,0.0,9,10,10,True,+1 Lap,1.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,gutierrez,GUT,haas,21,11.0,75.987,75.883,,,,0.0,11,11,11,True,+1 Lap,0.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,alonso,ALO,mclaren,14,14.0,76.338,76.041,,,,0.0,13,12,12,True,+1 Lap,0.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,grosjean,GRO,haas,8,15.0,76.328,76.086,,,,0.0,20,13,13,True,+1 Lap,0.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,sainz,SAI,toro_rosso,55,13.0,76.31700000000001,75.989,,,,0.0,15,14,14,True,+1 Lap,0.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,kvyat,KVY,toro_rosso,26,19.0,76.876,,,,,0.0,18,15,15,True,+1 Lap,0.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,kevin_magnussen,MAG,renault,20,17.0,76.71600000000001,,,,,0.0,16,16,16,True,+1 Lap,0.0,66
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,wehrlein,WEH,manor,94,18.0,76.717,,,,,0.0,17,17,17,True,+2 Laps,0.0,65
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,ericsson,ERI,sauber,9,22.0,77.238,,,,,0.0,22,18,18,True,+2 Laps,0.0,65
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,jolyon_palmer,PAL,renault,30,16.0,76.636,76.66499999999999,,,,0.0,14,19,19,True,+2 Laps,0.0,65
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,haryanto,HAR,manor,88,20.0,76.977,,,,,0.0,19,20,20,True,+2 Laps,0.0,65
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,nasr,NAS,sauber,12,21.0,77.123,,,,,0.0,21,21,R,False,Power Unit,0.0,57
+2016,12,German Grand Prix,2016-07-31,hockenheimring,conventional,massa,MAS,williams,19,10.0,76.503,75.699,75.615,,,0.0,10,22,R,False,Suspension,0.0,36
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,rosberg,ROS,mercedes,6,1.0,108.019,106.999,106.744,,,0.0,1,1,1,True,Finished,25.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,ricciardo,RIC,red_bull,3,5.0,108.407,108.027,107.21600000000001,,,0.0,5,2,2,True,Finished,18.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,hamilton,HAM,mercedes,44,21.0,110.033,,,,,0.0,21,3,3,True,Finished,15.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,hulkenberg,HUL,force_india,27,7.0,108.08,107.31700000000001,107.543,,,0.0,7,4,4,True,Finished,12.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,perez,PER,force_india,11,6.0,108.106,107.485,107.407,,,0.0,6,5,5,True,Finished,10.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,vettel,VET,ferrari,5,4.0,107.80199999999999,107.944,107.108,,,0.0,4,6,6,True,Finished,8.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,alonso,ALO,mclaren,14,,,,,,,0.0,22,7,7,True,Finished,6.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,bottas,BOT,williams,77,8.0,108.655,107.918,107.612,,,0.0,8,8,8,True,Finished,4.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,raikkonen,RAI,ferrari,7,3.0,107.912,107.664,106.91,,,0.0,3,9,9,True,Finished,2.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,massa,MAS,williams,19,10.0,107.738,107.667,108.263,,,0.0,10,10,10,True,Finished,1.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,max_verstappen,VER,red_bull,33,2.0,108.407,107.163,106.893,,,0.0,2,11,11,True,Finished,0.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,gutierrez,GUT,haas,21,13.0,108.74799999999999,108.598,,,,0.0,18,12,12,True,Finished,0.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,grosjean,GRO,haas,8,11.0,108.751,108.316,,,,0.0,11,13,13,True,Finished,0.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,kvyat,KVY,toro_rosso,26,19.0,109.05799999999999,,,,,0.0,19,14,14,True,Finished,0.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,jolyon_palmer,PAL,renault,30,14.0,108.90100000000001,108.888,,,,0.0,13,15,15,True,Finished,0.0,44
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,ocon,OCO,manor,31,18.0,109.05,,,,,0.0,17,16,16,True,+1 Lap,0.0,43
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,nasr,NAS,sauber,12,17.0,108.949,,,,,0.0,16,17,17,True,+1 Lap,0.0,43
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,kevin_magnussen,MAG,renault,20,12.0,108.8,108.485,,,,0.0,12,18,R,False,Accident,0.0,5
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,ericsson,ERI,sauber,9,20.0,109.071,,,,,0.0,20,19,R,False,Gearbox,0.0,3
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,sainz,SAI,toro_rosso,55,15.0,108.876,109.038,,,,0.0,14,20,R,False,Puncture,0.0,1
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,button,BUT,mclaren,22,9.0,108.7,108.051,108.114,,,0.0,9,21,R,False,Collision damage,0.0,1
+2016,13,Belgian Grand Prix,2016-08-28,spa,conventional,wehrlein,WEH,manor,94,16.0,108.554,109.32,,,,0.0,15,22,R,False,Collision damage,0.0,0
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,rosberg,ROS,mercedes,6,2.0,82.497,81.809,81.613,,,0.0,2,1,1,True,Finished,25.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,hamilton,HAM,mercedes,44,1.0,81.854,81.498,81.135,,,0.0,1,2,2,True,Finished,18.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,vettel,VET,ferrari,5,3.0,83.077,82.275,81.97200000000001,,,0.0,3,3,3,True,Finished,15.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,raikkonen,RAI,ferrari,7,4.0,83.217,82.568,82.065,,,0.0,4,4,4,True,Finished,12.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,ricciardo,RIC,red_bull,3,6.0,83.158,82.638,82.389,,,0.0,6,5,5,True,Finished,10.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,bottas,BOT,williams,77,5.0,83.264,82.499,82.388,,,0.0,5,6,6,True,Finished,8.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,max_verstappen,VER,red_bull,33,7.0,83.229,82.857,82.411,,,0.0,7,7,7,True,Finished,6.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,perez,PER,force_india,11,8.0,83.439,82.922,82.814,,,0.0,8,8,8,True,Finished,4.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,massa,MAS,williams,19,11.0,83.489,82.967,,,,0.0,11,9,9,True,Finished,2.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,hulkenberg,HUL,force_india,27,9.0,83.259,82.951,82.836,,,0.0,9,10,10,True,Finished,1.0,53
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,grosjean,GRO,haas,8,12.0,83.42099999999999,83.092,,,,0.0,17,11,11,True,+1 Lap,0.0,52
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,button,BUT,mclaren,22,15.0,83.666,83.399,,,,0.0,14,12,12,True,+1 Lap,0.0,52
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,gutierrez,GUT,haas,21,10.0,83.386,82.856,83.184,,,0.0,10,13,13,True,+1 Lap,0.0,52
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,alonso,ALO,mclaren,14,13.0,83.783,83.273,,,,0.0,12,14,14,True,+1 Lap,0.0,52
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,sainz,SAI,toro_rosso,55,16.0,83.661,83.496,,,,0.0,15,15,15,True,+1 Lap,0.0,52
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,ericsson,ERI,sauber,9,19.0,84.087,,,,,0.0,19,16,16,True,+1 Lap,0.0,52
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,kevin_magnussen,MAG,renault,20,21.0,84.436,,,,,0.0,21,17,17,True,+1 Lap,0.0,52
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,ocon,OCO,manor,31,,,,,,,0.0,22,18,18,True,+2 Laps,0.0,51
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,kvyat,KVY,toro_rosso,26,17.0,83.825,,,,,0.0,16,19,R,False,Battery,0.0,36
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,wehrlein,WEH,manor,94,14.0,83.76,83.315,,,,0.0,13,20,R,False,Oil leak,0.0,26
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,jolyon_palmer,PAL,renault,30,20.0,84.23,,,,,0.0,20,21,R,False,Collision damage,0.0,7
+2016,14,Italian Grand Prix,2016-09-04,monza,conventional,nasr,NAS,sauber,12,18.0,83.956,,,,,0.0,18,22,R,False,Collision damage,0.0,6
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,rosberg,ROS,mercedes,6,1.0,105.316,103.02000000000001,102.584,,,0.0,1,1,1,True,Finished,25.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,ricciardo,RIC,red_bull,3,2.0,104.255,103.93299999999999,103.11500000000001,,,0.0,2,2,2,True,Finished,18.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,hamilton,HAM,mercedes,44,3.0,105.167,103.471,103.288,,,0.0,3,3,3,True,Finished,15.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,raikkonen,RAI,ferrari,7,5.0,104.964,104.15899999999999,103.53999999999999,,,0.0,5,4,4,True,Finished,12.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,vettel,VET,ferrari,5,22.0,109.116,,,,,0.0,22,5,5,True,Finished,10.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,max_verstappen,VER,red_bull,33,4.0,105.036,104.112,103.328,,,0.0,4,6,6,True,Finished,8.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,alonso,ALO,mclaren,14,9.0,105.37299999999999,104.65299999999999,104.553,,,0.0,9,7,7,True,Finished,6.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,perez,PER,force_india,11,10.0,105.20400000000001,104.703,104.582,,,0.0,17,8,8,True,Finished,4.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,kvyat,KVY,toro_rosso,26,7.0,105.291,104.475,104.469,,,0.0,7,9,9,True,Finished,2.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,kevin_magnussen,MAG,renault,20,17.0,106.825,,,,,0.0,15,10,10,True,Finished,1.0,61
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,gutierrez,GUT,haas,21,14.0,105.465,105.593,,,,0.0,13,11,11,True,+1 Lap,0.0,60
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,massa,MAS,williams,19,12.0,106.056,104.991,,,,0.0,11,12,12,True,+1 Lap,0.0,60
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,nasr,NAS,sauber,12,18.0,106.86,,,,,0.0,16,13,13,True,+1 Lap,0.0,60
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,sainz,SAI,toro_rosso,55,6.0,105.499,104.493,104.197,,,0.0,6,14,14,True,+1 Lap,0.0,60
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,jolyon_palmer,PAL,renault,30,19.0,106.96000000000001,,,,,0.0,18,15,15,True,+1 Lap,0.0,60
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,wehrlein,WEH,manor,94,20.0,107.667,,,,,0.0,19,16,16,True,+1 Lap,0.0,60
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,ericsson,ERI,sauber,9,16.0,106.42699999999999,107.827,,,,0.0,14,17,17,True,+1 Lap,0.0,60
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,ocon,OCO,manor,31,21.0,108.29599999999999,,,,,0.0,21,18,18,True,+2 Laps,0.0,59
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,button,BUT,mclaren,22,13.0,105.262,105.144,,,,0.0,12,19,R,False,Brakes,0.0,43
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,bottas,BOT,williams,77,11.0,106.086,104.74000000000001,,,,0.0,10,20,R,False,Overheating,0.0,35
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,hulkenberg,HUL,force_india,27,8.0,106.081,104.737,104.479,,,0.0,8,21,R,False,Collision,0.0,0
+2016,15,Singapore Grand Prix,2016-09-18,marina_bay,conventional,grosjean,GRO,haas,8,15.0,105.60900000000001,105.723,,,,0.0,20,22,W,False,Withdrew,0.0,0
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,ricciardo,RIC,red_bull,3,4.0,95.07900000000001,93.888,93.467,,,0.0,4,1,1,True,Finished,25.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,max_verstappen,VER,red_bull,33,3.0,95.443,93.775,93.42,,,0.0,3,2,2,True,Finished,18.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,rosberg,ROS,mercedes,6,2.0,94.46000000000001,93.60900000000001,93.26400000000001,,,0.0,2,3,3,True,Finished,15.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,raikkonen,RAI,ferrari,7,6.0,94.556,93.90299999999999,93.632,,,0.0,6,4,4,True,Finished,12.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,bottas,BOT,williams,77,11.0,95.166,94.577,,,,0.0,11,5,5,True,Finished,10.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,perez,PER,force_india,11,7.0,95.068,94.538,94.319,,,0.0,7,6,6,True,Finished,8.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,alonso,ALO,mclaren,14,22.0,97.155,,,,,0.0,22,7,7,True,Finished,6.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,hulkenberg,HUL,force_india,27,8.0,94.827,94.441,94.489,,,0.0,8,8,8,True,Finished,4.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,button,BUT,mclaren,22,9.0,95.267,94.431,94.518,,,0.0,9,9,9,True,Finished,2.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,jolyon_palmer,PAL,renault,30,19.0,95.999,,,,,0.0,19,10,10,True,Finished,1.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,sainz,SAI,toro_rosso,55,16.0,95.60499999999999,95.374,,,,0.0,16,11,11,True,Finished,0.0,56
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,ericsson,ERI,sauber,9,17.0,95.816,,,,,0.0,17,12,12,True,+1 Lap,0.0,55
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,massa,MAS,williams,19,10.0,95.267,94.422,94.67099999999999,,,0.0,10,13,13,True,+1 Lap,0.0,55
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,kvyat,KVY,toro_rosso,26,15.0,95.695,95.369,,,,0.0,15,14,14,True,+1 Lap,0.0,55
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,wehrlein,WEH,manor,94,21.0,96.587,,,,,0.0,21,15,15,True,+1 Lap,0.0,55
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,ocon,OCO,manor,31,20.0,96.451,,,,,0.0,20,16,16,True,+1 Lap,0.0,55
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,nasr,NAS,sauber,12,18.0,95.949,,,,,0.0,18,17,R,False,Brakes,0.0,46
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,hamilton,HAM,mercedes,44,1.0,94.444,93.04599999999999,92.85,,,0.0,1,18,R,False,Engine,0.0,40
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,gutierrez,GUT,haas,21,13.0,95.658,95.09700000000001,,,,0.0,13,19,R,False,Wheel nut,0.0,39
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,kevin_magnussen,MAG,renault,20,14.0,95.593,95.277,,,,0.0,14,20,R,False,Power loss,0.0,17
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,grosjean,GRO,haas,8,12.0,95.4,95.001,,,,0.0,12,21,R,False,Brakes,0.0,7
+2016,16,Malaysian Grand Prix,2016-10-02,sepang,conventional,vettel,VET,ferrari,5,5.0,94.557,93.97200000000001,93.584,,,0.0,5,22,R,False,Collision,0.0,0
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,rosberg,ROS,mercedes,6,1.0,91.858,90.714,90.64699999999999,,,0.0,1,1,1,True,Finished,25.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,max_verstappen,VER,red_bull,33,5.0,92.487,91.489,91.178,,,0.0,3,2,2,True,Finished,18.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,hamilton,HAM,mercedes,44,2.0,92.218,91.129,90.66,,,0.0,2,3,3,True,Finished,15.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,vettel,VET,ferrari,5,4.0,91.65899999999999,91.227,91.02799999999999,,,0.0,6,4,4,True,Finished,12.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,raikkonen,RAI,ferrari,7,3.0,91.674,91.406,90.949,,,0.0,8,5,5,True,Finished,10.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,ricciardo,RIC,red_bull,3,6.0,92.538,91.719,91.24,,,0.0,4,6,6,True,Finished,8.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,perez,PER,force_india,11,7.0,92.682,92.237,91.961,,,0.0,5,7,7,True,Finished,6.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,hulkenberg,HUL,force_india,27,9.0,92.44800000000001,92.2,92.142,,,0.0,9,8,8,True,Finished,4.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,massa,MAS,williams,19,12.0,92.562,92.38,,,,0.0,12,9,9,True,Finished,2.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,bottas,BOT,williams,77,11.0,92.38300000000001,92.315,,,,0.0,11,10,10,True,Finished,1.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,grosjean,GRO,haas,8,8.0,92.458,92.176,91.961,,,0.0,7,11,11,True,Finished,0.0,53
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,jolyon_palmer,PAL,renault,30,16.0,92.79599999999999,92.807,,,,0.0,16,12,12,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,kvyat,KVY,toro_rosso,26,13.0,92.64500000000001,92.62299999999999,,,,0.0,13,13,13,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,kevin_magnussen,MAG,renault,20,18.0,93.023,,,,,0.0,17,14,14,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,ericsson,ERI,sauber,9,19.0,93.22200000000001,,,,,0.0,18,15,15,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,alonso,ALO,mclaren,14,15.0,92.819,92.689,,,,0.0,15,16,16,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,sainz,SAI,toro_rosso,55,14.0,92.789,92.685,,,,0.0,14,17,17,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,button,BUT,mclaren,22,17.0,92.851,,,,,0.0,22,18,18,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,nasr,NAS,sauber,12,20.0,93.332,,,,,0.0,19,19,19,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,gutierrez,GUT,haas,21,10.0,92.62,92.155,92.547,,,0.0,10,20,20,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,ocon,OCO,manor,31,21.0,93.35300000000001,,,,,0.0,20,21,21,True,+1 Lap,0.0,52
+2016,17,Japanese Grand Prix,2016-10-09,suzuka,conventional,wehrlein,WEH,manor,94,22.0,93.561,,,,,0.0,21,22,22,True,+1 Lap,0.0,52
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,hamilton,HAM,mercedes,44,1.0,96.29599999999999,96.45,94.999,,,0.0,1,1,1,True,Finished,25.0,56
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,rosberg,ROS,mercedes,6,2.0,96.39699999999999,96.351,95.215,,,0.0,2,2,2,True,Finished,18.0,56
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,ricciardo,RIC,red_bull,3,3.0,96.759,96.255,95.509,,,0.0,3,3,3,True,Finished,15.0,56
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,vettel,VET,ferrari,5,6.0,97.15100000000001,96.462,96.358,,,0.0,6,4,4,True,Finished,12.0,56
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,alonso,ALO,mclaren,14,12.0,97.913,97.417,,,,0.0,12,5,5,True,Finished,10.0,56
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,sainz,SAI,toro_rosso,55,10.0,97.744,97.175,97.326,,,0.0,10,6,6,True,Finished,8.0,56
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,massa,MAS,williams,19,9.0,97.402,97.214,97.269,,,0.0,9,7,7,True,+1 Lap,6.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,perez,PER,force_india,11,11.0,97.345,97.35300000000001,,,,0.0,11,8,8,True,+1 Lap,4.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,button,BUT,mclaren,22,19.0,98.327,,,,,0.0,19,9,9,True,+1 Lap,2.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,grosjean,GRO,haas,8,17.0,98.30799999999999,,,,,0.0,17,10,10,True,+1 Lap,1.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,kvyat,KVY,toro_rosso,26,13.0,97.844,97.47999999999999,,,,0.0,13,11,11,True,+1 Lap,0.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,kevin_magnussen,MAG,renault,20,18.0,98.31700000000001,,,,,0.0,18,12,12,True,+1 Lap,0.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,jolyon_palmer,PAL,renault,30,15.0,98.084,97.935,,,,0.0,15,13,13,True,+1 Lap,0.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,ericsson,ERI,sauber,9,16.0,98.03999999999999,99.356,,,,0.0,16,14,14,True,+1 Lap,0.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,nasr,NAS,sauber,12,21.0,98.583,,,,,0.0,21,15,15,True,+1 Lap,0.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,bottas,BOT,williams,77,8.0,97.456,97.202,97.116,,,0.0,8,16,16,True,+1 Lap,0.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,wehrlein,WEH,manor,94,20.0,98.548,,,,,0.0,20,17,17,True,+1 Lap,0.0,55
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,ocon,OCO,manor,31,22.0,98.806,,,,,0.0,22,18,18,True,+2 Laps,0.0,54
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,raikkonen,RAI,ferrari,7,5.0,96.985,96.584,96.131,,,0.0,5,19,R,False,Wheel,0.0,38
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,max_verstappen,VER,red_bull,33,4.0,96.613,96.857,95.747,,,0.0,4,20,R,False,Gearbox,0.0,28
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,gutierrez,GUT,haas,21,14.0,98.053,97.773,,,,0.0,14,21,R,False,Brakes,0.0,16
+2016,18,United States Grand Prix,2016-10-23,americas,conventional,hulkenberg,HUL,force_india,27,7.0,96.95,96.626,96.628,,,0.0,7,22,R,False,Collision,0.0,1
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,hamilton,HAM,mercedes,44,1.0,79.447,79.137,78.70400000000001,,,0.0,1,1,1,True,Finished,25.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,rosberg,ROS,mercedes,6,2.0,79.996,79.761,78.958,,,0.0,2,2,2,True,Finished,18.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,ricciardo,RIC,red_bull,3,4.0,79.713,79.553,79.133,,,0.0,4,3,3,True,Finished,15.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,max_verstappen,VER,red_bull,33,3.0,79.874,78.97200000000001,79.054,,,0.0,3,4,4,True,Finished,12.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,vettel,VET,ferrari,5,7.0,79.865,79.385,79.381,,,0.0,7,5,5,True,Finished,10.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,raikkonen,RAI,ferrari,7,6.0,79.554,79.936,79.376,,,0.0,6,6,6,True,Finished,8.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,hulkenberg,HUL,force_india,27,5.0,80.599,79.769,79.33,,,0.0,5,7,7,True,Finished,6.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,bottas,BOT,williams,77,8.0,80.338,79.958,79.551,,,0.0,8,8,8,True,Finished,4.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,massa,MAS,williams,19,9.0,80.423,80.151,80.032,,,0.0,9,9,9,True,Finished,2.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,perez,PER,force_india,11,12.0,80.30799999999999,80.287,,,,0.0,12,10,10,True,Finished,1.0,71
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,ericsson,ERI,sauber,9,15.0,81.062,81.536,,,,0.0,15,11,11,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,button,BUT,mclaren,22,13.0,81.333,80.673,,,,0.0,13,12,12,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,alonso,ALO,mclaren,14,11.0,80.55199999999999,80.282,,,,0.0,11,13,13,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,jolyon_palmer,PAL,renault,30,,,,,,,0.0,21,14,14,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,nasr,NAS,sauber,12,19.0,81.69200000000001,,,,,0.0,19,15,15,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,sainz,SAI,toro_rosso,55,10.0,80.457,80.169,80.378,,,0.0,10,16,16,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,kevin_magnussen,MAG,renault,20,14.0,81.254,81.131,,,,0.0,14,17,17,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,kvyat,KVY,toro_rosso,26,18.0,81.45400000000001,,,,,0.0,18,18,18,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,gutierrez,GUT,haas,21,17.0,81.401,,,,,0.0,17,19,19,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,grosjean,GRO,haas,8,21.0,81.916,,,,,0.0,22,20,20,True,+1 Lap,0.0,70
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,ocon,OCO,manor,31,20.0,81.881,,,,,0.0,20,21,21,True,+2 Laps,0.0,69
+2016,19,Mexican Grand Prix,2016-10-30,rodriguez,conventional,wehrlein,WEH,manor,94,16.0,81.363,81.785,,,,0.0,16,22,R,False,Collision,0.0,0
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,hamilton,HAM,mercedes,44,1.0,71.511,71.238,70.736,,,0.0,1,1,1,True,Finished,25.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,rosberg,ROS,mercedes,6,2.0,71.815,71.373,70.838,,,0.0,2,2,2,True,Finished,18.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,max_verstappen,VER,red_bull,33,4.0,71.957,71.834,71.485,,,0.0,4,3,3,True,Finished,15.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,perez,PER,force_india,11,9.0,72.684,72.331,72.16499999999999,,,0.0,9,4,4,True,Finished,12.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,vettel,VET,ferrari,5,5.0,72.159,72.01,71.495,,,0.0,5,5,5,True,Finished,10.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,sainz,SAI,toro_rosso,55,15.0,72.95,72.92,,,,0.0,15,6,6,True,Finished,8.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,hulkenberg,HUL,force_india,27,8.0,72.428,72.36,72.104,,,0.0,8,7,7,True,Finished,6.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,ricciardo,RIC,red_bull,3,6.0,72.409,72.047,71.53999999999999,,,0.0,6,8,8,True,Finished,4.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,nasr,NAS,sauber,12,22.0,73.681,,,,,0.0,21,9,9,True,Finished,2.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,alonso,ALO,mclaren,14,10.0,72.7,72.312,72.266,,,0.0,10,10,10,True,Finished,1.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,bottas,BOT,williams,77,11.0,72.68,72.42,,,,0.0,11,11,11,True,Finished,0.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,ocon,OCO,manor,31,20.0,73.432,,,,,0.0,22,12,12,True,Finished,0.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,kvyat,KVY,toro_rosso,26,14.0,73.071,72.726,,,,0.0,14,13,13,True,Finished,0.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,kevin_magnussen,MAG,renault,20,18.0,73.41,,,,,0.0,18,14,14,True,Finished,0.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,wehrlein,WEH,manor,94,19.0,73.42699999999999,,,,,0.0,19,15,15,True,Finished,0.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,button,BUT,mclaren,22,17.0,73.276,,,,,0.0,17,16,16,True,Finished,0.0,71
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,gutierrez,GUT,haas,21,12.0,73.05199999999999,72.431,,,,0.0,12,17,R,False,Retired,0.0,60
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,massa,MAS,williams,19,13.0,72.432,72.521,,,,0.0,13,18,R,False,Collision,0.0,46
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,jolyon_palmer,PAL,renault,30,16.0,73.259,73.258,,,,0.0,16,19,R,False,Collision damage,0.0,20
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,raikkonen,RAI,ferrari,7,3.0,72.1,72.301,71.404,,,0.0,3,20,R,False,Collision,0.0,19
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,ericsson,ERI,sauber,9,21.0,73.623,,,,,0.0,20,21,R,False,Collision,0.0,11
+2016,20,Brazilian Grand Prix,2016-11-13,interlagos,conventional,grosjean,GRO,haas,8,7.0,72.893,72.343,71.937,,,0.0,7,22,W,False,Withdrew,0.0,0
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,hamilton,HAM,mercedes,44,1.0,99.487,99.382,98.755,,,0.0,1,1,1,True,Finished,25.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,rosberg,ROS,mercedes,6,2.0,100.511,99.49000000000001,99.05799999999999,,,0.0,2,2,2,True,Finished,18.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,vettel,VET,ferrari,5,5.0,100.34100000000001,100.03399999999999,99.661,,,0.0,5,3,3,True,Finished,15.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,max_verstappen,VER,red_bull,33,6.0,100.424,99.90299999999999,99.818,,,0.0,6,4,4,True,Finished,12.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,ricciardo,RIC,red_bull,3,3.0,101.00200000000001,100.429,99.589,,,0.0,3,5,5,True,Finished,10.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,raikkonen,RAI,ferrari,7,4.0,100.338,99.62899999999999,99.604,,,0.0,4,6,6,True,Finished,8.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,hulkenberg,HUL,force_india,27,7.0,101.0,100.709,100.501,,,0.0,7,7,7,True,Finished,6.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,perez,PER,force_india,11,8.0,100.864,100.743,100.519,,,0.0,8,8,8,True,Finished,4.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,massa,MAS,williams,19,10.0,101.157,100.858,101.213,,,0.0,10,9,9,True,Finished,2.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,alonso,ALO,mclaren,14,9.0,101.616,101.044,101.106,,,0.0,9,10,10,True,Finished,1.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,grosjean,GRO,haas,8,14.0,101.467,101.564,,,,0.0,14,11,11,True,Finished,0.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,gutierrez,GUT,haas,21,13.0,101.63900000000001,101.47999999999999,,,,0.0,13,12,12,True,Finished,0.0,55
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,ocon,OCO,manor,31,20.0,102.286,,,,,0.0,20,13,13,True,+1 Lap,0.0,54
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,wehrlein,WEH,manor,94,16.0,101.886,101.995,,,,0.0,16,14,14,True,+1 Lap,0.0,54
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,ericsson,ERI,sauber,9,22.0,102.637,,,,,0.0,22,15,15,True,+1 Lap,0.0,54
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,nasr,NAS,sauber,12,19.0,102.247,,,,,0.0,19,16,16,True,+1 Lap,0.0,54
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,jolyon_palmer,PAL,renault,30,15.0,101.775,101.82,,,,0.0,15,17,17,True,+1 Lap,0.0,54
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,sainz,SAI,toro_rosso,55,21.0,102.393,,,,,0.0,21,18,R,False,Collision damage,0.0,41
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,kvyat,KVY,toro_rosso,26,17.0,102.003,,,,,0.0,17,19,R,False,Gearbox,0.0,14
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,button,BUT,mclaren,22,12.0,101.158,101.27199999999999,,,,0.0,12,20,R,False,Suspension,0.0,12
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,bottas,BOT,williams,77,11.0,101.19200000000001,101.084,,,,0.0,11,21,R,False,Suspension,0.0,6
+2016,21,Abu Dhabi Grand Prix,2016-11-27,yas_marina,conventional,kevin_magnussen,MAG,renault,20,18.0,102.142,,,,,0.0,18,22,R,False,Suspension,0.0,5
