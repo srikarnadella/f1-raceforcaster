@@ -5,3 +5,7 @@ __pycache__/
 *.pyc
 .pytest_cache/
 .DS_Store
+
+# Markdown stays local, except the README
+*.md
+!README.md

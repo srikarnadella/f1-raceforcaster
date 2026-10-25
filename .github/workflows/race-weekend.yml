@@ -74,7 +74,7 @@ jobs:
         run: |
           git config user.name "f1-forecaster-bot"
           git config user.email "f1-forecaster-bot@users.noreply.github.com"
-          git add data predictions reports models experiments proposals state CHANGELOG_MODELS.md
+          git add data predictions reports models experiments state
           if ! git diff --cached --quiet; then
             git commit -m "Automated ${{ steps.gate.outputs.forecast && 'forecast' || 'review' }} ${{ steps.gate.outputs.forecast }}${{ steps.gate.outputs.review }}"
             git pull --rebase
