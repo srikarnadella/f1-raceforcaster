@@ -18,13 +18,21 @@ Forecast Formula 1 outcomes from practice and qualifying data, score those forec
 
 _Updated 2026-10-25._ The v0 scaffold files (`f1data.py`, `train.py`, ...) never existed in this repo; the project was built directly in `src/f1/`.
 
-- **Data source (verified on real data):** FastF1 3.9 lap/timing data now requires an F1TV subscription (paid, so not used; see `proposals/2026-10-25-f1tv-practice-data.md`). The pipeline uses the free **Jolpica** (Ergast) API: qualifying Q1–Q3, sprint, race results, race lap times, pit stops. Store: `data/results/<season>.csv` 2014–2026 (273 races), `data/calendar.csv`, `data/laps/` (race laps, 2022+ backfill).
+- **Data source (verified on real data):** FastF1 3.9 lap/timing data now requires an F1TV subscription (paid, so not used; see `proposals/2026-10-25-f1tv-practice-data.md`). The pipeline uses the free **Jolpica** (Ergast) API: qualifying Q1–Q3, sprint, race results, race lap times, pit stops. Store: `data/results/<season>.csv` 2014–2026 (269 races), `data/calendar.csv`, `data/laps/` (race laps, 2022+ backfill).
 - **Practice features:** `src/f1/practice.py` written but **unverified** (no credentials). Weekend pace is qualifying-based.
 - **Champion v1:** Plackett-Luce strength (depth 3) + logistic DNF model → 10k-sample order simulation; winner, podium, top-10, order and championship all come from that one simulation (coherent; sums checked in tests).
 - **Real-data baseline (walk-forward 2019–2026, 169 races):** v1 winner log-loss 1.267 (grid baseline 1.445, pole 2.001, uniform 3.005); podium Brier 0.0674 (grid 0.0686); top-10 Brier 0.1542 (grid 0.1633); Spearman 0.661 (grid 0.647); top-1 hit 56% (pole sitter 56%). **2026 only (17 races): v1 is worse than grid on winner log-loss (1.271 vs 1.139)**, likely because pre-2026 form is stale. Details in `reports/backtest*.json`.
 - **Milestones:** M0–M5 built and run on real data; M6/M7 (workflow, registry, gate, shadow, rollback) built, with the gate exercised in dry run. First live forecast: 2026 R18, logged 19:39 UTC before the 20:00 start.
 - **Lap analysis:** `src/f1/laps.py` tags race laps (lap 1, in/out, neutralised, slow, traffic, clean), fits fuel and tyre slopes per race, and clusters stints into inferred compound classes (the free data has no compound). Race pace uses clean-air laps when a driver has ≥ 10 of them.
 - **Race-pace features** (`drv_race_pace`, `exp_race_gap`, `con_race_minus_quali` in `features.py`) are built and leak-tested but **dormant**: they only run when a spec sets `form.race_pace: true`. Queued as experiment `race-pace-features` (top of `experiments/queue.json`).
+
+### Weekly backtest and improvement loop (runs inside Trigger B)
+Every post-race review (`scripts/run_review.py`), after scoring and the championship update:
+1. **Improvement cycle** (`src/f1/improve.py::run_cycle`): up to 3 candidates, ≤ 30 min. Queued hypotheses in `experiments/queue.json` go first, then auto-generated single changes around the champion (each hyperparameter moved down/up, each strength feature ablated, race-pace features added), in a stable rotating order. A rejected auto candidate becomes eligible again after 6 more races of data, or immediately after a new champion is promoted. The champion is re-backtested every week because the data hash changes. A dry run takes about 30 s.
+2. **Backtest refresh**: `reports/backtest.json` (2019 onward) and `reports/backtest_<season>.json` are rewritten for the current champion on the grown data set, so the dashboard Scorecard is always current.
+3. New race laps are saved to `data/laps/` by the pace report, so race-pace history grows by one race each weekend.
+
+**This only runs automatically once the repo is on GitHub with the workflow enabled.** Until then, run `scripts/run_review.py <season>_<round>` by hand after each race.
 
 ### Data storage
 All data lives in the repo; nothing depends on the API staying up.

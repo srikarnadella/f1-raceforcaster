@@ -81,14 +81,83 @@ def nn_readiness(results: pd.DataFrame, reg: dict) -> dict:
     return {"ready": ready, "races": n_races, "plateau": plateau, "design": design, "line": line}
 
 
+# One-change neighbourhood around the champion, so the cycle never runs dry.
+NUMERIC_MOVES = [
+    ("strength.l2", lambda v: [v * 0.3, v * 3]),
+    ("strength.depth", lambda v: [max(1, v - 1), v + 1]),
+    ("strength.season_half_life", lambda v: [v * 0.5, v * 2]),
+    ("dnf.C", lambda v: [v * 0.3, v * 3]),
+    ("dnf.season_half_life", lambda v: [v * 0.5, v * 2]),
+    ("form.form_half_life", lambda v: [v * 0.67, v * 1.5]),
+    ("form.dnf_half_life", lambda v: [v * 0.5, v * 2]),
+]
+RETRY_AFTER_RACES = 6   # a rejected change becomes eligible again once this much new data exists
+
+
+def _get(spec, path, default=None):
+    cur = spec
+    for k in path.split("."):
+        cur = cur.get(k, {}) if isinstance(cur, dict) else {}
+    return cur if cur != {} else default
+
+
+def _patch(path, value) -> dict:
+    out = value
+    for k in reversed(path.split(".")):
+        out = {k: out}
+    return out
+
+
+def generate_candidates(spec: dict) -> list[dict]:
+    from .features import RACE_PACE_FEATURES
+    defaults = {"form.form_half_life": 6.0, "form.dnf_half_life": 12.0}
+    cands = []
+    for path, moves in NUMERIC_MOVES:
+        v = _get(spec, path, defaults.get(path))
+        if v is None:
+            continue
+        for nv in moves(v):
+            nv = int(nv) if isinstance(v, int) else round(float(nv), 4)
+            if nv != v:
+                cands.append({"slug": f"{path}={nv}", "hypothesis": f"auto: {path} {v} -> {nv}",
+                              "patch": _patch(path, nv)})
+    feats = spec["strength"]["features"]
+    for f in feats:
+        cands.append({"slug": f"drop:{f}", "hypothesis": f"auto: ablate strength feature {f}",
+                      "patch": {"strength": {"features": [x for x in feats if x != f]}}})
+    if not set(RACE_PACE_FEATURES) & set(feats):
+        cands.append({"slug": "add:race_pace", "hypothesis": "auto: add lap-derived race-pace features",
+                      "patch": {"form": {"race_pace": True}, "strength": {"features": feats + RACE_PACE_FEATURES}}})
+    return cands
+
+
+def _attempt_key(slug: str, champion: str, n_races: int) -> str:
+    return f"{slug}|{champion}|{n_races // RETRY_AFTER_RACES}"
+
+
+def pick_candidates(champ_v: str, champ_spec: dict, n_races: int, log: list[dict]) -> list[dict]:
+    """Queued (human/Claude) hypotheses first, then auto-generated ones in a stable
+    rotating order. Generated candidates already tried against this champion are
+    skipped until RETRY_AFTER_RACES more races of data exist."""
+    import hashlib
+    done_slugs = {e["slug"] for e in log}
+    tried = {e.get("attempt_key") for e in log}
+    queue = [q for q in (json.loads(EXP_QUEUE.read_text()) if EXP_QUEUE.exists() else []) if q["slug"] not in done_slugs]
+    gen = [c for c in generate_candidates(champ_spec) if _attempt_key(c["slug"], champ_v, n_races) not in tried]
+    gen.sort(key=lambda c: hashlib.sha1(f"{c['slug']}|{champ_v}".encode()).hexdigest())
+    for c in gen:
+        c["auto"] = True
+    return queue + gen
+
+
 def run_cycle(next_race: tuple[int, int], dry_run: bool = False) -> dict:
     t0 = time.time()
     results = ingest.load_results()
     reg = registry.ensure_initialized()
     champ_v = reg["champion"]
     champ_spec = registry.champion_spec(reg)
-    done = {e["slug"] for e in read_jsonl(EXP_LOG)}
-    queue = [q for q in (json.loads(EXP_QUEUE.read_text()) if EXP_QUEUE.exists() else []) if q["slug"] not in done]
+    n_races = int(results[["season", "round"]].drop_duplicates().shape[0])
+    queue = pick_candidates(champ_v, champ_spec, n_races, read_jsonl(EXP_LOG))
     champ = _eval_cached(champ_spec, results)
     tried, best = [], None
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -102,7 +171,8 @@ def run_cycle(next_race: tuple[int, int], dry_run: bool = False) -> dict:
             d = gate.decide(cand, champ)
         except Exception as ex:
             d, cand = {"promote": False, "error": repr(ex)}, None
-        rec = {"date": date, "slug": q["slug"], "branch": f"exp/{date}-{q['slug']}", "hypothesis": q.get("hypothesis"),
+        rec = {"date": date, "slug": q["slug"], "attempt_key": _attempt_key(q["slug"], champ_v, n_races),
+               "auto": bool(q.get("auto")), "branch": f"exp/{date}-{q['slug']}", "hypothesis": q.get("hypothesis"),
                "patch": q["patch"], "champion": champ_v, "decision": d,
                "champion_metrics": champ["summary"], "candidate_metrics": cand["summary"] if cand else None}
         tried.append((rec, spec))

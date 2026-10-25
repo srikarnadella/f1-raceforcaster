@@ -45,6 +45,13 @@ def main(key: str, run_improve: bool = True):
         nxt = cal[(cal.season == season) & (cal["round"] > rnd)]
         nxt_key = (season, int(nxt["round"].iloc[0])) if len(nxt) else (season + 1, 1)
         print(json.dumps(improve.run_cycle(nxt_key), default=float))
+    # refresh the walk-forward backtest of the (possibly new) champion on the grown data set
+    import backtest
+    from f1.config import REPORTS
+    reg = registry.load()
+    spec = registry.champion_spec(reg)
+    backtest.write(spec, REPORTS / "backtest.json", version=reg["champion"])
+    backtest.write(spec, REPORTS / f"backtest_{season}.json", test_from=season, version=reg["champion"])
     state.mark("review", season, rnd, "done")
 
 

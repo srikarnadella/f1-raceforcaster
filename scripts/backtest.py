@@ -44,6 +44,17 @@ def report(out):
     return rows
 
 
+def write(spec, path, test_from=2019, test_to=None, verbose=False, version=None):
+    out = run(spec, test_from, test_to, verbose=verbose)
+    by_season = {name: r["per_race"].groupby("season")[["winner_logloss", "podium_brier", "top10_brier", "spearman",
+                                                          "top1_hit"]].mean().round(4).to_dict("index")
+                 for name, r in out.items()}
+    rep = report(out)
+    json.dump({"model_version": version, "generated": registry.now(), "data_hash": registry.data_hash(),
+               "overall": rep, "by_season": by_season}, open(path, "w"), indent=1, default=float)
+    return rep
+
+
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--spec")
@@ -52,12 +63,6 @@ if __name__ == "__main__":
     ap.add_argument("--out")
     a = ap.parse_args()
     spec = json.load(open(a.spec)) if a.spec else registry.champion_spec()
-    out = run(spec, a.test_from, a.test_to)
-    rep = report(out)
-    by_season = {}
-    for name, r in out.items():
-        by_season[name] = r["per_race"].groupby("season")[["winner_logloss", "podium_brier", "top10_brier",
-                                                              "spearman", "top1_hit"]].mean().round(4).to_dict("index")
+    version = None if a.spec else registry.load()["champion"]
+    rep = write(spec, a.out, a.test_from, a.test_to, verbose=True, version=version) if a.out else report(run(spec, a.test_from, a.test_to))
     print(json.dumps(rep, indent=1, default=float))
-    if a.out:
-        json.dump({"overall": rep, "by_season": by_season}, open(a.out, "w"), indent=1, default=float)

@@ -1,4 +1,7 @@
 {
+ "model_version": null,
+ "generated": "2026-10-25T19:57:44+00:00",
+ "data_hash": "2b1410d4a79c68b6",
  "overall": {
   "model": {
    "winner_logloss": 1.2672148950293378,
