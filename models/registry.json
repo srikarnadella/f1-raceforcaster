@@ -46,7 +46,17 @@
    "data_hash": "2b1410d4a79c68b6",
    "parent": null,
    "note": "initial champion",
-   "backtest": null
+   "backtest": {
+    "winner_logloss": 1.2672148950293378,
+    "podium_brier": 0.067403737027151,
+    "top10_brier": 0.15420170056660346,
+    "spearman": 0.6605730595169074,
+    "top1_hit": 0.5621301775147929,
+    "ece_win": 0.012656447831184055,
+    "ece_top3": 0.01456565064478311,
+    "ece_top10": 0.02038042203985934,
+    "n_races": 169
+   }
   }
  },
  "history": [

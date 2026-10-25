@@ -97,8 +97,8 @@ def simulate(results: pd.DataFrame, calendar: pd.DataFrame, season: int, after_r
     constructors["rank_dist"] = [np.bincount(crank[:, i], minlength=len(cids) + 1)[1:] / n_sims
                                  for i in range(len(cids))]
     return {"season": season, "after_round": after_round, "remaining": int(len(remaining)),
-            "drivers": drivers.sort_values("p_title", ascending=False).reset_index(drop=True),
-            "constructors": constructors.sort_values("p_title", ascending=False).reset_index(drop=True)}
+            "drivers": drivers.sort_values(["p_title", "exp_points"], ascending=False).reset_index(drop=True),
+            "constructors": constructors.sort_values(["p_title", "exp_points"], ascending=False).reset_index(drop=True)}
 
 
 def to_json(sim: dict) -> dict:

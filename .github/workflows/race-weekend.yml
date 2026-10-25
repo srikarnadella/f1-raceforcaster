@@ -1,0 +1,82 @@
+name: race-weekend
+
+on:
+  schedule:
+    - cron: "17 */2 * * 5,6,0,1"   # every 2h, Fri-Mon UTC
+  workflow_dispatch:
+    inputs:
+      job:
+        description: "forecast | review (blank = let should_run decide)"
+        required: false
+      key:
+        description: "season_round, e.g. 2026_19"
+        required: false
+
+permissions:
+  contents: write   # commit outputs
+  issues: write     # data-lag issue after Tuesday
+
+concurrency:
+  group: race-weekend
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: api-cache-${{ github.run_id }}
+          restore-keys: api-cache-
+
+      - name: Decide what is due
+        id: gate
+        run: |
+          if [ -n "${{ inputs.job }}" ]; then
+            echo "${{ inputs.job }}=${{ inputs.key }}" >> "$GITHUB_OUTPUT"
+          else
+            python scripts/should_run.py
+          fi
+
+      - name: Tests (leakage + pipeline)
+        if: steps.gate.outputs.forecast != '' || steps.gate.outputs.review != ''
+        run: python -m pytest -q
+
+      - name: Trigger A - pre-race forecast
+        if: steps.gate.outputs.forecast != ''
+        run: python scripts/run_forecast.py ${{ steps.gate.outputs.forecast }}
+
+      - name: Trigger B - post-race review
+        if: steps.gate.outputs.review != ''
+        run: python scripts/run_review.py ${{ steps.gate.outputs.review }}
+
+      - name: Open issue for data still missing after Tuesday
+        if: steps.gate.outputs.overdue != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for k in $(echo "${{ steps.gate.outputs.overdue }}" | tr ',' ' '); do
+            title="Race data still missing: $k"
+            if ! gh issue list --state open --search "$title in:title" --json number -q '.[0].number' | grep -q .; then
+              gh issue create --title "$title" --body "Results for $k were not available from Jolpica by Tuesday. Review is paused; rerun via workflow_dispatch (job=review, key=$k) once data appears."
+            fi
+          done
+
+      - name: Commit outputs
+        run: |
+          git config user.name "f1-forecaster-bot"
+          git config user.email "f1-forecaster-bot@users.noreply.github.com"
+          git add data predictions reports models experiments proposals state CHANGELOG_MODELS.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated ${{ steps.gate.outputs.forecast && 'forecast' || 'review' }} ${{ steps.gate.outputs.forecast }}${{ steps.gate.outputs.review }}"
+            git pull --rebase
+            git push
+          fi

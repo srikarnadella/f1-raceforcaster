@@ -16,10 +16,14 @@ Forecast Formula 1 outcomes from practice and qualifying data, score those forec
 
 ## 2. Current state (update this section as things change)
 
-- Repo has a v0 scaffold: `f1data.py` (FastF1 extraction), `features.py` (field-relative pace + leak-free form features), `train.py` (walk-forward eval vs. baselines, logistic regression and gradient boosting), `predict.py` (pre-race forecast).
-- **The FastF1 download path has NOT been verified end-to-end on real data.** The modelling pipeline was only smoke-tested on synthetic data. **First task: run `f1data.py` on real seasons, fix whatever breaks, and record real baseline numbers here.**
-- Currently only the winner is modelled. Podium/top 10, finishing order, and championship are new work.
-- Real-data baseline: _not yet recorded_.
+_Updated 2026-10-25._ The v0 scaffold files (`f1data.py`, `train.py`, ...) never existed in this repo; the project was built directly in `src/f1/`.
+
+- **Data source (verified on real data):** FastF1 3.9 lap/timing data now requires an F1TV subscription (paid, so not used; see `proposals/2026-10-25-f1tv-practice-data.md`). The pipeline uses the free **Jolpica** (Ergast) API: qualifying Q1–Q3, sprint, race results, race lap times, pit stops. Store: `data/results/<season>.csv` 2014–2026 (273 races), `data/calendar.csv`, `data/laps/` (race laps, 2022+ backfill).
+- **Practice features:** `src/f1/practice.py` written but **unverified** (no credentials). Weekend pace is qualifying-based.
+- **Champion v1:** Plackett-Luce strength (depth 3) + logistic DNF model → 10k-sample order simulation; winner, podium, top-10, order and championship all come from that one simulation (coherent; sums checked in tests).
+- **Real-data baseline (walk-forward 2019–2026, 169 races):** v1 winner log-loss 1.267 (grid baseline 1.445, pole 2.001, uniform 3.005); podium Brier 0.0674 (grid 0.0686); top-10 Brier 0.1542 (grid 0.1633); Spearman 0.661 (grid 0.647); top-1 hit 56% (pole sitter 56%). **2026 only (17 races): v1 is worse than grid on winner log-loss (1.271 vs 1.139)**, likely because pre-2026 form is stale. Details in `reports/backtest*.json`.
+- **Milestones:** M0–M5 built and run on real data; M6/M7 (workflow, registry, gate, shadow, rollback) built, with the gate exercised in dry run. First live forecast: 2026 R18, logged 19:39 UTC before the 20:00 start.
+- **Lap analysis:** `src/f1/laps.py` tags race laps (lap 1, in/out, neutralised, slow, traffic, clean), fits fuel and tyre slopes per race, and clusters stints into inferred compound classes (the free data has no compound).
 
 ## 3. The two weekly triggers
 

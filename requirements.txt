@@ -1,0 +1,11 @@
+# Pinned (CLAUDE.md: reproducibility). Python 3.12.
+numpy==2.5.4
+pandas==2.3.3
+scipy==1.18.1
+scikit-learn==1.9.1
+requests==2.34.2
+fastf1==3.9.0
+streamlit==1.66.1
+altair==6.3.0
+pyarrow==26.0.0
+pytest==9.1.1

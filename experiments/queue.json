@@ -1,0 +1,29 @@
+[
+ {
+  "slug": "season-half-life-1.5",
+  "hypothesis": "2026 is a new era; down-weighting older seasons harder in the strength fit should cut stale-form error.",
+  "patch": {
+   "strength": {
+    "season_half_life": 1.5
+   }
+  }
+ },
+ {
+  "slug": "form-half-life-4",
+  "hypothesis": "Faster-adapting driver/constructor form tracks in-season pecking-order changes better.",
+  "patch": {
+   "form": {
+    "form_half_life": 4.0
+   }
+  }
+ },
+ {
+  "slug": "dnf-C-0.3",
+  "hypothesis": "Stronger regularisation of the DNF model reduces overfitting to noisy reliability history.",
+  "patch": {
+   "dnf": {
+    "C": 0.3
+   }
+  }
+ }
+]
