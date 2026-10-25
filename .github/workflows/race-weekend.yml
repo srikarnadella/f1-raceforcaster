@@ -17,7 +17,7 @@ permissions:
   issues: write     # data-lag issue after Tuesday
 
 concurrency:
-  group: race-weekend
+  group: repo-writer
   cancel-in-progress: false
 
 jobs:

@@ -109,6 +109,40 @@ def season_results(season: int, ttl_hours: float | None = None) -> pd.DataFrame:
     return pd.DataFrame(rows, columns=RESULT_COLS)
 
 
+CORRECTION_DAYS = 14
+CORRECTION_COLS = ["driver_id", "constructor_id", "position", "position_text", "status", "points", "grid", "laps",
+                   "sprint_pos", "sprint_points"]
+
+
+def _corrected_rounds(season: int, old: pd.DataFrame, new: pd.DataFrame, exclude=(), today=None) -> list[int]:
+    """Rounds raced within CORRECTION_DAYS whose official result differs from the store."""
+    import json
+    from .config import DATA
+    today = pd.Timestamp(today or pd.Timestamp.utcnow().date())
+    out = []
+    for rnd, n in new.groupby("round"):
+        if rnd in exclude or rnd not in set(old["round"]):
+            continue
+        if (today - pd.Timestamp(n["date"].iloc[0])).days > CORRECTION_DAYS:
+            continue
+        o = old[old["round"] == rnd]
+        def key(d):
+            d = d[CORRECTION_COLS].copy()
+            for c in ["position", "points", "grid", "laps", "sprint_pos", "sprint_points"]:
+                d[c] = pd.to_numeric(d[c], errors="coerce").astype(float)
+            return d.astype(str).sort_values("driver_id").reset_index(drop=True)
+        a, b = key(o), key(n.reindex(columns=old.columns))
+        if a.shape != b.shape or not a.equals(b):
+            diff = [{"driver_id": d, "field": c, "old": a.loc[i, c], "new": b.loc[i, c]}
+                    for i, d in enumerate(a["driver_id"]) if i < len(b)
+                    for c in CORRECTION_COLS if a.loc[i, c] != b.loc[i, c]]
+            with open(DATA / "corrections.jsonl", "a") as f:
+                f.write(json.dumps({"season": season, "round": int(rnd), "detected": str(pd.Timestamp.utcnow()),
+                                    "changes": diff}) + "\n")
+            out.append(int(rnd))
+    return out
+
+
 def update(seasons: list[int] | None = None, current: int | None = None) -> dict:
     """Refresh the store. Finished seasons are fetched once; `current` is re-polled
     with a short cache TTL. Returns {season: n_races} for seasons that changed."""
@@ -127,10 +161,13 @@ def update(seasons: list[int] | None = None, current: int | None = None) -> dict
         new = season_results(season, ttl)
         if path.exists():
             old = pd.read_csv(path)
-            # a stored round is final unless the API now has more rows for it
-            # (results published part-way through); complete rounds are never rewritten
+            # a stored round is final unless (a) the API now has more rows for it
+            # (results published part-way through) or (b) it is inside the stewards'
+            # correction window and the official result changed. Every correction is
+            # logged to data/corrections.jsonl; older rounds are never rewritten.
             n_old, n_new = old.groupby("round").size(), new.groupby("round").size()
             grow = [r for r in n_new.index if n_new[r] > n_old.get(r, 0)]
+            grow += _corrected_rounds(season, old, new, exclude=grow)
             if not grow:
                 continue
             new = pd.concat([old[~old["round"].isin(grow)], new[new["round"].isin(grow)]], ignore_index=True)

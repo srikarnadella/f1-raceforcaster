@@ -131,6 +131,20 @@ def generate_candidates(spec: dict) -> list[dict]:
     return cands
 
 
+LAP_COVERAGE_MIN = 0.95   # race-pace experiments wait until laps exist for 95% of test-window races
+
+
+def lap_coverage(results: pd.DataFrame, from_season: int = 2019) -> float:
+    from .config import LAPS_DIR
+    keys = results[results.season >= from_season][["season", "round"]].drop_duplicates()
+    have = sum((LAPS_DIR / f"{int(s)}_{int(r):02d}.csv").exists() for s, r in keys.itertuples(index=False))
+    return have / max(len(keys), 1)
+
+
+def needs_laps(patch: dict) -> bool:
+    return bool(patch.get("form", {}).get("race_pace"))
+
+
 def _attempt_key(slug: str, champion: str, n_races: int) -> str:
     return f"{slug}|{champion}|{n_races // RETRY_AFTER_RACES}"
 
@@ -158,6 +172,9 @@ def run_cycle(next_race: tuple[int, int], dry_run: bool = False) -> dict:
     champ_spec = registry.champion_spec(reg)
     n_races = int(results[["season", "round"]].drop_duplicates().shape[0])
     queue = pick_candidates(champ_v, champ_spec, n_races, read_jsonl(EXP_LOG))
+    coverage = lap_coverage(results)
+    deferred = [q["slug"] for q in queue if needs_laps(q["patch"]) and coverage < LAP_COVERAGE_MIN]
+    queue = [q for q in queue if q["slug"] not in deferred]   # not logged, so they run once laps are complete
     champ = _eval_cached(champ_spec, results)
     tried, best = [], None
     date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
@@ -209,6 +226,7 @@ def run_cycle(next_race: tuple[int, int], dry_run: bool = False) -> dict:
     nn = nn_readiness(results, reg)
     summary = {"date": date, "event": "cycle", "champion_before": champ_v, "promoted": promoted,
                "experiments": [r["slug"] for r, _ in tried], "nn_readiness": nn["line"],
+               "deferred_until_laps": deferred, "lap_coverage": round(coverage, 3),
                "seconds": round(time.time() - t0, 1)}
     if not dry_run:
         append_jsonl(EXP_LOG, {**summary, "slug": f"_cycle_{date}_{len(read_jsonl(EXP_LOG))}"})

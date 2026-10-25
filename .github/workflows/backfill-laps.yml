@@ -1,0 +1,51 @@
+name: backfill-laps
+
+# Fills data/laps/ for every race since 2019, ~45 min of API calls per run
+# (Jolpica allows 500 requests/hour), every 3 hours, with no manual trigger
+# needed. Disables itself once every race is stored.
+
+on:
+  schedule:
+    - cron: "41 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commit lap files
+  actions: write    # disable this workflow when the backfill is complete
+
+concurrency:
+  group: repo-writer   # shared with race-weekend so two jobs never push at once
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: Fetch missing race laps (oldest first)
+        id: fetch
+        run: python scripts/fetch_laps.py --from 2019 --order asc --max-minutes 45
+
+      - name: Commit lap files
+        run: |
+          git config user.name "f1-forecaster-bot"
+          git config user.email "f1-forecaster-bot@users.noreply.github.com"
+          git add data/laps
+          if ! git diff --cached --quiet; then
+            git commit -m "Lap backfill: $(git diff --cached --name-only | wc -l | tr -d ' ') race file(s)"
+            git pull --rebase
+            git push
+          fi
+
+      - name: Disable this workflow once complete
+        if: steps.fetch.outputs.complete == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow disable backfill-laps.yml --repo "$GITHUB_REPOSITORY"

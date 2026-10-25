@@ -64,3 +64,18 @@ def test_update_completes_partial_round(tmp_path, monkeypatch):
     assert len(out) == len(full)
     pd.testing.assert_frame_equal(out[out["round"] < 24].reset_index(drop=True),
                                   partial[partial["round"] < 24].reset_index(drop=True), check_dtype=False)
+
+
+def test_correction_window(tmp_path, monkeypatch):
+    import f1.config
+    monkeypatch.setattr(f1.config, "DATA", tmp_path)
+    old = ingest.load_results(seasons=[2026])
+    last = old["round"].max()
+    race_day = pd.Timestamp(old.loc[old["round"] == last, "date"].iloc[0])
+    new = old.copy()
+    m = (new["round"] == last) & (new["position"] == 3)
+    new.loc[m, "points"] = 0.0                                   # e.g. a post-race penalty
+    assert ingest._corrected_rounds(2026, old, old, today=race_day + pd.Timedelta(days=2)) == []
+    assert ingest._corrected_rounds(2026, old, new, today=race_day + pd.Timedelta(days=2)) == [last]
+    assert (tmp_path / "corrections.jsonl").read_text().count('"field": "points"') == 1
+    assert ingest._corrected_rounds(2026, old, new, today=race_day + pd.Timedelta(days=30)) == []
