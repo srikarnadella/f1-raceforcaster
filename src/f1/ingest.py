@@ -127,11 +127,14 @@ def update(seasons: list[int] | None = None, current: int | None = None) -> dict
         new = season_results(season, ttl)
         if path.exists():
             old = pd.read_csv(path)
-            done = set(old["round"])
-            add = new[~new["round"].isin(done)]
-            if add.empty:
+            # a stored round is final unless the API now has more rows for it
+            # (results published part-way through); complete rounds are never rewritten
+            n_old, n_new = old.groupby("round").size(), new.groupby("round").size()
+            grow = [r for r in n_new.index if n_new[r] > n_old.get(r, 0)]
+            if not grow:
                 continue
-            new = pd.concat([old, add], ignore_index=True)
+            new = pd.concat([old[~old["round"].isin(grow)], new[new["round"].isin(grow)]], ignore_index=True)
+            new = new.sort_values(["round", "position"], kind="stable")
         new.to_csv(path, index=False)
         changed[season] = new["round"].nunique()
     if cal:

@@ -49,3 +49,18 @@ def test_lap_categories():
                          "stint": 1 + (lap > 10 and d == "a"), "tyre_age": lap})
     c = categorise(pd.DataFrame(rows)).set_index(["driver_id", "lap"])["category"]
     assert c["a", 1] == "lap1" and c["a", 10] == "in" and c["a", 11] == "out"
+
+
+def test_update_completes_partial_round(tmp_path, monkeypatch):
+    full = ingest.load_results(seasons=[2025])
+    partial = full[~((full["round"] == 24) & (full["position"] > 10))]
+    monkeypatch.setattr(ingest, "RESULTS_DIR", tmp_path)
+    monkeypatch.setattr(ingest, "CALENDAR_CSV", tmp_path / "cal.csv")
+    monkeypatch.setattr(ingest, "calendar_rows", lambda s, t: [])
+    partial.to_csv(tmp_path / "2025.csv", index=False)
+    monkeypatch.setattr(ingest, "season_results", lambda s, t=None: full)
+    ingest.update(seasons=[2025], current=2025)
+    out = pd.read_csv(tmp_path / "2025.csv")
+    assert len(out) == len(full)
+    pd.testing.assert_frame_equal(out[out["round"] < 24].reset_index(drop=True),
+                                  partial[partial["round"] < 24].reset_index(drop=True), check_dtype=False)
