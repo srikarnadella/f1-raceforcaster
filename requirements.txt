@@ -1,5 +1,5 @@
 # Pinned (CLAUDE.md: reproducibility). Python 3.12.
-numpy==2.3.5  # 2.4+ triggers pandas 2.3 timedelta deprecations
+numpy==2.5.4  # 2.4+ triggers pandas 2.3 timedelta deprecations
 pandas==2.3.3
 scipy==1.18.1
 scikit-learn==1.9.1
