@@ -1,0 +1,357 @@
+{
+ "races": 169,
+ "hit_rate": 0.5621301775147929,
+ "mean_p_winner": 0.36929408284023674,
+ "mean_fav_p": 0.4909579881656805,
+ "miss_causes": {
+  "favourite's teammate won": 18,
+  "another front-runner was faster on the day": 18,
+  "safety-car race reshuffled it": 14,
+  "winner started P4 or lower": 14,
+  "favourite did not finish": 10
+ },
+ "calibration": [
+  {
+   "fav_bucket": "(0.0, 0.3]",
+   "races": 6,
+   "predicted": 0.2790166666666667,
+   "actual": 0.16666666666666666
+  },
+  {
+   "fav_bucket": "(0.3, 0.45]",
+   "races": 61,
+   "predicted": 0.3860032786885246,
+   "actual": 0.3770491803278688
+  },
+  {
+   "fav_bucket": "(0.45, 0.6]",
+   "races": 73,
+   "predicted": 0.5200356164383562,
+   "actual": 0.7123287671232876
+  },
+  {
+   "fav_bucket": "(0.6, 0.75]",
+   "races": 25,
+   "predicted": 0.669556,
+   "actual": 0.6
+  },
+  {
+   "fav_bucket": "(0.75, 1.0]",
+   "races": 4,
+   "predicted": 0.762525,
+   "actual": 1.0
+  }
+ ],
+ "by_winner_start": [
+  {
+   "winner_start (6 = 6+)": 1,
+   "races": 94,
+   "mean_p_given_to_winner": 0.5106563829787234
+  },
+  {
+   "winner_start (6 = 6+)": 2,
+   "races": 35,
+   "mean_p_given_to_winner": 0.25573142857142855
+  },
+  {
+   "winner_start (6 = 6+)": 3,
+   "races": 20,
+   "mean_p_given_to_winner": 0.173895
+  },
+  {
+   "winner_start (6 = 6+)": 4,
+   "races": 8,
+   "mean_p_given_to_winner": 0.118175
+  },
+  {
+   "winner_start (6 = 6+)": 5,
+   "races": 3,
+   "mean_p_given_to_winner": 0.04073333333333334
+  },
+  {
+   "winner_start (6 = 6+)": 6,
+   "races": 9,
+   "mean_p_given_to_winner": 0.10143333333333333
+  }
+ ],
+ "by_season": [
+  {
+   "season": 2019,
+   "races": 21,
+   "hit_rate": 0.38095238095238093,
+   "winner_p": 0.30852380952380953,
+   "fav_p": 0.438
+  },
+  {
+   "season": 2020,
+   "races": 17,
+   "hit_rate": 0.5882352941176471,
+   "winner_p": 0.37532352941176467,
+   "fav_p": 0.5320117647058824
+  },
+  {
+   "season": 2021,
+   "races": 22,
+   "hit_rate": 0.5,
+   "winner_p": 0.32765,
+   "fav_p": 0.4663318181818182
+  },
+  {
+   "season": 2022,
+   "races": 22,
+   "hit_rate": 0.36363636363636365,
+   "winner_p": 0.31917727272727275,
+   "fav_p": 0.42769545454545455
+  },
+  {
+   "season": 2023,
+   "races": 22,
+   "hit_rate": 0.9090909090909091,
+   "winner_p": 0.5691272727272727,
+   "fav_p": 0.5972272727272727
+  },
+  {
+   "season": 2024,
+   "races": 24,
+   "hit_rate": 0.5,
+   "winner_p": 0.3252541666666667,
+   "fav_p": 0.5248583333333333
+  },
+  {
+   "season": 2025,
+   "races": 24,
+   "hit_rate": 0.6666666666666666,
+   "winner_p": 0.38310833333333333,
+   "fav_p": 0.47932916666666664
+  },
+  {
+   "season": 2026,
+   "races": 17,
+   "hit_rate": 0.5882352941176471,
+   "winner_p": 0.3411470588235294,
+   "fav_p": 0.4600941176470588
+  }
+ ],
+ "worst_misses": [
+  {
+   "season": 2020,
+   "round": 8,
+   "race": "Italian Grand Prix",
+   "era": 2017,
+   "winner": "GAS",
+   "winner_start": 10,
+   "winner_p": 0.0024,
+   "winner_rank": 13,
+   "fav": "HAM",
+   "fav_p": 0.6126,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": NaN,
+   "fav_bucket": "(0.6, 0.75]"
+  },
+  {
+   "season": 2021,
+   "round": 11,
+   "race": "Hungarian Grand Prix",
+   "era": 2017,
+   "winner": "OCO",
+   "winner_start": 8,
+   "winner_p": 0.0048,
+   "winner_rank": 10,
+   "fav": "HAM",
+   "fav_p": 0.4779,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": NaN,
+   "fav_bucket": "(0.45, 0.6]"
+  },
+  {
+   "season": 2024,
+   "round": 6,
+   "race": "Miami Grand Prix",
+   "era": 2022,
+   "winner": "NOR",
+   "winner_start": 5,
+   "winner_p": 0.0127,
+   "winner_rank": 5,
+   "fav": "VER",
+   "fav_p": 0.6835,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": 4.0,
+   "fav_bucket": "(0.6, 0.75]"
+  },
+  {
+   "season": 2024,
+   "round": 21,
+   "race": "S\u00e3o Paulo Grand Prix",
+   "era": 2022,
+   "winner": "VER",
+   "winner_start": 12,
+   "winner_p": 0.0178,
+   "winner_rank": 5,
+   "fav": "NOR",
+   "fav_p": 0.675,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": 7.0,
+   "fav_bucket": "(0.6, 0.75]"
+  },
+  {
+   "season": 2020,
+   "round": 16,
+   "race": "Sakhir Grand Prix",
+   "era": 2017,
+   "winner": "PER",
+   "winner_start": 5,
+   "winner_p": 0.0255,
+   "winner_rank": 5,
+   "fav": "BOT",
+   "fav_p": 0.6058,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": NaN,
+   "fav_bucket": "(0.6, 0.75]"
+  },
+  {
+   "season": 2021,
+   "round": 14,
+   "race": "Italian Grand Prix",
+   "era": 2017,
+   "winner": "RIC",
+   "winner_start": 3,
+   "winner_p": 0.0293,
+   "winner_rank": 5,
+   "fav": "BOT",
+   "fav_p": 0.4238,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": NaN,
+   "fav_bucket": "(0.3, 0.45]"
+  },
+  {
+   "season": 2024,
+   "round": 11,
+   "race": "Austrian Grand Prix",
+   "era": 2022,
+   "winner": "RUS",
+   "winner_start": 3,
+   "winner_p": 0.0354,
+   "winner_rank": 4,
+   "fav": "VER",
+   "fav_p": 0.6913,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": 1.0,
+   "fav_bucket": "(0.6, 0.75]"
+  },
+  {
+   "season": 2021,
+   "round": 6,
+   "race": "Azerbaijan Grand Prix",
+   "era": 2017,
+   "winner": "PER",
+   "winner_start": 7,
+   "winner_p": 0.0371,
+   "winner_rank": 6,
+   "fav": "HAM",
+   "fav_p": 0.3502,
+   "fav_start": 2,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": NaN,
+   "fav_bucket": "(0.3, 0.45]"
+  },
+  {
+   "season": 2026,
+   "round": 13,
+   "race": "Italian Grand Prix",
+   "era": 2026,
+   "winner": "ANT",
+   "winner_start": 7,
+   "winner_p": 0.0525,
+   "winner_rank": 6,
+   "fav": "RUS",
+   "fav_p": 0.3642,
+   "fav_start": 2,
+   "fav_dnf": false,
+   "same_team": true,
+   "hit": false,
+   "neutral_laps": 3.0,
+   "fav_bucket": "(0.3, 0.45]"
+  },
+  {
+   "season": 2024,
+   "round": 14,
+   "race": "Belgian Grand Prix",
+   "era": 2022,
+   "winner": "HAM",
+   "winner_start": 4,
+   "winner_p": 0.0596,
+   "winner_rank": 4,
+   "fav": "VER",
+   "fav_p": 0.6356,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": 0.0,
+   "fav_bucket": "(0.6, 0.75]"
+  },
+  {
+   "season": 2024,
+   "round": 3,
+   "race": "Australian Grand Prix",
+   "era": 2022,
+   "winner": "SAI",
+   "winner_start": 2,
+   "winner_p": 0.0669,
+   "winner_rank": 3,
+   "fav": "VER",
+   "fav_p": 0.6819,
+   "fav_start": 1,
+   "fav_dnf": true,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": 3.0,
+   "fav_bucket": "(0.6, 0.75]"
+  },
+  {
+   "season": 2020,
+   "round": 5,
+   "race": "70th Anniversary Grand Prix",
+   "era": 2017,
+   "winner": "VER",
+   "winner_start": 4,
+   "winner_p": 0.0705,
+   "winner_rank": 3,
+   "fav": "BOT",
+   "fav_p": 0.4976,
+   "fav_start": 1,
+   "fav_dnf": false,
+   "same_team": false,
+   "hit": false,
+   "neutral_laps": NaN,
+   "fav_bucket": "(0.45, 0.6]"
+  }
+ ],
+ "notes": [
+  "The favourite won 56% of 169 races while being given 49% on average: under-confident.",
+  "Most common miss: favourite's teammate won (18 of 74 misses)."
+ ]
+}

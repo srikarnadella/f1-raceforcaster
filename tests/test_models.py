@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from f1.features import OUTCOME_COLS, build_features
+from f1.features import OUTCOME_COLS
 from f1.forecast import forecast
 from f1.models import DEFAULT_SPEC, PlackettLuce, simulate_orders
 

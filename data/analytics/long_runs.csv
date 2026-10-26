@@ -1,0 +1,1622 @@
+season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name,team_colour,long_laps,main_compound,raw_median_s,long_run_s,long_run_gap_pct,session
+2023,1,bahrain,Bahrain Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,16,SOFT,98.572,98.218,1.1992,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,14,SOFT,98.525,98.163,1.1432,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,10,SOFT,98.518,97.685,0.65015,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,6,SOFT,99.773,99.283,2.2972,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,6,SOFT,98.317,97.7,0.66536,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,6,SOFT,100.58,99.734,2.7617,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,5,MEDIUM,97.724,97.054,0,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,7,MEDIUM,100.29,97.298,0.25155,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,8,HARD,100.09,100.03,3.062,FP1
+2023,1,bahrain,Bahrain Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,12,HARD,98.05,96.902,0,FP2
+2023,1,bahrain,Bahrain Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,5,SOFT,98.644,98.216,1.3562,FP2
+2023,1,bahrain,Bahrain Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,5,SOFT,97.65,97.468,0.58483,FP2
+2023,1,bahrain,Bahrain Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,9,SOFT,97.179,97.041,0.14382,FP2
+2023,1,bahrain,Bahrain Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,5,SOFT,97.959,97.934,1.0653,FP2
+2023,1,bahrain,Bahrain Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,6,SOFT,98.019,97.908,1.038,FP2
+2023,1,bahrain,Bahrain Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,7,SOFT,98.397,98.065,1.2001,FP2
+2023,1,bahrain,Bahrain Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,7,SOFT,98.522,98.614,1.7668,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,MEDIUM,95.318,94.65,2.2945,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,5,MEDIUM,93.198,93.264,0.79673,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,13,MEDIUM,93.006,92.527,0,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,6,MEDIUM,97.058,96.483,4.275,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,7,SOFT,94.843,94.542,2.1778,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,5,MEDIUM,96.139,95.817,3.5553,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,6,SOFT,93.909,93.791,1.3658,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,16,SOFT,95.137,94.994,2.6657,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,5,HARD,95.294,98.409,6.3571,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,6,MEDIUM,96.178,95.469,3.1798,FP1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,9,MEDIUM,95.856,95.525,0.79192,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,11,MEDIUM,95.269,94.968,0.2038,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,SOFT,96.846,96.498,1.8183,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,7,SOFT,95.921,95.754,1.0338,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,9,SOFT,95.44,94.966,0.20229,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,5,MEDIUM,95.229,95.089,0.33208,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,SOFT,96.733,96.828,2.1662,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,11,MEDIUM,95.39,95.116,0.36032,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,12,SOFT,95.201,95.129,0.37408,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,6,SOFT,95.979,95.805,1.0874,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,10,MEDIUM,95.335,95.035,0.27467,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,12,MEDIUM,95.169,94.775,0,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,6,HARD,95.565,95.067,0.30802,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,9,MEDIUM,95.47,95.13,0.37513,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,7,SOFT,95.214,95.023,0.26245,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,10,HARD,96.105,95.696,0.9724,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,9,SOFT,95.725,95.676,0.95137,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,10,SOFT,96.142,95.679,0.95431,FP2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,7,MEDIUM,96.461,95.904,1.1917,FP2
+2023,3,albert_park,Australian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,7,SOFT,79.921,79.745,0.00042202,FP3
+2023,3,albert_park,Australian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,8,MEDIUM,81.656,80.163,0.52435,FP3
+2023,3,albert_park,Australian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,6,SOFT,80.4,79.744,0,FP3
+2023,3,albert_park,Australian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,7,SOFT,80.728,80.572,1.0376,FP3
+2023,3,albert_park,Australian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,7,SOFT,81.483,81.076,1.67,FP3
+2023,3,albert_park,Australian Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,5,SOFT,80.261,80.407,0.8313,FP3
+2023,4,baku,Azerbaijan Grand Prix,sprint,albon,ALB,williams,Williams,#37BEDD,5,MEDIUM,105.64,107.19,1.1643,FP1
+2023,4,baku,Azerbaijan Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#358C75,5,MEDIUM,107.22,106.54,0.54975,FP1
+2023,4,baku,Azerbaijan Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#6CD3BF,9,MEDIUM,106.17,105.98,0.0219,FP1
+2023,4,baku,Azerbaijan Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F58020,5,HARD,107.15,105.96,0,FP1
+2023,4,baku,Azerbaijan Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#6CD3BF,6,MEDIUM,108.85,108.11,2.0311,FP1
+2023,4,baku,Azerbaijan Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#358C75,5,MEDIUM,108.31,107.78,1.7236,FP1
+2023,4,baku,Azerbaijan Grand Prix,sprint,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,5,MEDIUM,108.44,110.2,4.0096,FP1
+2023,5,miami,Miami Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,6,SOFT,95.043,95,2.9177,FP1
+2023,5,miami,Miami Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,7,SOFT,92.543,92.306,0,FP1
+2023,5,miami,Miami Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,6,HARD,95.059,96.237,4.2578,FP1
+2023,5,miami,Miami Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,6,MEDIUM,94.631,93.454,1.2429,FP1
+2023,5,miami,Miami Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,7,MEDIUM,96.325,95.282,3.2237,FP1
+2023,5,miami,Miami Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,5,HARD,93.654,95.638,3.6093,FP1
+2023,5,miami,Miami Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,10,SOFT,94.325,94.126,1.9707,FP1
+2023,5,miami,Miami Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,13,MEDIUM,94.384,93.565,1.3633,FP1
+2023,5,miami,Miami Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,6,MEDIUM,94.543,93.558,1.3561,FP1
+2023,5,miami,Miami Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,6,MEDIUM,93.964,92.96,0.70791,FP1
+2023,5,miami,Miami Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,5,HARD,93.823,96.045,4.0506,FP1
+2023,5,miami,Miami Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,7,SOFT,94.602,94.642,2.5298,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,6,HARD,77.163,76.012,1.9536,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,5,HARD,75.668,74.684,0.17132,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,6,HARD,77.208,76.634,2.7879,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,16,HARD,75.953,75.972,1.9,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,6,MEDIUM,78.004,78.375,5.1223,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,HARD,76.463,75.392,1.1219,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,8,HARD,76.505,75.662,1.4836,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,HARD,75.796,74.556,0,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,5,MEDIUM,76.293,76.197,2.2006,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,10,HARD,76.66,76.001,1.9377,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,7,HARD,76.093,75.587,1.3834,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,7,HARD,77.286,76.127,2.1077,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,6,MEDIUM,74.984,75.299,0.99721,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,15,HARD,77.526,77.138,3.464,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,5,HARD,76.505,75.505,1.2736,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,7,HARD,76.429,75.834,1.7149,FP1
+2023,6,monaco,Monaco Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,5,SOFT,77.111,74.764,0,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,MEDIUM,77.055,76.959,2.935,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,11,SOFT,76.2,75.546,1.0456,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,7,MEDIUM,76.912,77.096,3.1191,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,5,MEDIUM,76.586,77.575,3.7594,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,7,SOFT,77.29,75.968,1.6106,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,11,MEDIUM,76.401,76.62,2.4817,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,13,MEDIUM,76.225,75.578,1.0881,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,7,MEDIUM,76.35,76.387,2.1708,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,6,MEDIUM,76.547,76.454,2.2606,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,7,MEDIUM,76.804,77.097,3.1201,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,13,SOFT,77.464,77.701,3.9274,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,5,MEDIUM,77.079,76.967,2.9463,FP2
+2023,6,monaco,Monaco Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,5,MEDIUM,75.033,76.327,2.0898,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,22,MEDIUM,77.876,77.054,1.3149,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,6,MEDIUM,77.6,76.76,0.92808,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,8,MEDIUM,78.079,77.117,1.3966,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,5,MEDIUM,76.603,76.205,0.19821,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,23,MEDIUM,77.647,76.576,0.68533,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,9,MEDIUM,78.439,77.377,1.7388,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,8,MEDIUM,79.023,78.154,2.7607,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,10,MEDIUM,77.614,76.673,0.81298,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,11,MEDIUM,77.543,76.58,0.6907,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,14,MEDIUM,77.87,77.063,1.3256,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,7,MEDIUM,77.282,76.054,0,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,9,MEDIUM,77.912,77.01,1.2567,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,15,MEDIUM,78.312,76.802,0.98315,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,11,MEDIUM,78.591,77.54,1.9534,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,16,MEDIUM,77.958,77.033,1.2866,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,16,MEDIUM,79.267,78.34,3.0046,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,13,MEDIUM,77.755,76.794,0.97246,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,15,MEDIUM,77.61,77.01,1.2567,FP2
+2023,8,villeneuve,Canadian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,5,INTERMEDIATE,84.82,82.199,0,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,INTERMEDIATE,88.137,84.364,2.6337,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,6,INTERMEDIATE,87.178,85.556,4.0834,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,6,INTERMEDIATE,86.91,83.282,1.3177,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,6,INTERMEDIATE,89.001,84.515,2.818,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,INTERMEDIATE,85.646,83.474,1.5511,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,12,INTERMEDIATE,87.411,84.509,2.8104,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,6,INTERMEDIATE,88.862,84.935,3.329,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,13,INTERMEDIATE,87.882,84.955,3.3525,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,6,INTERMEDIATE,87.267,84.818,3.1866,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,6,INTERMEDIATE,87.085,83.975,2.1599,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,6,INTERMEDIATE,86.325,84.589,2.9079,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,5,INTERMEDIATE,85.643,84.046,2.247,FP3
+2023,8,villeneuve,Canadian Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,13,INTERMEDIATE,88.724,86.257,4.9365,FP3
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,albon,ALB,williams,Williams,#37BEDD,8,SOFT,70.05,68.032,0,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#358C75,11,MEDIUM,70.119,69.564,2.2515,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,bottas,BOT,alfa,Alfa Romeo,#C92D4B,6,MEDIUM,70.782,70.724,3.9578,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,10,MEDIUM,70.865,70.56,3.7161,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#6CD3BF,9,HARD,70.402,69.678,2.4195,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,9,MEDIUM,70.469,70.612,3.7919,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,7,MEDIUM,70.179,70.275,3.297,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#F91536,6,HARD,68.692,69.131,1.6156,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F58020,7,MEDIUM,69.041,69.538,2.2137,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,ocon,OCO,alpine,Alpine,#2293D1,7,MEDIUM,69.912,68.903,1.2808,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,5,HARD,70.832,70.372,3.4398,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F58020,6,MEDIUM,69.53,69.568,2.2583,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#6CD3BF,15,HARD,69.633,69.083,1.5449,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#F91536,8,HARD,68.898,68.965,1.3717,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,sargeant,SAR,williams,Williams,#37BEDD,8,SOFT,69.851,68.931,1.3218,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,10,MEDIUM,71.031,70.792,4.0565,FP1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,9,MEDIUM,70.825,70.774,4.0301,FP1
+2023,10,silverstone,British Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,95.201,93.616,3.2781,FP1
+2023,10,silverstone,British Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,SOFT,95.071,94.376,4.1167,FP1
+2023,10,silverstone,British Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,6,SOFT,94.02,92.863,2.4468,FP1
+2023,10,silverstone,British Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,7,HARD,93.52,93.819,3.5015,FP1
+2023,10,silverstone,British Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,6,SOFT,92.385,91.601,1.0548,FP1
+2023,10,silverstone,British Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,11,MEDIUM,93.271,91.975,1.467,FP1
+2023,10,silverstone,British Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,10,HARD,94.188,94.529,4.2846,FP1
+2023,10,silverstone,British Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,6,MEDIUM,92.871,90.645,0,FP1
+2023,10,silverstone,British Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,9,SOFT,95.169,94.908,4.7034,FP1
+2023,10,silverstone,British Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,7,HARD,94.266,93.636,0.4335,FP2
+2023,10,silverstone,British Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,9,MEDIUM,94.333,94.301,1.147,FP2
+2023,10,silverstone,British Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,6,SOFT,94.864,94.525,1.3868,FP2
+2023,10,silverstone,British Grand Prix,conventional,de_vries,DEV,alphatauri,AlphaTauri,#5E8FAA,8,SOFT,94.647,94.275,1.1189,FP2
+2023,10,silverstone,British Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,10,HARD,94.513,93.903,0.71932,FP2
+2023,10,silverstone,British Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,9,SOFT,93.901,93.959,0.78027,FP2
+2023,10,silverstone,British Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,11,HARD,94.866,94.229,1.0695,FP2
+2023,10,silverstone,British Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,MEDIUM,95.124,94.916,1.8058,FP2
+2023,10,silverstone,British Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,93.158,93.232,0,FP2
+2023,10,silverstone,British Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,9,HARD,94,93.469,0.25447,FP2
+2023,10,silverstone,British Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,7,MEDIUM,94.553,94.415,1.2693,FP2
+2023,10,silverstone,British Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,8,SOFT,94.059,93.86,0.67341,FP2
+2023,10,silverstone,British Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,10,SOFT,94.726,94.477,1.3355,FP2
+2023,10,silverstone,British Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,10,MEDIUM,94.654,94.442,1.2974,FP2
+2023,10,silverstone,British Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,13,HARD,94.144,93.85,0.66275,FP2
+2023,10,silverstone,British Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,9,HARD,94.711,94.153,0.9884,FP2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,5,MEDIUM,83.552,82.191,1.0055,FP2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,8,MEDIUM,83.862,81.688,0.38663,FP2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,SOFT,83.269,83.695,2.8538,FP2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,6,MEDIUM,83.751,81.953,0.71296,FP2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,6,MEDIUM,83.575,82.268,1.1,FP2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,5,MEDIUM,83.506,81.675,0.37059,FP2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,5,MEDIUM,83.251,81.373,0,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,7,SOFT,76.263,75.583,0,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,6,MEDIUM,77.749,78.121,3.3583,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,12,SOFT,76.864,76.291,0.93676,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,6,SOFT,77.231,77.062,1.9571,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,12,HARD,76.675,77.194,2.1309,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,7,HARD,76.743,78.57,3.9525,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,12,SOFT,76.748,76.078,0.65448,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,12,SOFT,76.386,75.791,0.27555,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,ric,RIC,alphatauri,AlphaTauri,#5E8FAA,5,MEDIUM,74.715,75.73,0.19419,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,13,MEDIUM,76.76,76.655,1.4182,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,shw,SHW,ferrari,Ferrari,#F91536,11,HARD,76.784,78.055,3.2704,FP1
+2023,13,zandvoort,Dutch Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,6,HARD,76.494,75.93,0.2091,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,9,SOFT,76.487,76.073,0.39783,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,6,MEDIUM,76.394,75.836,0.084264,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,8,SOFT,76.649,76.3,0.69729,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,SOFT,76.048,75.772,0,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,11,HARD,76.357,75.914,0.18748,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,76.292,75.814,0.055822,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,7,SOFT,76.534,76.2,0.56512,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,8,SOFT,76.708,76.344,0.75566,FP2
+2023,13,zandvoort,Dutch Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,13,HARD,76.543,76.15,0.49957,FP2
+2023,14,monza,Italian Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,7,SOFT,86.579,86.784,3.1319,FP1
+2023,14,monza,Italian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,6,MEDIUM,86.834,87.968,4.5386,FP1
+2023,14,monza,Italian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,10,SOFT,87.584,85.622,1.7512,FP1
+2023,14,monza,Italian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,7,HARD,86.088,85.974,2.1687,FP1
+2023,14,monza,Italian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,88.015,89.115,5.9012,FP1
+2023,14,monza,Italian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,6,MEDIUM,87.733,88.938,5.6918,FP1
+2023,14,monza,Italian Grand Prix,conventional,lawson,LAW,alphatauri,AlphaTauri,#5E8FAA,10,SOFT,87.222,85.665,1.8022,FP1
+2023,14,monza,Italian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,5,HARD,83.886,84.149,0,FP1
+2023,14,monza,Italian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,12,HARD,86.554,85.546,1.6604,FP1
+2023,14,monza,Italian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,10,SOFT,86.595,86.549,2.8523,FP1
+2023,14,monza,Italian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,6,SOFT,88.477,88.638,5.3351,FP1
+2023,14,monza,Italian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,11,HARD,86.246,85.277,1.3413,FP1
+2023,14,monza,Italian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,7,HARD,85.866,84.817,0.79428,FP1
+2023,14,monza,Italian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,11,HARD,85.907,84.792,0.76493,FP1
+2023,14,monza,Italian Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,7,SOFT,87.618,86.144,2.3713,FP1
+2023,14,monza,Italian Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,9,MEDIUM,87.852,87.423,7.9722,FP3
+2023,14,monza,Italian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,5,SOFT,85.206,85.372,5.4397,FP3
+2023,14,monza,Italian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,10,MEDIUM,86.92,86.367,6.6681,FP3
+2023,14,monza,Italian Grand Prix,conventional,lawson,LAW,alphatauri,AlphaTauri,#5E8FAA,10,MEDIUM,87.224,87.007,7.4586,FP3
+2023,14,monza,Italian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,7,SOFT,84.872,85.531,5.6358,FP3
+2023,14,monza,Italian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,7,SOFT,85.811,85.782,5.9458,FP3
+2023,14,monza,Italian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,7,HARD,84.365,80.968,0,FP3
+2023,14,monza,Italian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,8,SOFT,86.424,86.785,7.1846,FP3
+2023,14,monza,Italian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,5,SOFT,85.16,85.58,5.696,FP3
+2023,14,monza,Italian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,7,SOFT,84.904,85.522,5.6249,FP3
+2023,14,monza,Italian Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,10,MEDIUM,87.191,86.844,7.2575,FP3
+2023,14,monza,Italian Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,8,MEDIUM,87.936,87.657,8.2609,FP3
+2023,15,marina_bay,Singapore Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,7,SOFT,97.391,96.612,0,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,7,HARD,99.912,100.94,4.4822,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,lawson,LAW,alphatauri,AlphaTauri,#5E8FAA,10,HARD,99.781,98.789,2.2539,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,5,HARD,95.829,96.93,0.32896,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,HARD,99.256,100.15,3.6637,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,5,SOFT,98.086,97.097,0.50232,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,5,MEDIUM,96.453,100.59,4.1175,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,10,HARD,99.932,100.35,3.8705,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,6,SOFT,98.201,97.115,0.52117,FP1
+2023,15,marina_bay,Singapore Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,8,MEDIUM,98.208,97.347,0.066925,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,HARD,98.806,98.385,1.1338,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,6,HARD,99.115,97.973,0.70962,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,8,MEDIUM,98.316,97.569,0.29507,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,lawson,LAW,alphatauri,AlphaTauri,#5E8FAA,9,MEDIUM,99.109,97.965,0.70161,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,MEDIUM,98.573,97.619,0.34626,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,5,SOFT,98.031,97.795,0.5271,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,9,HARD,99.451,98.365,1.1131,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,98.259,97.282,0,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,6,MEDIUM,98.481,97.39,0.11086,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,5,MEDIUM,98.385,97.368,0.087974,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,8,MEDIUM,100.12,99.523,2.3036,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,5,MEDIUM,98.464,97.702,0.43123,FP2
+2023,15,marina_bay,Singapore Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,8,MEDIUM,98.754,97.715,0.44446,FP2
+2023,16,suzuka,Japanese Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,6,HARD,96.493,96.803,1.4857,FP1
+2023,16,suzuka,Japanese Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,5,MEDIUM,98.754,97.399,2.1111,FP1
+2023,16,suzuka,Japanese Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,7,MEDIUM,99.254,99.16,3.957,FP1
+2023,16,suzuka,Japanese Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,6,HARD,97.224,97.349,2.0585,FP1
+2023,16,suzuka,Japanese Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,5,MEDIUM,96.133,95.386,0,FP1
+2023,16,suzuka,Japanese Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,8,HARD,97.496,97.549,2.2684,FP1
+2023,16,suzuka,Japanese Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,8,MEDIUM,98.915,98.503,3.2679,FP1
+2023,17,losail,Qatar Grand Prix,sprint,albon,ALB,williams,Williams,#37BEDD,5,MEDIUM,93.252,93.762,3.8596,FP1
+2023,17,losail,Qatar Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#358C75,5,HARD,90.987,91.878,1.7724,FP1
+2023,17,losail,Qatar Grand Prix,sprint,bottas,BOT,alfa,Alfa Romeo,#C92D4B,7,MEDIUM,93.742,93.103,3.1297,FP1
+2023,17,losail,Qatar Grand Prix,sprint,gasly,GAS,alpine,Alpine,#2293D1,7,HARD,90.423,90.278,0,FP1
+2023,17,losail,Qatar Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#6CD3BF,6,HARD,91.012,91.264,1.0929,FP1
+2023,17,losail,Qatar Grand Prix,sprint,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,6,MEDIUM,94.977,95.827,6.1469,FP1
+2023,17,losail,Qatar Grand Prix,sprint,lawson,LAW,alphatauri,AlphaTauri,#5E8FAA,5,MEDIUM,94.416,95.639,5.9386,FP1
+2023,17,losail,Qatar Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F58020,5,HARD,92.259,91.508,1.3626,FP1
+2023,17,losail,Qatar Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#6CD3BF,12,HARD,90.992,90.826,0.60726,FP1
+2023,17,losail,Qatar Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#F91536,5,HARD,90.971,91.029,0.83231,FP1
+2023,17,losail,Qatar Grand Prix,sprint,sargeant,SAR,williams,Williams,#37BEDD,6,MEDIUM,92.732,93.447,3.5103,FP1
+2023,17,losail,Qatar Grand Prix,sprint,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,5,MEDIUM,93.539,94.853,5.0682,FP1
+2023,17,losail,Qatar Grand Prix,sprint,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,8,MEDIUM,94.254,95.7,6.0059,FP1
+2023,18,americas,United States Grand Prix,sprint,bottas,BOT,alfa,Alfa Romeo,#C92D4B,6,MEDIUM,102.3,100.59,2.7085,FP1
+2023,18,americas,United States Grand Prix,sprint,gasly,GAS,alpine,Alpine,#2293D1,6,HARD,101.25,98.004,0.067049,FP1
+2023,18,americas,United States Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#6CD3BF,6,HARD,101.45,98.555,0.6302,FP1
+2023,18,americas,United States Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F58020,5,MEDIUM,101.16,99.044,1.1293,FP1
+2023,18,americas,United States Grand Prix,sprint,ocon,OCO,alpine,Alpine,#2293D1,6,HARD,100.94,97.938,0,FP1
+2023,18,americas,United States Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F58020,5,MEDIUM,102.05,99.318,1.4094,FP1
+2023,18,americas,United States Grand Prix,sprint,ricciardo,RIC,alphatauri,AlphaTauri,#5E8FAA,6,MEDIUM,102.25,100.38,2.4928,FP1
+2023,18,americas,United States Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#6CD3BF,7,HARD,100.94,100.26,2.3754,FP1
+2023,18,americas,United States Grand Prix,sprint,sargeant,SAR,williams,Williams,#37BEDD,6,MEDIUM,102.12,99.991,2.0968,FP1
+2023,18,americas,United States Grand Prix,sprint,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,7,MEDIUM,101.75,99.695,1.7945,FP1
+2023,18,americas,United States Grand Prix,sprint,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,7,MEDIUM,102.99,101.24,3.3757,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,7,MEDIUM,83.199,81.543,0,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,bea,BEA,haas,Haas F1 Team,#B6BABD,10,HARD,84.482,83.586,2.5047,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,doo,DOO,alpine,Alpine,#2293D1,14,SOFT,84.599,83.827,2.8001,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,had,HAD,alphatauri,AlphaTauri,#5E8FAA,6,SOFT,84.424,84.758,3.9428,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,8,HARD,84.496,84.237,3.3034,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,11,HARD,84.11,83.152,1.9726,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,10,HARD,84.233,83.811,2.7813,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,MEDIUM,83.854,82.95,1.7251,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,13,SOFT,82.711,82.331,0.96647,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,84.358,82.69,1.4068,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,ricciardo,RIC,alphatauri,AlphaTauri,#5E8FAA,7,MEDIUM,83.07,81.853,0.38049,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,7,HARD,84.14,83.933,2.9313,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,6,HARD,84.709,84.453,3.5689,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,6,SOFT,85.549,84.679,3.846,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,ves,VES,mercedes,Mercedes,#6CD3BF,6,HARD,87.029,86.79,6.4345,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,5,MEDIUM,83.622,84.096,3.1308,FP1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,8,HARD,83.238,82.358,1.143,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,12,MEDIUM,84.633,82.902,1.8099,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,MEDIUM,83.106,81.61,0.22362,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,6,HARD,83.965,82.791,1.6744,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,7,MEDIUM,83.4,81.428,0,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,84.278,82.66,1.5129,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,6,SOFT,84.144,84.165,3.3612,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,7,MEDIUM,83.205,81.768,0.41732,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,9,MEDIUM,83.29,81.84,0.50619,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,17,MEDIUM,82.733,81.627,0.24437,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,7,MEDIUM,83.759,82.347,1.1285,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,8,HARD,83.232,82.326,1.1036,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,13,HARD,83.802,82.204,0.95384,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,ricciardo,RIC,alphatauri,AlphaTauri,#5E8FAA,7,HARD,83.602,82.289,1.0582,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,6,MEDIUM,83.454,82.003,0.70616,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,8,MEDIUM,83.629,82.042,0.75424,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,7,MEDIUM,84.053,83.011,1.9444,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,10,MEDIUM,84.113,82.16,0.89893,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,8,MEDIUM,83.98,82.912,1.823,FP2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,8,HARD,82.766,82.816,2.8238,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,7,SOFT,82.178,80.999,0.56755,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,SOFT,81.159,80.542,0,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,6,SOFT,81.93,81.391,1.0544,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,5,MEDIUM,82.084,81.178,0.7892,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,7,SOFT,81.563,80.932,0.48438,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,5,SOFT,81.996,82.564,2.5104,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,7,SOFT,82.867,81.66,1.3879,FP3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,5,HARD,81.481,81.532,1.2291,FP3
+2023,20,interlagos,São Paulo Grand Prix,sprint,albon,ALB,williams,Williams,#37BEDD,8,HARD,75.691,75.289,0.75873,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#358C75,11,HARD,75.824,74.958,0.3158,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,bottas,BOT,alfa,Alfa Romeo,#C92D4B,9,HARD,76.899,76.222,2.0064,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,gasly,GAS,alpine,Alpine,#2293D1,6,HARD,74.909,74.938,0.28916,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#6CD3BF,13,HARD,76.694,75.874,1.5412,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#F91536,9,HARD,75.815,74.802,0.10617,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,13,HARD,77.47,76.525,2.4121,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F58020,5,HARD,75.571,75.399,0.90585,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,ocon,OCO,alpine,Alpine,#2293D1,8,HARD,75.219,74.967,0.32731,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,13,HARD,77.703,77.475,3.6835,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F58020,12,HARD,75.242,74.822,0.13275,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,ricciardo,RIC,alphatauri,AlphaTauri,#5E8FAA,8,HARD,76.219,75.952,1.6462,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#6CD3BF,17,MEDIUM,76.145,74.722,0,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#F91536,14,HARD,75.66,74.986,0.35225,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,sargeant,SAR,williams,Williams,#37BEDD,8,HARD,75.776,75.385,0.8862,FP1
+2023,20,interlagos,São Paulo Grand Prix,sprint,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,5,HARD,76.395,76.178,1.9486,FP1
+2023,21,vegas,Las Vegas Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,13,MEDIUM,101.06,100.79,1.5231,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,8,MEDIUM,100.74,100.59,1.3224,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,HARD,100.12,100.2,0.92158,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,11,MEDIUM,100.41,100.2,0.92863,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,9,MEDIUM,101.5,101.3,2.0317,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,SOFT,101.49,101.78,2.5153,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,9,MEDIUM,99.683,99.449,0.16846,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,99.222,99.282,0,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,6,MEDIUM,101.88,101.73,2.4706,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,17,MEDIUM,101,100.82,1.5512,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,10,MEDIUM,100.59,100.43,1.1553,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,7,MEDIUM,100.88,100.56,1.2889,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,ricciardo,RIC,alphatauri,AlphaTauri,#5E8FAA,10,MEDIUM,100.22,100.35,1.0712,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,8,MEDIUM,100.35,100.22,0.94401,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,6,MEDIUM,99.858,99.362,0.080798,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,18,HARD,100.87,100.86,1.5862,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,6,MEDIUM,100.55,100.09,0.81566,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,8,HARD,100.42,100.07,0.79782,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,5,MEDIUM,102.19,101.9,2.6372,FP2
+2023,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,alfa,Alfa Romeo,#C92D4B,5,SOFT,99.098,99.32,2.8584,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,5,SOFT,98.194,98.918,2.4418,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#6CD3BF,9,MEDIUM,100.25,99.6,3.1485,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,5,MEDIUM,98.451,97.403,0.87368,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,6,MEDIUM,97.681,96.56,0,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F58020,6,MEDIUM,98.144,97.924,1.4131,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,ocon,OCO,alpine,Alpine,#2293D1,5,SOFT,96.798,98.016,1.5082,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,6,MEDIUM,97.919,97.518,0.99225,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,7,MEDIUM,100.22,99.594,3.1421,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,6,MEDIUM,98.185,97.472,0.94504,FP3
+2023,21,vegas,Las Vegas Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,5,SOFT,96.426,96.896,0.34809,FP3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,dru,DRU,aston_martin,Aston Martin,#358C75,5,MEDIUM,87.901,88.315,0.43963,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,GAS,alpine,Alpine,#2293D1,6,MEDIUM,92.055,92.245,4.9089,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,MEDIUM,92.516,93.076,5.8544,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,osu,OSU,williams,Williams,#37BEDD,6,MEDIUM,93.055,93.113,5.8963,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,owa,OWA,mclaren,McLaren,#F58020,5,MEDIUM,92.301,92.76,5.4946,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,6,MEDIUM,89.947,90.288,2.6838,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,8,MEDIUM,91.548,91.793,4.3955,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,6,SOFT,90.636,88.909,1.1149,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,7,MEDIUM,91.355,91.863,4.4753,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,shw,SHW,ferrari,Ferrari,#F91536,6,SOFT,89.038,87.928,0,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,6,SOFT,91.509,90.302,2.6994,FP1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,albon,ALB,williams,Williams,#37BEDD,7,MEDIUM,88.153,89.141,1.3797,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,7,MEDIUM,91.948,92.894,5.6476,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,6,SOFT,88.255,87.928,0,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F58020,7,MEDIUM,87.754,89.256,1.5099,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,ricciardo,RIC,alphatauri,AlphaTauri,#5E8FAA,5,MEDIUM,88.009,89.019,1.2408,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#6CD3BF,6,MEDIUM,88.298,89.62,1.9247,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sargeant,SAR,williams,Williams,#37BEDD,9,MEDIUM,90.649,91.846,4.4565,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,TSU,alphatauri,AlphaTauri,#5E8FAA,6,MEDIUM,88.141,89.277,1.5345,FP2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#358C75,6,SOFT,90.246,88.663,1.2441,FP3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,5,SOFT,89.296,87.574,0,FP3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#F91536,11,MEDIUM,90.64,91.815,4.8434,FP3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,SOFT,88.98,87.817,0.27815,FP3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#F91536,10,MEDIUM,90.75,92.029,5.0873,FP3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#358C75,6,SOFT,90.125,88.646,1.2243,FP3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,zhou,ZHO,alfa,Alfa Romeo,#C92D4B,5,SOFT,90.268,89.044,1.6788,FP3
+2024,1,bahrain,Bahrain Grand Prix,conventional,gasly,GAS,alpine,Alpine,#ff87bc,6,MEDIUM,100.18,99.998,4.1867,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27f4d2,7,MEDIUM,97.983,97.679,1.7702,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#b6babd,12,MEDIUM,98.34,98.232,2.3466,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#b6babd,19,MEDIUM,98.424,98.362,2.4822,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#e8002d,6,MEDIUM,97.877,97.535,1.6203,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671c6,6,MEDIUM,97.767,97.588,1.675,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,norris,NOR,mclaren,McLaren,#ff8000,6,SOFT,97.506,97.501,1.5843,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671c6,6,MEDIUM,98.281,98.096,2.2048,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#ff8000,11,MEDIUM,98.619,98.38,2.5008,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692ff,6,SOFT,98.308,98.283,2.3992,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27f4d2,5,MEDIUM,98.099,97.997,2.1013,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#e8002d,6,MEDIUM,97.745,97.713,1.8057,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,sargeant,SAR,williams,Williams,#64c4ff,5,MEDIUM,96.292,95.98,0,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692ff,5,SOFT,98.556,98.238,2.3527,FP1
+2024,1,bahrain,Bahrain Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,9,SOFT,97.405,97.233,0.85006,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,gasly,GAS,alpine,Alpine,#ff87bc,8,SOFT,98.019,97.457,1.0829,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#b6babd,7,SOFT,97.795,97.379,1.001,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#e8002d,10,SOFT,97.262,97.053,0.66356,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671c6,11,SOFT,96.645,96.413,0,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,norris,NOR,mclaren,McLaren,#ff8000,11,SOFT,97.029,96.822,0.42345,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,ocon,OCO,alpine,Alpine,#ff87bc,8,SOFT,98.148,97.644,1.2762,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671c6,11,SOFT,96.966,96.511,0.10126,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#ff8000,7,SOFT,96.527,96.625,0.21968,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692ff,8,SOFT,97.394,97.122,0.73487,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27f4d2,6,SOFT,96.82,96.684,0.28109,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,sargeant,SAR,williams,Williams,#64c4ff,6,SOFT,97.054,97.194,0.8095,FP2
+2024,1,bahrain,Bahrain Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,6,SOFT,98.016,97.731,1.3664,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,ALB,williams,Williams,#64c4ff,5,MEDIUM,94.856,95.795,1.9757,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,5,SOFT,95.589,94.714,0.82495,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#ff87bc,6,MEDIUM,96.002,96.505,2.7311,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#b6babd,5,MEDIUM,95.707,96.368,2.5857,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671c6,6,HARD,94.634,95.383,1.5364,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#ff8000,6,SOFT,94.787,94.295,0.37847,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#ff87bc,6,MEDIUM,96.215,97.299,3.5766,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692ff,6,HARD,93.215,94.624,0.72937,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,SAR,williams,Williams,#64c4ff,7,HARD,95.311,98.181,4.5157,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692ff,6,HARD,92.631,93.939,0,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,5,HARD,93.072,94.292,0.37586,FP1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,ALB,williams,Williams,#64c4ff,11,HARD,94.855,94.285,0.71674,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,9,MEDIUM,94.71,94.27,0.70031,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,6,HARD,95.782,95.348,1.8515,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#ff87bc,9,MEDIUM,95.305,94.777,1.2416,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#b6babd,8,HARD,95.418,94.999,1.4788,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#b6babd,10,SOFT,95.257,95.358,1.8626,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#e8002d,8,SOFT,94.483,94.539,0.98829,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671c6,9,MEDIUM,94.017,93.614,0,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#ff8000,5,HARD,94.75,94.065,0.4815,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#ff87bc,9,MEDIUM,95.639,94.977,1.4558,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671c6,15,MEDIUM,94.439,94.05,0.4649,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#ff8000,6,MEDIUM,95.097,94.484,0.92874,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692ff,10,SOFT,95.306,95.388,1.8946,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,sai,SAI,ferrari,Ferrari,#e8002d,6,MEDIUM,94.769,94.28,0.71069,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,SAR,williams,Williams,#64c4ff,9,MEDIUM,95.576,95.134,1.6236,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,7,MEDIUM,95.07,94.694,1.1534,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692ff,9,SOFT,95.362,95.508,2.0233,FP2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,10,MEDIUM,95.334,94.788,1.2537,FP2
+2024,3,albert_park,Australian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,5,MEDIUM,80.25,83.161,1.8606,FP1
+2024,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,MEDIUM,84.202,85.056,4.1823,FP1
+2024,3,albert_park,Australian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,5,SOFT,82.627,82.278,0.77985,FP1
+2024,3,albert_park,Australian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,6,MEDIUM,80.88,82.601,1.175,FP1
+2024,3,albert_park,Australian Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,5,MEDIUM,80.103,81.821,0.21917,FP1
+2024,3,albert_park,Australian Grand Prix,conventional,sar,SAR,williams,Williams,#64C4FF,5,MEDIUM,83.666,86.468,5.9112,FP1
+2024,3,albert_park,Australian Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,5,MEDIUM,79.867,81.642,0,FP1
+2024,3,albert_park,Australian Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,5,MEDIUM,83.566,81.385,1.3808,FP2
+2024,3,albert_park,Australian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,11,MEDIUM,83.547,80.277,0,FP2
+2024,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,9,MEDIUM,84.176,81.558,1.5959,FP2
+2024,3,albert_park,Australian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,8,MEDIUM,83.166,81.628,1.6829,FP2
+2024,3,albert_park,Australian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,83.122,81.219,1.1738,FP2
+2024,3,albert_park,Australian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,8,MEDIUM,82.744,81.474,1.4921,FP2
+2024,3,albert_park,Australian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,MEDIUM,83.12,81.825,1.9284,FP2
+2024,4,suzuka,Japanese Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,5,MEDIUM,95.284,97.324,5.9708,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,8,HARD,95.813,96.664,5.2521,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,6,SOFT,94.917,94.267,2.6423,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,7,MEDIUM,95.978,97.672,6.3498,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,6,SOFT,94.341,93.797,2.1311,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,5,SOFT,95.364,91.84,0,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,11,MEDIUM,95.239,96.997,5.615,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,7,MEDIUM,96.153,97.783,6.4705,FP3
+2024,4,suzuka,Japanese Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,HARD,96.073,97.21,5.8465,FP3
+2024,5,shanghai,Chinese Grand Prix,sprint,albon,ALB,williams,Williams,#64C4FF,6,MEDIUM,102.89,103.81,5.0689,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,102.29,99.27,0.47545,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,bottas,BOT,sauber,Kick Sauber,#52e252,5,MEDIUM,103.13,103.83,5.0864,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093cc,6,SOFT,102.25,99.094,0.29754,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#27F4D2,7,HARD,101.72,98.8,0,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,102.29,102.79,4.0415,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,norris,NOR,mclaren,McLaren,#FF8000,7,HARD,101.77,100.21,1.4225,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,ocon,OCO,alpine,Alpine,#0093cc,5,SOFT,101.13,100.69,1.9123,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,102.88,103.38,4.6307,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#FF8000,7,HARD,102.1,100.28,1.5022,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,ricciardo,RIC,rb,RB,#6692FF,6,HARD,101.15,99.553,0.76197,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,9,HARD,102.16,100.58,1.8056,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,sargeant,SAR,williams,Williams,#64C4FF,6,MEDIUM,103.02,103.96,5.2197,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,tsunoda,TSU,rb,RB,#6692FF,6,HARD,101.88,100.07,1.2821,FP1
+2024,5,shanghai,Chinese Grand Prix,sprint,zhou,ZHO,sauber,Kick Sauber,#52e252,6,MEDIUM,104.06,104.45,5.72,FP1
+2024,6,miami,Miami Grand Prix,sprint,albon,ALB,williams,Williams,#64C4FF,6,HARD,92.201,90.755,2.6534,FP1
+2024,6,miami,Miami Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,7,HARD,92.569,89.648,1.4014,FP1
+2024,6,miami,Miami Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093cc,8,HARD,91.723,89.204,0.89838,FP1
+2024,6,miami,Miami Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#27F4D2,6,MEDIUM,92.662,93.146,5.3578,FP1
+2024,6,miami,Miami Grand Prix,sprint,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,7,HARD,93.579,92.066,4.1357,FP1
+2024,6,miami,Miami Grand Prix,sprint,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,12,HARD,93.667,91.43,3.4168,FP1
+2024,6,miami,Miami Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,9,MEDIUM,92.764,92.676,4.8261,FP1
+2024,6,miami,Miami Grand Prix,sprint,norris,NOR,mclaren,McLaren,#FF8000,6,HARD,91.244,88.608,0.22522,FP1
+2024,6,miami,Miami Grand Prix,sprint,ocon,OCO,alpine,Alpine,#0093cc,7,HARD,92,89.3,1.0073,FP1
+2024,6,miami,Miami Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,93.049,92.854,5.028,FP1
+2024,6,miami,Miami Grand Prix,sprint,ricciardo,RIC,rb,RB,#6692FF,7,HARD,92.201,89.532,1.2696,FP1
+2024,6,miami,Miami Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,5,MEDIUM,92.313,92.481,4.6059,FP1
+2024,6,miami,Miami Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#E80020,6,HARD,90.726,88.409,0,FP1
+2024,6,miami,Miami Grand Prix,sprint,sargeant,SAR,williams,Williams,#64C4FF,6,HARD,92.68,91.095,3.0377,FP1
+2024,6,miami,Miami Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,9,HARD,91.645,89.61,1.3577,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,bea,BEA,haas,Haas F1 Team,#B6BABD,17,MEDIUM,81.998,80.741,2.7435,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,7,SOFT,78.744,81.125,3.2328,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,7,HARD,81.759,81.232,3.3688,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,16,HARD,80.487,80.507,2.4458,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,7,MEDIUM,82.725,81.706,3.9721,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,SOFT,78.153,79.843,1.6009,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,7,MEDIUM,81.247,80.374,2.277,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,8,SOFT,79.89,82.089,4.4591,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,8,MEDIUM,81.979,80.74,2.7426,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,5,HARD,79.152,78.585,0,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,6,MEDIUM,81.772,80.761,2.7694,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,13,HARD,79.579,79.966,1.757,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,5,SOFT,79.362,81.515,3.7284,FP1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,9,MEDIUM,82.101,81.411,1.8383,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,9,MEDIUM,81.42,80.829,1.1108,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,9,MEDIUM,82.092,81.313,1.7161,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,7,HARD,81.963,81.213,1.5906,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,7,HARD,80.921,80.178,0.2966,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,81.936,81.214,1.5918,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,10,HARD,82.128,81.294,1.6926,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,7,MEDIUM,80.631,79.955,0.017499,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,MEDIUM,81.407,80.764,1.0295,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,15,MEDIUM,80.813,80.384,0.55336,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,7,HARD,82.026,81.253,1.6405,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,81.223,80.516,0.71941,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,10,HARD,80.722,79.941,0,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,11,MEDIUM,81.621,80.886,1.1822,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,HARD,80.923,80.254,0.39151,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,8,MEDIUM,81.011,80.392,0.56369,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,11,HARD,82.215,81.535,1.9935,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,7,MEDIUM,81.449,80.845,1.1301,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,6,MEDIUM,81.425,81.092,1.4397,FP2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,7,MEDIUM,82.139,81.524,1.9793,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,11,HARD,75.805,75.432,2.6395,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,75.549,75.144,2.2468,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,6,HARD,76.121,75.529,2.7711,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,HARD,76.105,76.017,3.4347,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,5,MEDIUM,76.202,76.923,4.6683,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,12,HARD,76.037,75.154,2.2611,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,9,HARD,74.01,73.492,0,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,11,MEDIUM,75.482,75.208,2.3346,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,15,HARD,76.453,75.989,3.3971,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,7,MEDIUM,75.114,75.427,2.6332,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,7,HARD,74.013,73.954,0.62849,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,11,HARD,76.033,76.253,3.7559,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,HARD,75.873,75.087,2.1696,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,7,MEDIUM,74.34,74.879,1.8875,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,5,HARD,77.15,76.654,4.3017,FP1
+2024,8,monaco,Monaco Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,13,MEDIUM,75.556,73.992,3.251,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,11,MEDIUM,74.631,74.008,3.2728,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,12,MEDIUM,75.619,74.2,3.5403,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,MEDIUM,76.223,74.79,4.3636,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,9,MEDIUM,76.708,75.296,5.0698,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,10,MEDIUM,75.695,74.666,4.1905,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,5,MEDIUM,72.26,71.663,0,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,9,MEDIUM,76.427,74.886,4.4978,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,13,MEDIUM,73.567,73.338,2.3386,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,6,MEDIUM,76.107,74.546,4.0237,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,15,MEDIUM,75.641,74.633,4.1453,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,12,MEDIUM,75.751,74.9,4.5178,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,5,MEDIUM,75.531,73.634,2.7514,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,7,MEDIUM,76.395,75.276,5.0428,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,MEDIUM,73.419,72.853,1.6606,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,15,MEDIUM,76.131,74.811,4.3932,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,12,MEDIUM,75.886,74.673,4.2009,FP2
+2024,8,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,5,SOFT,73.746,73.906,2.0651,FP3
+2024,8,monaco,Monaco Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,6,SOFT,72.382,72.767,0.49141,FP3
+2024,8,monaco,Monaco Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,SOFT,72.763,73.132,0.99654,FP3
+2024,8,monaco,Monaco Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,5,SOFT,73.292,73.548,1.5712,FP3
+2024,8,monaco,Monaco Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,5,SOFT,72.223,72.411,0,FP3
+2024,8,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,10,MEDIUM,72.994,73.015,0.83405,FP3
+2024,8,monaco,Monaco Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,5,SOFT,74.381,75.275,3.955,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,6,SOFT,78.852,79.047,0,FP2
+2024,9,villeneuve,Canadian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,6,SOFT,78.249,79.163,0.14683,FP2
+2024,9,villeneuve,Canadian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,SOFT,78.379,81.016,2.4902,FP2
+2024,9,villeneuve,Canadian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093CC,6,SOFT,79,81.611,3.2434,FP2
+2024,9,villeneuve,Canadian Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,6,SOFT,80.466,80.194,1.4513,FP2
+2024,9,villeneuve,Canadian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,SOFT,78.21,79.162,0.14587,FP2
+2024,9,villeneuve,Canadian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,7,MEDIUM,77.795,77.44,2.6189,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,6,MEDIUM,77.785,77.314,2.4526,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093CC,8,MEDIUM,78.115,77.196,2.2961,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,5,MEDIUM,78.588,77.671,2.9255,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,10,MEDIUM,77.865,76.913,1.9206,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,8,MEDIUM,76.273,75.806,0.45414,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093CC,6,MEDIUM,77.773,76.714,1.6572,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,7,MEDIUM,77.209,76.579,1.4776,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,6,MEDIUM,76.174,75.464,0,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,MEDIUM,77.427,77.224,2.3332,FP3
+2024,9,villeneuve,Canadian Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,6,MEDIUM,76.855,76.122,0.87231,FP3
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,70.284,69.807,3.3022,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093cc,10,HARD,68.466,68.031,0.67496,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#27F4D2,18,HARD,69.666,67.575,0,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,71.005,71.481,5.7791,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#E80020,6,HARD,69.25,67.825,0.36876,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,norris,NOR,mclaren,McLaren,#FF8000,7,HARD,69.27,67.895,0.47235,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,ocon,OCO,alpine,Alpine,#0093cc,5,HARD,69.982,69.554,2.9284,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,70.732,71.155,5.2966,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#FF8000,8,HARD,69.54,69.322,2.5841,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,7,HARD,69.207,67.624,0.072543,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#E80020,5,HARD,69.582,67.716,0.2083,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,sargeant,SAR,williams,Williams,#64C4FF,6,SOFT,70.227,69.32,2.5814,FP1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,zhou,ZHO,sauber,Kick Sauber,#52e252,5,MEDIUM,70.898,71.26,5.453,FP1
+2024,12,silverstone,British Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,8,SOFT,91.312,90.1,1.4876,FP1
+2024,12,silverstone,British Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,SOFT,90.587,90.225,1.6286,FP1
+2024,12,silverstone,British Grand Prix,conventional,bea,BEA,haas,Haas F1 Team,#B6BABD,8,HARD,92.789,94.312,6.2323,FP1
+2024,12,silverstone,British Grand Prix,conventional,col,COL,williams,Williams,#64C4FF,6,SOFT,92.198,90.816,2.2942,FP1
+2024,12,silverstone,British Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,MEDIUM,92.263,93.757,5.6063,FP1
+2024,12,silverstone,British Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,92.57,93.874,5.7388,FP1
+2024,12,silverstone,British Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,6,HARD,91.849,93.576,5.4024,FP1
+2024,12,silverstone,British Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,HARD,92.362,93.959,5.8341,FP1
+2024,12,silverstone,British Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,9,SOFT,90.403,89.369,0.66356,FP1
+2024,12,silverstone,British Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,5,SOFT,90.987,90.772,2.2443,FP1
+2024,12,silverstone,British Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,MEDIUM,92.068,93.357,5.1562,FP1
+2024,12,silverstone,British Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,5,MEDIUM,91.973,93.263,5.0501,FP1
+2024,12,silverstone,British Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,SOFT,88.184,88.779,0,FP1
+2024,12,silverstone,British Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,9,MEDIUM,92.759,92.798,0.88057,FP2
+2024,12,silverstone,British Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,10,MEDIUM,93.142,93.305,1.4318,FP2
+2024,12,silverstone,British Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,5,SOFT,93.225,93.493,1.6359,FP2
+2024,12,silverstone,British Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,6,SOFT,92.239,92.526,0.58408,FP2
+2024,12,silverstone,British Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,8,MEDIUM,92.405,92.637,0.70497,FP2
+2024,12,silverstone,British Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,92.022,92.225,0.25735,FP2
+2024,12,silverstone,British Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,8,MEDIUM,91.852,91.988,0,FP2
+2024,12,silverstone,British Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,5,SOFT,92.069,92.096,0.11737,FP2
+2024,12,silverstone,British Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,5,SOFT,93.384,93.405,1.5397,FP2
+2024,12,silverstone,British Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,SOFT,92.138,92.358,0.40215,FP2
+2024,12,silverstone,British Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,9,MEDIUM,93.506,93.589,1.74,FP2
+2024,12,silverstone,British Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,5,MEDIUM,93.517,93.574,1.724,FP2
+2024,12,silverstone,British Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,9,INTERMEDIATE,101.29,98.558,2.6497,FP3
+2024,12,silverstone,British Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,6,INTERMEDIATE,103.07,99.639,3.7753,FP3
+2024,12,silverstone,British Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,INTERMEDIATE,98.511,96.014,0,FP3
+2024,12,silverstone,British Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,5,INTERMEDIATE,100.68,98.71,2.8076,FP3
+2024,12,silverstone,British Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,12,INTERMEDIATE,100.17,98.416,2.5014,FP3
+2024,12,silverstone,British Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,5,INTERMEDIATE,100.36,96.799,0.81779,FP3
+2024,12,silverstone,British Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,14,INTERMEDIATE,102.26,100.36,4.5241,FP3
+2024,12,silverstone,British Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,INTERMEDIATE,101.71,98.308,2.3893,FP3
+2024,12,silverstone,British Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,11,INTERMEDIATE,101.37,97.505,1.5528,FP3
+2024,12,silverstone,British Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,7,INTERMEDIATE,102.28,100.29,4.451,FP3
+2024,12,silverstone,British Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,6,INTERMEDIATE,99.958,98.322,2.4033,FP3
+2024,12,silverstone,British Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,11,INTERMEDIATE,100.32,98.14,2.2139,FP3
+2024,12,silverstone,British Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,8,INTERMEDIATE,103.54,100.17,4.3302,FP3
+2024,12,silverstone,British Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,10,INTERMEDIATE,100.92,98.684,2.7803,FP3
+2024,12,silverstone,British Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,7,INTERMEDIATE,103.62,100.42,4.5879,FP3
+2024,14,spa,Belgian Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,7,SOFT,110.26,109.49,2.7106,FP1
+2024,14,spa,Belgian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,112.2,109.77,2.9688,FP1
+2024,14,spa,Belgian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,6,MEDIUM,110.21,106.6,0,FP1
+2024,14,spa,Belgian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,SOFT,109.72,109.47,2.6838,FP1
+2024,14,spa,Belgian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,7,MEDIUM,109.73,107.12,0.48573,FP1
+2024,14,spa,Belgian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,MEDIUM,110.49,107.66,0.98679,FP1
+2024,14,spa,Belgian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,7,SOFT,109.78,108.95,2.1996,FP1
+2024,14,spa,Belgian Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,7,SOFT,110.96,110.12,3.2987,FP1
+2024,14,spa,Belgian Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,8,MEDIUM,110.12,108.87,1.042,FP2
+2024,14,spa,Belgian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,SOFT,109.68,109.34,1.4816,FP2
+2024,14,spa,Belgian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,7,HARD,110.69,110.02,2.1088,FP2
+2024,14,spa,Belgian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,108.8,107.74,0,FP2
+2024,14,spa,Belgian Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,5,MEDIUM,109.58,108.45,0.65912,FP2
+2024,14,spa,Belgian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,109.9,108.47,0.67707,FP2
+2024,14,spa,Belgian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,8,MEDIUM,109.3,108.31,0.52339,FP2
+2024,14,spa,Belgian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,MEDIUM,110.1,108.93,1.0981,FP2
+2024,14,spa,Belgian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,7,MEDIUM,109.67,108.43,0.63786,FP2
+2024,14,spa,Belgian Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,5,MEDIUM,111.25,109.95,2.0483,FP2
+2024,14,spa,Belgian Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,6,SOFT,111.08,110.78,2.8188,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,11,HARD,76.237,75.297,0.29089,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,5,HARD,76.384,75.789,0.94663,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,7,MEDIUM,76.063,75.768,0.91791,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,9,SOFT,75.434,75.271,0.25674,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,15,MEDIUM,75.514,75.079,0,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,7,SOFT,76.792,76.429,1.798,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,76.355,75.856,1.0359,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,5,SOFT,75.314,75.274,0.25998,FP2
+2024,15,zandvoort,Dutch Grand Prix,conventional,sargeant,SAR,williams,Williams,#64C4FF,6,MEDIUM,76.49,76.198,1.4912,FP2
+2024,16,monza,Italian Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,10,MEDIUM,85.986,86.179,2.2227,FP2
+2024,16,monza,Italian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,7,MEDIUM,85.941,86.368,2.4468,FP2
+2024,16,monza,Italian Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,6,MEDIUM,85.902,86.14,2.1755,FP2
+2024,16,monza,Italian Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,5,SOFT,85.406,84.306,0,FP2
+2024,16,monza,Italian Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,7,MEDIUM,85.132,85.401,1.299,FP2
+2024,16,monza,Italian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,8,MEDIUM,85.925,86.27,2.3297,FP2
+2024,16,monza,Italian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,9,MEDIUM,85.136,85.514,1.434,FP2
+2024,16,monza,Italian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,10,MEDIUM,85.352,85.65,1.5946,FP2
+2024,16,monza,Italian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,9,MEDIUM,85.489,85.791,1.762,FP2
+2024,16,monza,Italian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,85.137,85.713,1.6698,FP2
+2024,16,monza,Italian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,9,MEDIUM,85.341,85.773,1.7408,FP2
+2024,16,monza,Italian Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,5,SOFT,86.157,85.303,1.1826,FP2
+2024,16,monza,Italian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,6,MEDIUM,84.892,85.277,1.1521,FP2
+2024,16,monza,Italian Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,7,MEDIUM,85.55,85.694,1.6475,FP2
+2024,16,monza,Italian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,85.941,86.33,2.4013,FP2
+2024,16,monza,Italian Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,5,MEDIUM,87.231,87.449,3.7286,FP2
+2024,16,monza,Italian Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,5,SOFT,85.034,84.771,0.46922,FP3
+2024,16,monza,Italian Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,SOFT,85.785,84.375,0,FP3
+2024,16,monza,Italian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,85.298,86.389,2.3872,FP3
+2024,16,monza,Italian Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,85.105,86.267,2.2421,FP3
+2024,16,monza,Italian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,6,MEDIUM,84.096,84.938,0.66659,FP3
+2024,17,baku,Azerbaijan Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,8,MEDIUM,110.04,109.86,1.9277,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,8,MEDIUM,111.36,110.7,2.7091,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#B6BABD,10,MEDIUM,110.47,110.25,2.2846,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,8,MEDIUM,110.84,110.51,2.5268,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,7,MEDIUM,109.95,109.76,1.8358,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,7,MEDIUM,110.35,109.85,1.9175,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,HARD,108.34,107.78,0,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,111.16,110.83,2.8232,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,109.22,109.04,1.1636,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,6,MEDIUM,109.48,109.16,1.2778,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,5,MEDIUM,110.2,109.81,1.8805,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,109.05,108.87,1.0039,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,9,MEDIUM,108.97,108.88,1.0183,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,ricciardo,RIC,rb,RB,#6692FF,7,MEDIUM,111.03,110.74,2.74,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,10,HARD,108.63,107.81,0.022983,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,7,MEDIUM,109.09,108.68,0.83334,FP2
+2024,17,baku,Azerbaijan Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,10,MEDIUM,110.87,110.62,2.6281,FP2
+2024,18,marina_bay,Singapore Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,6,HARD,97.52,97.829,2.9966,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,98.494,98.755,3.9715,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,6,MEDIUM,97.511,98.217,3.4053,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,14,SOFT,96.602,95.516,0.56141,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,5,HARD,98.58,98.697,3.9105,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,7,HARD,98.021,99.025,4.256,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,HARD,98.111,98.804,4.0229,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,5,HARD,94.039,94.983,0.00023586,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,6,MEDIUM,97.613,97.812,2.9786,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,12,SOFT,95.484,94.983,0,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,HARD,99.429,99.609,4.8704,FP1
+2024,18,marina_bay,Singapore Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,6,HARD,97.796,97.068,0,FP2
+2024,18,marina_bay,Singapore Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,9,MEDIUM,97.812,97.457,0.4001,FP2
+2024,18,marina_bay,Singapore Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,HARD,97.959,97.29,0.22791,FP2
+2024,18,marina_bay,Singapore Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,7,HARD,98.048,97.68,0.62971,FP2
+2024,18,marina_bay,Singapore Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,5,MEDIUM,97.595,97.284,0.22231,FP2
+2024,18,marina_bay,Singapore Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,5,MEDIUM,98.637,98.367,1.338,FP2
+2024,19,americas,United States Grand Prix,sprint,albon,ALB,williams,Williams,#64C4FF,5,HARD,98.872,97.855,2.3583,FP1
+2024,19,americas,United States Grand Prix,sprint,bottas,BOT,sauber,Kick Sauber,#52e252,7,MEDIUM,99.736,99.596,4.1804,FP1
+2024,19,americas,United States Grand Prix,sprint,colapinto,COL,williams,Williams,#64C4FF,7,HARD,98.576,97.371,1.8525,FP1
+2024,19,americas,United States Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093cc,6,HARD,98.389,97.184,1.657,FP1
+2024,19,americas,United States Grand Prix,sprint,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,7,HARD,98.644,97.348,1.8284,FP1
+2024,19,americas,United States Grand Prix,sprint,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,7,HARD,98.65,97.317,1.796,FP1
+2024,19,americas,United States Grand Prix,sprint,lawson,LAW,rb,RB,#6692FF,10,HARD,99.314,97.636,2.13,FP1
+2024,19,americas,United States Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#E80020,5,HARD,96.816,95.618,0.018324,FP1
+2024,19,americas,United States Grand Prix,sprint,norris,NOR,mclaren,McLaren,#FF8000,6,HARD,97.413,96.266,0.6962,FP1
+2024,19,americas,United States Grand Prix,sprint,ocon,OCO,alpine,Alpine,#0093cc,5,HARD,98.408,97.184,1.6569,FP1
+2024,19,americas,United States Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,5,SOFT,99.548,99.932,4.5311,FP1
+2024,19,americas,United States Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#FF8000,8,HARD,98.036,96.886,1.3454,FP1
+2024,19,americas,United States Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,8,HARD,97.51,96.433,0.87167,FP1
+2024,19,americas,United States Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#E80020,5,HARD,97.277,95.6,0,FP1
+2024,19,americas,United States Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,6,HARD,98.072,96.747,1.1998,FP1
+2024,19,americas,United States Grand Prix,sprint,tsunoda,TSU,rb,RB,#6692FF,5,HARD,99.786,98.711,3.2538,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,5,HARD,83.389,82.51,1.6512,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,5,HARD,83.001,82.523,1.6673,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,HARD,82.91,81.858,0.84792,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,HARD,83.452,82.754,1.9517,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,8,HARD,83.498,82.573,1.7281,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,HARD,83.133,82.201,1.27,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,5,HARD,82.166,81.17,0,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,5,HARD,83.745,82.751,1.9481,FP1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,6,SOFT,80.666,79.303,0.70631,FP3
+2024,20,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,8,MEDIUM,81.15,79.621,1.111,FP3
+2024,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,5,MEDIUM,80.418,78.875,0.1634,FP3
+2024,20,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,5,MEDIUM,80.163,78.746,0,FP3
+2024,20,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,7,SOFT,82.059,81.384,3.3496,FP3
+2024,20,rodriguez,Mexico City Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,6,SOFT,80.674,79.761,1.2888,FP3
+2024,20,rodriguez,Mexico City Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,SOFT,80.731,80.581,2.3294,FP3
+2024,21,interlagos,São Paulo Grand Prix,sprint,albon,ALB,williams,Williams,#64C4FF,7,MEDIUM,74.816,73.861,1.9174,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,7,MEDIUM,74.104,72.775,0.41907,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#B6BABD,5,MEDIUM,75.153,73.774,1.7977,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,bottas,BOT,sauber,Kick Sauber,#52e252,7,MEDIUM,75.606,74.709,3.0885,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,colapinto,COL,williams,Williams,#64C4FF,6,MEDIUM,75.72,74.797,3.2093,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093cc,7,MEDIUM,73.565,72.655,0.25371,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#27F4D2,10,MEDIUM,74.802,74.269,2.4808,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#E80020,6,MEDIUM,74.148,72.742,0.37404,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,14,MEDIUM,75.761,74.437,2.7128,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,ocon,OCO,alpine,Alpine,#0093cc,6,MEDIUM,74.601,73.698,1.693,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,75.249,74.356,2.6013,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#FF8000,9,MEDIUM,75.433,74.076,2.215,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,10,SOFT,74.555,74.66,3.0206,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#E80020,5,MEDIUM,73.744,72.471,0,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,74.538,73.234,1.0522,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,tsunoda,TSU,rb,RB,#6692FF,5,SOFT,76.218,76.372,5.3833,FP1
+2024,21,interlagos,São Paulo Grand Prix,sprint,zhou,ZHO,sauber,Kick Sauber,#52e252,6,MEDIUM,76.944,75.921,4.761,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,6,MEDIUM,99.7,100.76,1.5956,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,7,SOFT,99.983,99.181,0,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,rb,RB,#6692FF,5,MEDIUM,101.47,104.06,4.9166,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,5,MEDIUM,99.855,102.04,2.882,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,5,SOFT,99.64,99.292,0.11231,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,11,MEDIUM,99.563,101.04,1.8757,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,6,MEDIUM,98.651,100.04,0.86498,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,7,MEDIUM,99.506,102.25,3.0916,FP1
+2024,22,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,101.63,101.23,3.0175,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,5,MEDIUM,99.834,99.756,1.5198,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,7,MEDIUM,100.68,100.38,2.1525,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,7,MEDIUM,99.272,99.111,0.86283,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,9,MEDIUM,99.505,99.177,0.93026,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,rb,RB,#6692FF,7,MEDIUM,100.38,100.33,2.1053,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,6,MEDIUM,98.508,98.459,0.19981,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,99.216,98.985,0.73526,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,ocon,OCO,alpine,Alpine,#0093cc,8,MEDIUM,99.743,99.504,1.2629,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,9,MEDIUM,98.863,98.874,0.62168,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,7,MEDIUM,98.347,98.263,0,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,9,MEDIUM,98.907,98.752,0.49767,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,sainz,SAI,ferrari,Ferrari,#E80020,7,MEDIUM,98.777,98.44,0.18043,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,100.48,100.25,2.0179,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,TSU,rb,RB,#6692FF,8,MEDIUM,100.12,99.576,1.3367,FP2
+2024,22,vegas,Las Vegas Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,8,MEDIUM,100.66,100.4,2.1779,FP2
+2024,23,losail,Qatar Grand Prix,sprint,albon,ALB,williams,Williams,#64C4FF,12,HARD,86.236,85.498,1.8829,FP1
+2024,23,losail,Qatar Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,85.814,85.069,1.3721,FP1
+2024,23,losail,Qatar Grand Prix,sprint,bottas,BOT,sauber,Kick Sauber,#52e252,6,MEDIUM,86.335,85.767,2.2045,FP1
+2024,23,losail,Qatar Grand Prix,sprint,colapinto,COL,williams,Williams,#64C4FF,6,HARD,87.111,86.446,3.0136,FP1
+2024,23,losail,Qatar Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093cc,8,MEDIUM,85.891,85.638,2.0501,FP1
+2024,23,losail,Qatar Grand Prix,sprint,hamilton,HAM,mercedes,Mercedes,#27F4D2,8,MEDIUM,86.706,86.459,3.0288,FP1
+2024,23,losail,Qatar Grand Prix,sprint,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,9,MEDIUM,86.031,85.898,2.3595,FP1
+2024,23,losail,Qatar Grand Prix,sprint,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,7,MEDIUM,86.342,85.874,2.331,FP1
+2024,23,losail,Qatar Grand Prix,sprint,lawson,LAW,rb,RB,#6692FF,6,MEDIUM,87.636,87.425,4.1792,FP1
+2024,23,losail,Qatar Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#E80020,5,HARD,85.399,84.346,0.51098,FP1
+2024,23,losail,Qatar Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,88.044,87.702,4.5103,FP1
+2024,23,losail,Qatar Grand Prix,sprint,norris,NOR,mclaren,McLaren,#FF8000,5,MEDIUM,85.223,84.954,1.2357,FP1
+2024,23,losail,Qatar Grand Prix,sprint,perez,PER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,88.128,87.483,4.2487,FP1
+2024,23,losail,Qatar Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#FF8000,8,MEDIUM,84.518,84.393,0.56689,FP1
+2024,23,losail,Qatar Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,10,MEDIUM,86.281,85.779,2.2183,FP1
+2024,23,losail,Qatar Grand Prix,sprint,sainz,SAI,ferrari,Ferrari,#E80020,5,HARD,84.926,83.918,0,FP1
+2024,23,losail,Qatar Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,85.636,85.704,2.1291,FP1
+2024,23,losail,Qatar Grand Prix,sprint,tsunoda,TSU,rb,RB,#6692FF,6,MEDIUM,87.558,87.311,4.0433,FP1
+2024,23,losail,Qatar Grand Prix,sprint,zhou,ZHO,sauber,Kick Sauber,#52e252,7,MEDIUM,88.25,87.901,4.7467,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,bottas,BOT,sauber,Kick Sauber,#52e252,6,SOFT,90.504,89.651,2.5853,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,bro,BRO,williams,Williams,#64C4FF,6,MEDIUM,89.381,89.139,1.9998,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,colapinto,COL,williams,Williams,#64C4FF,7,MEDIUM,90.293,89.573,2.4964,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,doohan,DOO,alpine,Alpine,#0093cc,5,MEDIUM,87.257,87.421,0.034025,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,dru,DRU,aston_martin,Aston Martin,#229971,6,MEDIUM,87.337,87.392,0,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,had,HAD,red_bull,Red Bull Racing,#3671C6,7,SOFT,90.606,89.848,2.8111,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,7,MEDIUM,89.799,89.04,1.8858,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,6,MEDIUM,89.632,89.65,2.5842,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,MAG,haas,Haas F1 Team,#B6BABD,8,MEDIUM,89.499,89.173,2.0388,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,5,SOFT,88.066,87.472,0.092031,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,lel,LEL,ferrari,Ferrari,#E80020,5,SOFT,88.509,88.526,1.2982,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,8,MEDIUM,89.839,89.107,1.9634,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,90.135,89.537,2.4551,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,8,MEDIUM,89.782,89.214,2.0853,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,zhou,ZHO,sauber,Kick Sauber,#52e252,6,MEDIUM,88.617,88.17,0.89089,FP1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,90.06,89.697,1.1453,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,doohan,DOO,alpine,Alpine,#0093cc,5,MEDIUM,90.466,90.089,1.5879,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093cc,6,MEDIUM,90.209,89.849,1.3169,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,HAM,mercedes,Mercedes,#27F4D2,7,MEDIUM,89.555,89.127,0.50345,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,HUL,haas,Haas F1 Team,#B6BABD,8,SOFT,88.75,88.681,0,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,lawson,LAW,rb,RB,#6692FF,5,MEDIUM,90.116,89.758,1.214,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,5,MEDIUM,89.845,89.455,0.87328,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,9,MEDIUM,89.746,89.439,0.85515,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,perez,PER,red_bull,Red Bull Racing,#3671C6,8,MEDIUM,89.87,89.391,0.80048,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,5,MEDIUM,89.22,88.878,0.22231,FP2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,8,MEDIUM,89.965,89.603,1.0402,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,7,MEDIUM,82.585,82.42,1.5295,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#27F4D2,10,HARD,82.14,81.889,0.87515,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,doohan,DOO,alpine,Alpine,#0093CC,10,MEDIUM,82.597,82.257,1.3278,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#E80020,7,MEDIUM,82.003,81.593,0.51014,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#52E252,5,MEDIUM,82.34,81.98,0.98736,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,5,MEDIUM,81.665,81.179,0,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,6,MEDIUM,82.163,81.712,0.65683,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,5,MEDIUM,81.815,81.577,0.49092,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#B6BABD,8,MEDIUM,83.172,82.989,2.2294,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,11,HARD,81.876,81.734,0.68394,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,sainz,SAI,williams,Williams,#64C4FF,8,MEDIUM,82.255,82.124,1.1641,FP2
+2025,1,albert_park,Australian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,82.539,82.303,1.3851,FP2
+2025,2,shanghai,Chinese Grand Prix,sprint,albon,ALB,williams,Williams,#64C4FF,5,MEDIUM,96.735,97.591,5.7297,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,96.383,92.71,0.44124,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#27F4D2,10,MEDIUM,97.008,93.036,0.79476,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#B6BABD,6,MEDIUM,97.623,94.363,2.2324,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,bortoleto,BOR,sauber,Kick Sauber,#52E252,6,MEDIUM,98.478,94.4,2.2725,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,doohan,DOO,alpine,Alpine,#0093CC,5,MEDIUM,96.855,92.91,0.65749,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093CC,6,MEDIUM,96.815,96.677,4.7396,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,lawson,LAW,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,98.09,94.699,2.5959,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,9,MEDIUM,98.266,94.86,2.7702,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,norris,NOR,mclaren,McLaren,#FF8000,6,MEDIUM,96.826,93.287,1.0668,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#B6BABD,5,MEDIUM,97.046,93.047,0.80594,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#FF8000,7,MEDIUM,96.821,92.303,0,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,8,MEDIUM,96.531,92.452,0.16195,FP1
+2025,2,shanghai,Chinese Grand Prix,sprint,sainz,SAI,williams,Williams,#64C4FF,6,MEDIUM,97.441,93.137,0.90353,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#27F4D2,8,MEDIUM,94.214,94.215,1.0441,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#52E252,10,HARD,94.21,93.875,0.67872,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093CC,5,MEDIUM,94.218,94.017,0.83172,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6692FF,5,SOFT,94.644,94.673,1.5345,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#E80020,6,MEDIUM,93.657,93.682,0.47205,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,hir,HIR,alpine,Alpine,#0093CC,5,MEDIUM,94.575,94.453,1.2985,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#52E252,5,MEDIUM,93.347,93.242,0,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6692FF,6,SOFT,94.712,94.664,1.5252,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,8,MEDIUM,93.527,93.504,0.28166,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,SOFT,94.283,94.395,1.2367,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,7,MEDIUM,93.247,93.279,0.040339,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,8,MEDIUM,93.281,93.275,0.035224,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,10,MEDIUM,93.424,93.288,0.049992,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,sainz,SAI,williams,Williams,#64C4FF,5,SOFT,94.051,94.061,0.87812,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#3671C6,6,SOFT,94.766,94.791,1.661,FP1
+2025,3,suzuka,Japanese Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,7,MEDIUM,91.864,92.202,2.3395,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,92.383,91.714,1.7975,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#27F4D2,7,MEDIUM,92.921,93.035,3.2634,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#B6BABD,7,HARD,94.905,96.549,7.1646,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#52E252,7,MEDIUM,93.868,94.183,4.5376,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6692FF,7,MEDIUM,94.908,95.315,5.7942,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,HARD,94.016,95.43,5.9222,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#B6BABD,7,HARD,94.895,95.688,6.2089,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,6,SOFT,89.958,90.095,0,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,sainz,SAI,williams,Williams,#64C4FF,6,HARD,91.513,93.619,3.9115,FP3
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,5,MEDIUM,95.554,94.286,1.9141,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,94.978,93.703,1.2835,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#27F4D2,5,MEDIUM,94.653,93.36,0.91323,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#52E252,6,MEDIUM,96.153,94.786,2.4543,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093CC,5,MEDIUM,94.943,93.371,0.92504,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#E80020,10,MEDIUM,94.549,92.881,0.39554,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,9,MEDIUM,94.675,94.252,1.8771,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,5,MEDIUM,95.108,93.308,0.85684,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,7,MEDIUM,93.708,92.515,0,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,sainz,SAI,williams,Williams,#64C4FF,5,HARD,94.449,93.607,1.1803,FP1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,95.267,93.855,1.4482,FP1
+2025,6,miami,Miami Grand Prix,sprint,albon,ALB,williams,Williams,#64C4FF,6,MEDIUM,91.178,90.892,1.8882,FP1
+2025,6,miami,Miami Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,92.035,90.99,1.9981,FP1
+2025,6,miami,Miami Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#27F4D2,13,MEDIUM,91.838,90.836,1.8249,FP1
+2025,6,miami,Miami Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#B6BABD,9,MEDIUM,92.05,91.321,2.3687,FP1
+2025,6,miami,Miami Grand Prix,sprint,bortoleto,BOR,sauber,Kick Sauber,#52E252,5,MEDIUM,92.278,92.005,3.1351,FP1
+2025,6,miami,Miami Grand Prix,sprint,doohan,DOO,alpine,Alpine,#0093CC,7,MEDIUM,91.782,90.974,1.9798,FP1
+2025,6,miami,Miami Grand Prix,sprint,gasly,GAS,alpine,Alpine,#0093CC,7,MEDIUM,91.773,90.782,1.7644,FP1
+2025,6,miami,Miami Grand Prix,sprint,hadjar,HAD,rb,Racing Bulls,#6692FF,10,HARD,91.96,92.316,3.4845,FP1
+2025,6,miami,Miami Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#E80020,5,MEDIUM,89.321,89.208,0,FP1
+2025,6,miami,Miami Grand Prix,sprint,lawson,LAW,rb,Racing Bulls,#6692FF,6,HARD,92.675,96.834,8.5485,FP1
+2025,6,miami,Miami Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#E80020,6,MEDIUM,91.389,90.065,0.96084,FP1
+2025,6,miami,Miami Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,92.102,91.528,2.6012,FP1
+2025,6,miami,Miami Grand Prix,sprint,norris,NOR,mclaren,McLaren,#FF8000,6,MEDIUM,90.636,89.783,0.64408,FP1
+2025,6,miami,Miami Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#B6BABD,6,MEDIUM,91.779,91.021,2.0318,FP1
+2025,6,miami,Miami Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#FF8000,6,MEDIUM,90.43,89.544,0.37696,FP1
+2025,6,miami,Miami Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#27F4D2,16,MEDIUM,91.708,91.18,2.211,FP1
+2025,6,miami,Miami Grand Prix,sprint,sainz,SAI,williams,Williams,#64C4FF,5,MEDIUM,91.32,90.961,1.9647,FP1
+2025,6,miami,Miami Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,5,MEDIUM,91.384,90.398,1.3341,FP1
+2025,6,miami,Miami Grand Prix,sprint,tsunoda,TSU,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,93.101,92.784,4.0082,FP1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,SOFT,80.657,80.836,2.4687,FP1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#27F4D2,7,SOFT,81.854,81.647,3.4955,FP1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#52E252,5,SOFT,81.392,81.377,3.1539,FP1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,6,SOFT,79.244,78.889,0,FP1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,6,SOFT,78.987,79.052,0.20653,FP1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,11,SOFT,81.491,81.384,3.1628,FP1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,6,MEDIUM,80.556,80.34,0.85023,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#27F4D2,8,MEDIUM,80.281,79.938,0.34547,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#B6BABD,8,MEDIUM,80.992,80.517,1.073,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#52E252,7,MEDIUM,80.865,80.525,1.0825,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,colapinto,COL,alpine,Alpine,#0093CC,5,MEDIUM,80.766,80.423,0.95449,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,gasly,GAS,alpine,Alpine,#0093CC,6,MEDIUM,80.597,80.248,0.7356,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6692FF,6,MEDIUM,80.413,80,0.4233,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#52E252,8,MEDIUM,80.811,80.553,1.1182,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#E80020,6,MEDIUM,80.195,79.858,0.24518,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,7,MEDIUM,80.595,80.183,0.65361,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,norris,NOR,mclaren,McLaren,#FF8000,6,MEDIUM,80.032,79.662,0,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,8,MEDIUM,80.029,79.714,0.065223,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#27F4D2,7,MEDIUM,80.367,80.145,0.60604,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,sainz,SAI,williams,Williams,#64C4FF,7,MEDIUM,80.391,80.115,0.56856,FP2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#3671C6,6,MEDIUM,80.868,80.472,1.0167,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,6,SOFT,76.85,77.269,4.7904,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,9,SOFT,73.519,73.869,0.17958,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,11,HARD,74.847,75.28,2.0932,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,5,MEDIUM,75.365,75.674,2.6277,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,HARD,75.875,75.838,2.8491,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,HARD,74.334,73.737,0,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,12,HARD,74.63,74.411,0.91468,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,16,MEDIUM,75.263,75.266,2.0733,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,12,SOFT,73.491,73.767,0.041284,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,MEDIUM,74.362,74.739,1.3595,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,11,HARD,74.676,75.064,1.7998,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,5,HARD,73.966,74.18,0.60158,FP1
+2025,8,monaco,Monaco Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,9,MEDIUM,75.919,75.589,4.1047,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,75.947,75.713,4.2751,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,7,MEDIUM,75.233,74.914,3.175,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,10,SOFT,75.697,76.506,5.368,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,6,SOFT,75.854,76.58,5.469,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,8,MEDIUM,75.941,75.736,4.3068,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,7,MEDIUM,75.203,74.819,3.0444,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,7,SOFT,72.736,72.882,0.37654,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,6,MEDIUM,74.816,74.666,2.8338,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,7,SOFT,75.467,75.257,3.6473,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,6,MEDIUM,76.416,75.939,4.587,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,6,HARD,74.017,72.609,0,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,7,MEDIUM,74.791,74.725,2.9145,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,8,MEDIUM,76.514,76.078,4.7785,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,6,MEDIUM,75.474,75.447,3.9083,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,6,MEDIUM,75.087,74.937,3.2067,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,MEDIUM,75.081,74.9,3.1561,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,75.602,75.317,3.7303,FP2
+2025,8,monaco,Monaco Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,7,SOFT,73.584,74.315,3.2559,FP3
+2025,8,monaco,Monaco Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,SOFT,72.626,72.938,1.343,FP3
+2025,8,monaco,Monaco Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,SOFT,73.979,74.746,3.8547,FP3
+2025,8,monaco,Monaco Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,7,SOFT,73.826,74.514,3.533,FP3
+2025,8,monaco,Monaco Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,5,SOFT,72.441,72.643,0.93229,FP3
+2025,8,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,72.828,71.972,0,FP3
+2025,10,villeneuve,Canadian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,SOFT,78.028,77.614,4.033,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,5,SOFT,78.222,76.639,2.7258,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,7,MEDIUM,77.772,78.166,4.7735,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,SOFT,78.672,77.654,4.0868,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,7,SOFT,77.394,76.741,2.8631,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,9,MEDIUM,77.623,77.567,3.9697,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,SOFT,75.644,74.605,0,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,SOFT,78.001,76.486,2.5215,FP1
+2025,10,villeneuve,Canadian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,8,MEDIUM,76.748,74.72,1.7217,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,SOFT,73.23,73.455,0,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,12,MEDIUM,76.525,74.703,1.6988,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,16,MEDIUM,77.158,74.546,1.4849,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,7,HARD,76.791,77.677,5.7474,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,14,MEDIUM,77.158,75.249,2.4423,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,11,MEDIUM,76.928,75.087,2.2209,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,8,MEDIUM,77.156,75.793,3.1828,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,7,MEDIUM,76.569,74.765,1.7829,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,8,HARD,76.775,77.532,5.5494,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,MEDIUM,77.456,75.391,2.6355,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,10,MEDIUM,76.385,74.636,1.6075,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,10,MEDIUM,76.537,75.277,2.4797,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,9,MEDIUM,77.093,74.955,2.0422,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,8,MEDIUM,76.619,74.602,1.5617,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,12,MEDIUM,76.417,74.753,1.7667,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,9,MEDIUM,76.883,75.591,2.9082,FP2
+2025,10,villeneuve,Canadian Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,77.499,75.386,2.628,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,9,MEDIUM,70.074,72.499,7.9402,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,15,HARD,70.241,67.166,0,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,10,SOFT,69.818,69.409,3.3397,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,9,MEDIUM,70.475,72.722,8.272,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,beg,BEG,ferrari,Ferrari,#ED1131,15,SOFT,68.114,67.536,0.55111,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,7,SOFT,69.999,69.274,3.1382,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,14,HARD,70.284,67.384,0.32463,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,12,SOFT,70.178,69.353,3.2561,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,8,HARD,70.591,68.094,1.3826,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,SOFT,70.288,70.386,4.7943,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,8,MEDIUM,69.962,72.199,7.4931,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,7,MEDIUM,70.433,72.614,8.1109,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,9,MEDIUM,69.907,72.325,7.6811,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,7,SOFT,69.65,69.194,3.0201,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,7,MEDIUM,70.042,72.256,7.579,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,11,SOFT,70.285,70.22,4.5479,FP1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,12,HARD,70.093,71.144,4.9346,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,10,MEDIUM,69.451,69.847,3.0205,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,7,MEDIUM,70.126,70.299,3.6882,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,13,MEDIUM,70.531,70.692,4.2677,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,10,HARD,68.56,67.799,0,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,10,MEDIUM,70.12,70.405,3.8435,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,10,SOFT,69.767,68.919,1.6524,FP2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,10,HARD,69.957,71.015,4.7437,FP2
+2025,12,silverstone,British Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,9,HARD,92.848,92.444,3.1744,FP1
+2025,12,silverstone,British Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,89.697,89.6,0,FP1
+2025,12,silverstone,British Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,5,MEDIUM,92.894,91.591,2.2222,FP1
+2025,12,silverstone,British Grand Prix,conventional,aro,ARO,sauber,Kick Sauber,#01C00E,5,MEDIUM,90.221,90.535,1.0434,FP1
+2025,12,silverstone,British Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,93.068,92.934,3.721,FP1
+2025,12,silverstone,British Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,8,MEDIUM,93.679,92.113,2.8052,FP1
+2025,12,silverstone,British Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,13,MEDIUM,93.354,91.029,1.5953,FP1
+2025,12,silverstone,British Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,7,MEDIUM,91.946,90.985,1.5461,FP1
+2025,12,silverstone,British Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,5,SOFT,93.343,92.841,3.6173,FP1
+2025,12,silverstone,British Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,6,SOFT,92.117,91.36,1.9642,FP1
+2025,12,silverstone,British Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,8,MEDIUM,92.746,91.528,2.1514,FP1
+2025,12,silverstone,British Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,7,MEDIUM,92.264,90.871,1.4184,FP1
+2025,12,silverstone,British Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,7,MEDIUM,92.357,90.603,1.1196,FP1
+2025,12,silverstone,British Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,9,MEDIUM,92.8,91.088,1.6613,FP1
+2025,12,silverstone,British Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,8,HARD,92.515,92.229,2.9348,FP1
+2025,13,spa,Belgian Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,6,HARD,107.64,105.65,2.2708,FP1
+2025,13,spa,Belgian Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,106.93,104.73,1.3823,FP1
+2025,13,spa,Belgian Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,9,HARD,107.6,105.29,1.9254,FP1
+2025,13,spa,Belgian Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,107.93,107.8,4.352,FP1
+2025,13,spa,Belgian Grand Prix,sprint,bortoleto,BOR,sauber,Kick Sauber,#01C00E,5,HARD,107.48,106.06,2.6716,FP1
+2025,13,spa,Belgian Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,6,MEDIUM,108.38,108.31,4.8475,FP1
+2025,13,spa,Belgian Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F47600,5,HARD,105.8,103.3,0,FP1
+2025,13,spa,Belgian Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,107.67,107.56,4.1276,FP1
+2025,13,spa,Belgian Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F47600,5,HARD,105.8,103.67,0.35683,FP1
+2025,13,spa,Belgian Grand Prix,sprint,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,6,MEDIUM,108.66,108.59,5.1236,FP1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,HARD,82.245,80.705,0.32845,FP1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,10,MEDIUM,82.714,81.963,1.8919,FP1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,MEDIUM,81.796,81.06,0.76924,FP1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,5,SOFT,82.37,82.456,2.5046,FP1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,HARD,81.995,80.441,0,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,9,MEDIUM,76.349,75.909,0.71464,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,9,MEDIUM,76.848,76.572,1.5941,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,7,SOFT,76.291,76.257,1.1764,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,9,SOFT,76.187,76.217,1.1231,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,9,MEDIUM,76.251,75.79,0.55715,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,6,MEDIUM,76.498,76.045,0.8956,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,8,MEDIUM,76.161,75.677,0.40676,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,75.974,75.464,0.12366,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,9,MEDIUM,76.192,75.787,0.55294,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,8,MEDIUM,75.92,75.485,0.15136,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,7,MEDIUM,75.8,75.37,0,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,9,SOFT,76.541,76.54,1.5523,FP1
+2025,15,zandvoort,Dutch Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,11,MEDIUM,75.432,75.646,2.351,FP2
+2025,15,zandvoort,Dutch Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,8,MEDIUM,76.036,76.063,2.9156,FP2
+2025,15,zandvoort,Dutch Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,SOFT,74.412,74.199,0.39417,FP2
+2025,15,zandvoort,Dutch Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,8,MEDIUM,76.188,76.193,3.0911,FP2
+2025,15,zandvoort,Dutch Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,9,MEDIUM,75.639,75.669,2.3828,FP2
+2025,15,zandvoort,Dutch Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,75.715,75.984,2.8086,FP2
+2025,15,zandvoort,Dutch Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,9,HARD,75.505,73.908,0,FP2
+2025,16,monza,Italian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,MEDIUM,84.214,84.394,0.91428,FP2
+2025,16,monza,Italian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,84.784,84.795,1.3946,FP2
+2025,16,monza,Italian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,9,HARD,84.752,84.04,0.49168,FP2
+2025,16,monza,Italian Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,6,MEDIUM,84.073,83.629,0,FP2
+2025,16,monza,Italian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,13,MEDIUM,84.77,85.023,1.6668,FP2
+2025,16,monza,Italian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,13,MEDIUM,84.492,84.758,1.3501,FP2
+2025,16,monza,Italian Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,8,MEDIUM,84.296,84.472,1.0078,FP2
+2025,16,monza,Italian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,8,HARD,84.247,83.954,0.38863,FP2
+2025,16,monza,Italian Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,8,HARD,84.355,83.862,0.27831,FP2
+2025,16,monza,Italian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,9,MEDIUM,84.635,84.541,1.0903,FP2
+2025,16,monza,Italian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,10,MEDIUM,83.688,84.073,0.53103,FP2
+2025,16,monza,Italian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,11,MEDIUM,83.616,83.769,0.16697,FP2
+2025,16,monza,Italian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,8,HARD,84.257,84.002,0.44651,FP2
+2025,16,monza,Italian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,9,MEDIUM,83.956,84.232,0.72061,FP2
+2025,16,monza,Italian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,8,HARD,84.016,83.912,0.33832,FP2
+2025,16,monza,Italian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,7,MEDIUM,83.973,84.209,0.69386,FP2
+2025,16,monza,Italian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,84.779,84.972,1.606,FP2
+2025,16,monza,Italian Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,84.807,85.005,1.6458,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,HARD,106.49,103.89,0,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,5,SOFT,107.14,106.94,2.9361,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,MEDIUM,107.22,106.45,2.4649,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,8,MEDIUM,108.27,107.5,3.4793,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,7,SOFT,107.87,108.19,4.1389,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,8,MEDIUM,107.42,106.44,2.4549,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,MEDIUM,107.22,106.49,2.5015,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,7,MEDIUM,107.21,106.92,2.9218,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,SOFT,107.22,106.68,2.6864,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,9,MEDIUM,106.61,106.36,2.3791,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,7,SOFT,108.39,108.05,4.004,FP2
+2025,17,baku,Azerbaijan Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,106.86,106.16,2.1864,FP2
+2025,18,marina_bay,Singapore Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,5,SOFT,95.862,95.929,1.1532,FP1
+2025,18,marina_bay,Singapore Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,6,HARD,95.552,94.836,0,FP1
+2025,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,15,HARD,95.611,94.842,0.0061406,FP1
+2025,18,marina_bay,Singapore Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,5,HARD,96.437,95.689,0.89956,FP1
+2025,18,marina_bay,Singapore Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,MEDIUM,97.299,97.274,2.5709,FP1
+2025,18,marina_bay,Singapore Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,SOFT,94.144,93.03,0.7479,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,96.158,93.76,1.5385,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,6,MEDIUM,95.093,92.339,0,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,MEDIUM,94.932,92.478,0.15074,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,6,MEDIUM,94.915,92.891,0.59808,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,MEDIUM,94.198,92.359,0.021207,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,6,MEDIUM,94.751,92.886,0.59271,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,SOFT,94.284,93.013,0.73012,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,7,MEDIUM,96.001,93.78,1.5602,FP3
+2025,18,marina_bay,Singapore Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,97.271,96.832,4.8661,FP3
+2025,19,americas,United States Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,7,HARD,98.427,98.945,3.0912,FP1
+2025,19,americas,United States Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,6,HARD,98.671,98.096,2.2058,FP1
+2025,19,americas,United States Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,8,HARD,99.125,99.656,3.8311,FP1
+2025,19,americas,United States Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,HARD,99.045,99.373,3.5368,FP1
+2025,19,americas,United States Grand Prix,sprint,colapinto,COL,alpine,Alpine,#00A1E8,5,HARD,98.906,99.015,3.1634,FP1
+2025,19,americas,United States Grand Prix,sprint,hadjar,HAD,rb,Racing Bulls,#6C98FF,5,HARD,99.803,99.897,4.0825,FP1
+2025,19,americas,United States Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#ED1131,5,HARD,96.321,95.979,0,FP1
+2025,19,americas,United States Grand Prix,sprint,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,5,HARD,98.885,99.016,3.1646,FP1
+2025,19,americas,United States Grand Prix,sprint,lawson,LAW,rb,Racing Bulls,#6C98FF,6,HARD,99.865,100.09,4.2817,FP1
+2025,19,americas,United States Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,7,HARD,99.431,99.617,3.7908,FP1
+2025,19,americas,United States Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F47600,5,HARD,96.901,96.897,0.95646,FP1
+2025,19,americas,United States Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F47600,6,HARD,97.866,97.905,2.0074,FP1
+2025,19,americas,United States Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,9,HARD,97.958,98.31,2.4294,FP1
+2025,19,americas,United States Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,5,HARD,99.039,98.903,3.0473,FP1
+2025,19,americas,United States Grand Prix,sprint,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,6,HARD,100.08,100.13,4.3245,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,12,HARD,83.654,81.961,2.1816,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,6,HARD,83.109,82.343,2.6578,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,7,SOFT,82.997,82.976,3.4472,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,5,SOFT,82.318,81.655,1.7999,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bro,BRO,williams,Williams,#1868DB,12,HARD,83.483,81.98,2.2051,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,HARD,83.492,82.671,3.0674,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,cra,CRA,aston_martin,Aston Martin,#229971,13,MEDIUM,83.442,81.967,2.1896,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,5,MEDIUM,83.455,81.248,1.2927,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,haas,Haas F1 Team,#9C9FA2,7,HARD,84.051,83.257,3.7969,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,6,MEDIUM,82.831,81.331,1.3959,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,5,SOFT,82.081,82.395,2.7228,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,lin,LIN,red_bull,Red Bull Racing,#4781D7,5,HARD,82.618,81.627,1.7653,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,82.074,80.211,0,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,owa,OWA,mclaren,McLaren,#F47600,13,SOFT,82.348,81.737,1.9019,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,9,HARD,83.29,82.527,2.8871,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,13,HARD,83.374,81.737,1.9024,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,ves,VES,mercedes,Mercedes,#00D7B6,11,HARD,83.806,83.122,3.6294,FP1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,MEDIUM,83.094,83.566,3.0312,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,9,MEDIUM,82.635,83.119,2.4805,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,7,MEDIUM,82.439,82.775,2.0563,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,15,SOFT,81.999,81.111,0.0045102,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,10,MEDIUM,82.78,83.03,2.3705,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,12,SOFT,82.886,81.893,0.96923,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,11,MEDIUM,83.504,83.531,2.9885,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,6,HARD,83.064,83.273,2.6701,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,6,MEDIUM,82.88,83.217,2.6006,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,6,SOFT,82.611,82.125,1.2548,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,5,SOFT,83.212,82.57,1.8035,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,7,MEDIUM,82.391,82.635,1.8834,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,82.656,82.916,2.2297,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,9,SOFT,81.911,81.107,0,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,9,HARD,82.787,82.863,2.1651,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,10,SOFT,82.443,81.719,0.75371,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,7,MEDIUM,82.35,82.672,1.929,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,11,MEDIUM,82.86,83.067,2.4159,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,7,SOFT,82.868,82.275,1.44,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,10,MEDIUM,82.976,83.149,2.5177,FP2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,6,MEDIUM,80.657,77.157,0.22067,FP3
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,7,MEDIUM,80.756,77.001,0.017857,FP3
+2025,20,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,82.141,78.794,2.3474,FP3
+2025,20,rodriguez,Mexico City Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,5,MEDIUM,79.306,76.987,0,FP3
+2025,20,rodriguez,Mexico City Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,8,MEDIUM,80.076,77.54,0.71838,FP3
+2025,20,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,SOFT,80.621,81.099,5.3411,FP3
+2025,21,interlagos,São Paulo Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,12,HARD,73.856,72.368,1.2563,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,73.396,72.542,1.5004,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,10,HARD,74.365,72.506,1.4488,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,HARD,74.372,72.612,1.597,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,bortoleto,BOR,sauber,Kick Sauber,#01C00E,8,HARD,74.489,72.612,1.5973,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,colapinto,COL,alpine,Alpine,#00A1E8,5,HARD,74.176,73.275,2.5255,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,gasly,GAS,alpine,Alpine,#00A1E8,8,HARD,74.362,72.398,1.2978,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,hadjar,HAD,rb,Racing Bulls,#6C98FF,5,HARD,74.891,73.214,2.4399,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#ED1131,12,HARD,72.839,71.479,0.012581,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,8,HARD,74.139,71.974,0.70512,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,lawson,LAW,rb,Racing Bulls,#6C98FF,8,HARD,74.825,74.157,3.7594,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#ED1131,10,HARD,73.283,71.665,0.27305,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,14,HARD,74.708,72.855,1.9372,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F47600,11,HARD,72.705,71.661,0.26775,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#9C9FA2,11,HARD,73.848,72.411,1.3162,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F47600,13,HARD,72.856,71.47,0,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,11,HARD,74.538,72.627,1.6185,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,sainz,SAI,williams,Williams,#1868DB,12,HARD,73.18,71.661,0.267,FP1
+2025,21,interlagos,São Paulo Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,7,HARD,74.441,72.891,1.9881,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,11,MEDIUM,98.454,98.844,1.1701,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,99.512,99.509,1.8505,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,10,MEDIUM,99.46,99.811,2.1589,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,MEDIUM,97.99,98.588,0.90782,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,5,MEDIUM,98.753,98.765,1.0893,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,5,HARD,98.524,99.345,1.6827,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,5,MEDIUM,99.012,98.953,1.2808,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,6,MEDIUM,97.761,98.016,0.32249,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,98.564,99.598,1.9418,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,11,SOFT,99.185,98.924,1.2516,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,17,MEDIUM,97.685,97.701,0,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,11,MEDIUM,98.104,98.197,0.50789,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,10,MEDIUM,98.218,98.541,0.85989,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,97.094,97.796,0.097215,FP1
+2025,22,vegas,Las Vegas Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,6,MEDIUM,94.826,95.865,0.23176,FP2
+2025,22,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,MEDIUM,95.533,95.997,0.36887,FP2
+2025,22,vegas,Las Vegas Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,MEDIUM,95.158,95.975,0.34629,FP2
+2025,22,vegas,Las Vegas Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,6,MEDIUM,95.84,95.788,0.15095,FP2
+2025,22,vegas,Las Vegas Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,96.272,96.679,1.0826,FP2
+2025,22,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,5,MEDIUM,95.066,95.644,0,FP2
+2025,23,losail,Qatar Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,6,HARD,84.865,85.108,2.0676,FP1
+2025,23,losail,Qatar Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,85.238,84.709,1.5891,FP1
+2025,23,losail,Qatar Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,11,HARD,85.598,85.492,2.5275,FP1
+2025,23,losail,Qatar Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,HARD,85.741,85.498,2.5348,FP1
+2025,23,losail,Qatar Grand Prix,sprint,bortoleto,BOR,sauber,Kick Sauber,#01C00E,7,HARD,85.329,85.102,2.0601,FP1
+2025,23,losail,Qatar Grand Prix,sprint,colapinto,COL,alpine,Alpine,#00A1E8,5,HARD,84.726,84.374,1.1876,FP1
+2025,23,losail,Qatar Grand Prix,sprint,hadjar,HAD,rb,Racing Bulls,#6C98FF,6,HARD,86.066,85.846,2.953,FP1
+2025,23,losail,Qatar Grand Prix,sprint,lawson,LAW,rb,Racing Bulls,#6C98FF,8,HARD,85.757,85.115,2.0763,FP1
+2025,23,losail,Qatar Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,9,HARD,85.347,85.395,2.4111,FP1
+2025,23,losail,Qatar Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F47600,7,HARD,84.309,83.801,0.49978,FP1
+2025,23,losail,Qatar Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#9C9FA2,13,HARD,85.38,84.975,1.908,FP1
+2025,23,losail,Qatar Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F47600,9,HARD,84.414,83.893,0.61037,FP1
+2025,23,losail,Qatar Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,11,HARD,85.358,85.32,2.3212,FP1
+2025,23,losail,Qatar Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,5,HARD,83.941,83.384,0,FP1
+2025,23,losail,Qatar Grand Prix,sprint,tsunoda,TSU,red_bull,Red Bull Racing,#4781D7,6,HARD,86.118,85.984,3.1183,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,6,HARD,89.86,88.786,3.1674,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,aro,ARO,alpine,Alpine,#00A1E8,5,HARD,87.12,87.39,1.5446,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bortoleto,BOR,sauber,Kick Sauber,#01C00E,8,SOFT,89.793,88.262,2.5584,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bro,BRO,williams,Williams,#1868DB,5,HARD,86.008,86.06,0,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,MEDIUM,90.644,88.549,2.892,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,cra,CRA,aston_martin,Aston Martin,#229971,6,MEDIUM,88.048,87.665,1.8641,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,7,MEDIUM,89.798,88.817,3.2031,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hir,HIR,haas,Haas F1 Team,#9C9FA2,6,HARD,90.198,88.864,3.2577,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,6,MEDIUM,89.466,88.008,2.263,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,iwa,IWA,rb,Racing Bulls,#6C98FF,15,HARD,90.199,88.641,2.9988,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,lin,LIN,red_bull,Red Bull Racing,#4781D7,5,SOFT,90.363,89.147,3.5872,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,12,HARD,89.677,88.569,2.9153,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,6,HARD,90.152,89.003,3.4189,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,shi,SHI,aston_martin,Aston Martin,#229971,5,MEDIUM,88.69,87.102,1.2106,FP1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,9,HARD,90.181,89.482,4.015,FP2
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,7,MEDIUM,90.333,91.949,6.8824,FP2
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hadjar,HAD,rb,Racing Bulls,#6C98FF,10,SOFT,87.909,87.672,1.9104,FP2
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,MEDIUM,85.12,86.028,0,FP2
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,HUL,sauber,Kick Sauber,#01C00E,5,HARD,89.109,88.49,2.8619,FP2
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,SOFT,89.602,89.34,3.8497,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,7,MEDIUM,84.243,84.253,2.8648,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,7,SOFT,82.799,83.791,2.3009,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,MEDIUM,84.124,84.02,2.5796,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,5,SOFT,84.835,85.114,3.916,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,MEDIUM,82.692,82.289,0.46648,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,11,MEDIUM,86.088,85.243,4.0737,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,5,MEDIUM,82.08,81.907,0,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,84.846,85.038,3.8235,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,83.312,83.247,1.6363,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,11,SOFT,85.677,86.434,5.5278,FP1
+2026,1,albert_park,Australian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,HARD,83.557,83.442,2.059,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,12,HARD,84.071,83.037,1.5635,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,9,SOFT,85.975,84.569,3.4376,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,10,HARD,86.05,84.765,3.6773,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,8,MEDIUM,88.198,88.563,8.3221,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,6,MEDIUM,85.942,86.139,5.3574,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,MEDIUM,82.83,83.477,2.101,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,84.617,84.969,3.9257,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,10,HARD,82.733,81.759,0,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,8,MEDIUM,85.35,85.565,4.6552,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,10,MEDIUM,85.779,85.906,5.0723,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,7,SOFT,83.385,82.812,1.2885,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,5,HARD,86.503,85.143,4.1388,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,SOFT,84.884,84.709,3.6086,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,11,HARD,83.507,82.795,1.2671,FP2
+2026,1,albert_park,Australian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,MEDIUM,82.309,82.842,2.3775,FP3
+2026,1,albert_park,Australian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,7,SOFT,81.268,81.269,0.43419,FP3
+2026,1,albert_park,Australian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,7,HARD,84.437,86.961,7.4677,FP3
+2026,1,albert_park,Australian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,6,SOFT,81.668,81.626,0.8747,FP3
+2026,1,albert_park,Australian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,5,SOFT,82.062,82.159,1.5333,FP3
+2026,1,albert_park,Australian Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,10,MEDIUM,86.297,86.816,7.2889,FP3
+2026,1,albert_park,Australian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,SOFT,81.179,80.918,0,FP3
+2026,1,albert_park,Australian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,7,SOFT,82.221,82.105,1.4672,FP3
+2026,2,shanghai,Chinese Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,9,MEDIUM,96.222,96.128,0,FP1
+2026,2,shanghai,Chinese Grand Prix,sprint,bottas,BOT,cadillac,Cadillac,#909090,6,MEDIUM,99.515,99.16,3.1545,FP1
+2026,2,shanghai,Chinese Grand Prix,sprint,lawson,LAW,rb,Racing Bulls,#6C98FF,7,MEDIUM,99.343,99.323,3.3243,FP1
+2026,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,99.627,99.49,3.4979,FP1
+2026,2,shanghai,Chinese Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,9,MEDIUM,96.393,96.22,0.0964,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,6,SOFT,95.988,95.174,1.5521,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,7,SOFT,97.207,95.999,2.4324,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,8,SOFT,95.022,94.154,0.46385,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,5,HARD,100.26,100.35,7.0755,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,6,SOFT,94.47,94.12,0.42777,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,MEDIUM,98.272,98.874,5.5008,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,6,MEDIUM,96.108,97.276,3.7958,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,5,SOFT,97.48,95.973,2.405,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,9,MEDIUM,96.614,97.69,4.2375,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,5,SOFT,93.965,93.719,0,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,7,HARD,95.56,95.866,2.2907,FP1
+2026,3,suzuka,Japanese Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,9,MEDIUM,97.22,96.721,2.4119,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,7,MEDIUM,94.557,94.443,0,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,11,MEDIUM,96.312,95.827,1.4659,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,11,MEDIUM,98.054,97.493,3.2301,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,10,MEDIUM,96.826,96.29,1.9563,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,9,HARD,96.096,95.256,0.86118,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,7,HARD,96.143,95.312,0.92044,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,6,HARD,96.443,95.612,1.2379,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,MEDIUM,96.91,96.31,1.9771,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,7,MEDIUM,95.281,94.97,0.55883,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,12,HARD,96.1,95.263,0.86897,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,10,MEDIUM,96.085,95.668,1.2978,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,5,HARD,98.115,97.463,3.1978,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,MEDIUM,95.379,94.978,0.56682,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,7,MEDIUM,94.943,94.529,0.091002,FP2
+2026,3,suzuka,Japanese Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,7,HARD,97.078,96.521,2.2004,FP2
+2026,4,miami,Miami Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,6,HARD,94.898,94.212,2.1967,FP1
+2026,4,miami,Miami Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,12,HARD,93.051,92.43,0.26413,FP1
+2026,4,miami,Miami Grand Prix,sprint,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,12,HARD,96.404,95.002,3.0542,FP1
+2026,4,miami,Miami Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,10,HARD,94.768,94.081,2.0553,FP1
+2026,4,miami,Miami Grand Prix,sprint,bottas,BOT,cadillac,Cadillac,#909090,7,MEDIUM,97.714,97.462,5.7228,FP1
+2026,4,miami,Miami Grand Prix,sprint,colapinto,COL,alpine,Alpine,#00A1E8,10,HARD,94.413,93.925,1.8854,FP1
+2026,4,miami,Miami Grand Prix,sprint,gasly,GAS,alpine,Alpine,#00A1E8,6,HARD,93.895,92.484,0.32301,FP1
+2026,4,miami,Miami Grand Prix,sprint,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,14,MEDIUM,94.613,94.474,2.4811,FP1
+2026,4,miami,Miami Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#ED1131,9,HARD,93.605,92.187,0,FP1
+2026,4,miami,Miami Grand Prix,sprint,hulkenberg,HUL,audi,Audi,#F50537,8,HARD,94.633,94.062,2.0346,FP1
+2026,4,miami,Miami Grand Prix,sprint,lawson,LAW,rb,Racing Bulls,#6C98FF,12,HARD,95.832,95.019,3.0722,FP1
+2026,4,miami,Miami Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#ED1131,9,HARD,93.424,92.602,0.45083,FP1
+2026,4,miami,Miami Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,14,MEDIUM,93.738,93.372,1.2857,FP1
+2026,4,miami,Miami Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F47600,7,HARD,94.397,92.931,0.8078,FP1
+2026,4,miami,Miami Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#9C9FA2,8,HARD,94.566,93.398,1.3143,FP1
+2026,4,miami,Miami Grand Prix,sprint,perez,PER,cadillac,Cadillac,#909090,8,MEDIUM,97.231,96.778,4.9806,FP1
+2026,4,miami,Miami Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,10,HARD,93.047,92.255,0.074627,FP1
+2026,4,miami,Miami Grand Prix,sprint,sainz,SAI,williams,Williams,#1868DB,7,HARD,94.492,93.683,1.6232,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,6,SOFT,77.541,77.184,2.5868,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,5,HARD,75.994,76.487,1.6602,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,7,MEDIUM,76.867,75.238,0,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,HARD,78.66,79.434,5.578,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,bortoleto,BOR,audi,Audi,#F50537,7,HARD,77.067,78.637,4.5175,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,bottas,BOT,cadillac,Cadillac,#909090,7,MEDIUM,78.428,76.995,2.3355,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,gasly,GAS,alpine,Alpine,#00A1E8,8,HARD,77.84,78.813,4.7523,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,12,HARD,77.043,78.488,4.3204,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#ED1131,8,HARD,75.944,77.38,2.8475,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#ED1131,8,HARD,75.833,77.615,3.1603,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,11,HARD,76.635,77.775,3.3724,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#9C9FA2,8,HARD,77.522,78.475,4.3025,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,perez,PER,cadillac,Cadillac,#909090,11,SOFT,78.306,78.15,3.8705,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F47600,7,HARD,76.329,77.78,3.3791,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,7,HARD,75.893,76.628,1.8485,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,sainz,SAI,williams,Williams,#1868DB,11,HARD,77.203,79.172,5.2295,FP1
+2026,5,villeneuve,Canadian Grand Prix,sprint,stroll,STR,aston_martin,Aston Martin,#229971,5,SOFT,77.748,77.643,3.1969,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,12,HARD,78.183,79.211,3.3348,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,10,HARD,77.691,77.622,1.262,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,5,HARD,78.242,79.614,3.8611,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,5,HARD,77.911,78.658,2.6133,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,5,MEDIUM,78.829,78.84,2.8507,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,12,HARD,78.438,79.227,3.3564,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,7,HARD,77.336,78.474,2.3736,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,5,HARD,76.815,78.034,1.7991,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,5,HARD,76.781,77.311,0.85646,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,6,HARD,76.335,76.654,0,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,HARD,78.082,78.111,1.9002,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,9,HARD,78.8,79.583,3.8203,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,MEDIUM,78.499,78.565,2.4918,FP1
+2026,6,monaco,Monaco Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,7,SOFT,75.714,76.939,2.9059,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,7,SOFT,74.836,76.558,2.3962,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,5,SOFT,79.69,79.063,5.7468,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,SOFT,74.846,74.888,0.16321,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,7,MEDIUM,76.742,75.899,1.5156,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,10,MEDIUM,75.569,75.491,0.96957,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,5,MEDIUM,74.24,74.766,0,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,13,SOFT,76.466,75.819,1.4073,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,6,MEDIUM,76.492,75.973,1.6137,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,5,SOFT,78.275,78.739,5.3133,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,11,SOFT,77.048,76.972,2.9499,FP2
+2026,6,monaco,Monaco Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,SOFT,75.085,75.267,0,FP3
+2026,6,monaco,Monaco Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,6,SOFT,75.772,76.108,1.117,FP3
+2026,6,monaco,Monaco Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,6,SOFT,74.933,75.291,0.031974,FP3
+2026,6,monaco,Monaco Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,5,SOFT,75.596,75.49,0.29627,FP3
+2026,6,monaco,Monaco Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,8,SOFT,75.39,75.497,0.30503,FP3
+2026,6,monaco,Monaco Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,7,SOFT,75.184,75.278,0.015049,FP3
+2026,7,catalunya,Barcelona Grand Prix,conventional,beg,BEG,ferrari,Ferrari,#ED1131,5,MEDIUM,81.6,81.973,2.2147,FP1
+2026,7,catalunya,Barcelona Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,7,SOFT,81.809,81.068,1.0864,FP1
+2026,7,catalunya,Barcelona Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,6,SOFT,81.718,81.761,1.9513,FP1
+2026,7,catalunya,Barcelona Grand Prix,conventional,her,HER,cadillac,Cadillac,#909090,7,SOFT,84.309,82.827,3.2798,FP1
+2026,7,catalunya,Barcelona Grand Prix,conventional,iwa,IWA,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,82.523,80.901,0.87798,FP1
+2026,7,catalunya,Barcelona Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,5,SOFT,81.453,80.272,0.094084,FP1
+2026,7,catalunya,Barcelona Grand Prix,conventional,ves,VES,mercedes,Mercedes,#00D7B6,6,SOFT,82.879,80.196,0,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,SOFT,73.043,72.264,3.9895,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,7,MEDIUM,71.666,70.473,1.4127,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,MEDIUM,72.147,70.873,1.9882,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bro,BRO,williams,Williams,#1868DB,7,HARD,72.621,69.491,0,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,6,MEDIUM,72.929,73.113,5.2113,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,7,HARD,72.639,70.065,0.82539,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,7,MEDIUM,72.683,73.063,5.14,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,MEDIUM,70.445,69.559,0.096712,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,8,MEDIUM,71.376,70.438,1.3624,FP1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,MEDIUM,73.067,71.532,2.7704,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,6,SOFT,74.525,74.347,6.8141,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,6,MEDIUM,71.297,70.678,1.5438,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,11,MEDIUM,72.348,71.039,2.0614,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,7,SOFT,72.404,72.35,3.9448,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,10,HARD,72.529,70.341,1.0597,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,10,MEDIUM,72.226,71.497,2.72,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,71.873,70.265,0.95003,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,MEDIUM,71.556,69.879,0.39484,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,8,HARD,72.054,70.105,0.71959,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,8,MEDIUM,72.731,70.954,1.94,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,6,MEDIUM,72.039,70.147,0.78106,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,6,MEDIUM,71.475,69.67,0.094493,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,MEDIUM,71.002,69.604,0,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,8,HARD,73.347,70.798,1.716,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,MEDIUM,71.337,70,0.56912,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,7,MEDIUM,73.118,71.473,2.6854,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,7,SOFT,74.282,74.221,6.6341,FP2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,SOFT,71.393,71.517,5.4161,FP3
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,5,SOFT,70.582,69.876,2.9968,FP3
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,7,SOFT,72.9,72.187,6.403,FP3
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,6,HARD,69.75,67.843,0,FP3
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,9,MEDIUM,73.915,73.002,7.6048,FP3
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,6,SOFT,71.83,71.049,4.7264,FP3
+2026,9,silverstone,British Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,6,HARD,94.481,93.044,2.2718,FP1
+2026,9,silverstone,British Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,95.35,94.836,4.2414,FP1
+2026,9,silverstone,British Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,6,HARD,92.96,91.759,0.85921,FP1
+2026,9,silverstone,British Grand Prix,sprint,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,11,HARD,94.647,93.078,2.309,FP1
+2026,9,silverstone,British Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,7,HARD,94.497,93.569,2.8493,FP1
+2026,9,silverstone,British Grand Prix,sprint,bortoleto,BOR,audi,Audi,#F50537,5,HARD,92.355,92.232,1.3793,FP1
+2026,9,silverstone,British Grand Prix,sprint,bottas,BOT,cadillac,Cadillac,#909090,9,HARD,95.969,95.324,4.7777,FP1
+2026,9,silverstone,British Grand Prix,sprint,colapinto,COL,alpine,Alpine,#00A1E8,6,HARD,93.747,92.692,1.8855,FP1
+2026,9,silverstone,British Grand Prix,sprint,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,8,HARD,94.155,93.06,2.2901,FP1
+2026,9,silverstone,British Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#ED1131,5,HARD,92.358,90.977,0,FP1
+2026,9,silverstone,British Grand Prix,sprint,hulkenberg,HUL,audi,Audi,#F50537,5,HARD,94.044,92.308,1.4636,FP1
+2026,9,silverstone,British Grand Prix,sprint,lawson,LAW,rb,Racing Bulls,#6C98FF,6,HARD,94.488,93.87,3.1805,FP1
+2026,9,silverstone,British Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,8,HARD,94.281,93.255,2.5035,FP1
+2026,9,silverstone,British Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F47600,6,HARD,93.97,92.344,1.5024,FP1
+2026,9,silverstone,British Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#9C9FA2,6,HARD,94.559,94.001,3.3239,FP1
+2026,9,silverstone,British Grand Prix,sprint,perez,PER,cadillac,Cadillac,#909090,9,HARD,95.482,94.889,4.3004,FP1
+2026,9,silverstone,British Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,9,HARD,93.134,92.08,1.2125,FP1
+2026,9,silverstone,British Grand Prix,sprint,sainz,SAI,williams,Williams,#1868DB,6,HARD,94.183,92.643,1.8318,FP1
+2026,10,spa,Belgian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,SOFT,114.4,113.25,2.4321,FP1
+2026,10,spa,Belgian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,8,MEDIUM,112.33,112.62,1.8646,FP1
+2026,10,spa,Belgian Grand Prix,conventional,cra,CRA,aston_martin,Aston Martin,#229971,5,SOFT,115.81,115.17,4.1677,FP1
+2026,10,spa,Belgian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,HARD,114.11,114.02,3.1255,FP1
+2026,10,spa,Belgian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,8,SOFT,112.49,110.87,0.27884,FP1
+2026,10,spa,Belgian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,SOFT,111.72,110.72,0.14726,FP1
+2026,10,spa,Belgian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,8,HARD,113.77,113.77,2.9042,FP1
+2026,10,spa,Belgian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,6,MEDIUM,113.68,113.74,2.8734,FP1
+2026,10,spa,Belgian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,8,MEDIUM,112.22,112.56,1.8051,FP1
+2026,10,spa,Belgian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,SOFT,110.62,110.56,0,FP1
+2026,10,spa,Belgian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,MEDIUM,110.65,110.7,0.12867,FP1
+2026,10,spa,Belgian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,MEDIUM,115.29,115.29,4.2779,FP1
+2026,10,spa,Belgian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,SOFT,111.04,110.82,2.3944,FP3
+2026,10,spa,Belgian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,6,SOFT,110.27,109.98,1.6188,FP3
+2026,10,spa,Belgian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,7,SOFT,111.98,111.81,3.3031,FP3
+2026,10,spa,Belgian Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,6,SOFT,112.71,112.32,3.7793,FP3
+2026,10,spa,Belgian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,7,MEDIUM,112.37,110.99,2.5523,FP3
+2026,10,spa,Belgian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,6,MEDIUM,112.32,110.88,2.4455,FP3
+2026,10,spa,Belgian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,SOFT,110.13,109.88,1.5228,FP3
+2026,10,spa,Belgian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,6,SOFT,110.04,109.77,1.4253,FP3
+2026,10,spa,Belgian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,7,MEDIUM,109.37,108.23,0,FP3
+2026,10,spa,Belgian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,7,SOFT,112.17,112.32,3.7764,FP3
+2026,10,spa,Belgian Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,5,SOFT,113.02,113.11,4.505,FP3
+2026,10,spa,Belgian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,5,SOFT,110.49,109.78,1.4352,FP3
+2026,10,spa,Belgian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,6,SOFT,111.29,111.04,2.5961,FP3
+2026,11,hungaroring,Hungarian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,SOFT,84.568,84.188,1.948,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,aro,ARO,alpine,Alpine,#00A1E8,7,SOFT,86.888,86.307,4.5137,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,9,SOFT,84.702,84.724,2.5979,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,6,SOFT,84.748,83.845,1.5327,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,7,MEDIUM,85.224,83.671,1.3227,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,6,MEDIUM,84.257,82.709,0.15757,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,her,HER,cadillac,Cadillac,#909090,5,SOFT,87.136,86.482,4.7256,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,6,MEDIUM,85.579,83.778,1.4513,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,5,MEDIUM,86.273,84.032,1.7589,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,5,SOFT,84.083,84.907,2.8185,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,7,SOFT,86.216,86.255,4.4519,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,MEDIUM,85.682,84.654,2.513,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,ves,VES,mercedes,Mercedes,#00D7B6,6,MEDIUM,83.408,82.579,0,FP1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,7,SOFT,84.025,83.895,0,FP2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,5,HARD,85.778,84.859,1.1493,FP2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,MEDIUM,86.331,85.72,2.1751,FP2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,7,SOFT,85.374,85.496,1.9079,FP2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,5,MEDIUM,84.346,83.969,0.087571,FP2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,7,MEDIUM,85.451,84.916,1.2167,FP2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,7,MEDIUM,84.205,84.164,0.32032,FP2
+2026,12,zandvoort,Dutch Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,10,SOFT,77.733,77.606,4.0156,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,antonelli,ANT,mercedes,Mercedes,#00D7B6,9,MEDIUM,76.346,75.021,0.55037,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,13,HARD,78.099,77.011,3.2176,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,8,MEDIUM,77.867,76.94,3.1222,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,bortoleto,BOR,audi,Audi,#F50537,5,HARD,77.123,77.208,3.4821,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,colapinto,COL,alpine,Alpine,#00A1E8,10,HARD,77.65,77.304,3.6098,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,gasly,GAS,alpine,Alpine,#00A1E8,7,HARD,77.126,76.219,2.1562,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#ED1131,13,MEDIUM,75.741,74.787,0.23657,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,hulkenberg,HUL,audi,Audi,#F50537,6,HARD,76.816,76.986,3.1837,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,lawson,LAW,red_bull,Red Bull Racing,#4781D7,5,HARD,75.655,75.734,1.5064,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,leclerc,LEC,ferrari,Ferrari,#ED1131,13,MEDIUM,75.766,74.61,0,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,10,HARD,76.972,76.082,1.9719,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,norris,NOR,mclaren,McLaren,#F47600,7,MEDIUM,76.037,74.717,0.14354,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,ocon,OCO,haas,Haas F1 Team,#9C9FA2,8,MEDIUM,77.627,76.735,2.8477,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F47600,8,MEDIUM,76.538,75.115,0.67684,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,16,MEDIUM,76.213,75.037,0.57238,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,sainz,SAI,williams,Williams,#1868DB,5,SOFT,78.786,78.631,5.3889,FP1
+2026,12,zandvoort,Dutch Grand Prix,sprint,tsunoda,TSU,rb,Racing Bulls,#6C98FF,12,HARD,78.214,77.124,3.3694,FP1
+2026,13,monza,Italian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,11,MEDIUM,86.298,87.545,2.1965,FP1
+2026,13,monza,Italian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,5,HARD,87.518,87.643,2.311,FP1
+2026,13,monza,Italian Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,6,SOFT,85.671,85.664,0,FP1
+2026,13,monza,Italian Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,7,MEDIUM,89.137,89.951,5.0046,FP1
+2026,13,monza,Italian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,9,MEDIUM,87.091,88.36,3.1474,FP1
+2026,13,monza,Italian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,6,HARD,87.439,87.784,2.4748,FP1
+2026,13,monza,Italian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,10,MEDIUM,86.427,87.523,2.1701,FP1
+2026,13,monza,Italian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,7,MEDIUM,86.517,87.718,2.3975,FP1
+2026,13,monza,Italian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,6,MEDIUM,86.688,87.824,2.5212,FP1
+2026,13,monza,Italian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,8,MEDIUM,86.525,87.613,2.2751,FP1
+2026,13,monza,Italian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,10,MEDIUM,87.703,88.773,3.1136,FP2
+2026,13,monza,Italian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,17,HARD,86.018,86.287,0.22579,FP2
+2026,13,monza,Italian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,10,MEDIUM,86.974,87.793,1.9758,FP2
+2026,13,monza,Italian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,MEDIUM,87.409,88.46,2.75,FP2
+2026,13,monza,Italian Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,9,SOFT,88.225,88.179,2.4241,FP2
+2026,13,monza,Italian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,SOFT,86.775,86.806,0.82882,FP2
+2026,13,monza,Italian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,8,HARD,87.072,87.255,1.3505,FP2
+2026,13,monza,Italian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,8,SOFT,86.317,86.092,0,FP2
+2026,13,monza,Italian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,8,SOFT,87.766,87.467,1.5964,FP2
+2026,13,monza,Italian Grand Prix,conventional,lawson,LAW,red_bull,Red Bull Racing,#4781D7,22,HARD,86.41,86.338,0.28574,FP2
+2026,13,monza,Italian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,9,SOFT,86.168,86.409,0.36836,FP2
+2026,13,monza,Italian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,86.605,87.419,1.5416,FP2
+2026,13,monza,Italian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,5,HARD,86.361,86.612,0.60418,FP2
+2026,13,monza,Italian Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,8,SOFT,87.736,88.105,2.3382,FP2
+2026,13,monza,Italian Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,8,SOFT,88.517,88.585,2.8957,FP2
+2026,13,monza,Italian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,10,HARD,86.148,86.343,0.29176,FP2
+2026,13,monza,Italian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,10,SOFT,87.395,87.377,1.4927,FP2
+2026,13,monza,Italian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,SOFT,89.969,89.785,4.2897,FP2
+2026,13,monza,Italian Grand Prix,conventional,tsunoda,TSU,rb,Racing Bulls,#6C98FF,10,MEDIUM,87.403,88.349,2.6212,FP2
+2026,14,madring,Spanish Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,MEDIUM,99.951,103.31,7.1803,FP1
+2026,14,madring,Spanish Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,100.16,101.75,5.5546,FP1
+2026,14,madring,Spanish Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,5,MEDIUM,103.47,104.18,8.0809,FP1
+2026,14,madring,Spanish Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,7,MEDIUM,99.55,101.23,5.0167,FP1
+2026,14,madring,Spanish Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,11,SOFT,97.921,98.666,2.3592,FP1
+2026,14,madring,Spanish Grand Prix,conventional,lawson,LAW,red_bull,Red Bull Racing,#4781D7,6,SOFT,101.05,101.36,5.1517,FP1
+2026,14,madring,Spanish Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,5,SOFT,96.735,96.392,0,FP1
+2026,14,madring,Spanish Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,MEDIUM,99.505,102.86,6.7077,FP1
+2026,14,madring,Spanish Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,MEDIUM,99.669,101.76,5.5634,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,5,SOFT,107.7,107.61,0,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,5,MEDIUM,112.98,112.46,4.5019,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,8,MEDIUM,111.28,110.15,2.3572,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,HARD,107.5,109.42,1.6737,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,HARD,107.54,109.14,1.4189,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,5,SOFT,110.46,110.43,2.6138,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,MEDIUM,109.32,107.81,0.18074,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,5,HARD,109.49,112.36,4.4079,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,SOFT,108.02,108.12,0.47233,FP1
+2026,15,baku,Azerbaijan Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,7,SOFT,109.98,110.84,3.8603,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,5,SOFT,110.03,110.73,3.7559,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,5,SOFT,111.56,111.58,4.5468,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,HARD,109.2,106.72,0,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,5,MEDIUM,109.55,108.43,1.6027,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,5,SOFT,109.08,110.23,3.2879,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,SOFT,109.14,109.79,2.8747,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,MEDIUM,110.21,109.59,2.6877,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,5,SOFT,108.84,109.8,2.8849,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,SOFT,108.69,108.55,1.7142,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,7,SOFT,110.61,111.56,4.5353,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,7,SOFT,108.43,108.87,2.0157,FP2
+2026,15,baku,Azerbaijan Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,MEDIUM,109.68,108.56,1.7171,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,5,MEDIUM,104.56,103.59,0.32717,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,5,SOFT,104.67,104.55,1.2628,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,SOFT,105.98,105.6,2.2758,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,colapinto,COL,alpine,Alpine,#00A1E8,21,MEDIUM,105.69,104.98,1.6746,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hulkenberg,HUL,audi,Audi,#F50537,5,MEDIUM,105.6,104.16,0.88622,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,5,MEDIUM,104.05,103.25,0,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,5,SOFT,104.62,104.61,1.3138,FP2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,sainz,SAI,williams,Williams,#1868DB,5,MEDIUM,105.75,106.07,2.7339,FP2
+2026,17,marina_bay,Singapore Grand Prix,sprint,albon,ALB,williams,Williams,#1868DB,5,HARD,96.756,98.438,1.0003,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,alonso,ALO,aston_martin,Aston Martin,#229971,5,HARD,98.841,98.49,1.0535,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,bearman,BEA,haas,Haas F1 Team,#9C9FA2,9,HARD,97.939,99.049,1.6271,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,bottas,BOT,cadillac,Cadillac,#909090,6,MEDIUM,98.13,97.598,0.1387,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,colapinto,COL,alpine,Alpine,#00A1E8,5,HARD,97.808,99.403,1.9898,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,gasly,GAS,alpine,Alpine,#00A1E8,5,HARD,96.109,97.721,0.26478,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,hamilton,HAM,ferrari,Ferrari,#ED1131,5,HARD,96.803,97.607,0.14717,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,piastri,PIA,mclaren,McLaren,#F47600,5,HARD,97.165,97.739,0.28291,FP1
+2026,17,marina_bay,Singapore Grand Prix,sprint,russell,RUS,mercedes,Mercedes,#00D7B6,5,HARD,96.906,97.463,0,FP1
+2026,18,americas,United States Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,6,SOFT,100.79,99.992,0.70988,FP1
+2026,18,americas,United States Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,5,HARD,101.77,105.79,6.5516,FP1
+2026,18,americas,United States Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,9,MEDIUM,103.16,105.14,5.8924,FP1
+2026,18,americas,United States Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,8,HARD,103.17,106.12,6.8802,FP1
+2026,18,americas,United States Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,5,SOFT,102.36,100.07,0.78831,FP1
+2026,18,americas,United States Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,5,MEDIUM,101.44,103.38,4.1218,FP1
+2026,18,americas,United States Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,11,HARD,99.666,102.11,2.8465,FP1
+2026,18,americas,United States Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,11,SOFT,101.79,102.91,3.6451,FP1
+2026,18,americas,United States Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,5,SOFT,98.786,99.288,0,FP1
+2026,18,americas,United States Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,6,SOFT,103.6,103.31,3.1298,FP2
+2026,18,americas,United States Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,7,HARD,103.33,102.7,2.5181,FP2
+2026,18,americas,United States Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,6,MEDIUM,101.27,100.17,0,FP2
+2026,18,americas,United States Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,10,MEDIUM,103.04,102.44,2.2596,FP2
+2026,18,americas,United States Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,6,SOFT,104.16,103.84,3.6613,FP2
+2026,18,americas,United States Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,14,HARD,102.07,101.7,1.526,FP2
+2026,18,americas,United States Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,8,SOFT,102.59,102.3,2.1255,FP2
+2026,18,americas,United States Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,7,SOFT,103.29,103.46,3.2822,FP2
+2026,18,americas,United States Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,9,MEDIUM,102.35,101.24,1.0618,FP2
+2026,18,americas,United States Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,6,SOFT,100.89,100.93,0.758,FP2
+2026,18,americas,United States Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,9,SOFT,101.46,101.14,0.96624,FP2
+2026,18,americas,United States Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#9C9FA2,7,MEDIUM,103.31,102.84,2.6608,FP2
+2026,18,americas,United States Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,5,SOFT,104.36,104.2,4.0178,FP2
+2026,18,americas,United States Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,6,SOFT,103.76,103.64,3.4547,FP2
+2026,18,americas,United States Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,HARD,103.8,102.46,2.2779,FP2
+2026,18,americas,United States Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,10,MEDIUM,101.07,100.21,0,FP3
+2026,18,americas,United States Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,9,MEDIUM,101.34,100.3,0.090992,FP3
+2026,18,americas,United States Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,7,HARD,103.87,102.76,2.5454,FP3
+2026,18,americas,United States Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,6,SOFT,100.68,100.79,0.58013,FP3

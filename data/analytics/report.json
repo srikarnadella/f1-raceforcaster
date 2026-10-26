@@ -1,0 +1,227 @@
+{
+ "weekends": 88,
+ "circuits": {
+  "k": 6,
+  "silhouette": 0.197,
+  "explained": [
+   0.338,
+   0.149
+  ],
+  "loadings": {
+   "pc1": {
+    "share_straight": 0.411,
+    "share_fast": 0.057,
+    "share_medium": -0.052,
+    "share_slow": -0.321,
+    "avg_speed_kmh": 0.443,
+    "top_speed_kmh": 0.242,
+    "full_throttle_pct": 0.422,
+    "braking_pct": -0.31,
+    "gear_changes_per_km": -0.374,
+    "race_deg": -0.069,
+    "race_track_temp": -0.094,
+    "sc_rate": 0.103,
+    "overtakes_per_lap": 0.141,
+    "pit_loss_s": 0.096
+   },
+   "pc2": {
+    "share_straight": -0.156,
+    "share_fast": -0.006,
+    "share_medium": 0.612,
+    "share_slow": -0.359,
+    "avg_speed_kmh": 0.082,
+    "top_speed_kmh": -0.023,
+    "full_throttle_pct": 0.069,
+    "braking_pct": 0.403,
+    "gear_changes_per_km": -0.16,
+    "race_deg": 0.333,
+    "race_track_temp": 0.016,
+    "sc_rate": -0.309,
+    "overtakes_per_lap": 0.229,
+    "pit_loss_s": 0.112
+   }
+  }
+ },
+ "eras": {
+  "current_era": 2026,
+  "current_era_name": "2026 rules",
+  "factors": {
+   "overtakes_per_lap": {
+    "metric": "per_lap",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 1.1507148505484273,
+    "lo": 0.9941674369632136,
+    "hi": 1.325630516196214,
+    "circuits": 15
+   },
+   "pit_loss_s": {
+    "metric": "pit_loss_s",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 1.0717014269408676,
+    "lo": 1.020815405125614,
+    "hi": 1.1270399078402153,
+    "circuits": 16
+   },
+   "sc_rate": {
+    "metric": "sc_rate",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 1.3895966210419697,
+    "lo": 0.8434326653017492,
+    "hi": 2.4068519496707266,
+    "circuits": 6
+   },
+   "avg_speed_kmh": {
+    "metric": "avg_speed_kmh",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 0.9809989256090703,
+    "lo": 0.9719562869820615,
+    "hi": 0.9893502810556117,
+    "circuits": 16
+   },
+   "race_deg": {
+    "metric": "race_deg",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 0.9412156100399622,
+    "lo": 0.7264150201676317,
+    "hi": 1.2219899284840758,
+    "circuits": 13
+   },
+   "race_deg_soft": {
+    "metric": "race_deg_soft",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 0.7732912862408764,
+    "lo": 0.47054333965208817,
+    "hi": 1.2446482725948647,
+    "circuits": 10
+   },
+   "race_deg_medium": {
+    "metric": "race_deg_medium",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 0.851023184411997,
+    "lo": 0.6447506883208542,
+    "hi": 1.1229551985834658,
+    "circuits": 13
+   },
+   "race_deg_hard": {
+    "metric": "race_deg_hard",
+    "new_era": 2026,
+    "old_era": 2022,
+    "factor": 0.87741497213391,
+    "lo": 0.6416082168309929,
+    "hi": 1.1874397221734188,
+    "circuits": 10
+   }
+  },
+  "profile_model": {
+   "coef_per_sd": {
+    "share_straight": 0.03,
+    "share_slow": -0.015,
+    "share_medium": 0.011,
+    "share_fast": -0.083,
+    "top_speed_kmh": 0.209,
+    "braking_pct": -0.035
+   },
+   "era_terms": {
+    "2022": 1.115,
+    "2026": 1.324
+   }
+  },
+  "validation": {
+   "model": {
+    "mae_per_lap": 0.182,
+    "n": 17
+   },
+   "last_visit": {
+    "mae_per_lap": 0.271,
+    "n": 15
+   },
+   "previous_era_only": {
+    "mae_per_lap": 0.175,
+    "n": 15
+   }
+  }
+ },
+ "strategy": {
+  "n": 49,
+  "exact_model": 0.531,
+  "mae_model": 0.592,
+  "exact_last_visit": 0.455,
+  "mae_last_visit": 0.602
+ },
+ "dna_projection": {
+  "proj_gap": {
+   "mae_pct": 0.473,
+   "rank_spearman": 0.78,
+   "n": 587
+  },
+  "blend_gap": {
+   "mae_pct": 0.443,
+   "rank_spearman": 0.786,
+   "n": 587
+  },
+  "season_avg_gap": {
+   "mae_pct": 0.432,
+   "rank_spearman": 0.788,
+   "n": 587
+  },
+  "last_gap": {
+   "mae_pct": 0.563,
+   "rank_spearman": 0.733,
+   "n": 587
+  }
+ },
+ "affinity": {
+  "holdout": {
+   "factor_model": 0.1764,
+   "usual_level (0)": 0.1615,
+   "cells": 1156,
+   "rank": 2
+  },
+  "temporal": {
+   "same circuit": {
+    "mae_model": 0.4647,
+    "mae_usual_level": 0.4627,
+    "correlation": 0.061,
+    "visits": 3610
+   },
+   "same circuit type": {
+    "mae_model": 0.4627,
+    "mae_usual_level": 0.4663,
+    "correlation": 0.113,
+    "visits": 4241
+   }
+  },
+  "drivers": 43,
+  "circuits": 33
+ },
+ "race_pace_model": {
+  "gbm": {
+   "mae_pct": 0.456,
+   "spearman": 0.809
+  },
+  "quali_gap_baseline": {
+   "mae_pct": 0.491,
+   "spearman": 0.801
+  },
+  "races": 65,
+  "shap_mean_abs": {
+   "fp_longrun_gap": 0.05417096367933273,
+   "is_sprint": 0.019098833040646513,
+   "quali_gap_pct": 0.29419016345680743,
+   "race_track_temp": 0.041364089554842054,
+   "share_fast": 0.039748293635600576,
+   "share_slow": 0.056844425875839426,
+   "share_straight": 0.05316939553224642,
+   "team_deg_prior": 0.034975372929329805,
+   "team_racepace_prior": 0.3997902858663832,
+   "team_rmq_prior": 0.017892849599182057
+  }
+ }
+}

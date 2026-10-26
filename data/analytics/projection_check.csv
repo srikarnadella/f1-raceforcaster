@@ -1,0 +1,588 @@
+season,round,circuit_id,constructor_id,team_name,team_colour,actual,proj_gap,blend_gap,season_avg_gap,last_gap
+2024,1,bahrain,alpine,Alpine,#ff87bc,1.826,1.513,1.538,1.563,0.7586
+2024,1,bahrain,aston_martin,Aston Martin,#229971,0.4228,0.8597,0.866,0.8722,0.7658
+2024,1,bahrain,ferrari,Ferrari,#e8002d,0,0.1192,0.1482,0.1773,0.1666
+2024,1,bahrain,haas,Haas F1 Team,#b6babd,0.7694,1.692,1.78,1.869,0.7945
+2024,1,bahrain,mclaren,McLaren,#ff8000,0.5036,0.6596,0.6238,0.588,0.4039
+2024,1,bahrain,mercedes,Mercedes,#27f4d2,0.3589,0.3061,0.3343,0.3626,0.411
+2024,1,bahrain,red_bull,Red Bull Racing,#3671c6,0.0157,0,0,0,0
+2024,1,bahrain,williams,Williams,#64c4ff,1.184,1.529,1.552,1.574,1.022
+2024,2,jeddah,alpine,Alpine,#ff87bc,2.29,1.344,1.469,1.594,1.826
+2024,2,jeddah,aston_martin,Aston Martin,#229971,0.4276,0.8337,0.8227,0.8117,0.4228
+2024,2,jeddah,ferrari,Ferrari,#e8002d,0.3647,0.1581,0.1552,0.1523,0
+2024,2,jeddah,haas,Haas F1 Team,#b6babd,1.77,1.549,1.636,1.724,0.7694
+2024,2,jeddah,mclaren,McLaren,#ff8000,0.7054,0.5099,0.5423,0.5747,0.5036
+2024,2,jeddah,mercedes,Mercedes,#27f4d2,0.9649,0.1103,0.235,0.3598,0.3589
+2024,2,jeddah,red_bull,Red Bull Racing,#3671c6,0,0,0,0,0.0157
+2024,2,jeddah,williams,Williams,#64c4ff,1.724,1.198,1.359,1.521,1.184
+2024,3,albert_park,alpine,Alpine,#0093cc,2.242,1.518,1.599,1.681,2.29
+2024,3,albert_park,aston_martin,Aston Martin,#229971,1.047,0.8517,0.8065,0.7613,0.4276
+2024,3,albert_park,ferrari,Ferrari,#E80020,0.3557,0.2197,0.1995,0.1793,0.3647
+2024,3,albert_park,haas,Haas F1 Team,#B6BABD,1.992,1.691,1.709,1.727,1.77
+2024,3,albert_park,mclaren,McLaren,#FF8000,0.5269,0.6885,0.6395,0.5906,0.7054
+2024,3,albert_park,mercedes,Mercedes,#27F4D2,1.066,0.371,0.4039,0.4368,0.9649
+2024,3,albert_park,red_bull,Red Bull Racing,#3671C6,0,0,0,0,0
+2024,3,albert_park,williams,Williams,#64C4FF,1.6,1.337,1.441,1.545,1.724
+2024,4,suzuka,alpine,Alpine,#0093cc,1.83,1.978,1.864,1.75,2.242
+2024,4,suzuka,aston_martin,Aston Martin,#229971,0.5544,0.721,0.7589,0.7969,1.047
+2024,4,suzuka,ferrari,Ferrari,#E80020,0.5499,0.2503,0.2259,0.2016,0.3557
+2024,4,suzuka,haas,Haas F1 Team,#B6BABD,1.471,1.76,1.759,1.759,1.992
+2024,4,suzuka,mclaren,McLaren,#FF8000,0.3311,0.5755,0.5786,0.5816,0.5269
+2024,4,suzuka,mercedes,Mercedes,#27F4D2,0.6451,0.3482,0.4324,0.5167,1.066
+2024,4,suzuka,rb,RB,#6692FF,1.379,1.756,1.491,1.226,1.15
+2024,4,suzuka,red_bull,Red Bull Racing,#3671C6,0,0,0,0,0
+2024,4,suzuka,sauber,Kick Sauber,#52e252,1.583,2.095,2.012,1.929,1.877
+2024,4,suzuka,williams,Williams,#64C4FF,1.72,1.715,1.632,1.55,1.6
+2024,6,miami,alpine,Alpine,#0093cc,0.8425,1.76,1.753,1.745,1.669
+2024,6,miami,aston_martin,Aston Martin,#229971,1.124,0.7199,0.7262,0.7326,0.521
+2024,6,miami,ferrari,Ferrari,#E80020,0.1616,0.3695,0.3349,0.3003,0.6716
+2024,6,miami,haas,Haas F1 Team,#B6BABD,1.037,1.523,1.575,1.626,1.008
+2024,6,miami,mclaren,McLaren,#FF8000,0.4046,0.6105,0.5787,0.5469,0.5392
+2024,6,miami,mercedes,Mercedes,#27F4D2,0.5227,0.5141,0.5417,0.5694,0.8253
+2024,6,miami,rb,RB,#6692FF,1.061,1.501,1.379,1.257,1.36
+2024,6,miami,red_bull,Red Bull Racing,#3671C6,0,0,0,0,0
+2024,6,miami,sauber,Kick Sauber,#52e252,1.401,1.989,1.882,1.776,1.073
+2024,6,miami,williams,Williams,#64C4FF,1.263,1.56,1.571,1.583,1.688
+2024,8,monaco,alpine,Alpine,#0093cc,0.8908,1.77,1.693,1.615,1.552
+2024,8,monaco,aston_martin,Aston Martin,#229971,1.84,0.8131,0.8538,0.8945,1.667
+2024,8,monaco,ferrari,Ferrari,#E80020,0,0.1174,0.2007,0.2841,0.2997
+2024,8,monaco,haas,Haas F1 Team,#B6BABD,1.665,1.399,1.444,1.489,1.101
+2024,8,monaco,mclaren,McLaren,#FF8000,0.2192,0.4557,0.464,0.4723,0.099
+2024,8,monaco,mercedes,Mercedes,#27F4D2,0.3885,0.644,0.6088,0.5736,0.6529
+2024,8,monaco,rb,RB,#6692FF,0.8368,1.411,1.294,1.176,0.8188
+2024,8,monaco,red_bull,Red Bull Racing,#3671C6,0.4227,0,0,0,0
+2024,8,monaco,sauber,Kick Sauber,#52e252,3.191,2.169,1.997,1.825,2.515
+2024,8,monaco,williams,Williams,#64C4FF,0.9648,1.682,1.636,1.59,1.945
+2024,9,villeneuve,alpine,Alpine,#0093CC,1.67,1.453,1.46,1.466,0.8908
+2024,9,villeneuve,aston_martin,Aston Martin,#229971,0.6774,0.9623,0.9614,0.9606,1.84
+2024,9,villeneuve,ferrari,Ferrari,#E80020,1.323,0.08091,0.137,0.193,0
+2024,9,villeneuve,haas,Haas F1 Team,#B6BABD,1.636,1.121,1.288,1.456,1.665
+2024,9,villeneuve,mclaren,McLaren,#FF8000,0.3889,0.4694,0.4272,0.3851,0.2192
+2024,9,villeneuve,mercedes,Mercedes,#27F4D2,0,0.5292,0.5121,0.495,0.3885
+2024,9,villeneuve,rb,RB,#6692FF,0.6077,1.133,1.105,1.077,0.8368
+2024,9,villeneuve,red_bull,Red Bull Racing,#3671C6,0.3596,0,0,0,0.4227
+2024,9,villeneuve,sauber,Kick Sauber,#52e252,2.264,1.98,1.962,1.944,3.191
+2024,9,villeneuve,williams,Williams,#64C4FF,1.036,1.343,1.398,1.454,0.9648
+2024,10,catalunya,alpine,Alpine,#0093cc,0.664,1.743,1.594,1.445,1.67
+2024,10,catalunya,aston_martin,Aston Martin,#229971,1.044,1.411,1.144,0.877,0.6774
+2024,10,catalunya,ferrari,Ferrari,#E80020,0.4875,0.4848,0.3883,0.2917,1.323
+2024,10,catalunya,haas,Haas F1 Team,#B6BABD,1.299,1.634,1.533,1.431,1.636
+2024,10,catalunya,mclaren,McLaren,#FF8000,0,0.4919,0.4154,0.339,0.3889
+2024,10,catalunya,mercedes,Mercedes,#27F4D2,0.4455,0.3541,0.3694,0.3847,0
+2024,10,catalunya,rb,RB,#6692FF,2.244,1.459,1.214,0.9695,0.6077
+2024,10,catalunya,red_bull,Red Bull Racing,#3671C6,0.02802,0,0,0,0.3596
+2024,10,catalunya,sauber,Kick Sauber,#52e252,1.182,2.091,2.014,1.937,2.264
+2024,10,catalunya,williams,Williams,#64C4FF,2.48,1.682,1.517,1.352,1.036
+2024,11,red_bull_ring,alpine,Alpine,#0093cc,1.493,1.515,1.427,1.339,0.664
+2024,11,red_bull_ring,aston_martin,Aston Martin,#229971,2.06,1.39,1.142,0.8939,1.044
+2024,11,red_bull_ring,ferrari,Ferrari,#E80020,0.835,0.5478,0.4304,0.3129,0.4875
+2024,11,red_bull_ring,haas,Haas F1 Team,#B6BABD,1.474,1.499,1.454,1.409,1.299
+2024,11,red_bull_ring,mclaren,McLaren,#FF8000,0.6282,0.5049,0.3982,0.2915,0
+2024,11,red_bull_ring,mercedes,Mercedes,#27F4D2,0.8179,0.3311,0.3598,0.3885,0.4455
+2024,11,red_bull_ring,rb,RB,#6692FF,1.516,1.516,1.322,1.128,2.244
+2024,11,red_bull_ring,red_bull,Red Bull Racing,#3671C6,0,0,0,0,0.02802
+2024,11,red_bull_ring,sauber,Kick Sauber,#52e252,2.384,1.93,1.882,1.834,1.182
+2024,11,red_bull_ring,williams,Williams,#64C4FF,2.211,1.706,1.599,1.492,2.48
+2024,12,silverstone,alpine,Alpine,#0093cc,10.18,1.441,1.398,1.356,1.493
+2024,12,silverstone,aston_martin,Aston Martin,#229971,0.8926,1.401,1.221,1.041,2.06
+2024,12,silverstone,ferrari,Ferrari,#E80020,0.804,0.5788,0.4788,0.3789,0.835
+2024,12,silverstone,haas,Haas F1 Team,#B6BABD,0.6048,1.378,1.396,1.415,1.474
+2024,12,silverstone,mclaren,McLaren,#FF8000,0.2459,0.5543,0.4441,0.3339,0.6282
+2024,12,silverstone,mercedes,Mercedes,#27F4D2,0,0.4322,0.4374,0.4425,0.8179
+2024,12,silverstone,rb,RB,#6692FF,1.69,1.453,1.314,1.176,1.516
+2024,12,silverstone,red_bull,Red Bull Racing,#3671C6,0.4475,0,0,0,0
+2024,12,silverstone,sauber,Kick Sauber,#52e252,2.386,1.973,1.937,1.901,2.384
+2024,12,silverstone,williams,Williams,#64C4FF,0.9567,1.719,1.65,1.581,2.211
+2024,13,hungaroring,alpine,Alpine,#0093cc,3.751,2.835,2.633,2.43,10.18
+2024,13,hungaroring,aston_martin,Aston Martin,#229971,1.085,1.144,1.054,0.9633,0.8926
+2024,13,hungaroring,ferrari,Ferrari,#E80020,0.6234,0.6507,0.5131,0.3756,0.804
+2024,13,hungaroring,haas,Haas F1 Team,#B6BABD,1.449,1.495,1.373,1.252,0.6048
+2024,13,hungaroring,mclaren,McLaren,#FF8000,0,0.416,0.3404,0.2648,0.2459
+2024,13,hungaroring,mercedes,Mercedes,#27F4D2,0.8335,0.8703,0.5991,0.3278,0
+2024,13,hungaroring,rb,RB,#6692FF,1.188,1.633,1.408,1.183,1.69
+2024,13,hungaroring,red_bull,Red Bull Racing,#3671C6,0.06115,0,0,0,0.4475
+2024,13,hungaroring,sauber,Kick Sauber,#52e252,1.538,2.372,2.138,1.904,2.386
+2024,13,hungaroring,williams,Williams,#64C4FF,1.598,1.981,1.711,1.442,0.9567
+2024,14,spa,alpine,Alpine,#0093cc,1.15,2.805,2.696,2.588,3.751
+2024,14,spa,aston_martin,Aston Martin,#229971,0.9712,1.295,1.132,0.9696,1.085
+2024,14,spa,ferrari,Ferrari,#E80020,0.5258,0.6876,0.5433,0.399,0.6234
+2024,14,spa,haas,Haas F1 Team,#B6BABD,2.783,1.301,1.284,1.267,1.449
+2024,14,spa,mclaren,McLaren,#FF8000,0.7264,0.3124,0.2676,0.2227,0
+2024,14,spa,mercedes,Mercedes,#27F4D2,0.5974,0.5971,0.4907,0.3842,0.8335
+2024,14,spa,rb,RB,#6692FF,1.346,1.532,1.353,1.174,1.188
+2024,14,spa,red_bull,Red Bull Racing,#3671C6,0,0,0,0,0.06115
+2024,14,spa,sauber,Kick Sauber,#52e252,1.418,2.022,1.934,1.846,1.538
+2024,14,spa,williams,Williams,#64C4FF,1.161,1.665,1.558,1.452,1.598
+2024,15,zandvoort,alpine,Alpine,#0093cc,1.639,2.644,2.522,2.4,1.15
+2024,15,zandvoort,aston_martin,Aston Martin,#229971,1.378,1.161,1.065,0.9685,0.9712
+2024,15,zandvoort,ferrari,Ferrari,#E80020,1.305,0.6117,0.5132,0.4147,0.5258
+2024,15,zandvoort,haas,Haas F1 Team,#B6BABD,2.213,1.541,1.5,1.46,2.783
+2024,15,zandvoort,mclaren,McLaren,#FF8000,0,0.4227,0.3548,0.2869,0.7264
+2024,15,zandvoort,mercedes,Mercedes,#27F4D2,0.8195,0.7544,0.5827,0.411,0.5974
+2024,15,zandvoort,rb,RB,#6692FF,1.84,1.556,1.375,1.195,1.346
+2024,15,zandvoort,red_bull,Red Bull Racing,#3671C6,0.511,0,0,0,0
+2024,15,zandvoort,sauber,Kick Sauber,#52e252,3.581,2.072,1.93,1.789,1.418
+2024,15,zandvoort,williams,Williams,#64C4FF,1.407,1.678,1.545,1.412,1.161
+2024,16,monza,alpine,Alpine,#0093cc,1.779,2.062,2.148,2.234,1.639
+2024,16,monza,aston_martin,Aston Martin,#229971,1.379,1.303,1.128,0.9538,1.378
+2024,16,monza,ferrari,Ferrari,#E80020,0.1689,0.643,0.5526,0.4623,1.305
+2024,16,monza,haas,Haas F1 Team,#B6BABD,1.276,1.102,1.295,1.488,2.213
+2024,16,monza,mclaren,McLaren,#FF8000,0,0.2184,0.2015,0.1845,0
+2024,16,monza,mercedes,Mercedes,#27F4D2,0.1424,0.3164,0.3568,0.3972,0.8195
+2024,16,monza,rb,RB,#6692FF,1.452,1.407,1.308,1.21,1.84
+2024,16,monza,red_bull,Red Bull Racing,#3671C6,0.4223,0,0,0,0.511
+2024,16,monza,sauber,Kick Sauber,#52e252,2.236,1.813,1.881,1.949,3.581
+2024,16,monza,williams,Williams,#64C4FF,1.225,1.203,1.274,1.344,1.407
+2024,17,baku,alpine,Alpine,#0093cc,1.7,2.091,2.104,2.118,1.779
+2024,17,baku,aston_martin,Aston Martin,#229971,0.9905,1.014,0.9835,0.9527,1.379
+2024,17,baku,ferrari,Ferrari,#E80020,0,0.4459,0.408,0.3701,0.1689
+2024,17,baku,haas,Haas F1 Team,#B6BABD,1.581,1.179,1.292,1.405,1.276
+2024,17,baku,mclaren,McLaren,#FF8000,0.3167,0.2382,0.1725,0.1067,0
+2024,17,baku,mercedes,Mercedes,#27F4D2,0.5021,0.5475,0.4287,0.31,0.1424
+2024,17,baku,rb,RB,#6692FF,1.648,1.343,1.264,1.185,1.452
+2024,17,baku,red_bull,Red Bull Racing,#3671C6,0.442,0,0,0,0.4223
+2024,17,baku,sauber,Kick Sauber,#52e252,2.223,1.868,1.898,1.929,2.236
+2024,17,baku,williams,Williams,#64C4FF,1.093,1.181,1.227,1.273,1.225
+2024,18,marina_bay,alpine,Alpine,#0093cc,1.39,2.386,2.196,2.005,1.7
+2024,18,marina_bay,aston_martin,Aston Martin,#229971,0.7696,0.9603,0.9299,0.8996,0.9905
+2024,18,marina_bay,ferrari,Ferrari,#E80020,0.248,0.4322,0.3489,0.2656,0
+2024,18,marina_bay,haas,Haas F1 Team,#B6BABD,0.659,1.707,1.538,1.369,1.581
+2024,18,marina_bay,mclaren,McLaren,#FF8000,0,0.2358,0.1563,0.0768,0.3167
+2024,18,marina_bay,mercedes,Mercedes,#27F4D2,0.353,0.8325,0.555,0.2776,0.5021
+2024,18,marina_bay,rb,RB,#6692FF,0.8534,1.629,1.407,1.186,1.648
+2024,18,marina_bay,red_bull,Red Bull Racing,#3671C6,0.1731,0,0,0,0.442
+2024,18,marina_bay,sauber,Kick Sauber,#52e252,2.287,2.29,2.099,1.907,2.223
+2024,18,marina_bay,williams,Williams,#64C4FF,1.06,1.586,1.389,1.191,1.093
+2024,19,americas,alpine,Alpine,#0093cc,0.7452,2.166,2.034,1.902,1.39
+2024,19,americas,aston_martin,Aston Martin,#229971,1.06,1.009,0.9344,0.8598,0.7696
+2024,19,americas,ferrari,Ferrari,#E80020,0.3487,0.4119,0.3264,0.2408,0.248
+2024,19,americas,haas,Haas F1 Team,#B6BABD,1.239,1.412,1.333,1.254,0.659
+2024,19,americas,mclaren,McLaren,#FF8000,0,0.282,0.1633,0.0446,0
+2024,19,americas,mercedes,Mercedes,#27F4D2,0.6975,0.6188,0.4418,0.2648,0.353
+2024,19,americas,rb,RB,#6692FF,1.093,1.566,1.343,1.12,0.8534
+2024,19,americas,red_bull,Red Bull Racing,#3671C6,0.03358,0,0,0,0.1731
+2024,19,americas,sauber,Kick Sauber,#52e252,1.973,2.233,2.083,1.932,2.287
+2024,19,americas,williams,Williams,#64C4FF,1.864,1.438,1.294,1.151,1.06
+2024,20,rodriguez,alpine,Alpine,#0093cc,1.246,2.076,1.912,1.747,0.7452
+2024,20,rodriguez,aston_martin,Aston Martin,#229971,1.609,0.9731,0.9267,0.8803,1.06
+2024,20,rodriguez,ferrari,Ferrari,#E80020,0,0.4438,0.3469,0.2501,0.3487
+2024,20,rodriguez,haas,Haas F1 Team,#B6BABD,1.238,1.652,1.449,1.246,1.239
+2024,20,rodriguez,mclaren,McLaren,#FF8000,0.4135,0.6963,0.3654,0.03452,0
+2024,20,rodriguez,mercedes,Mercedes,#27F4D2,0.5399,0.8874,0.6015,0.3157,0.6975
+2024,20,rodriguez,rb,RB,#6692FF,1.558,1.629,1.37,1.111,1.093
+2024,20,rodriguez,red_bull,Red Bull Racing,#3671C6,0.2963,0,0,0,0.03358
+2024,20,rodriguez,sauber,Kick Sauber,#52e252,1.905,2.443,2.187,1.931,1.973
+2024,20,rodriguez,williams,Williams,#64C4FF,1.372,1.833,1.535,1.237,1.864
+2024,21,interlagos,alpine,Alpine,#0093cc,1.283,1.632,1.637,1.642,1.246
+2024,21,interlagos,aston_martin,Aston Martin,#229971,1.954,0.9188,0.9265,0.9342,1.609
+2024,21,interlagos,ferrari,Ferrari,#E80020,1.343,0.168,0.1739,0.1798,0
+2024,21,interlagos,haas,Haas F1 Team,#B6BABD,9.381,1.08,1.143,1.205,1.238
+2024,21,interlagos,mclaren,McLaren,#FF8000,0,0.1795,0.1122,0.04504,0.4135
+2024,21,interlagos,mercedes,Mercedes,#27F4D2,0.2074,0.5212,0.4136,0.306,0.5399
+2024,21,interlagos,rb,RB,#6692FF,0.8465,1.369,1.248,1.128,1.558
+2024,21,interlagos,red_bull,Red Bull Racing,#3671C6,5.235,0,0,0,0.2963
+2024,21,interlagos,sauber,Kick Sauber,#52e252,3.677,1.904,1.895,1.887,1.905
+2024,21,interlagos,williams,Williams,#64C4FF,1.596,1.277,1.246,1.214,1.372
+2024,22,vegas,alpine,Alpine,#0093cc,0.3813,1.375,1.465,1.554,1.283
+2024,22,vegas,aston_martin,Aston Martin,#229971,2.108,0.9879,1.006,1.023,1.954
+2024,22,vegas,ferrari,Ferrari,#E80020,0.1062,0.1975,0.2431,0.2886,1.343
+2024,22,vegas,haas,Haas F1 Team,#B6BABD,0.8125,1.526,1.866,2.207,9.381
+2024,22,vegas,mclaren,McLaren,#FF8000,0.754,0,0,0,0
+2024,22,vegas,mercedes,Mercedes,#27F4D2,0,0.3044,0.279,0.2536,0.2074
+2024,22,vegas,rb,RB,#6692FF,0.7767,1.044,1.048,1.051,0.8465
+2024,22,vegas,red_bull,Red Bull Racing,#3671C6,0.5254,0.5782,0.6034,0.6286,5.235
+2024,22,vegas,sauber,Kick Sauber,#52e252,1.358,1.853,1.962,2.072,3.677
+2024,22,vegas,williams,Williams,#64C4FF,1.553,0.9079,1.065,1.222,1.596
+2024,23,losail,alpine,Alpine,#0093cc,1.139,1.769,1.537,1.305,0.3813
+2024,23,losail,aston_martin,Aston Martin,#229971,0.8544,1.261,1.163,1.065,2.108
+2024,23,losail,ferrari,Ferrari,#E80020,0.4123,0.5521,0.3601,0.1681,0.1062
+2024,23,losail,haas,Haas F1 Team,#B6BABD,1.077,2.301,2.115,1.929,0.8125
+2024,23,losail,mclaren,McLaren,#FF8000,0.313,0,0,0,0.754
+2024,23,losail,mercedes,Mercedes,#27F4D2,0.06831,0.4284,0.2762,0.1239,0
+2024,23,losail,rb,RB,#6692FF,1.554,1.52,1.219,0.9178,0.7767
+2024,23,losail,red_bull,Red Bull Racing,#3671C6,0,0.5752,0.5465,0.5179,0.5254
+2024,23,losail,sauber,Kick Sauber,#52e252,1.218,2.466,2.174,1.882,1.358
+2024,23,losail,williams,Williams,#64C4FF,2.322,1.725,1.446,1.166,1.553
+2024,24,yas_marina,alpine,Alpine,#0093cc,0.471,1.152,1.197,1.242,1.139
+2024,24,yas_marina,aston_martin,Aston Martin,#229971,0.7276,0.9255,0.961,0.9964,0.8544
+2024,24,yas_marina,ferrari,Ferrari,#E80020,0.2773,0.06892,0.114,0.159,0.4123
+2024,24,yas_marina,haas,Haas F1 Team,#B6BABD,0.3523,1.304,1.541,1.777,1.077
+2024,24,yas_marina,mclaren,McLaren,#FF8000,0,0,0,0,0.313
+2024,24,yas_marina,mercedes,Mercedes,#27F4D2,0.6502,0.1083,0.09239,0.07651,0.06831
+2024,24,yas_marina,rb,RB,#6692FF,0.9976,0.8807,0.9194,0.9581,1.554
+2024,24,yas_marina,red_bull,Red Bull Racing,#3671C6,0.4238,0.3204,0.3655,0.4107,0
+2024,24,yas_marina,sauber,Kick Sauber,#52e252,0.7373,1.633,1.694,1.754,1.218
+2024,24,yas_marina,williams,Williams,#64C4FF,1.484,1.123,1.198,1.273,2.322
+2025,1,albert_park,alpine,Alpine,#0093CC,1.177,1.236,1.189,1.142,0.471
+2025,1,albert_park,aston_martin,Aston Martin,#229971,1.587,1.135,1.048,0.9611,0.7276
+2025,1,albert_park,ferrari,Ferrari,#E80020,0.8775,0.3016,0.2379,0.1741,0.2773
+2025,1,albert_park,haas,Haas F1 Team,#B6BABD,2.731,1.34,1.466,1.592,0.3523
+2025,1,albert_park,mclaren,McLaren,#FF8000,0,0,0,0,0
+2025,1,albert_park,mercedes,Mercedes,#27F4D2,0.5992,0.3074,0.2288,0.1503,0.6502
+2025,1,albert_park,rb,Racing Bulls,#6692FF,0.7644,1.083,1.023,0.9625,0.9976
+2025,1,albert_park,red_bull,Red Bull Racing,#3671C6,0.5127,0.5917,0.5019,0.4121,0.4238
+2025,1,albert_park,sauber,Kick Sauber,#52E252,1.891,1.645,1.633,1.622,0.7373
+2025,1,albert_park,williams,Williams,#64C4FF,0.8536,1.236,1.268,1.299,1.484
+2025,2,shanghai,alpine,Alpine,#0093CC,1.49,1.031,1.04,1.145,1.177
+2025,2,shanghai,aston_martin,Aston Martin,#229971,1.155,0.8761,0.9097,1.04,1.587
+2025,2,shanghai,ferrari,Ferrari,#E80020,0.3155,0,0.08356,0.2642,0.8775
+2025,2,shanghai,haas,Haas F1 Team,#B6BABD,1.086,1.261,1.45,1.737,2.731
+2025,2,shanghai,mclaren,McLaren,#FF8000,0,0.09711,0,0,0
+2025,2,shanghai,mercedes,Mercedes,#27F4D2,0.09047,0.1854,0.148,0.2077,0.5992
+2025,2,shanghai,rb,Racing Bulls,#6692FF,0.4832,0.7676,0.8032,0.936,0.7644
+2025,2,shanghai,red_bull,Red Bull Racing,#3671C6,0.1942,0.05462,0.191,0.4245,0.5127
+2025,2,shanghai,sauber,Kick Sauber,#52E252,1.093,1.584,1.571,1.655,1.891
+2025,2,shanghai,williams,Williams,#64C4FF,0.951,1.109,1.126,1.24,0.8536
+2025,3,suzuka,alpine,Alpine,#0093CC,0.9646,1.354,1.271,1.188,1.49
+2025,3,suzuka,aston_martin,Aston Martin,#229971,1.051,1.099,1.077,1.054,1.155
+2025,3,suzuka,ferrari,Ferrari,#E80020,0.3633,0.4041,0.3373,0.2706,0.3155
+2025,3,suzuka,haas,Haas F1 Team,#B6BABD,0.8369,1.663,1.657,1.651,1.086
+2025,3,suzuka,mclaren,McLaren,#FF8000,0.0138,0,0,0,0
+2025,3,suzuka,mercedes,Mercedes,#27F4D2,0.3851,0.2915,0.242,0.1925,0.09047
+2025,3,suzuka,rb,Racing Bulls,#6692FF,0.6737,1.163,1.02,0.8769,0.4832
+2025,3,suzuka,red_bull,Red Bull Racing,#3671C6,0,0.3715,0.383,0.3945,0.1942
+2025,3,suzuka,sauber,Kick Sauber,#52E252,1.824,1.758,1.669,1.581,1.093
+2025,3,suzuka,williams,Williams,#64C4FF,0.7266,1.419,1.31,1.202,0.951
+2025,4,bahrain,alpine,Alpine,#0093CC,0.4174,1.11,1.089,1.157,0.9646
+2025,4,bahrain,aston_martin,Aston Martin,#229971,1.996,0.961,0.9616,1.051,1.051
+2025,4,bahrain,ferrari,Ferrari,#E80020,0.3718,0,0.09584,0.2805,0.3633
+2025,4,bahrain,haas,Haas F1 Team,#B6BABD,1.951,1.363,1.409,1.543,0.8369
+2025,4,bahrain,mclaren,McLaren,#FF8000,0,0.0888,0,0,0.0138
+2025,4,bahrain,mercedes,Mercedes,#27F4D2,0.187,0.156,0.1412,0.2153,0.3851
+2025,4,bahrain,rb,Racing Bulls,#6692FF,1.592,0.9349,0.8472,0.8482,0.6737
+2025,4,bahrain,red_bull,Red Bull Racing,#3671C6,0.6478,0.2922,0.2726,0.3417,0
+2025,4,bahrain,sauber,Kick Sauber,#52E252,2.061,1.602,1.561,1.609,1.824
+2025,4,bahrain,williams,Williams,#64C4FF,0.9339,1.121,1.085,1.138,0.7266
+2025,5,jeddah,alpine,Alpine,#0093CC,0.8374,1.147,1.104,1.061,0.4174
+2025,5,jeddah,aston_martin,Aston Martin,#229971,1.156,1.273,1.222,1.171,1.996
+2025,5,jeddah,ferrari,Ferrari,#E80020,0.4307,0.5711,0.4315,0.2919,0.3718
+2025,5,jeddah,haas,Haas F1 Team,#B6BABD,1.423,1.574,1.584,1.594,1.951
+2025,5,jeddah,mclaren,McLaren,#FF8000,0.01146,0,0,0,0
+2025,5,jeddah,mercedes,Mercedes,#27F4D2,0.1294,0.3125,0.262,0.2114,0.187
+2025,5,jeddah,rb,Racing Bulls,#6692FF,1.028,1.073,1.008,0.9429,1.592
+2025,5,jeddah,red_bull,Red Bull Racing,#3671C6,0,0.4995,0.4401,0.3807,0.6478
+2025,5,jeddah,sauber,Kick Sauber,#52E252,1.705,1.708,1.687,1.666,2.061
+2025,5,jeddah,williams,Williams,#64C4FF,0.8363,1.249,1.18,1.111,0.9339
+2025,6,miami,alpine,Alpine,#0093CC,1.139,0.9706,0.9479,1.029,0.8374
+2025,6,miami,aston_martin,Aston Martin,#229971,1.624,1.022,1.042,1.167,1.156
+2025,6,miami,ferrari,Ferrari,#E80020,0.638,0.2597,0.2317,0.308,0.4307
+2025,6,miami,haas,Haas F1 Team,#B6BABD,0.7192,1.371,1.418,1.569,1.423
+2025,6,miami,mclaren,McLaren,#FF8000,0.0754,0.1042,0,0,0.01146
+2025,6,miami,mercedes,Mercedes,#27F4D2,0.07772,0,0.04753,0.1992,0.1294
+2025,6,miami,rb,Racing Bulls,#6692FF,0.9083,0.6746,0.7609,0.9512,1.028
+2025,6,miami,red_bull,Red Bull Racing,#3671C6,0,0.2621,0.2439,0.3299,0
+2025,6,miami,sauber,Kick Sauber,#52E252,1.099,1.438,1.501,1.667,1.705
+2025,6,miami,williams,Williams,#64C4FF,0.4234,0.8251,0.8969,1.073,0.8363
+2025,7,imola,alpine,Alpine,#0093CC,1.118,0.9482,0.9905,1.033,1.139
+2025,7,imola,aston_martin,Aston Martin,#229971,1.019,1.097,1.156,1.215,1.624
+2025,7,imola,ferrari,Ferrari,#E80020,1.251,0.3599,0.3501,0.3404,0.638
+2025,7,imola,haas,Haas F1 Team,#B6BABD,1.884,1.336,1.392,1.449,0.7192
+2025,7,imola,mclaren,McLaren,#FF8000,0,0,0,0,0.0754
+2025,7,imola,mercedes,Mercedes,#27F4D2,0.1835,0.09379,0.1338,0.1737,0.07772
+2025,7,imola,rb,Racing Bulls,#6692FF,1.125,0.8414,0.8883,0.9352,0.9083
+2025,7,imola,red_bull,Red Bull Racing,#3671C6,0.04553,0.2898,0.2836,0.2775,0
+2025,7,imola,sauber,Kick Sauber,#52E252,2.129,1.498,1.541,1.583,1.099
+2025,7,imola,williams,Williams,#64C4FF,0.7071,0.8937,0.9362,0.9787,0.4234
+2025,8,monaco,alpine,Alpine,#00A1E8,2.916,1.273,1.06,1.042,1.118
+2025,8,monaco,aston_martin,Aston Martin,#229971,1.387,1.225,1.109,1.188,1.019
+2025,8,monaco,ferrari,Ferrari,#ED1131,0.1558,0.3661,0.3138,0.4566,1.251
+2025,8,monaco,haas,Haas F1 Team,#9C9FA2,1.412,1.712,1.509,1.503,1.884
+2025,8,monaco,mclaren,McLaren,#F47600,0,0.2933,0.04909,0,0
+2025,8,monaco,mercedes,Mercedes,#00D7B6,2.753,0.02039,0,0.1747,0.1835
+2025,8,monaco,rb,Racing Bulls,#6C98FF,1.385,0.5343,0.6487,0.9582,1.125
+2025,8,monaco,red_bull,Red Bull Racing,#4781D7,1.022,0,0.02614,0.2474,0.04553
+2025,8,monaco,sauber,Kick Sauber,#01C00E,2.347,1.8,1.628,1.651,2.129
+2025,8,monaco,williams,Williams,#1868DB,1.112,0.7993,0.7734,0.9426,0.7071
+2025,9,catalunya,alpine,Alpine,#00A1E8,0.9127,1.066,1.173,1.28,2.916
+2025,9,catalunya,aston_martin,Aston Martin,#229971,1.032,1.39,1.301,1.211,1.387
+2025,9,catalunya,ferrari,Ferrari,#ED1131,0.6975,0.4187,0.418,0.4174,0.1558
+2025,9,catalunya,haas,Haas F1 Team,#9C9FA2,2.136,1.404,1.446,1.488,1.412
+2025,9,catalunya,mclaren,McLaren,#F47600,0,0,0,0,0
+2025,9,catalunya,mercedes,Mercedes,#00D7B6,0.4221,0.4285,0.4661,0.5037,2.753
+2025,9,catalunya,rb,Racing Bulls,#6C98FF,0.9868,1.024,1.018,1.011,1.385
+2025,9,catalunya,red_bull,Red Bull Racing,#4781D7,0.4221,0.4489,0.3974,0.3459,1.022
+2025,9,catalunya,sauber,Kick Sauber,#01C00E,1.691,1.855,1.796,1.737,2.347
+2025,9,catalunya,williams,Williams,#1868DB,1.53,1.026,0.9942,0.9626,1.112
+2025,10,villeneuve,alpine,Alpine,#00A1E8,1.753,1.036,1.134,1.231,0.9127
+2025,10,villeneuve,aston_martin,Aston Martin,#229971,0.969,1.215,1.201,1.187,1.032
+2025,10,villeneuve,ferrari,Ferrari,#ED1131,0.8844,0.3316,0.3922,0.4528,0.6975
+2025,10,villeneuve,haas,Haas F1 Team,#9C9FA2,1.985,1.423,1.496,1.57,2.136
+2025,10,villeneuve,mclaren,McLaren,#F47600,0.3117,0,0,0,0
+2025,10,villeneuve,mercedes,Mercedes,#00D7B6,0,0.3037,0.3981,0.4926,0.4221
+2025,10,villeneuve,rb,Racing Bulls,#6C98FF,1.365,0.8052,0.906,1.007,0.9868
+2025,10,villeneuve,red_bull,Red Bull Racing,#4781D7,0.2257,0.3009,0.3281,0.3552,0.4221
+2025,10,villeneuve,sauber,Kick Sauber,#01C00E,1.811,1.682,1.705,1.729,1.691
+2025,10,villeneuve,williams,Williams,#1868DB,1.401,0.9234,0.9788,1.034,1.53
+2025,11,red_bull_ring,alpine,Alpine,#00A1E8,1.368,1.095,1.176,1.256,1.753
+2025,11,red_bull_ring,aston_martin,Aston Martin,#229971,1.809,1.248,1.182,1.117,0.969
+2025,11,red_bull_ring,ferrari,Ferrari,#ED1131,0.8144,0.4142,0.4408,0.4674,0.8844
+2025,11,red_bull_ring,haas,Haas F1 Team,#9C9FA2,1.949,1.489,1.535,1.58,1.985
+2025,11,red_bull_ring,mclaren,McLaren,#F47600,0,0,0,0,0.3117
+2025,11,red_bull_ring,mercedes,Mercedes,#00D7B6,1.238,0.3288,0.3589,0.3889,0
+2025,11,red_bull_ring,rb,Racing Bulls,#6C98FF,1.493,1.041,1.026,1.011,1.365
+2025,11,red_bull_ring,red_bull,Red Bull Racing,#4781D7,1.352,0.3896,0.3439,0.2983,0.2257
+2025,11,red_bull_ring,sauber,Kick Sauber,#01C00E,1.368,1.688,1.692,1.697,1.811
+2025,11,red_bull_ring,williams,Williams,#1868DB,1.832,1.054,1.047,1.04,1.401
+2025,12,silverstone,alpine,Alpine,#00A1E8,0.9648,1.035,1.152,1.268,1.368
+2025,12,silverstone,aston_martin,Aston Martin,#229971,0.8258,1.2,1.202,1.204,1.809
+2025,12,silverstone,ferrari,Ferrari,#ED1131,0.2262,0.4018,0.4564,0.5109,0.8144
+2025,12,silverstone,haas,Haas F1 Team,#9C9FA2,0.682,1.37,1.497,1.625,1.949
+2025,12,silverstone,mclaren,McLaren,#F47600,0.1213,0,0,0,0
+2025,12,silverstone,mercedes,Mercedes,#00D7B6,0.1614,0.3954,0.446,0.4967,1.238
+2025,12,silverstone,rb,Racing Bulls,#6C98FF,1.145,0.9767,1.024,1.071,1.493
+2025,12,silverstone,red_bull,Red Bull Racing,#4781D7,0,0.4326,0.4325,0.4323,1.352
+2025,12,silverstone,sauber,Kick Sauber,#01C00E,1.831,1.522,1.587,1.652,1.368
+2025,12,silverstone,williams,Williams,#1868DB,1.006,0.9948,1.067,1.139,1.832
+2025,13,spa,alpine,Alpine,#00A1E8,1.065,1.017,1.115,1.212,0.9648
+2025,13,spa,aston_martin,Aston Martin,#229971,1.813,1.136,1.137,1.138,0.8258
+2025,13,spa,ferrari,Ferrari,#ED1131,0.3361,0.4227,0.4405,0.4583,0.2262
+2025,13,spa,haas,Haas F1 Team,#9C9FA2,0.9576,1.495,1.491,1.486,0.682
+2025,13,spa,mclaren,McLaren,#F47600,0,0,0,0,0.1213
+2025,13,spa,mercedes,Mercedes,#00D7B6,0.6881,0.4664,0.452,0.4375,0.1614
+2025,13,spa,rb,Racing Bulls,#6C98FF,0.715,1.032,1.048,1.064,1.145
+2025,13,spa,red_bull,Red Bull Racing,#4781D7,0.3391,0.2424,0.3016,0.3608,0
+2025,13,spa,sauber,Kick Sauber,#01C00E,0.7697,1.72,1.689,1.658,1.831
+2025,13,spa,williams,Williams,#1868DB,0.6354,1.214,1.16,1.105,1.006
+2025,14,hungaroring,alpine,Alpine,#00A1E8,1.315,1.088,1.14,1.192,1.065
+2025,14,hungaroring,aston_martin,Aston Martin,#229971,0.3191,1.284,1.254,1.224,1.813
+2025,14,hungaroring,ferrari,Ferrari,#ED1131,0.6436,0.4786,0.4604,0.4421,0.3361
+2025,14,hungaroring,haas,Haas F1 Team,#9C9FA2,1.074,1.5,1.459,1.417,0.9576
+2025,14,hungaroring,mclaren,McLaren,#F47600,0,0,0,0,0
+2025,14,hungaroring,mercedes,Mercedes,#00D7B6,0.4153,0.6374,0.5534,0.4694,0.6881
+2025,14,hungaroring,rb,Racing Bulls,#6C98FF,0.7731,0.9772,0.9976,1.018,0.715
+2025,14,hungaroring,red_bull,Red Bull Racing,#4781D7,0.8773,0.192,0.2748,0.3577,0.3391
+2025,14,hungaroring,sauber,Kick Sauber,#01C00E,0.9294,1.607,1.574,1.542,0.7697
+2025,14,hungaroring,williams,Williams,#1868DB,1.017,1.154,1.099,1.044,0.6354
+2025,15,zandvoort,alpine,Alpine,#00A1E8,1.42,1.063,1.135,1.207,1.315
+2025,15,zandvoort,aston_martin,Aston Martin,#229971,1.025,1.104,1.105,1.106,0.3191
+2025,15,zandvoort,ferrari,Ferrari,#ED1131,0.8724,0.4322,0.4499,0.4675,0.6436
+2025,15,zandvoort,haas,Haas F1 Team,#9C9FA2,2.236,1.354,1.363,1.372,1.074
+2025,15,zandvoort,mclaren,McLaren,#F47600,0,0,0,0,0
+2025,15,zandvoort,mercedes,Mercedes,#00D7B6,0.8637,0.5472,0.5046,0.4619,0.4153
+2025,15,zandvoort,rb,Racing Bulls,#6C98FF,0.7952,0.9002,0.9428,0.9855,0.7731
+2025,15,zandvoort,red_bull,Red Bull Racing,#4781D7,0.383,0.2245,0.3242,0.424,0.8773
+2025,15,zandvoort,sauber,Kick Sauber,#01C00E,1.398,1.474,1.468,1.462,0.9294
+2025,15,zandvoort,williams,Williams,#1868DB,1.18,0.9999,1.02,1.039,1.017
+2025,16,monza,alpine,Alpine,#00A1E8,1.523,1.259,1.246,1.233,1.42
+2025,16,monza,aston_martin,Aston Martin,#229971,0.7234,1.284,1.189,1.095,1.025
+2025,16,monza,ferrari,Ferrari,#ED1131,0.2729,0.4822,0.5006,0.5189,0.8724
+2025,16,monza,haas,Haas F1 Team,#9C9FA2,0.83,1.442,1.461,1.481,2.236
+2025,16,monza,mclaren,McLaren,#F47600,0.09773,0,0,0,0
+2025,16,monza,mercedes,Mercedes,#00D7B6,0.4632,0.729,0.621,0.5129,0.8637
+2025,16,monza,rb,Racing Bulls,#6C98FF,1.428,1.092,1.026,0.9599,0.7952
+2025,16,monza,red_bull,Red Bull Racing,#4781D7,0,0.7119,0.5651,0.4182,0.383
+2025,16,monza,sauber,Kick Sauber,#01C00E,0.6739,1.6,1.526,1.452,1.398
+2025,16,monza,williams,Williams,#1868DB,0.9341,1.013,1.035,1.056,1.18
+2025,18,marina_bay,alpine,Alpine,#00A1E8,2.046,1.014,1.135,1.256,1.523
+2025,18,marina_bay,aston_martin,Aston Martin,#229971,0.8939,0.7853,0.9094,1.033,0.7234
+2025,18,marina_bay,ferrari,Ferrari,#ED1131,0.5945,0.349,0.4116,0.4742,0.2729
+2025,18,marina_bay,haas,Haas F1 Team,#9C9FA2,0.7963,1.238,1.311,1.383,0.83
+2025,18,marina_bay,mclaren,McLaren,#F47600,0.4105,0,0,0,0.09773
+2025,18,marina_bay,mercedes,Mercedes,#00D7B6,0,0.1626,0.3281,0.4935,0.4632
+2025,18,marina_bay,rb,Racing Bulls,#6C98FF,0.7717,0.9521,0.9794,1.007,1.428
+2025,18,marina_bay,red_bull,Red Bull Racing,#4781D7,0.2041,0.03274,0.1921,0.3515,0
+2025,18,marina_bay,sauber,Kick Sauber,#01C00E,1.103,1.078,1.208,1.338,0.6739
+2025,18,marina_bay,williams,Williams,#1868DB,1.171,0.8019,0.9144,1.027,0.9341
+2025,19,americas,alpine,Alpine,#00A1E8,1.177,1.14,1.222,1.304,2.046
+2025,19,americas,aston_martin,Aston Martin,#229971,0.7026,0.8203,0.891,0.9618,0.8939
+2025,19,americas,ferrari,Ferrari,#ED1131,0.321,0.3408,0.3886,0.4365,0.5945
+2025,19,americas,haas,Haas F1 Team,#9C9FA2,0.6799,1.159,1.206,1.254,0.7963
+2025,19,americas,mclaren,McLaren,#F47600,0.3146,0,0,0,0.4105
+2025,19,americas,mercedes,Mercedes,#00D7B6,0.3416,0.2038,0.2903,0.3769,0
+2025,19,americas,rb,Racing Bulls,#6C98FF,0.9188,0.9774,0.95,0.9227,0.7717
+2025,19,americas,red_bull,Red Bull Racing,#4781D7,0,0.1409,0.2102,0.2795,0.2041
+2025,19,americas,sauber,Kick Sauber,#01C00E,0.8907,1.104,1.179,1.254,1.103
+2025,19,americas,williams,Williams,#1868DB,0.6637,0.8575,0.9246,0.9917,1.171
+2025,20,rodriguez,alpine,Alpine,#00A1E8,2.593,1.244,1.143,1.246,1.177
+2025,20,rodriguez,aston_martin,Aston Martin,#229971,2.007,0.8633,0.7738,0.8872,0.7026
+2025,20,rodriguez,ferrari,Ferrari,#ED1131,0.3466,0.494,0.3359,0.3808,0.321
+2025,20,rodriguez,haas,Haas F1 Team,#9C9FA2,1.156,1.219,1.077,1.138,0.6799
+2025,20,rodriguez,mclaren,McLaren,#F47600,0,0.2275,0.01229,0,0.3146
+2025,20,rodriguez,mercedes,Mercedes,#00D7B6,0.5927,0.2827,0.2057,0.3316,0.3416
+2025,20,rodriguez,rb,Racing Bulls,#6C98FF,0.8811,1.012,0.845,0.881,0.9188
+2025,20,rodriguez,red_bull,Red Bull Racing,#4781D7,0.6403,0,0,0.2029,0
+2025,20,rodriguez,sauber,Kick Sauber,#01C00E,1.892,1.134,1.048,1.165,0.8907
+2025,20,rodriguez,williams,Williams,#1868DB,0.7753,1.006,0.8555,0.9082,0.6637
+2025,21,interlagos,alpine,Alpine,#00A1E8,0.4978,1.625,1.392,1.418,2.593
+2025,21,interlagos,aston_martin,Aston Martin,#229971,0.7049,1.119,0.9451,1.03,2.007
+2025,21,interlagos,ferrari,Ferrari,#ED1131,0.4172,0.7095,0.4133,0.376,0.3466
+2025,21,interlagos,haas,Haas F1 Team,#9C9FA2,0.351,1.384,1.132,1.139,1.156
+2025,21,interlagos,mclaren,McLaren,#F47600,0,0.5574,0.1493,0,0
+2025,21,interlagos,mercedes,Mercedes,#00D7B6,0.2503,0.5983,0.3521,0.3647,0.5927
+2025,21,interlagos,rb,Racing Bulls,#6C98FF,0.6042,1.143,0.8821,0.88,0.8811
+2025,21,interlagos,red_bull,Red Bull Racing,#4781D7,1.283,0,0,0.2588,0.6403
+2025,21,interlagos,sauber,Kick Sauber,#01C00E,0.6819,1.366,1.182,1.257,1.892
+2025,21,interlagos,williams,Williams,#1868DB,0.7797,1.217,0.9243,0.8901,0.7753
+2025,22,vegas,alpine,Alpine,#00A1E8,3.341,1.147,1.222,1.298,0.4978
+2025,22,vegas,aston_martin,Aston Martin,#229971,1.419,0.7852,0.8863,0.9874,0.7049
+2025,22,vegas,ferrari,Ferrari,#ED1131,1.796,0.1869,0.284,0.381,0.4172
+2025,22,vegas,haas,Haas F1 Team,#9C9FA2,4.682,0.8193,0.9282,1.037,0.351
+2025,22,vegas,mclaren,McLaren,#F47600,0,0,0,0,0
+2025,22,vegas,mercedes,Mercedes,#00D7B6,0.8051,0.235,0.2924,0.3497,0.2503
+2025,22,vegas,rb,Racing Bulls,#6C98FF,1.045,0.7979,0.8209,0.8439,0.6042
+2025,22,vegas,red_bull,Red Bull Racing,#4781D7,0.2993,0.4118,0.4012,0.3905,1.283
+2025,22,vegas,sauber,Kick Sauber,#01C00E,4.491,1.083,1.133,1.182,0.6819
+2025,22,vegas,williams,Williams,#1868DB,0.3354,0.4639,0.6696,0.8753,0.7797
+2025,23,losail,alpine,Alpine,#00A1E8,1.18,1.674,1.616,1.557,3.341
+2025,23,losail,aston_martin,Aston Martin,#229971,1.048,1.185,1.113,1.041,1.419
+2025,23,losail,ferrari,Ferrari,#ED1131,1.204,0.5187,0.54,0.5613,1.796
+2025,23,losail,haas,Haas F1 Team,#9C9FA2,1.324,1.599,1.551,1.502,4.682
+2025,23,losail,mclaren,McLaren,#F47600,0,0,0,0,0
+2025,23,losail,mercedes,Mercedes,#00D7B6,0.3464,0.2166,0.312,0.4074,0.8051
+2025,23,losail,rb,Racing Bulls,#6C98FF,0.9158,1.115,0.9918,0.8683,1.045
+2025,23,losail,red_bull,Red Bull Racing,#4781D7,0.3325,0.6586,0.5184,0.3782,0.2993
+2025,23,losail,sauber,Kick Sauber,#01C00E,1.217,1.618,1.611,1.604,4.491
+2025,23,losail,williams,Williams,#1868DB,1.088,0.8337,0.8193,0.8049,0.3354
+2025,24,yas_marina,alpine,Alpine,#00A1E8,1.534,1.392,1.45,1.507,1.18
+2025,24,yas_marina,aston_martin,Aston Martin,#229971,0.7956,0.9587,0.9996,1.041,1.048
+2025,24,yas_marina,ferrari,Ferrari,#ED1131,0.6362,0.495,0.5689,0.6429,1.204
+2025,24,yas_marina,haas,Haas F1 Team,#9C9FA2,0.8588,1.327,1.402,1.477,1.324
+2025,24,yas_marina,mclaren,McLaren,#F47600,0.2445,0,0,0,0
+2025,24,yas_marina,mercedes,Mercedes,#00D7B6,0.5328,0.1817,0.2904,0.399,0.3464
+2025,24,yas_marina,rb,Racing Bulls,#6C98FF,0.961,0.8795,0.8763,0.8732,0.9158
+2025,24,yas_marina,red_bull,Red Bull Racing,#4781D7,0,0.4172,0.3945,0.3719,0.3325
+2025,24,yas_marina,sauber,Kick Sauber,#01C00E,0.8114,1.405,1.479,1.552,1.217
+2025,24,yas_marina,williams,Williams,#1868DB,1.016,0.6635,0.7518,0.8401,1.088
+2026,4,miami,alpine,Alpine,#00A1E8,1.098,2.628,2.365,2.103,1.028
+2026,4,miami,aston_martin,Aston Martin,#229971,3.759,4.513,4.355,4.196,4.357
+2026,4,miami,audi,Audi,#F50537,1.869,3.054,2.497,1.939,1.365
+2026,4,miami,cadillac,Cadillac,#909090,4.363,5.212,4.987,4.762,3.861
+2026,4,miami,ferrari,Ferrari,#ED1131,0.3929,1.346,1.114,0.8822,0.5914
+2026,4,miami,haas,Haas F1 Team,#9C9FA2,1.756,3.025,2.538,2.051,1.725
+2026,4,miami,mclaren,McLaren,#F47600,0.4385,1.415,1.169,0.924,0.3987
+2026,4,miami,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,4,miami,rb,Racing Bulls,#6C98FF,1.937,2.01,1.89,1.77,1.499
+2026,4,miami,red_bull,Red Bull Racing,#4781D7,0.1891,1.774,1.401,1.028,1.352
+2026,4,miami,williams,Williams,#1868DB,1.984,3.228,3.049,2.871,2.421
+2026,5,villeneuve,alpine,Alpine,#00A1E8,1.542,2.229,2.099,1.97,1.098
+2026,5,villeneuve,aston_martin,Aston Martin,#229971,3.607,4.375,4.253,4.131,3.759
+2026,5,villeneuve,audi,Audi,#F50537,1.802,2.378,2.152,1.926,1.869
+2026,5,villeneuve,cadillac,Cadillac,#909090,3.928,4.815,4.758,4.701,4.363
+2026,5,villeneuve,ferrari,Ferrari,#ED1131,0.3996,1.349,1.084,0.818,0.3929
+2026,5,villeneuve,haas,Haas F1 Team,#9C9FA2,2.532,2.488,2.248,2.009,1.756
+2026,5,villeneuve,mclaren,McLaren,#F47600,0.2081,1.215,1.038,0.8602,0.4385
+2026,5,villeneuve,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,5,villeneuve,rb,Racing Bulls,#6C98FF,0.9672,1.797,1.792,1.787,1.937
+2026,5,villeneuve,red_bull,Red Bull Racing,#4781D7,0.4533,1.087,1.003,0.9187,0.1891
+2026,5,villeneuve,williams,Williams,#1868DB,2.335,2.821,2.786,2.751,1.984
+2026,6,monaco,alpine,Alpine,#00A1E8,1.631,2.754,2.333,1.912,1.542
+2026,6,monaco,aston_martin,Aston Martin,#229971,4.577,4.306,4.181,4.056,3.607
+2026,6,monaco,audi,Audi,#F50537,2.569,2.882,2.394,1.906,1.802
+2026,6,monaco,cadillac,Cadillac,#909090,3.742,5.6,5.096,4.593,3.928
+2026,6,monaco,ferrari,Ferrari,#ED1131,0.3164,0.94,0.8515,0.7631,0.3996
+2026,6,monaco,haas,Haas F1 Team,#9C9FA2,3.835,2.817,2.445,2.072,2.532
+2026,6,monaco,mclaren,McLaren,#F47600,0.7953,1.305,1.04,0.7754,0.2081
+2026,6,monaco,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,6,monaco,rb,Racing Bulls,#6C98FF,1.889,2.378,2.029,1.679,0.9672
+2026,6,monaco,red_bull,Red Bull Racing,#4781D7,0.05968,1.24,1.049,0.8575,0.4533
+2026,6,monaco,williams,Williams,#1868DB,2.409,3.547,3.12,2.693,2.335
+2026,7,catalunya,alpine,Alpine,#00A1E8,2.025,2.082,1.977,1.871,1.631
+2026,7,catalunya,aston_martin,Aston Martin,#229971,5.462,4.373,4.243,4.113,4.577
+2026,7,catalunya,audi,Audi,#F50537,1.458,2.432,2.209,1.986,2.569
+2026,7,catalunya,cadillac,Cadillac,#909090,3.838,4.523,4.498,4.474,3.742
+2026,7,catalunya,ferrari,Ferrari,#ED1131,0.0857,1.069,0.8868,0.7045,0.3164
+2026,7,catalunya,haas,Haas F1 Team,#9C9FA2,2.29,2.712,2.502,2.291,3.835
+2026,7,catalunya,mclaren,McLaren,#F47600,0.4312,0.9883,0.8822,0.776,0.7953
+2026,7,catalunya,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,7,catalunya,rb,Racing Bulls,#6C98FF,1.213,1.726,1.714,1.702,1.889
+2026,7,catalunya,red_bull,Red Bull Racing,#4781D7,0.458,1.023,0.8884,0.7541,0.05968
+2026,7,catalunya,williams,Williams,#1868DB,2.949,2.642,2.646,2.65,2.409
+2026,8,red_bull_ring,alpine,Alpine,#00A1E8,1.679,2.026,1.957,1.887,2.025
+2026,8,red_bull_ring,aston_martin,Aston Martin,#229971,5.792,4.555,4.416,4.277,5.462
+2026,8,red_bull_ring,audi,Audi,#F50537,1.785,2.418,2.167,1.915,1.458
+2026,8,red_bull_ring,cadillac,Cadillac,#909090,4.284,4.344,4.364,4.384,3.838
+2026,8,red_bull_ring,ferrari,Ferrari,#ED1131,0.357,0.9934,0.8088,0.6242,0.0857
+2026,8,red_bull_ring,haas,Haas F1 Team,#9C9FA2,2.133,2.755,2.521,2.286,2.29
+2026,8,red_bull_ring,mclaren,McLaren,#F47600,0.5884,0.8955,0.8131,0.7306,0.4312
+2026,8,red_bull_ring,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,8,red_bull_ring,rb,Racing Bulls,#6C98FF,1.274,1.554,1.595,1.636,1.213
+2026,8,red_bull_ring,red_bull,Red Bull Racing,#4781D7,0.5475,1.092,0.9032,0.7149,0.458
+2026,8,red_bull_ring,williams,Williams,#1868DB,3.235,2.602,2.643,2.684,2.949
+2026,9,silverstone,alpine,Alpine,#00A1E8,2.215,1.834,1.845,1.857,1.679
+2026,9,silverstone,aston_martin,Aston Martin,#229971,5.393,4.61,4.535,4.461,5.792
+2026,9,silverstone,audi,Audi,#F50537,1.532,2.328,2.111,1.894,1.785
+2026,9,silverstone,cadillac,Cadillac,#909090,3.536,4.175,4.269,4.362,4.284
+2026,9,silverstone,ferrari,Ferrari,#ED1131,0.1986,0.8745,0.7317,0.5889,0.357
+2026,9,silverstone,haas,Haas F1 Team,#9C9FA2,2.712,2.548,2.405,2.262,2.133
+2026,9,silverstone,mclaren,McLaren,#F47600,0.8694,0.8416,0.7763,0.7109,0.5884
+2026,9,silverstone,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,9,silverstone,rb,Racing Bulls,#6C98FF,1.349,1.381,1.484,1.587,1.274
+2026,9,silverstone,red_bull,Red Bull Racing,#4781D7,0.7207,1.193,0.9425,0.6921,0.5475
+2026,9,silverstone,williams,Williams,#1868DB,2.782,2.667,2.708,2.748,3.235
+2026,10,spa,alpine,Alpine,#00A1E8,1.888,1.93,1.914,1.899,2.215
+2026,10,spa,aston_martin,Aston Martin,#229971,5.405,4.714,4.642,4.571,5.393
+2026,10,spa,audi,Audi,#F50537,1.214,2.137,1.991,1.844,1.532
+2026,10,spa,cadillac,Cadillac,#909090,3.317,4.122,4.185,4.248,3.536
+2026,10,spa,ferrari,Ferrari,#ED1131,0.5098,0.8486,0.6933,0.538,0.1986
+2026,10,spa,haas,Haas F1 Team,#9C9FA2,2.317,2.531,2.423,2.315,2.712
+2026,10,spa,mclaren,McLaren,#F47600,0.4216,0.8743,0.802,0.7297,0.8694
+2026,10,spa,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,10,spa,rb,Racing Bulls,#6C98FF,0.7493,1.495,1.524,1.553,1.349
+2026,10,spa,red_bull,Red Bull Racing,#4781D7,0.3038,0.9388,0.8166,0.6944,0.7207
+2026,10,spa,williams,Williams,#1868DB,2.315,2.63,2.688,2.747,2.782
+2026,11,hungaroring,alpine,Alpine,#00A1E8,2.12,2.292,2.093,1.895,1.888
+2026,11,hungaroring,aston_martin,Aston Martin,#229971,3.369,4.824,4.747,4.671,5.405
+2026,11,hungaroring,audi,Audi,#F50537,1.855,2.274,2.018,1.761,1.214
+2026,11,hungaroring,cadillac,Cadillac,#909090,4.765,4.555,4.339,4.123,3.317
+2026,11,hungaroring,ferrari,Ferrari,#ED1131,0.01554,0.6111,0.5723,0.5335,0.5098
+2026,11,hungaroring,haas,Haas F1 Team,#9C9FA2,3.273,2.785,2.548,2.312,2.317
+2026,11,hungaroring,mclaren,McLaren,#F47600,0,0.8065,0.7478,0.6892,0.4216
+2026,11,hungaroring,mercedes,Mercedes,#00D7B6,0.3523,0,0,0,0
+2026,11,hungaroring,rb,Racing Bulls,#6C98FF,1.391,1.668,1.558,1.448,0.7493
+2026,11,hungaroring,red_bull,Red Bull Racing,#4781D7,0.6709,0.8896,0.7664,0.6433,0.3038
+2026,11,hungaroring,williams,Williams,#1868DB,4.422,2.982,2.835,2.688,2.315
+2026,12,zandvoort,alpine,Alpine,#00A1E8,2.042,2.016,1.945,1.874,2.12
+2026,12,zandvoort,aston_martin,Aston Martin,#229971,3.495,4.519,4.484,4.449,3.369
+2026,12,zandvoort,audi,Audi,#F50537,1.287,2.098,1.911,1.724,1.855
+2026,12,zandvoort,cadillac,Cadillac,#909090,4.508,4.222,4.186,4.15,4.765
+2026,12,zandvoort,ferrari,Ferrari,#ED1131,0.4651,0.5787,0.5002,0.4217,0.01554
+2026,12,zandvoort,haas,Haas F1 Team,#9C9FA2,2.774,2.655,2.519,2.384,3.273
+2026,12,zandvoort,mclaren,McLaren,#F47600,0,0.6533,0.6043,0.5552,0
+2026,12,zandvoort,mercedes,Mercedes,#00D7B6,0.1433,0,0,0,0.3523
+2026,12,zandvoort,rb,Racing Bulls,#6C98FF,1.436,1.448,1.42,1.393,1.391
+2026,12,zandvoort,red_bull,Red Bull Racing,#4781D7,0.6394,0.8492,0.7249,0.6006,0.6709
+2026,12,zandvoort,williams,Williams,#1868DB,2.837,2.943,2.9,2.857,4.422
+2026,13,monza,alpine,Alpine,#00A1E8,0,1.396,1.635,1.874,2.042
+2026,13,monza,aston_martin,Aston Martin,#229971,4.113,4.163,4.232,4.301,3.495
+2026,13,monza,audi,Audi,#F50537,0.8938,1.525,1.586,1.647,1.287
+2026,13,monza,cadillac,Cadillac,#909090,3.152,3.391,3.78,4.17,4.508
+2026,13,monza,ferrari,Ferrari,#ED1131,0.2665,0.7918,0.6,0.4081,0.4651
+2026,13,monza,haas,Haas F1 Team,#9C9FA2,1.186,2.027,2.219,2.411,2.774
+2026,13,monza,mclaren,McLaren,#F47600,0.2201,0.4466,0.4558,0.465,0
+2026,13,monza,mercedes,Mercedes,#00D7B6,0.07336,0,0,0,0.1433
+2026,13,monza,rb,Racing Bulls,#6C98FF,0.6114,1.101,1.239,1.377,1.436
+2026,13,monza,red_bull,Red Bull Racing,#4781D7,0.3472,0.5221,0.5541,0.5861,0.6394
+2026,13,monza,williams,Williams,#1868DB,2.038,2.261,2.546,2.831,2.837
+2026,15,baku,alpine,Alpine,#00A1E8,1.484,0.9691,1.265,1.56,1.175
+2026,15,baku,aston_martin,Aston Martin,#229971,3.967,3.8,4.003,4.206,3.881
+2026,15,baku,audi,Audi,#F50537,3.192,1.461,1.497,1.533,1.524
+2026,15,baku,cadillac,Cadillac,#909090,4.03,3.605,3.839,4.072,4.453
+2026,15,baku,ferrari,Ferrari,#ED1131,0.8164,0.3403,0.348,0.3557,0.2058
+2026,15,baku,haas,Haas F1 Team,#9C9FA2,2.194,1.997,2.102,2.207,2.007
+2026,15,baku,mclaren,McLaren,#F47600,0.8174,0.3759,0.3716,0.3673,0
+2026,15,baku,mercedes,Mercedes,#00D7B6,0,0,0,0,0.01198
+2026,15,baku,rb,Racing Bulls,#6C98FF,2.276,1.018,1.145,1.272,1.325
+2026,15,baku,red_bull,Red Bull Racing,#4781D7,0.95,0.3915,0.4422,0.4928,0.1525
+2026,15,baku,williams,Williams,#1868DB,1.99,1.967,2.408,2.848,3.793
+2026,17,marina_bay,alpine,Alpine,#00A1E8,0.9324,1.377,1.414,1.451,1.346
+2026,17,marina_bay,aston_martin,Aston Martin,#229971,3.119,3.745,3.792,3.839,2.197
+2026,17,marina_bay,audi,Audi,#F50537,1.544,1.812,1.742,1.673,1.77
+2026,17,marina_bay,cadillac,Cadillac,#909090,4.104,4.136,4.033,3.93,3.659
+2026,17,marina_bay,ferrari,Ferrari,#ED1131,0.0591,0.2511,0.2919,0.3326,0.3133
+2026,17,marina_bay,haas,Haas F1 Team,#9C9FA2,1.68,2.359,2.294,2.229,2.996
+2026,17,marina_bay,mclaren,McLaren,#F47600,0.371,0.3624,0.374,0.3856,0.6591
+2026,17,marina_bay,mercedes,Mercedes,#00D7B6,0.2068,0,0,0,0.5266
+2026,17,marina_bay,rb,Racing Bulls,#6C98FF,1.035,1.46,1.431,1.402,1.99
+2026,17,marina_bay,red_bull,Red Bull Racing,#4781D7,0,0.4651,0.4383,0.4115,0
+2026,17,marina_bay,williams,Williams,#1868DB,2.356,2.456,2.544,2.632,2.52
+2026,18,americas,alpine,Alpine,#00A1E8,1.111,1.286,1.321,1.356,0.9324
+2026,18,americas,aston_martin,Aston Martin,#229971,1.896,3.799,3.757,3.715,3.119
+2026,18,americas,audi,Audi,#F50537,1.194,1.768,1.698,1.628,1.544
+2026,18,americas,cadillac,Cadillac,#909090,3.614,3.934,3.927,3.921,4.104
+2026,18,americas,ferrari,Ferrari,#ED1131,0.1733,0.3071,0.2889,0.2707,0.0591
+2026,18,americas,haas,Haas F1 Team,#9C9FA2,1.656,2.16,2.144,2.129,1.68
+2026,18,americas,mclaren,McLaren,#F47600,0.3658,0.3039,0.3303,0.3567,0.371
+2026,18,americas,mercedes,Mercedes,#00D7B6,0,0,0,0,0.2068
+2026,18,americas,rb,Racing Bulls,#6C98FF,0.973,1.171,1.249,1.326,1.035
+2026,18,americas,red_bull,Red Bull Racing,#4781D7,0.1904,0.4186,0.3752,0.3317,0
+2026,18,americas,williams,Williams,#1868DB,2.908,2.432,2.499,2.567,2.356

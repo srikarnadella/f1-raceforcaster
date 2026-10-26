@@ -1,7 +1,10 @@
 {
- "champion": "v1",
- "shadow": null,
- "shadow_since": null,
+ "champion": "v2",
+ "shadow": "v1",
+ "shadow_since": [
+  2026,
+  18
+ ],
  "versions": {
   "v1": {
    "spec": {
@@ -57,6 +60,75 @@
     "ece_top10": 0.02038042203985934,
     "n_races": 169
    }
+  },
+  "v2": {
+   "spec": {
+    "name": "simulator-blend-50",
+    "strength": {
+     "features": [
+      "log_start",
+      "quali_gap",
+      "tm_quali_gap",
+      "sprint_delta",
+      "drv_form_pos",
+      "con_form_pos",
+      "drv_form_quali",
+      "drv_gain",
+      "drv_form_pos_early",
+      "con_form_pos_early",
+      "no_history"
+     ],
+     "l2": 1.0,
+     "depth": 3,
+     "season_half_life": 3.0
+    },
+    "dnf": {
+     "features": [
+      "con_dnf_rate",
+      "drv_dnf_rate",
+      "circuit_dnf_rate",
+      "log_start",
+      "early_era"
+     ],
+     "C": 1.0,
+     "season_half_life": 4.0
+    },
+    "form": {
+     "form_half_life": 6.0,
+     "dnf_half_life": 12.0
+    },
+    "n_sims": 10000,
+    "simulator": {
+     "w_quali": 0.6,
+     "lap_noise": 0.35,
+     "c0": -1.0,
+     "c1": 1.5,
+     "c2": 3.0,
+     "c3": 0.15,
+     "start_noise": 0.7,
+     "pit_jitter": 2.5,
+     "pace_unc": 0.3,
+     "team_share": 0.6,
+     "n_sims": 1000,
+     "weight": 0.5
+    }
+   },
+   "created": "2026-10-26T01:19:27+00:00",
+   "git_commit": "fce1ab4",
+   "data_hash": "2b1410d4a79c68b6",
+   "parent": "v1",
+   "note": "Owner objective is P1 then podium. Blend the champion 50/50 with the lap-by-lap race simulator (driver/car profiles, overtaking, strategy, safety cars; params tuned on 2023-2024 only, reports/race_sim_lab.json). podium_lab: composite +2.3% (2019+), +5.9% on 2025-2026 (out of sample for the simulator).",
+   "backtest": {
+    "winner_logloss": 1.2353589625308767,
+    "winner_brier": 0.5748685819230769,
+    "top1_hit": 0.5562130177514792,
+    "winner_rank": 1.8994082840236686,
+    "podium_brier": 0.06605297715553779,
+    "top10_brier": 0.1546852753443136,
+    "spearman": 0.6616586957019979,
+    "kendall": 0.5348692692822248,
+    "mae_pos": 3.2229411050083514
+   }
   }
  },
  "history": [
@@ -64,6 +136,14 @@
    "date": "2026-10-25T19:39:28+00:00",
    "event": "init",
    "version": "v1"
+  },
+  {
+   "date": "2026-10-26T01:19:27+00:00",
+   "event": "promote",
+   "version": "v2",
+   "previous": "v1",
+   "reason": "simulator-blend-50",
+   "composite": 0.02309905869350841
   }
  ]
 }

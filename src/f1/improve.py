@@ -13,7 +13,7 @@ import copy
 import json
 import pickle
 import time
-from datetime import datetime, timezone
+from datetime import datetime, UTC
 
 import numpy as np
 import pandas as pd
@@ -39,7 +39,9 @@ def deep_merge(base: dict, patch: dict) -> dict:
 
 
 def _eval_cached(spec: dict, results: pd.DataFrame) -> dict:
-    h = registry.data_hash() + json.dumps(spec, sort_keys=True)
+    # specs that read the OpenF1 analytics (simulator, practice features) must re-evaluate when those tables change
+    uses_analytics = bool(spec.get("simulator")) or bool(spec.get("form", {}).get("openf1")) or "by_era" in spec
+    h = registry.data_hash(analytics=uses_analytics) + json.dumps(spec, sort_keys=True)
     import hashlib
     p = CACHE / "evals" / (hashlib.sha1(h.encode()).hexdigest() + ".pkl")
     if p.exists():
@@ -177,7 +179,7 @@ def run_cycle(next_race: tuple[int, int], dry_run: bool = False) -> dict:
     queue = [q for q in queue if q["slug"] not in deferred]   # not logged, so they run once laps are complete
     champ = _eval_cached(champ_spec, results)
     tried, best = [], None
-    date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    date = datetime.now(UTC).strftime("%Y-%m-%d")
     for q in queue[:MAX_EXPERIMENTS]:
         if time.time() - t0 > BUDGET_S:
             break
@@ -193,6 +195,10 @@ def run_cycle(next_race: tuple[int, int], dry_run: bool = False) -> dict:
                "patch": q["patch"], "champion": champ_v, "decision": d,
                "champion_metrics": champ["summary"], "candidate_metrics": cand["summary"] if cand else None}
         tried.append((rec, spec))
+        if cand is not None:
+            from . import tracking
+            tracking.log_evaluation("improvement-cycle", q["slug"], spec, cand, d,
+                                    tags={"champion": champ_v, "dry_run": dry_run, "auto": bool(q.get("auto"))})
         if d.get("promote") and (best is None or d["composite"] > best[0]["decision"]["composite"]):
             best = (rec, spec)
     promoted = None
@@ -250,7 +256,7 @@ def check_rollback(reg: dict) -> str | None:
     if comp < -registry.ROLLBACK_MARGIN:
         bad = registry.rollback(reg, f"live composite {comp:+.2%} vs shadow over {len(both)} races")
         registry.save(reg)
-        changelog([f"## {datetime.now(timezone.utc):%Y-%m-%d} — ROLLBACK {bad} → {reg['champion']}",
+        changelog([f"## {datetime.now(UTC):%Y-%m-%d} — ROLLBACK {bad} → {reg['champion']}",
                    f"- Live composite {comp:+.2%} vs previous champion over {len(both)} race(s) (threshold −2%)."])
         append_jsonl(EXP_LOG, {"slug": f"_rollback_{bad}_{len(both)}", "event": "rollback", "from": bad,
                                "to": reg["champion"], "composite": comp, "races": both})
@@ -265,7 +271,7 @@ def check_rollback(reg: dict) -> str | None:
 
 def write_proposal(slug: str, body: str):
     PROPOSALS.mkdir(exist_ok=True)
-    p = PROPOSALS / f"{datetime.now(timezone.utc):%Y-%m-%d}-{slug}.md"
+    p = PROPOSALS / f"{datetime.now(UTC):%Y-%m-%d}-{slug}.md"
     if not p.exists():
         p.write_text(body)
     return p

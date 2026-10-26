@@ -28,9 +28,17 @@ def test_clearly_better_candidate_promoted():
 
 def test_regression_on_one_target_blocks():
     champ = _res(100, 1.4, 0.07, 0.16, 0.65, seed=1)
-    cand = _res(100, 1.2, 0.07, 0.17, 0.65, seed=1)   # top-10 Brier 6% worse
+    cand = _res(100, 1.2, 0.075, 0.16, 0.65, seed=1)  # podium Brier 7% worse
     d = gate.decide(cand, champ, run_leakage=False)
     assert not d["checks"]["no_target_regression"] and not d["promote"]
+
+
+def test_order_metrics_do_not_decide_promotion():
+    # owner's objective (2026-10-25): winner and podium decide; top-10 / order are reported only
+    champ = _res(100, 1.4, 0.07, 0.16, 0.65, seed=1)
+    cand = _res(100, 1.2, 0.07, 0.18, 0.60, seed=1)   # better winner, worse top-10 and order
+    d = gate.decide(cand, champ, run_leakage=False)
+    assert d["checks"]["no_target_regression"] and d["checks"]["composite"]
 
 
 def test_calibration_degradation_blocks():

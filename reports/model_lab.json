@@ -1,0 +1,405 @@
+{
+ "note": "Walk-forward on the frozen harness: each race predicted from earlier races only. Lower log-loss / Brier is better; higher Spearman / top-1 hit is better. ~20 races per season, so differences under ~3% are within noise.",
+ "champion": "v2",
+ "windows": {
+  "2023-2026": {
+   "grid": {
+    "winner_logloss": 1.309843887623881,
+    "podium_brier": 0.06834496506410584,
+    "top10_brier": 0.15675585602143507,
+    "spearman": 0.6728951601065184,
+    "top1_hit": 0.6363636363636364,
+    "mae_pos": 3.277984993475424
+   },
+   "pole": {
+    "winner_logloss": 1.761981882129849,
+    "podium_brier": 0.06834496506410584,
+    "top10_brier": 0.15675585602143507,
+    "spearman": 0.6728951601065184,
+    "top1_hit": 0.6363636363636364,
+    "mae_pos": 3.277984993475424
+   },
+   "v1+practice": {
+    "winner_logloss": 1.1236767945111077,
+    "podium_brier": 0.06508364248319921,
+    "top10_brier": 0.14843646650462158,
+    "spearman": 0.6831080463465526,
+    "top1_hit": 0.6590909090909091,
+    "mae_pos": 3.126249867061766
+   },
+   "nn": {
+    "winner_logloss": 1.0840656773338433,
+    "podium_brier": 0.06520526663478686,
+    "top10_brier": 0.1476971164857139,
+    "spearman": 0.6853623346004248,
+    "top1_hit": 0.6704545454545454,
+    "mae_pos": 3.1308405972705518
+   },
+   "nn+practice": {
+    "winner_logloss": 1.1206294292638326,
+    "podium_brier": 0.06537470727728088,
+    "top10_brier": 0.14899207925191657,
+    "spearman": 0.6804080246429944,
+    "top1_hit": 0.6363636363636364,
+    "mae_pos": 3.1353684678120923
+   },
+   "nn (pytorch)": {
+    "winner_logloss": 1.0807705112147301,
+    "podium_brier": 0.06497959650663332,
+    "top10_brier": 0.14752994645938453,
+    "spearman": 0.6858189873714109,
+    "top1_hit": 0.6704545454545454,
+    "mae_pos": 3.1269141142888213
+   },
+   "champion": {
+    "winner_logloss": 1.0876681659297205,
+    "podium_brier": 0.06531332467522565,
+    "top10_brier": 0.14796759001960091,
+    "spearman": 0.6839479672951693,
+    "top1_hit": 0.6704545454545454,
+    "mae_pos": 3.1354908851674637
+   }
+  },
+  "2026": {
+   "grid": {
+    "winner_logloss": 1.11086663974082,
+    "podium_brier": 0.06349689397509023,
+    "top10_brier": 0.15361148026261603,
+    "spearman": 0.6925779534475187,
+    "top1_hit": 0.7222222222222222,
+    "mae_pos": 3.313131313131313
+   },
+   "pole": {
+    "winner_logloss": 1.5162464078985154,
+    "podium_brier": 0.06349689397509023,
+    "top10_brier": 0.15361148026261603,
+    "spearman": 0.6925779534475187,
+    "top1_hit": 0.7222222222222222,
+    "mae_pos": 3.313131313131313
+   },
+   "v1+practice": {
+    "winner_logloss": 1.0411609942316842,
+    "podium_brier": 0.05929137993686868,
+    "top10_brier": 0.15785498744949494,
+    "spearman": 0.6867432084823389,
+    "top1_hit": 0.7222222222222222,
+    "mae_pos": 3.3593227272727275
+   },
+   "nn": {
+    "winner_logloss": 1.0017553773842764,
+    "podium_brier": 0.05993423775252525,
+    "top10_brier": 0.1571370560858586,
+    "spearman": 0.6817240730284209,
+    "top1_hit": 0.7777777777777778,
+    "mae_pos": 3.392044191919192
+   },
+   "nn+practice": {
+    "winner_logloss": 1.0176956366009318,
+    "podium_brier": 0.05837608775252526,
+    "top10_brier": 0.1594939161489899,
+    "spearman": 0.6758265888700671,
+    "top1_hit": 0.6666666666666666,
+    "mae_pos": 3.403937626262626
+   },
+   "nn (pytorch)": {
+    "winner_logloss": 0.9911160157020126,
+    "podium_brier": 0.05950788242424242,
+    "top10_brier": 0.156919186729798,
+    "spearman": 0.6800301148127236,
+    "top1_hit": 0.7777777777777778,
+    "mae_pos": 3.38682297979798
+   },
+   "champion": {
+    "winner_logloss": 1.0187925335841213,
+    "podium_brier": 0.06019336244949495,
+    "top10_brier": 0.1578300233838384,
+    "spearman": 0.6805320283581153,
+    "top1_hit": 0.7777777777777778,
+    "mae_pos": 3.396
+   }
+  }
+ },
+ "specs": {
+  "v1+practice": {
+   "name": "pl-dnf+practice",
+   "strength": {
+    "features": [
+     "log_start",
+     "quali_gap",
+     "tm_quali_gap",
+     "sprint_delta",
+     "drv_form_pos",
+     "con_form_pos",
+     "drv_form_quali",
+     "drv_gain",
+     "drv_form_pos_early",
+     "con_form_pos_early",
+     "no_history",
+     "of1_longrun",
+     "of1_fp_best",
+     "of1_sprint_pace",
+     "of1_dna_proj",
+     "of1_ideal_gap",
+     "of1_start_x_hard",
+     "has_of1"
+    ],
+    "l2": 1.0,
+    "depth": 3,
+    "season_half_life": 3.0
+   },
+   "dnf": {
+    "features": [
+     "con_dnf_rate",
+     "drv_dnf_rate",
+     "circuit_dnf_rate",
+     "log_start",
+     "early_era"
+    ],
+    "C": 1.0,
+    "season_half_life": 4.0
+   },
+   "form": {
+    "form_half_life": 6.0,
+    "dnf_half_life": 12.0,
+    "openf1": true
+   },
+   "n_sims": 10000,
+   "simulator": {
+    "w_quali": 0.6,
+    "lap_noise": 0.35,
+    "c0": -1.0,
+    "c1": 1.5,
+    "c2": 3.0,
+    "c3": 0.15,
+    "start_noise": 0.7,
+    "pit_jitter": 2.5,
+    "pace_unc": 0.3,
+    "team_share": 0.6,
+    "n_sims": 1000,
+    "weight": 0.5
+   }
+  },
+  "nn": {
+   "name": "nn-pl",
+   "strength": {
+    "features": [
+     "log_start",
+     "quali_gap",
+     "tm_quali_gap",
+     "sprint_delta",
+     "drv_form_pos",
+     "con_form_pos",
+     "drv_form_quali",
+     "drv_gain",
+     "drv_form_pos_early",
+     "con_form_pos_early",
+     "no_history"
+    ],
+    "l2": 1.0,
+    "depth": 3,
+    "season_half_life": 3.0,
+    "hidden": 8,
+    "l2_hidden": 4.0,
+    "n_models": 3
+   },
+   "dnf": {
+    "features": [
+     "con_dnf_rate",
+     "drv_dnf_rate",
+     "circuit_dnf_rate",
+     "log_start",
+     "early_era"
+    ],
+    "C": 1.0,
+    "season_half_life": 4.0
+   },
+   "form": {
+    "form_half_life": 6.0,
+    "dnf_half_life": 12.0
+   },
+   "n_sims": 10000,
+   "simulator": {
+    "w_quali": 0.6,
+    "lap_noise": 0.35,
+    "c0": -1.0,
+    "c1": 1.5,
+    "c2": 3.0,
+    "c3": 0.15,
+    "start_noise": 0.7,
+    "pit_jitter": 2.5,
+    "pace_unc": 0.3,
+    "team_share": 0.6,
+    "n_sims": 1000,
+    "weight": 0.5
+   }
+  },
+  "nn+practice": {
+   "name": "nn-pl+practice",
+   "strength": {
+    "features": [
+     "log_start",
+     "quali_gap",
+     "tm_quali_gap",
+     "sprint_delta",
+     "drv_form_pos",
+     "con_form_pos",
+     "drv_form_quali",
+     "drv_gain",
+     "drv_form_pos_early",
+     "con_form_pos_early",
+     "no_history",
+     "of1_longrun",
+     "of1_fp_best",
+     "of1_sprint_pace",
+     "of1_dna_proj",
+     "of1_ideal_gap",
+     "of1_start_x_hard",
+     "has_of1"
+    ],
+    "l2": 1.0,
+    "depth": 3,
+    "season_half_life": 3.0,
+    "hidden": 8,
+    "l2_hidden": 4.0,
+    "n_models": 3
+   },
+   "dnf": {
+    "features": [
+     "con_dnf_rate",
+     "drv_dnf_rate",
+     "circuit_dnf_rate",
+     "log_start",
+     "early_era"
+    ],
+    "C": 1.0,
+    "season_half_life": 4.0
+   },
+   "form": {
+    "form_half_life": 6.0,
+    "dnf_half_life": 12.0,
+    "openf1": true
+   },
+   "n_sims": 10000,
+   "simulator": {
+    "w_quali": 0.6,
+    "lap_noise": 0.35,
+    "c0": -1.0,
+    "c1": 1.5,
+    "c2": 3.0,
+    "c3": 0.15,
+    "start_noise": 0.7,
+    "pit_jitter": 2.5,
+    "pace_unc": 0.3,
+    "team_share": 0.6,
+    "n_sims": 1000,
+    "weight": 0.5
+   }
+  },
+  "nn (pytorch)": {
+   "name": "nn-pl-torch",
+   "strength": {
+    "features": [
+     "log_start",
+     "quali_gap",
+     "tm_quali_gap",
+     "sprint_delta",
+     "drv_form_pos",
+     "con_form_pos",
+     "drv_form_quali",
+     "drv_gain",
+     "drv_form_pos_early",
+     "con_form_pos_early",
+     "no_history"
+    ],
+    "l2": 1.0,
+    "depth": 3,
+    "season_half_life": 3.0,
+    "hidden": 8,
+    "l2_hidden": 4.0,
+    "n_models": 3,
+    "backend": "torch"
+   },
+   "dnf": {
+    "features": [
+     "con_dnf_rate",
+     "drv_dnf_rate",
+     "circuit_dnf_rate",
+     "log_start",
+     "early_era"
+    ],
+    "C": 1.0,
+    "season_half_life": 4.0
+   },
+   "form": {
+    "form_half_life": 6.0,
+    "dnf_half_life": 12.0
+   },
+   "n_sims": 10000,
+   "simulator": {
+    "w_quali": 0.6,
+    "lap_noise": 0.35,
+    "c0": -1.0,
+    "c1": 1.5,
+    "c2": 3.0,
+    "c3": 0.15,
+    "start_noise": 0.7,
+    "pit_jitter": 2.5,
+    "pace_unc": 0.3,
+    "team_share": 0.6,
+    "n_sims": 1000,
+    "weight": 0.5
+   }
+  },
+  "champion": {
+   "name": "simulator-blend-50",
+   "strength": {
+    "features": [
+     "log_start",
+     "quali_gap",
+     "tm_quali_gap",
+     "sprint_delta",
+     "drv_form_pos",
+     "con_form_pos",
+     "drv_form_quali",
+     "drv_gain",
+     "drv_form_pos_early",
+     "con_form_pos_early",
+     "no_history"
+    ],
+    "l2": 1.0,
+    "depth": 3,
+    "season_half_life": 3.0
+   },
+   "dnf": {
+    "features": [
+     "con_dnf_rate",
+     "drv_dnf_rate",
+     "circuit_dnf_rate",
+     "log_start",
+     "early_era"
+    ],
+    "C": 1.0,
+    "season_half_life": 4.0
+   },
+   "form": {
+    "form_half_life": 6.0,
+    "dnf_half_life": 12.0
+   },
+   "n_sims": 10000,
+   "simulator": {
+    "w_quali": 0.6,
+    "lap_noise": 0.35,
+    "c0": -1.0,
+    "c1": 1.5,
+    "c2": 3.0,
+    "c3": 0.15,
+    "start_noise": 0.7,
+    "pit_jitter": 2.5,
+    "pace_unc": 0.3,
+    "team_share": 0.6,
+    "n_sims": 1000,
+    "weight": 0.5
+   }
+  }
+ }
+}

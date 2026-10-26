@@ -1,5 +1,5 @@
 # Pinned (CLAUDE.md: reproducibility). Python 3.12.
-numpy==2.5.4
+numpy==2.3.5  # 2.4+ triggers pandas 2.3 timedelta deprecations
 pandas==2.3.3
 scipy==1.18.1
 scikit-learn==1.9.1
@@ -9,3 +9,8 @@ streamlit==1.66.1
 altair==6.3.0
 pyarrow==26.0.0
 pytest==9.1.1
+mlflow-skinny==3.17.2   # experiment tracking (local file store in mlruns/)
+optuna==5.0.0          # simulator calibration
+pandera==0.35.0         # data contracts
+shap==0.54.1            # model explanations
+-e .                    # the f1 / eval packages themselves

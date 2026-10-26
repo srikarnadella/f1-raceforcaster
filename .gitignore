@@ -9,3 +9,9 @@ __pycache__/
 # Markdown stays local, except the README
 *.md
 !README.md
+
+coverage.xml
+.coverage
+mlruns/
+mlflow.db
+*.egg-info/

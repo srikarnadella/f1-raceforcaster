@@ -1,0 +1,106 @@
+{
+ "note": "agree = Spearman with the classified finishing order, averaged over races (95% CI by bootstrap over races); repeat = team rank correlation between consecutive races of a season.",
+ "weekends": 87,
+ "methods": {
+  "raw_median": {
+   "group": "race pace (after the race)",
+   "agree_spearman": 0.835,
+   "agree_ci": [
+    0.805,
+    0.865
+   ],
+   "repeat_spearman": 0.732,
+   "races": 87
+  },
+  "green_median": {
+   "group": "race pace (after the race)",
+   "agree_spearman": 0.822,
+   "agree_ci": [
+    0.791,
+    0.852
+   ],
+   "repeat_spearman": 0.727,
+   "races": 87
+  },
+  "clean_median": {
+   "group": "race pace (after the race)",
+   "agree_spearman": 0.715,
+   "agree_ci": [
+    0.678,
+    0.751
+   ],
+   "repeat_spearman": 0.586,
+   "races": 87
+  },
+  "corrected": {
+   "group": "race pace (after the race)",
+   "agree_spearman": 0.832,
+   "agree_ci": [
+    0.801,
+    0.861
+   ],
+   "repeat_spearman": 0.731,
+   "races": 87
+  },
+  "quali_position": {
+   "group": "pre-race (predictive)",
+   "agree_spearman": 0.757,
+   "agree_ci": [
+    0.719,
+    0.794
+   ],
+   "repeat_spearman": 0.706,
+   "races": 87
+  },
+  "quali_best": {
+   "group": "pre-race (predictive)",
+   "agree_spearman": 0.765,
+   "agree_ci": [
+    0.728,
+    0.799
+   ],
+   "repeat_spearman": 0.712,
+   "races": 86
+  },
+  "quali_ideal": {
+   "group": "pre-race (predictive)",
+   "agree_spearman": 0.765,
+   "agree_ci": [
+    0.727,
+    0.801
+   ],
+   "repeat_spearman": 0.709,
+   "races": 86
+  },
+  "fp_best": {
+   "group": "pre-race (predictive)",
+   "agree_spearman": 0.615,
+   "agree_ci": [
+    0.565,
+    0.664
+   ],
+   "repeat_spearman": 0.59,
+   "races": 87
+  },
+  "fp_longrun": {
+   "group": "pre-race (predictive)",
+   "agree_spearman": 0.412,
+   "agree_ci": [
+    0.344,
+    0.48
+   ],
+   "repeat_spearman": 0.315,
+   "races": 67
+  },
+  "sprint_pace": {
+   "group": "pre-race (predictive)",
+   "agree_spearman": 0.687,
+   "agree_ci": [
+    0.6,
+    0.773
+   ],
+   "repeat_spearman": 0.709,
+   "races": 22
+  }
+ }
+}

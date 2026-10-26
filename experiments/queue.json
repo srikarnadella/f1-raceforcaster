@@ -1,5 +1,43 @@
 [
  {
+  "slug": "adaptive-win-temperature-24",
+  "hypothesis": "Winner sharpness differs by era (2023/2026 predictable, 2019-22 not). Let the model pick its own winner temperature from its last 24 training races. Offline vs v2: composite +1.34%, bootstrap 93%, 2026 winner log-loss 1.019 -> 0.944.",
+  "patch": {
+   "strength": {
+    "adaptive_win_temperature": 24
+   }
+  }
+ },
+ {
+  "slug": "simulator-optuna-params",
+  "patch": {
+   "simulator": {
+    "w_quali": 0.7461635386292644,
+    "lap_noise": 0.24563517027959714,
+    "c0": -1.0,
+    "c1": 2.4435718703442797,
+    "c2": 1.0878233973928328,
+    "c3": 0.15,
+    "start_noise": 0.9033727719074526,
+    "pit_jitter": 2.5,
+    "pace_unc": 0.21114146597167538,
+    "team_share": 0.6,
+    "n_sims": 1000,
+    "weight": 0.5
+   }
+  },
+  "hypothesis": "Optuna (TPE, 40 trials, tuned on 2023-2024 only) found better simulator settings. Offline vs v2: 2026 winner log-loss 1.019 -> 0.933, 2025-26 1.057 -> 1.006, podium Brier better, top pick unchanged; composite +0.91% (bootstrap 98%)."
+ },
+ {
+  "slug": "era-weight-0.1",
+  "hypothesis": "Owner: separate models per era. Train mostly on the current regulation era (earlier eras weighted 0.1). Offline vs v2: 2026 winner log-loss 1.019 -> 0.954, top pick unchanged (78%); composite +0.59% alone, so best tried after the adaptive temperature.",
+  "patch": {
+   "strength": {
+    "era_weight": 0.1
+   }
+  }
+ },
+ {
   "slug": "race-pace-features",
   "hypothesis": "Lap-derived race pace (clean-air, fuel/tyre-corrected) and each team's race-vs-quali pace delta add signal beyond one-lap pace and start position (user suggestion; R17 showed team deltas up to 0.9%).",
   "patch": {

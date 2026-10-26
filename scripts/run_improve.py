@@ -2,7 +2,6 @@
 import json
 import sys
 
-import _path  # noqa: F401
 
 from f1 import improve, ingest
 

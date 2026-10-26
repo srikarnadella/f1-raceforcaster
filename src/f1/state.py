@@ -2,7 +2,7 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timedelta, UTC
 
 import pandas as pd
 
@@ -42,9 +42,9 @@ def last_pre_race_session(ev) -> pd.Timestamp:
 
 def due_jobs(calendar: pd.DataFrame, now: datetime | None = None, st: dict | None = None) -> dict:
     """Which job (if any) is due now. Returns {"forecast": (s, r) | None, "review": ..., "overdue": [...]}"""
-    now = pd.Timestamp(now or datetime.now(timezone.utc))
+    now = pd.Timestamp(now or datetime.now(UTC))
     st = st or load()
-    out = {"forecast": None, "review": None, "overdue": []}
+    out: dict = {"forecast": None, "review": None, "overdue": []}
     for _, ev in calendar.sort_values(["season", "round"]).iterrows():
         k = key(ev["season"], ev["round"])
         ready = last_pre_race_session(ev) + QUALI_LENGTH + FORECAST_DELAY

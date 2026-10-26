@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="28" viewBox="0 0 168 28">
+<rect width="28" height="28" rx="6" fill="#4fb3c8"/>
+<g fill="#0f1012"><rect x="6" y="8" width="4" height="4"/><rect x="14" y="8" width="4" height="4"/>
+<rect x="10" y="12" width="4" height="4"/><rect x="18" y="12" width="4" height="4"/>
+<rect x="6" y="16" width="4" height="4"/><rect x="14" y="16" width="4" height="4"/></g>
+<text x="38" y="19" font-family="IBM Plex Sans, Inter, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ececee">F1 Forecaster</text>
+</svg>

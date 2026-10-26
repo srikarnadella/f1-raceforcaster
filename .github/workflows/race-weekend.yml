@@ -58,6 +58,16 @@ jobs:
         if: steps.gate.outputs.review != ''
         run: python scripts/run_review.py ${{ steps.gate.outputs.review }}
 
+      - name: OpenF1 weekend data (practice, quali, sprint, race) + analytics
+        id: openf1
+        continue-on-error: true   # OpenF1 is locked while a session is live; next tick retries
+        run: python scripts/fetch_openf1.py --max-minutes 15
+
+      - name: Rebuild analytics
+        if: steps.openf1.outputs.updated == 'true'
+        continue-on-error: true
+        run: python scripts/build_analytics.py
+
       - name: Open issue for data still missing after Tuesday
         if: steps.gate.outputs.overdue != ''
         env:
@@ -76,7 +86,7 @@ jobs:
           git config user.email "f1-forecaster-bot@users.noreply.github.com"
           git add data predictions reports models experiments state
           if ! git diff --cached --quiet; then
-            git commit -m "Automated ${{ steps.gate.outputs.forecast && 'forecast' || 'review' }} ${{ steps.gate.outputs.forecast }}${{ steps.gate.outputs.review }}"
+            git commit -m "Automated ${{ steps.gate.outputs.forecast && 'forecast' || steps.gate.outputs.review && 'review' || 'data refresh' }} ${{ steps.gate.outputs.forecast }}${{ steps.gate.outputs.review }}"
             git pull --rebase
             git push
           fi

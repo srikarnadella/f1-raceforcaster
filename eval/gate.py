@@ -2,12 +2,14 @@
 
 A candidate is promoted only if ALL hold against the current champion on the
 same walk-forward races:
-  1. composite skill (mean relative improvement over winner log-loss, podium
-     Brier, top-10 Brier, order Spearman) >= +1%
-  2. no single composite target worse by more than 2%
+  1. composite skill (weighted relative improvement: winner log-loss 60%,
+     podium Brier 40%; see eval/metrics.COMPOSITE_WEIGHTS) >= +1%
+  2. neither composite target worse by more than 2%
   3. paired bootstrap over races: candidate composite > champion in >= 80% of resamples
-  4. calibration not degraded: pooled ECE (win, top-3, top-10) rises by at most 0.005 each
+  4. calibration not degraded: pooled ECE for win and top-3 rises by at most 0.005 each
   5. leakage tests pass
+Objective changed by the project owner on 2026-10-25 (winner first, podium second; the full
+finishing order no longer decides promotions). Thresholds unchanged.
 """
 from __future__ import annotations
 
@@ -17,7 +19,7 @@ import sys
 import numpy as np
 import pandas as pd
 
-from eval.metrics import COMPOSITE, DIRECTION
+from eval.metrics import COMPOSITE, COMPOSITE_WEIGHTS, DIRECTION
 
 MIN_COMPOSITE = 0.01
 MAX_TARGET_REGRESSION = -0.02
@@ -34,7 +36,7 @@ def rel_improvement(cand: float, champ: float, metric: str) -> float:
 
 def composite(cand_means: dict, champ_means: dict) -> tuple[float, dict]:
     rel = {m: rel_improvement(cand_means[m], champ_means[m], m) for m in COMPOSITE}
-    return float(np.mean(list(rel.values()))), rel
+    return float(sum(COMPOSITE_WEIGHTS[m] * rel[m] for m in COMPOSITE)), rel
 
 
 def paired_bootstrap(cand: pd.DataFrame, champ: pd.DataFrame, n: int = N_BOOT, seed: int = 0) -> float:
@@ -60,7 +62,8 @@ def decide(cand: dict, champ: dict, run_leakage: bool = True) -> dict:
     """cand/champ: outputs of eval.harness.evaluate on the same races."""
     comp, rel = composite(cand["summary"], champ["summary"])
     boot = paired_bootstrap(cand["per_race"], champ["per_race"])
-    cal_ok = all(cand["calibration"][k] <= champ["calibration"][k] + MAX_ECE_INCREASE for k in champ["calibration"])
+    cal_keys = ("ece_win", "ece_top3")
+    cal_ok = all(cand["calibration"][k] <= champ["calibration"][k] + MAX_ECE_INCREASE for k in cal_keys)
     leak_ok = leakage_tests_pass() if run_leakage else True
     checks = {
         "composite": comp >= MIN_COMPOSITE,

@@ -1,17 +1,19 @@
 """F1 Forecaster dashboard. Reads only files committed in the repo."""
 import json
-import sys
 from pathlib import Path
 
 import altair as alt
-import numpy as np
 import pandas as pd
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parents[1]
-sys.path[:0] = [str(ROOT), str(ROOT / "src")]
 
 from eval.metrics import calibration_table  # noqa: E402
+import analytics_pages as AP  # noqa: E402
+import explore_pages as EP  # noqa: E402
+import search  # noqa: E402
+import unsupervised_page as UP  # noqa: E402
+import ui  # noqa: E402
 
 st.set_page_config(page_title="F1 Forecaster", layout="wide")
 DISCLAIMER = "Probabilistic forecasts for analysis only. Not betting or financial advice."
@@ -39,7 +41,7 @@ def next_race():
         st.info("No forecast logged yet.")
         return
     e = log[-1]
-    st.header(f"{e['season']} R{e['round']} · {e['race_name']}")
+    ui.title(f"{e['season']} R{e['round']} · {e['race_name']}", scope="Logged pre-race forecast")
     st.caption(f"Model **{e['model_version']}** · logged {e['logged_at']} · race start {e['race_utc']}"
                f" · commit {e['git_commit']} · feature hash {e['feature_hash']}" + (" · LATE (not counted)" if e["late"] else ""))
     df = pd.DataFrame(e["drivers"]).sort_values("pred_rank")
@@ -157,10 +159,35 @@ def model_log():
             st.markdown(cl.read_text())
 
 
-pg = st.navigation([st.Page(next_race, title="Next race", url_path="next"),
-                    st.Page(last_weekend, title="Last weekend", url_path="last"),
-                    st.Page(championship, title="Championship", url_path="championship"),
-                    st.Page(scorecard, title="Scorecard", url_path="scorecard"),
-                    st.Page(model_log, title="Model log", url_path="models")])
+PAGES = {
+    "": st.Page(AP.projections, title="Next race", url_path="projections", default=True),
+    "weekend": st.Page(AP.weekend_lab, title="Weekend lab", url_path="weekend"),
+    "race": st.Page(AP.race_story, title="Race story", url_path="race"),
+    "next": st.Page(next_race, title="Logged forecast", url_path="next"),
+    "last": st.Page(last_weekend, title="Post-race review", url_path="last"),
+    "driver": st.Page(EP.driver_page, title="Drivers", url_path="driver"),
+    "constructor": st.Page(EP.constructor_page, title="Constructors", url_path="constructor"),
+    "track": st.Page(EP.track_page, title="Tracks", url_path="track"),
+    "teams": st.Page(AP.team_dna, title="Team DNA", url_path="teams"),
+    "drivers": st.Page(AP.driver_dna, title="Driver DNA", url_path="drivers"),
+    "circuits": st.Page(AP.circuits, title="Circuit types", url_path="circuits"),
+    "eras": st.Page(EP.eras_page, title="Regulation eras", url_path="eras"),
+    "season": st.Page(EP.season_page, title="2026: predicting winners", url_path="season"),
+    "unsupervised": st.Page(UP.unsupervised_page, title="Unsupervised lab", url_path="unsupervised"),
+    "championship": st.Page(championship, title="Championship", url_path="championship"),
+    "ml": st.Page(AP.ml_lab, title="ML lab", url_path="ml"),
+    "scorecard": st.Page(scorecard, title="Scorecard", url_path="scorecard"),
+    "models": st.Page(model_log, title="Model log", url_path="models"),
+}
+SECTIONS = {"Race weekend": ["", "weekend", "race", "next", "last"],
+            "Explore": ["season", "unsupervised", "driver", "constructor", "track", "teams", "drivers", "circuits", "eras", "championship"],
+            "Models": ["ml", "scorecard", "models"]}
+pg = st.navigation({k: [PAGES[u] for u in v] for k, v in SECTIONS.items()}, expanded=True)
+search.maybe_switch(PAGES)
+ui.setup()
+ui.help_button(pg.url_path)
+search.box()
+_reg = jfile("models/registry.json", {})
+ui.brand(f"Champion {_reg.get('champion', '–')} · 2014–2026 results, 2023+ telemetry")
 st.sidebar.caption(DISCLAIMER)
 pg.run()

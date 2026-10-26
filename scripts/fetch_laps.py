@@ -8,7 +8,6 @@ import argparse
 import os
 import time
 
-import _path  # noqa: F401
 import requests
 
 from f1 import ingest, jolpica, laps

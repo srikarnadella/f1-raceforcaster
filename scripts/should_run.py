@@ -4,7 +4,6 @@ import json
 import os
 import sys
 
-import _path  # noqa: F401
 import pandas as pd
 
 from f1 import ingest, state

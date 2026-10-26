@@ -1,0 +1,32 @@
+# pip install -r requirements-dev.txt && pre-commit install
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v5.0.0
+    hooks:
+      - id: check-yaml
+      - id: check-toml
+      - id: end-of-file-fixer
+        exclude: ^data/
+      - id: trailing-whitespace
+        exclude: ^data/
+      - id: check-added-large-files
+        args: ["--maxkb=15000"]
+      - id: detect-private-key
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.8.4
+    hooks:
+      - id: ruff
+  - repo: local
+    hooks:
+      - id: mypy
+        name: mypy
+        entry: mypy
+        language: system
+        types: [python]
+        pass_filenames: false
+      - id: unit-tests
+        name: unit tests (no data store)
+        entry: python -m pytest -q -m "not data"
+        language: system
+        types: [python]
+        pass_filenames: false

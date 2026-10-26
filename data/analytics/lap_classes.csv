@@ -1,0 +1,1667 @@
+season,round,circuit_id,race_name,format,session,category,laps
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP1,cool,134
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP1,invalid,131
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP1,long,78
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP1,push,60
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP2,cool,271
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP2,invalid,139
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP2,long,56
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP2,push,56
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP3,cool,123
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP3,invalid,134
+2023,1,bahrain,Bahrain Grand Prix,conventional,FP3,push,64
+2023,1,bahrain,Bahrain Grand Prix,conventional,Q,cool,17
+2023,1,bahrain,Bahrain Grand Prix,conventional,Q,invalid,159
+2023,1,bahrain,Bahrain Grand Prix,conventional,Q,push,78
+2023,1,bahrain,Bahrain Grand Prix,conventional,R,clean,649
+2023,1,bahrain,Bahrain Grand Prix,conventional,R,invalid,120
+2023,1,bahrain,Bahrain Grand Prix,conventional,R,lap1,20
+2023,1,bahrain,Bahrain Grand Prix,conventional,R,neutral,12
+2023,1,bahrain,Bahrain Grand Prix,conventional,R,traffic,257
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,cool,195
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,invalid,131
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,long,74
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,push,67
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,cool,196
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,invalid,121
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,long,160
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,push,75
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,cool,133
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,invalid,113
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,long,18
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,push,92
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,Q,cool,85
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,Q,invalid,144
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,Q,push,100
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,R,clean,509
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,R,invalid,67
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,R,lap1,19
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,R,neutral,37
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,R,traffic,313
+2023,3,albert_park,Australian Grand Prix,conventional,FP1,cool,180
+2023,3,albert_park,Australian Grand Prix,conventional,FP1,invalid,135
+2023,3,albert_park,Australian Grand Prix,conventional,FP1,long,26
+2023,3,albert_park,Australian Grand Prix,conventional,FP1,push,56
+2023,3,albert_park,Australian Grand Prix,conventional,FP2,cool,143
+2023,3,albert_park,Australian Grand Prix,conventional,FP2,invalid,116
+2023,3,albert_park,Australian Grand Prix,conventional,FP2,long,11
+2023,3,albert_park,Australian Grand Prix,conventional,FP2,push,37
+2023,3,albert_park,Australian Grand Prix,conventional,FP3,cool,209
+2023,3,albert_park,Australian Grand Prix,conventional,FP3,invalid,137
+2023,3,albert_park,Australian Grand Prix,conventional,FP3,long,40
+2023,3,albert_park,Australian Grand Prix,conventional,FP3,push,68
+2023,3,albert_park,Australian Grand Prix,conventional,Q,cool,140
+2023,3,albert_park,Australian Grand Prix,conventional,Q,invalid,162
+2023,3,albert_park,Australian Grand Prix,conventional,Q,push,117
+2023,3,albert_park,Australian Grand Prix,conventional,R,clean,418
+2023,3,albert_park,Australian Grand Prix,conventional,R,invalid,161
+2023,3,albert_park,Australian Grand Prix,conventional,R,neutral,82
+2023,3,albert_park,Australian Grand Prix,conventional,R,traffic,345
+2023,4,baku,Azerbaijan Grand Prix,sprint,FP1,cool,194
+2023,4,baku,Azerbaijan Grand Prix,sprint,FP1,invalid,97
+2023,4,baku,Azerbaijan Grand Prix,sprint,FP1,long,40
+2023,4,baku,Azerbaijan Grand Prix,sprint,FP1,push,59
+2023,4,baku,Azerbaijan Grand Prix,sprint,Q,cool,66
+2023,4,baku,Azerbaijan Grand Prix,sprint,Q,invalid,189
+2023,4,baku,Azerbaijan Grand Prix,sprint,Q,push,101
+2023,4,baku,Azerbaijan Grand Prix,sprint,R,clean,407
+2023,4,baku,Azerbaijan Grand Prix,sprint,R,invalid,51
+2023,4,baku,Azerbaijan Grand Prix,sprint,R,lap1,18
+2023,4,baku,Azerbaijan Grand Prix,sprint,R,neutral,39
+2023,4,baku,Azerbaijan Grand Prix,sprint,R,traffic,448
+2023,4,baku,Azerbaijan Grand Prix,sprint,S,clean,84
+2023,4,baku,Azerbaijan Grand Prix,sprint,S,invalid,10
+2023,4,baku,Azerbaijan Grand Prix,sprint,S,lap1,17
+2023,4,baku,Azerbaijan Grand Prix,sprint,S,neutral,70
+2023,4,baku,Azerbaijan Grand Prix,sprint,S,traffic,128
+2023,4,baku,Azerbaijan Grand Prix,sprint,SQ,cool,82
+2023,4,baku,Azerbaijan Grand Prix,sprint,SQ,invalid,81
+2023,4,baku,Azerbaijan Grand Prix,sprint,SQ,push,70
+2023,5,miami,Miami Grand Prix,conventional,FP1,cool,201
+2023,5,miami,Miami Grand Prix,conventional,FP1,invalid,117
+2023,5,miami,Miami Grand Prix,conventional,FP1,long,84
+2023,5,miami,Miami Grand Prix,conventional,FP1,push,47
+2023,5,miami,Miami Grand Prix,conventional,FP2,cool,240
+2023,5,miami,Miami Grand Prix,conventional,FP2,invalid,167
+2023,5,miami,Miami Grand Prix,conventional,FP2,long,6
+2023,5,miami,Miami Grand Prix,conventional,FP2,push,67
+2023,5,miami,Miami Grand Prix,conventional,FP3,cool,162
+2023,5,miami,Miami Grand Prix,conventional,FP3,invalid,150
+2023,5,miami,Miami Grand Prix,conventional,FP3,long,12
+2023,5,miami,Miami Grand Prix,conventional,FP3,push,95
+2023,5,miami,Miami Grand Prix,conventional,Q,cool,70
+2023,5,miami,Miami Grand Prix,conventional,Q,invalid,149
+2023,5,miami,Miami Grand Prix,conventional,Q,push,89
+2023,5,miami,Miami Grand Prix,conventional,R,clean,678
+2023,5,miami,Miami Grand Prix,conventional,R,invalid,48
+2023,5,miami,Miami Grand Prix,conventional,R,lap1,20
+2023,5,miami,Miami Grand Prix,conventional,R,traffic,393
+2023,6,monaco,Monaco Grand Prix,conventional,FP1,cool,236
+2023,6,monaco,Monaco Grand Prix,conventional,FP1,invalid,130
+2023,6,monaco,Monaco Grand Prix,conventional,FP1,long,120
+2023,6,monaco,Monaco Grand Prix,conventional,FP1,push,64
+2023,6,monaco,Monaco Grand Prix,conventional,FP2,cool,231
+2023,6,monaco,Monaco Grand Prix,conventional,FP2,invalid,151
+2023,6,monaco,Monaco Grand Prix,conventional,FP2,long,107
+2023,6,monaco,Monaco Grand Prix,conventional,FP2,push,81
+2023,6,monaco,Monaco Grand Prix,conventional,FP3,cool,184
+2023,6,monaco,Monaco Grand Prix,conventional,FP3,invalid,116
+2023,6,monaco,Monaco Grand Prix,conventional,FP3,long,27
+2023,6,monaco,Monaco Grand Prix,conventional,FP3,push,65
+2023,6,monaco,Monaco Grand Prix,conventional,Q,cool,120
+2023,6,monaco,Monaco Grand Prix,conventional,Q,invalid,196
+2023,6,monaco,Monaco Grand Prix,conventional,Q,push,104
+2023,6,monaco,Monaco Grand Prix,conventional,R,clean,741
+2023,6,monaco,Monaco Grand Prix,conventional,R,invalid,129
+2023,6,monaco,Monaco Grand Prix,conventional,R,neutral,297
+2023,6,monaco,Monaco Grand Prix,conventional,R,traffic,349
+2023,7,catalunya,Spanish Grand Prix,conventional,FP1,cool,240
+2023,7,catalunya,Spanish Grand Prix,conventional,FP1,invalid,164
+2023,7,catalunya,Spanish Grand Prix,conventional,FP1,long,79
+2023,7,catalunya,Spanish Grand Prix,conventional,FP1,push,62
+2023,7,catalunya,Spanish Grand Prix,conventional,FP2,cool,395
+2023,7,catalunya,Spanish Grand Prix,conventional,FP2,invalid,169
+2023,7,catalunya,Spanish Grand Prix,conventional,FP2,push,54
+2023,7,catalunya,Spanish Grand Prix,conventional,FP3,cool,138
+2023,7,catalunya,Spanish Grand Prix,conventional,FP3,invalid,120
+2023,7,catalunya,Spanish Grand Prix,conventional,FP3,push,33
+2023,7,catalunya,Spanish Grand Prix,conventional,Q,cool,51
+2023,7,catalunya,Spanish Grand Prix,conventional,Q,invalid,205
+2023,7,catalunya,Spanish Grand Prix,conventional,Q,push,81
+2023,7,catalunya,Spanish Grand Prix,conventional,R,clean,880
+2023,7,catalunya,Spanish Grand Prix,conventional,R,invalid,97
+2023,7,catalunya,Spanish Grand Prix,conventional,R,lap1,17
+2023,7,catalunya,Spanish Grand Prix,conventional,R,traffic,318
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP1,invalid,32
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP1,push,12
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP2,cool,187
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP2,invalid,212
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP2,long,218
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP2,push,63
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP3,cool,165
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP3,invalid,118
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP3,long,100
+2023,8,villeneuve,Canadian Grand Prix,conventional,FP3,push,23
+2023,8,villeneuve,Canadian Grand Prix,conventional,Q,cool,133
+2023,8,villeneuve,Canadian Grand Prix,conventional,Q,invalid,206
+2023,8,villeneuve,Canadian Grand Prix,conventional,Q,long,31
+2023,8,villeneuve,Canadian Grand Prix,conventional,Q,push,51
+2023,8,villeneuve,Canadian Grand Prix,conventional,R,clean,631
+2023,8,villeneuve,Canadian Grand Prix,conventional,R,invalid,109
+2023,8,villeneuve,Canadian Grand Prix,conventional,R,neutral,111
+2023,8,villeneuve,Canadian Grand Prix,conventional,R,traffic,467
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,FP1,cool,226
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,FP1,invalid,162
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,FP1,long,141
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,FP1,push,75
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,Q,cool,54
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,Q,invalid,215
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,Q,push,108
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,R,clean,811
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,R,invalid,176
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,R,neutral,24
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,R,traffic,344
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,S,clean,208
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,S,invalid,28
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,S,neutral,20
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,S,traffic,224
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,SQ,cool,114
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,SQ,invalid,163
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,SQ,push,78
+2023,10,silverstone,British Grand Prix,conventional,FP1,cool,182
+2023,10,silverstone,British Grand Prix,conventional,FP1,invalid,149
+2023,10,silverstone,British Grand Prix,conventional,FP1,long,66
+2023,10,silverstone,British Grand Prix,conventional,FP1,push,72
+2023,10,silverstone,British Grand Prix,conventional,FP2,cool,170
+2023,10,silverstone,British Grand Prix,conventional,FP2,invalid,135
+2023,10,silverstone,British Grand Prix,conventional,FP2,long,136
+2023,10,silverstone,British Grand Prix,conventional,FP2,push,71
+2023,10,silverstone,British Grand Prix,conventional,FP3,cool,156
+2023,10,silverstone,British Grand Prix,conventional,FP3,invalid,130
+2023,10,silverstone,British Grand Prix,conventional,FP3,long,5
+2023,10,silverstone,British Grand Prix,conventional,FP3,push,50
+2023,10,silverstone,British Grand Prix,conventional,Q,cool,137
+2023,10,silverstone,British Grand Prix,conventional,Q,invalid,195
+2023,10,silverstone,British Grand Prix,conventional,Q,push,54
+2023,10,silverstone,British Grand Prix,conventional,R,clean,420
+2023,10,silverstone,British Grand Prix,conventional,R,invalid,67
+2023,10,silverstone,British Grand Prix,conventional,R,lap1,20
+2023,10,silverstone,British Grand Prix,conventional,R,neutral,89
+2023,10,silverstone,British Grand Prix,conventional,R,traffic,378
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP1,cool,38
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP1,invalid,101
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP1,long,22
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP1,push,19
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP2,cool,284
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP2,invalid,142
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP2,long,40
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP2,push,65
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP3,cool,192
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP3,invalid,159
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP3,long,29
+2023,11,hungaroring,Hungarian Grand Prix,conventional,FP3,push,73
+2023,11,hungaroring,Hungarian Grand Prix,conventional,Q,cool,80
+2023,11,hungaroring,Hungarian Grand Prix,conventional,Q,invalid,175
+2023,11,hungaroring,Hungarian Grand Prix,conventional,Q,push,75
+2023,11,hungaroring,Hungarian Grand Prix,conventional,R,clean,908
+2023,11,hungaroring,Hungarian Grand Prix,conventional,R,invalid,90
+2023,11,hungaroring,Hungarian Grand Prix,conventional,R,lap1,20
+2023,11,hungaroring,Hungarian Grand Prix,conventional,R,traffic,237
+2023,12,spa,Belgian Grand Prix,sprint,FP1,cool,21
+2023,12,spa,Belgian Grand Prix,sprint,FP1,invalid,76
+2023,12,spa,Belgian Grand Prix,sprint,FP1,push,18
+2023,12,spa,Belgian Grand Prix,sprint,Q,cool,136
+2023,12,spa,Belgian Grand Prix,sprint,Q,invalid,170
+2023,12,spa,Belgian Grand Prix,sprint,Q,push,35
+2023,12,spa,Belgian Grand Prix,sprint,R,clean,447
+2023,12,spa,Belgian Grand Prix,sprint,R,invalid,90
+2023,12,spa,Belgian Grand Prix,sprint,R,lap1,18
+2023,12,spa,Belgian Grand Prix,sprint,R,traffic,262
+2023,12,spa,Belgian Grand Prix,sprint,S,clean,47
+2023,12,spa,Belgian Grand Prix,sprint,S,invalid,22
+2023,12,spa,Belgian Grand Prix,sprint,S,neutral,48
+2023,12,spa,Belgian Grand Prix,sprint,S,traffic,93
+2023,12,spa,Belgian Grand Prix,sprint,SQ,cool,90
+2023,12,spa,Belgian Grand Prix,sprint,SQ,invalid,103
+2023,12,spa,Belgian Grand Prix,sprint,SQ,push,27
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP1,cool,195
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP1,invalid,128
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP1,long,103
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP1,push,51
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP2,cool,291
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP2,invalid,125
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP2,long,84
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP2,push,50
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP3,cool,170
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP3,invalid,117
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP3,long,10
+2023,13,zandvoort,Dutch Grand Prix,conventional,FP3,push,42
+2023,13,zandvoort,Dutch Grand Prix,conventional,Q,cool,243
+2023,13,zandvoort,Dutch Grand Prix,conventional,Q,invalid,181
+2023,13,zandvoort,Dutch Grand Prix,conventional,Q,long,7
+2023,13,zandvoort,Dutch Grand Prix,conventional,Q,push,41
+2023,13,zandvoort,Dutch Grand Prix,conventional,R,clean,602
+2023,13,zandvoort,Dutch Grand Prix,conventional,R,invalid,193
+2023,13,zandvoort,Dutch Grand Prix,conventional,R,neutral,162
+2023,13,zandvoort,Dutch Grand Prix,conventional,R,traffic,387
+2023,14,monza,Italian Grand Prix,conventional,FP1,cool,153
+2023,14,monza,Italian Grand Prix,conventional,FP1,invalid,123
+2023,14,monza,Italian Grand Prix,conventional,FP1,long,121
+2023,14,monza,Italian Grand Prix,conventional,FP1,push,86
+2023,14,monza,Italian Grand Prix,conventional,FP2,cool,156
+2023,14,monza,Italian Grand Prix,conventional,FP2,invalid,171
+2023,14,monza,Italian Grand Prix,conventional,FP2,long,7
+2023,14,monza,Italian Grand Prix,conventional,FP2,push,63
+2023,14,monza,Italian Grand Prix,conventional,FP3,cool,133
+2023,14,monza,Italian Grand Prix,conventional,FP3,invalid,161
+2023,14,monza,Italian Grand Prix,conventional,FP3,long,93
+2023,14,monza,Italian Grand Prix,conventional,FP3,push,90
+2023,14,monza,Italian Grand Prix,conventional,Q,cool,47
+2023,14,monza,Italian Grand Prix,conventional,Q,invalid,185
+2023,14,monza,Italian Grand Prix,conventional,Q,push,95
+2023,14,monza,Italian Grand Prix,conventional,R,clean,492
+2023,14,monza,Italian Grand Prix,conventional,R,invalid,84
+2023,14,monza,Italian Grand Prix,conventional,R,lap1,19
+2023,14,monza,Italian Grand Prix,conventional,R,traffic,373
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP1,cool,241
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP1,invalid,126
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP1,long,60
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP1,push,48
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP2,cool,199
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP2,invalid,120
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP2,long,93
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP2,push,63
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP3,cool,157
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP3,invalid,146
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP3,long,13
+2023,15,marina_bay,Singapore Grand Prix,conventional,FP3,push,78
+2023,15,marina_bay,Singapore Grand Prix,conventional,Q,cool,35
+2023,15,marina_bay,Singapore Grand Prix,conventional,Q,invalid,176
+2023,15,marina_bay,Singapore Grand Prix,conventional,Q,push,86
+2023,15,marina_bay,Singapore Grand Prix,conventional,R,clean,476
+2023,15,marina_bay,Singapore Grand Prix,conventional,R,invalid,68
+2023,15,marina_bay,Singapore Grand Prix,conventional,R,lap1,17
+2023,15,marina_bay,Singapore Grand Prix,conventional,R,neutral,36
+2023,15,marina_bay,Singapore Grand Prix,conventional,R,traffic,494
+2023,16,suzuka,Japanese Grand Prix,conventional,FP1,cool,218
+2023,16,suzuka,Japanese Grand Prix,conventional,FP1,invalid,135
+2023,16,suzuka,Japanese Grand Prix,conventional,FP1,long,57
+2023,16,suzuka,Japanese Grand Prix,conventional,FP1,push,64
+2023,16,suzuka,Japanese Grand Prix,conventional,FP2,cool,221
+2023,16,suzuka,Japanese Grand Prix,conventional,FP2,invalid,172
+2023,16,suzuka,Japanese Grand Prix,conventional,FP2,push,52
+2023,16,suzuka,Japanese Grand Prix,conventional,FP3,cool,87
+2023,16,suzuka,Japanese Grand Prix,conventional,FP3,invalid,135
+2023,16,suzuka,Japanese Grand Prix,conventional,FP3,long,10
+2023,16,suzuka,Japanese Grand Prix,conventional,FP3,push,68
+2023,16,suzuka,Japanese Grand Prix,conventional,Q,cool,18
+2023,16,suzuka,Japanese Grand Prix,conventional,Q,invalid,143
+2023,16,suzuka,Japanese Grand Prix,conventional,Q,push,76
+2023,16,suzuka,Japanese Grand Prix,conventional,R,clean,523
+2023,16,suzuka,Japanese Grand Prix,conventional,R,invalid,104
+2023,16,suzuka,Japanese Grand Prix,conventional,R,neutral,82
+2023,16,suzuka,Japanese Grand Prix,conventional,R,traffic,177
+2023,17,losail,Qatar Grand Prix,sprint,FP1,cool,248
+2023,17,losail,Qatar Grand Prix,sprint,FP1,invalid,143
+2023,17,losail,Qatar Grand Prix,sprint,FP1,long,82
+2023,17,losail,Qatar Grand Prix,sprint,FP1,push,45
+2023,17,losail,Qatar Grand Prix,sprint,Q,cool,65
+2023,17,losail,Qatar Grand Prix,sprint,Q,invalid,190
+2023,17,losail,Qatar Grand Prix,sprint,Q,push,89
+2023,17,losail,Qatar Grand Prix,sprint,R,clean,560
+2023,17,losail,Qatar Grand Prix,sprint,R,invalid,160
+2023,17,losail,Qatar Grand Prix,sprint,R,neutral,61
+2023,17,losail,Qatar Grand Prix,sprint,R,traffic,228
+2023,17,losail,Qatar Grand Prix,sprint,S,clean,30
+2023,17,losail,Qatar Grand Prix,sprint,S,invalid,30
+2023,17,losail,Qatar Grand Prix,sprint,S,neutral,134
+2023,17,losail,Qatar Grand Prix,sprint,S,traffic,129
+2023,17,losail,Qatar Grand Prix,sprint,SQ,cool,56
+2023,17,losail,Qatar Grand Prix,sprint,SQ,invalid,107
+2023,17,losail,Qatar Grand Prix,sprint,SQ,push,75
+2023,18,americas,United States Grand Prix,sprint,FP1,cool,205
+2023,18,americas,United States Grand Prix,sprint,FP1,invalid,117
+2023,18,americas,United States Grand Prix,sprint,FP1,long,67
+2023,18,americas,United States Grand Prix,sprint,FP1,push,52
+2023,18,americas,United States Grand Prix,sprint,Q,cool,27
+2023,18,americas,United States Grand Prix,sprint,Q,invalid,175
+2023,18,americas,United States Grand Prix,sprint,Q,push,91
+2023,18,americas,United States Grand Prix,sprint,R,clean,671
+2023,18,americas,United States Grand Prix,sprint,R,invalid,109
+2023,18,americas,United States Grand Prix,sprint,R,lap1,14
+2023,18,americas,United States Grand Prix,sprint,R,traffic,223
+2023,18,americas,United States Grand Prix,sprint,S,clean,172
+2023,18,americas,United States Grand Prix,sprint,S,invalid,17
+2023,18,americas,United States Grand Prix,sprint,S,lap1,20
+2023,18,americas,United States Grand Prix,sprint,S,traffic,170
+2023,18,americas,United States Grand Prix,sprint,SQ,cool,53
+2023,18,americas,United States Grand Prix,sprint,SQ,invalid,94
+2023,18,americas,United States Grand Prix,sprint,SQ,push,62
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP1,cool,176
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP1,invalid,138
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP1,long,166
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP1,push,44
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP2,cool,196
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP2,invalid,167
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP2,long,157
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP2,push,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP3,cool,137
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP3,invalid,140
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP3,long,56
+2023,19,rodriguez,Mexico City Grand Prix,conventional,FP3,push,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,Q,cool,24
+2023,19,rodriguez,Mexico City Grand Prix,conventional,Q,invalid,166
+2023,19,rodriguez,Mexico City Grand Prix,conventional,Q,push,77
+2023,19,rodriguez,Mexico City Grand Prix,conventional,R,clean,616
+2023,19,rodriguez,Mexico City Grand Prix,conventional,R,invalid,88
+2023,19,rodriguez,Mexico City Grand Prix,conventional,R,lap1,19
+2023,19,rodriguez,Mexico City Grand Prix,conventional,R,neutral,52
+2023,19,rodriguez,Mexico City Grand Prix,conventional,R,traffic,511
+2023,20,interlagos,São Paulo Grand Prix,sprint,FP1,cool,222
+2023,20,interlagos,São Paulo Grand Prix,sprint,FP1,invalid,137
+2023,20,interlagos,São Paulo Grand Prix,sprint,FP1,long,159
+2023,20,interlagos,São Paulo Grand Prix,sprint,FP1,push,49
+2023,20,interlagos,São Paulo Grand Prix,sprint,Q,cool,31
+2023,20,interlagos,São Paulo Grand Prix,sprint,Q,invalid,173
+2023,20,interlagos,São Paulo Grand Prix,sprint,Q,push,89
+2023,20,interlagos,São Paulo Grand Prix,sprint,R,clean,740
+2023,20,interlagos,São Paulo Grand Prix,sprint,R,invalid,123
+2023,20,interlagos,São Paulo Grand Prix,sprint,R,traffic,249
+2023,20,interlagos,São Paulo Grand Prix,sprint,S,clean,159
+2023,20,interlagos,São Paulo Grand Prix,sprint,S,invalid,1
+2023,20,interlagos,São Paulo Grand Prix,sprint,S,lap1,20
+2023,20,interlagos,São Paulo Grand Prix,sprint,S,traffic,300
+2023,20,interlagos,São Paulo Grand Prix,sprint,SQ,cool,36
+2023,20,interlagos,São Paulo Grand Prix,sprint,SQ,invalid,116
+2023,20,interlagos,São Paulo Grand Prix,sprint,SQ,push,57
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP1,cool,18
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP1,invalid,35
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP1,push,19
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP2,cool,342
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP2,invalid,169
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP2,long,168
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP2,push,75
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP3,cool,133
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP3,invalid,101
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP3,long,65
+2023,21,vegas,Las Vegas Grand Prix,conventional,FP3,push,49
+2023,21,vegas,Las Vegas Grand Prix,conventional,Q,cool,121
+2023,21,vegas,Las Vegas Grand Prix,conventional,Q,invalid,139
+2023,21,vegas,Las Vegas Grand Prix,conventional,Q,push,92
+2023,21,vegas,Las Vegas Grand Prix,conventional,R,clean,325
+2023,21,vegas,Las Vegas Grand Prix,conventional,R,invalid,79
+2023,21,vegas,Las Vegas Grand Prix,conventional,R,neutral,141
+2023,21,vegas,Las Vegas Grand Prix,conventional,R,traffic,404
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,cool,176
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,invalid,157
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,long,66
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,push,90
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,cool,100
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,invalid,118
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,long,53
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,push,47
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,cool,119
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,invalid,149
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,long,49
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,push,81
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,Q,cool,17
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,Q,invalid,161
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,Q,push,85
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,R,clean,667
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,R,invalid,105
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,R,lap1,20
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,R,traffic,367
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP1,cool,140
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP1,invalid,127
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP1,long,106
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP1,push,76
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP2,cool,205
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP2,invalid,132
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP2,long,108
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP2,push,65
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP3,cool,97
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP3,invalid,140
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP3,long,10
+2024,1,bahrain,Bahrain Grand Prix,conventional,FP3,push,64
+2024,1,bahrain,Bahrain Grand Prix,conventional,Q,cool,15
+2024,1,bahrain,Bahrain Grand Prix,conventional,Q,invalid,168
+2024,1,bahrain,Bahrain Grand Prix,conventional,Q,push,84
+2024,1,bahrain,Bahrain Grand Prix,conventional,R,clean,720
+2024,1,bahrain,Bahrain Grand Prix,conventional,R,invalid,103
+2024,1,bahrain,Bahrain Grand Prix,conventional,R,lap1,19
+2024,1,bahrain,Bahrain Grand Prix,conventional,R,traffic,287
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,cool,200
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,invalid,127
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,long,63
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP1,push,81
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,cool,164
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,invalid,131
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,long,156
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP2,push,77
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,cool,101
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,invalid,97
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,long,18
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,FP3,push,64
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,Q,cool,53
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,Q,invalid,168
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,Q,push,95
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,R,clean,439
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,R,invalid,56
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,R,lap1,20
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,R,neutral,26
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,R,traffic,361
+2024,3,albert_park,Australian Grand Prix,conventional,FP1,cool,173
+2024,3,albert_park,Australian Grand Prix,conventional,FP1,invalid,157
+2024,3,albert_park,Australian Grand Prix,conventional,FP1,long,36
+2024,3,albert_park,Australian Grand Prix,conventional,FP1,push,70
+2024,3,albert_park,Australian Grand Prix,conventional,FP2,cool,251
+2024,3,albert_park,Australian Grand Prix,conventional,FP2,invalid,152
+2024,3,albert_park,Australian Grand Prix,conventional,FP2,long,51
+2024,3,albert_park,Australian Grand Prix,conventional,FP2,push,78
+2024,3,albert_park,Australian Grand Prix,conventional,FP3,cool,155
+2024,3,albert_park,Australian Grand Prix,conventional,FP3,invalid,150
+2024,3,albert_park,Australian Grand Prix,conventional,FP3,long,5
+2024,3,albert_park,Australian Grand Prix,conventional,FP3,push,87
+2024,3,albert_park,Australian Grand Prix,conventional,Q,cool,50
+2024,3,albert_park,Australian Grand Prix,conventional,Q,invalid,172
+2024,3,albert_park,Australian Grand Prix,conventional,Q,push,94
+2024,3,albert_park,Australian Grand Prix,conventional,R,clean,618
+2024,3,albert_park,Australian Grand Prix,conventional,R,invalid,113
+2024,3,albert_park,Australian Grand Prix,conventional,R,lap1,18
+2024,3,albert_park,Australian Grand Prix,conventional,R,neutral,37
+2024,3,albert_park,Australian Grand Prix,conventional,R,traffic,212
+2024,4,suzuka,Japanese Grand Prix,conventional,FP1,cool,154
+2024,4,suzuka,Japanese Grand Prix,conventional,FP1,invalid,130
+2024,4,suzuka,Japanese Grand Prix,conventional,FP1,long,28
+2024,4,suzuka,Japanese Grand Prix,conventional,FP1,push,72
+2024,4,suzuka,Japanese Grand Prix,conventional,FP2,cool,23
+2024,4,suzuka,Japanese Grand Prix,conventional,FP2,invalid,34
+2024,4,suzuka,Japanese Grand Prix,conventional,FP2,push,14
+2024,4,suzuka,Japanese Grand Prix,conventional,FP3,cool,184
+2024,4,suzuka,Japanese Grand Prix,conventional,FP3,invalid,128
+2024,4,suzuka,Japanese Grand Prix,conventional,FP3,long,61
+2024,4,suzuka,Japanese Grand Prix,conventional,FP3,push,62
+2024,4,suzuka,Japanese Grand Prix,conventional,Q,cool,20
+2024,4,suzuka,Japanese Grand Prix,conventional,Q,invalid,129
+2024,4,suzuka,Japanese Grand Prix,conventional,Q,push,74
+2024,4,suzuka,Japanese Grand Prix,conventional,R,clean,527
+2024,4,suzuka,Japanese Grand Prix,conventional,R,invalid,120
+2024,4,suzuka,Japanese Grand Prix,conventional,R,neutral,17
+2024,4,suzuka,Japanese Grand Prix,conventional,R,traffic,244
+2024,5,shanghai,Chinese Grand Prix,sprint,FP1,cool,196
+2024,5,shanghai,Chinese Grand Prix,sprint,FP1,invalid,118
+2024,5,shanghai,Chinese Grand Prix,sprint,FP1,long,96
+2024,5,shanghai,Chinese Grand Prix,sprint,FP1,push,43
+2024,5,shanghai,Chinese Grand Prix,sprint,Q,cool,24
+2024,5,shanghai,Chinese Grand Prix,sprint,Q,invalid,175
+2024,5,shanghai,Chinese Grand Prix,sprint,Q,push,81
+2024,5,shanghai,Chinese Grand Prix,sprint,R,clean,471
+2024,5,shanghai,Chinese Grand Prix,sprint,R,invalid,89
+2024,5,shanghai,Chinese Grand Prix,sprint,R,lap1,19
+2024,5,shanghai,Chinese Grand Prix,sprint,R,neutral,152
+2024,5,shanghai,Chinese Grand Prix,sprint,R,traffic,302
+2024,5,shanghai,Chinese Grand Prix,sprint,S,clean,128
+2024,5,shanghai,Chinese Grand Prix,sprint,S,invalid,7
+2024,5,shanghai,Chinese Grand Prix,sprint,S,lap1,19
+2024,5,shanghai,Chinese Grand Prix,sprint,S,traffic,225
+2024,5,shanghai,Chinese Grand Prix,sprint,SQ,cool,69
+2024,5,shanghai,Chinese Grand Prix,sprint,SQ,invalid,98
+2024,5,shanghai,Chinese Grand Prix,sprint,SQ,push,53
+2024,6,miami,Miami Grand Prix,sprint,FP1,cool,165
+2024,6,miami,Miami Grand Prix,sprint,FP1,invalid,139
+2024,6,miami,Miami Grand Prix,sprint,FP1,long,108
+2024,6,miami,Miami Grand Prix,sprint,FP1,push,52
+2024,6,miami,Miami Grand Prix,sprint,Q,cool,17
+2024,6,miami,Miami Grand Prix,sprint,Q,invalid,200
+2024,6,miami,Miami Grand Prix,sprint,Q,push,101
+2024,6,miami,Miami Grand Prix,sprint,R,clean,494
+2024,6,miami,Miami Grand Prix,sprint,R,invalid,77
+2024,6,miami,Miami Grand Prix,sprint,R,lap1,19
+2024,6,miami,Miami Grand Prix,sprint,R,neutral,71
+2024,6,miami,Miami Grand Prix,sprint,R,traffic,451
+2024,6,miami,Miami Grand Prix,sprint,S,clean,83
+2024,6,miami,Miami Grand Prix,sprint,S,invalid,64
+2024,6,miami,Miami Grand Prix,sprint,S,neutral,1
+2024,6,miami,Miami Grand Prix,sprint,S,traffic,197
+2024,6,miami,Miami Grand Prix,sprint,SQ,cool,45
+2024,6,miami,Miami Grand Prix,sprint,SQ,invalid,112
+2024,6,miami,Miami Grand Prix,sprint,SQ,push,73
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP1,cool,172
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP1,invalid,136
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP1,long,111
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP1,push,44
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP2,cool,195
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP2,invalid,134
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP2,long,166
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP2,push,76
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP3,cool,98
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP3,invalid,164
+2024,7,imola,Emilia Romagna Grand Prix,conventional,FP3,push,67
+2024,7,imola,Emilia Romagna Grand Prix,conventional,Q,cool,14
+2024,7,imola,Emilia Romagna Grand Prix,conventional,Q,invalid,187
+2024,7,imola,Emilia Romagna Grand Prix,conventional,Q,push,85
+2024,7,imola,Emilia Romagna Grand Prix,conventional,R,clean,840
+2024,7,imola,Emilia Romagna Grand Prix,conventional,R,invalid,66
+2024,7,imola,Emilia Romagna Grand Prix,conventional,R,lap1,19
+2024,7,imola,Emilia Romagna Grand Prix,conventional,R,traffic,314
+2024,8,monaco,Monaco Grand Prix,conventional,FP1,cool,299
+2024,8,monaco,Monaco Grand Prix,conventional,FP1,invalid,145
+2024,8,monaco,Monaco Grand Prix,conventional,FP1,long,122
+2024,8,monaco,Monaco Grand Prix,conventional,FP1,push,54
+2024,8,monaco,Monaco Grand Prix,conventional,FP2,cool,295
+2024,8,monaco,Monaco Grand Prix,conventional,FP2,invalid,153
+2024,8,monaco,Monaco Grand Prix,conventional,FP2,long,164
+2024,8,monaco,Monaco Grand Prix,conventional,FP2,push,64
+2024,8,monaco,Monaco Grand Prix,conventional,FP3,cool,235
+2024,8,monaco,Monaco Grand Prix,conventional,FP3,invalid,136
+2024,8,monaco,Monaco Grand Prix,conventional,FP3,long,41
+2024,8,monaco,Monaco Grand Prix,conventional,FP3,push,84
+2024,8,monaco,Monaco Grand Prix,conventional,Q,cool,115
+2024,8,monaco,Monaco Grand Prix,conventional,Q,invalid,204
+2024,8,monaco,Monaco Grand Prix,conventional,Q,long,5
+2024,8,monaco,Monaco Grand Prix,conventional,Q,push,102
+2024,8,monaco,Monaco Grand Prix,conventional,R,clean,657
+2024,8,monaco,Monaco Grand Prix,conventional,R,invalid,61
+2024,8,monaco,Monaco Grand Prix,conventional,R,traffic,519
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP1,cool,37
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP1,invalid,93
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP1,push,21
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP2,cool,262
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP2,invalid,121
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP2,long,34
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP2,push,20
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP3,cool,257
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP3,invalid,171
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP3,long,74
+2024,9,villeneuve,Canadian Grand Prix,conventional,FP3,push,76
+2024,9,villeneuve,Canadian Grand Prix,conventional,Q,cool,117
+2024,9,villeneuve,Canadian Grand Prix,conventional,Q,invalid,184
+2024,9,villeneuve,Canadian Grand Prix,conventional,Q,push,107
+2024,9,villeneuve,Canadian Grand Prix,conventional,R,clean,503
+2024,9,villeneuve,Canadian Grand Prix,conventional,R,invalid,176
+2024,9,villeneuve,Canadian Grand Prix,conventional,R,neutral,135
+2024,9,villeneuve,Canadian Grand Prix,conventional,R,traffic,458
+2024,10,catalunya,Spanish Grand Prix,conventional,FP1,cool,287
+2024,10,catalunya,Spanish Grand Prix,conventional,FP1,invalid,184
+2024,10,catalunya,Spanish Grand Prix,conventional,FP1,long,28
+2024,10,catalunya,Spanish Grand Prix,conventional,FP1,push,41
+2024,10,catalunya,Spanish Grand Prix,conventional,FP2,cool,360
+2024,10,catalunya,Spanish Grand Prix,conventional,FP2,invalid,161
+2024,10,catalunya,Spanish Grand Prix,conventional,FP2,push,50
+2024,10,catalunya,Spanish Grand Prix,conventional,FP3,cool,123
+2024,10,catalunya,Spanish Grand Prix,conventional,FP3,invalid,165
+2024,10,catalunya,Spanish Grand Prix,conventional,FP3,long,28
+2024,10,catalunya,Spanish Grand Prix,conventional,FP3,push,55
+2024,10,catalunya,Spanish Grand Prix,conventional,Q,cool,13
+2024,10,catalunya,Spanish Grand Prix,conventional,Q,invalid,163
+2024,10,catalunya,Spanish Grand Prix,conventional,Q,push,81
+2024,10,catalunya,Spanish Grand Prix,conventional,R,clean,864
+2024,10,catalunya,Spanish Grand Prix,conventional,R,invalid,100
+2024,10,catalunya,Spanish Grand Prix,conventional,R,lap1,17
+2024,10,catalunya,Spanish Grand Prix,conventional,R,traffic,329
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,FP1,cool,230
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,FP1,invalid,209
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,FP1,long,93
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,FP1,push,67
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,Q,cool,13
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,Q,invalid,206
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,Q,push,101
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,R,clean,909
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,R,invalid,105
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,R,lap1,16
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,R,neutral,18
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,R,traffic,359
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,S,clean,157
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,S,invalid,4
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,S,lap1,20
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,S,traffic,279
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,SQ,cool,29
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,SQ,invalid,109
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,SQ,push,57
+2024,12,silverstone,British Grand Prix,conventional,FP1,cool,162
+2024,12,silverstone,British Grand Prix,conventional,FP1,invalid,142
+2024,12,silverstone,British Grand Prix,conventional,FP1,long,83
+2024,12,silverstone,British Grand Prix,conventional,FP1,push,72
+2024,12,silverstone,British Grand Prix,conventional,FP2,cool,175
+2024,12,silverstone,British Grand Prix,conventional,FP2,invalid,144
+2024,12,silverstone,British Grand Prix,conventional,FP2,long,85
+2024,12,silverstone,British Grand Prix,conventional,FP2,push,73
+2024,12,silverstone,British Grand Prix,conventional,FP3,cool,154
+2024,12,silverstone,British Grand Prix,conventional,FP3,invalid,132
+2024,12,silverstone,British Grand Prix,conventional,FP3,long,121
+2024,12,silverstone,British Grand Prix,conventional,FP3,push,31
+2024,12,silverstone,British Grand Prix,conventional,Q,cool,110
+2024,12,silverstone,British Grand Prix,conventional,Q,invalid,189
+2024,12,silverstone,British Grand Prix,conventional,Q,push,69
+2024,12,silverstone,British Grand Prix,conventional,R,clean,564
+2024,12,silverstone,British Grand Prix,conventional,R,invalid,102
+2024,12,silverstone,British Grand Prix,conventional,R,lap1,18
+2024,12,silverstone,British Grand Prix,conventional,R,neutral,9
+2024,12,silverstone,British Grand Prix,conventional,R,traffic,269
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP1,cool,261
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP1,invalid,184
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP1,long,6
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP1,push,64
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP2,cool,219
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP2,invalid,147
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP2,long,5
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP2,push,60
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP3,cool,91
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP3,invalid,191
+2024,13,hungaroring,Hungarian Grand Prix,conventional,FP3,push,69
+2024,13,hungaroring,Hungarian Grand Prix,conventional,Q,cool,84
+2024,13,hungaroring,Hungarian Grand Prix,conventional,Q,invalid,182
+2024,13,hungaroring,Hungarian Grand Prix,conventional,Q,push,68
+2024,13,hungaroring,Hungarian Grand Prix,conventional,R,clean,903
+2024,13,hungaroring,Hungarian Grand Prix,conventional,R,invalid,87
+2024,13,hungaroring,Hungarian Grand Prix,conventional,R,lap1,19
+2024,13,hungaroring,Hungarian Grand Prix,conventional,R,traffic,347
+2024,14,spa,Belgian Grand Prix,conventional,FP1,cool,179
+2024,14,spa,Belgian Grand Prix,conventional,FP1,invalid,112
+2024,14,spa,Belgian Grand Prix,conventional,FP1,long,53
+2024,14,spa,Belgian Grand Prix,conventional,FP1,push,73
+2024,14,spa,Belgian Grand Prix,conventional,FP2,cool,190
+2024,14,spa,Belgian Grand Prix,conventional,FP2,invalid,139
+2024,14,spa,Belgian Grand Prix,conventional,FP2,long,71
+2024,14,spa,Belgian Grand Prix,conventional,FP2,push,62
+2024,14,spa,Belgian Grand Prix,conventional,FP3,cool,16
+2024,14,spa,Belgian Grand Prix,conventional,FP3,invalid,45
+2024,14,spa,Belgian Grand Prix,conventional,FP3,push,25
+2024,14,spa,Belgian Grand Prix,conventional,Q,cool,95
+2024,14,spa,Belgian Grand Prix,conventional,Q,invalid,158
+2024,14,spa,Belgian Grand Prix,conventional,Q,push,95
+2024,14,spa,Belgian Grand Prix,conventional,R,clean,429
+2024,14,spa,Belgian Grand Prix,conventional,R,invalid,79
+2024,14,spa,Belgian Grand Prix,conventional,R,lap1,20
+2024,14,spa,Belgian Grand Prix,conventional,R,traffic,314
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP1,cool,153
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP1,invalid,100
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP1,long,5
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP1,push,27
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP2,cool,332
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP2,invalid,142
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP2,long,72
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP2,push,43
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP3,cool,19
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP3,invalid,72
+2024,15,zandvoort,Dutch Grand Prix,conventional,FP3,push,18
+2024,15,zandvoort,Dutch Grand Prix,conventional,Q,cool,35
+2024,15,zandvoort,Dutch Grand Prix,conventional,Q,invalid,174
+2024,15,zandvoort,Dutch Grand Prix,conventional,Q,push,81
+2024,15,zandvoort,Dutch Grand Prix,conventional,R,clean,935
+2024,15,zandvoort,Dutch Grand Prix,conventional,R,invalid,57
+2024,15,zandvoort,Dutch Grand Prix,conventional,R,lap1,19
+2024,15,zandvoort,Dutch Grand Prix,conventional,R,traffic,415
+2024,16,monza,Italian Grand Prix,conventional,FP1,cool,178
+2024,16,monza,Italian Grand Prix,conventional,FP1,invalid,154
+2024,16,monza,Italian Grand Prix,conventional,FP1,long,24
+2024,16,monza,Italian Grand Prix,conventional,FP1,push,70
+2024,16,monza,Italian Grand Prix,conventional,FP2,cool,123
+2024,16,monza,Italian Grand Prix,conventional,FP2,invalid,160
+2024,16,monza,Italian Grand Prix,conventional,FP2,long,114
+2024,16,monza,Italian Grand Prix,conventional,FP2,push,57
+2024,16,monza,Italian Grand Prix,conventional,FP3,cool,71
+2024,16,monza,Italian Grand Prix,conventional,FP3,invalid,203
+2024,16,monza,Italian Grand Prix,conventional,FP3,long,31
+2024,16,monza,Italian Grand Prix,conventional,FP3,push,84
+2024,16,monza,Italian Grand Prix,conventional,Q,cool,17
+2024,16,monza,Italian Grand Prix,conventional,Q,invalid,176
+2024,16,monza,Italian Grand Prix,conventional,Q,push,83
+2024,16,monza,Italian Grand Prix,conventional,R,clean,631
+2024,16,monza,Italian Grand Prix,conventional,R,invalid,74
+2024,16,monza,Italian Grand Prix,conventional,R,lap1,20
+2024,16,monza,Italian Grand Prix,conventional,R,traffic,284
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP1,cool,161
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP1,invalid,131
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP1,long,5
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP1,push,57
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP2,cool,171
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP2,invalid,117
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP2,long,126
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP2,push,56
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP3,cool,110
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP3,invalid,132
+2024,17,baku,Azerbaijan Grand Prix,conventional,FP3,push,48
+2024,17,baku,Azerbaijan Grand Prix,conventional,Q,cool,49
+2024,17,baku,Azerbaijan Grand Prix,conventional,Q,invalid,171
+2024,17,baku,Azerbaijan Grand Prix,conventional,Q,push,91
+2024,17,baku,Azerbaijan Grand Prix,conventional,R,clean,570
+2024,17,baku,Azerbaijan Grand Prix,conventional,R,invalid,52
+2024,17,baku,Azerbaijan Grand Prix,conventional,R,lap1,17
+2024,17,baku,Azerbaijan Grand Prix,conventional,R,neutral,25
+2024,17,baku,Azerbaijan Grand Prix,conventional,R,traffic,311
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP1,cool,249
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP1,invalid,115
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP1,long,78
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP1,push,46
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP2,cool,272
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP2,invalid,147
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP2,long,38
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP2,push,64
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP3,cool,134
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP3,invalid,137
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP3,long,12
+2024,18,marina_bay,Singapore Grand Prix,conventional,FP3,push,72
+2024,18,marina_bay,Singapore Grand Prix,conventional,Q,cool,17
+2024,18,marina_bay,Singapore Grand Prix,conventional,Q,invalid,177
+2024,18,marina_bay,Singapore Grand Prix,conventional,Q,push,82
+2024,18,marina_bay,Singapore Grand Prix,conventional,R,clean,789
+2024,18,marina_bay,Singapore Grand Prix,conventional,R,invalid,61
+2024,18,marina_bay,Singapore Grand Prix,conventional,R,lap1,19
+2024,18,marina_bay,Singapore Grand Prix,conventional,R,traffic,310
+2024,19,americas,United States Grand Prix,sprint,FP1,cool,214
+2024,19,americas,United States Grand Prix,sprint,FP1,invalid,129
+2024,19,americas,United States Grand Prix,sprint,FP1,long,102
+2024,19,americas,United States Grand Prix,sprint,FP1,push,40
+2024,19,americas,United States Grand Prix,sprint,Q,cool,27
+2024,19,americas,United States Grand Prix,sprint,Q,invalid,176
+2024,19,americas,United States Grand Prix,sprint,Q,push,79
+2024,19,americas,United States Grand Prix,sprint,R,clean,673
+2024,19,americas,United States Grand Prix,sprint,R,invalid,81
+2024,19,americas,United States Grand Prix,sprint,R,lap1,19
+2024,19,americas,United States Grand Prix,sprint,R,neutral,54
+2024,19,americas,United States Grand Prix,sprint,R,traffic,232
+2024,19,americas,United States Grand Prix,sprint,S,clean,126
+2024,19,americas,United States Grand Prix,sprint,S,invalid,24
+2024,19,americas,United States Grand Prix,sprint,S,lap1,19
+2024,19,americas,United States Grand Prix,sprint,S,traffic,211
+2024,19,americas,United States Grand Prix,sprint,SQ,cool,36
+2024,19,americas,United States Grand Prix,sprint,SQ,invalid,109
+2024,19,americas,United States Grand Prix,sprint,SQ,push,61
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP1,cool,159
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP1,invalid,145
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP1,long,45
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP1,push,46
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP2,cool,89
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP2,invalid,136
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP2,long,271
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP2,push,66
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP3,cool,131
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP3,invalid,173
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP3,long,43
+2024,20,rodriguez,Mexico City Grand Prix,conventional,FP3,push,78
+2024,20,rodriguez,Mexico City Grand Prix,conventional,Q,cool,15
+2024,20,rodriguez,Mexico City Grand Prix,conventional,Q,invalid,191
+2024,20,rodriguez,Mexico City Grand Prix,conventional,Q,push,83
+2024,20,rodriguez,Mexico City Grand Prix,conventional,R,clean,756
+2024,20,rodriguez,Mexico City Grand Prix,conventional,R,invalid,56
+2024,20,rodriguez,Mexico City Grand Prix,conventional,R,neutral,107
+2024,20,rodriguez,Mexico City Grand Prix,conventional,R,traffic,297
+2024,21,interlagos,São Paulo Grand Prix,sprint,FP1,cool,210
+2024,21,interlagos,São Paulo Grand Prix,sprint,FP1,invalid,179
+2024,21,interlagos,São Paulo Grand Prix,sprint,FP1,long,124
+2024,21,interlagos,São Paulo Grand Prix,sprint,FP1,push,46
+2024,21,interlagos,São Paulo Grand Prix,sprint,Q,cool,159
+2024,21,interlagos,São Paulo Grand Prix,sprint,Q,invalid,217
+2024,21,interlagos,São Paulo Grand Prix,sprint,Q,push,49
+2024,21,interlagos,São Paulo Grand Prix,sprint,R,clean,513
+2024,21,interlagos,São Paulo Grand Prix,sprint,R,invalid,92
+2024,21,interlagos,São Paulo Grand Prix,sprint,R,neutral,133
+2024,21,interlagos,São Paulo Grand Prix,sprint,R,traffic,399
+2024,21,interlagos,São Paulo Grand Prix,sprint,S,clean,164
+2024,21,interlagos,São Paulo Grand Prix,sprint,S,invalid,9
+2024,21,interlagos,São Paulo Grand Prix,sprint,S,lap1,17
+2024,21,interlagos,São Paulo Grand Prix,sprint,S,neutral,38
+2024,21,interlagos,São Paulo Grand Prix,sprint,S,traffic,251
+2024,21,interlagos,São Paulo Grand Prix,sprint,SQ,cool,34
+2024,21,interlagos,São Paulo Grand Prix,sprint,SQ,invalid,124
+2024,21,interlagos,São Paulo Grand Prix,sprint,SQ,push,63
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP1,cool,294
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP1,invalid,105
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP1,long,52
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP1,push,60
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP2,cool,207
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP2,invalid,115
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP2,long,116
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP2,push,64
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP3,cool,128
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP3,invalid,125
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP3,long,5
+2024,22,vegas,Las Vegas Grand Prix,conventional,FP3,push,54
+2024,22,vegas,Las Vegas Grand Prix,conventional,Q,cool,101
+2024,22,vegas,Las Vegas Grand Prix,conventional,Q,invalid,152
+2024,22,vegas,Las Vegas Grand Prix,conventional,Q,push,94
+2024,22,vegas,Las Vegas Grand Prix,conventional,R,clean,492
+2024,22,vegas,Las Vegas Grand Prix,conventional,R,invalid,85
+2024,22,vegas,Las Vegas Grand Prix,conventional,R,lap1,19
+2024,22,vegas,Las Vegas Grand Prix,conventional,R,traffic,344
+2024,23,losail,Qatar Grand Prix,sprint,FP1,cool,198
+2024,23,losail,Qatar Grand Prix,sprint,FP1,invalid,159
+2024,23,losail,Qatar Grand Prix,sprint,FP1,long,134
+2024,23,losail,Qatar Grand Prix,sprint,FP1,push,45
+2024,23,losail,Qatar Grand Prix,sprint,Q,cool,83
+2024,23,losail,Qatar Grand Prix,sprint,Q,invalid,183
+2024,23,losail,Qatar Grand Prix,sprint,Q,push,108
+2024,23,losail,Qatar Grand Prix,sprint,R,clean,428
+2024,23,losail,Qatar Grand Prix,sprint,R,invalid,111
+2024,23,losail,Qatar Grand Prix,sprint,R,neutral,127
+2024,23,losail,Qatar Grand Prix,sprint,R,traffic,278
+2024,23,losail,Qatar Grand Prix,sprint,S,clean,138
+2024,23,losail,Qatar Grand Prix,sprint,S,invalid,8
+2024,23,losail,Qatar Grand Prix,sprint,S,lap1,18
+2024,23,losail,Qatar Grand Prix,sprint,S,traffic,216
+2024,23,losail,Qatar Grand Prix,sprint,SQ,cool,92
+2024,23,losail,Qatar Grand Prix,sprint,SQ,invalid,99
+2024,23,losail,Qatar Grand Prix,sprint,SQ,push,92
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,cool,151
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,invalid,154
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,long,97
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,push,69
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,cool,200
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,invalid,153
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,long,71
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,push,83
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,cool,112
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,invalid,146
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,push,84
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,Q,cool,15
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,Q,invalid,165
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,Q,push,81
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,clean,716
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,invalid,83
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,lap1,19
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,neutral,19
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,traffic,200
+2025,1,albert_park,Australian Grand Prix,conventional,FP1,cool,172
+2025,1,albert_park,Australian Grand Prix,conventional,FP1,invalid,151
+2025,1,albert_park,Australian Grand Prix,conventional,FP1,long,27
+2025,1,albert_park,Australian Grand Prix,conventional,FP1,push,71
+2025,1,albert_park,Australian Grand Prix,conventional,FP2,cool,224
+2025,1,albert_park,Australian Grand Prix,conventional,FP2,invalid,166
+2025,1,albert_park,Australian Grand Prix,conventional,FP2,long,88
+2025,1,albert_park,Australian Grand Prix,conventional,FP2,push,74
+2025,1,albert_park,Australian Grand Prix,conventional,FP3,cool,86
+2025,1,albert_park,Australian Grand Prix,conventional,FP3,invalid,190
+2025,1,albert_park,Australian Grand Prix,conventional,FP3,push,76
+2025,1,albert_park,Australian Grand Prix,conventional,Q,cool,15
+2025,1,albert_park,Australian Grand Prix,conventional,Q,invalid,200
+2025,1,albert_park,Australian Grand Prix,conventional,Q,push,88
+2025,1,albert_park,Australian Grand Prix,conventional,R,clean,370
+2025,1,albert_park,Australian Grand Prix,conventional,R,invalid,188
+2025,1,albert_park,Australian Grand Prix,conventional,R,neutral,185
+2025,1,albert_park,Australian Grand Prix,conventional,R,traffic,185
+2025,2,shanghai,Chinese Grand Prix,sprint,FP1,cool,180
+2025,2,shanghai,Chinese Grand Prix,sprint,FP1,invalid,128
+2025,2,shanghai,Chinese Grand Prix,sprint,FP1,long,89
+2025,2,shanghai,Chinese Grand Prix,sprint,FP1,push,62
+2025,2,shanghai,Chinese Grand Prix,sprint,Q,cool,32
+2025,2,shanghai,Chinese Grand Prix,sprint,Q,invalid,185
+2025,2,shanghai,Chinese Grand Prix,sprint,Q,push,97
+2025,2,shanghai,Chinese Grand Prix,sprint,R,clean,709
+2025,2,shanghai,Chinese Grand Prix,sprint,R,invalid,55
+2025,2,shanghai,Chinese Grand Prix,sprint,R,lap1,18
+2025,2,shanghai,Chinese Grand Prix,sprint,R,traffic,284
+2025,2,shanghai,Chinese Grand Prix,sprint,S,clean,148
+2025,2,shanghai,Chinese Grand Prix,sprint,S,invalid,4
+2025,2,shanghai,Chinese Grand Prix,sprint,S,lap1,19
+2025,2,shanghai,Chinese Grand Prix,sprint,S,traffic,209
+2025,2,shanghai,Chinese Grand Prix,sprint,SQ,cool,57
+2025,2,shanghai,Chinese Grand Prix,sprint,SQ,invalid,97
+2025,2,shanghai,Chinese Grand Prix,sprint,SQ,push,63
+2025,3,suzuka,Japanese Grand Prix,conventional,FP1,cool,160
+2025,3,suzuka,Japanese Grand Prix,conventional,FP1,invalid,151
+2025,3,suzuka,Japanese Grand Prix,conventional,FP1,long,102
+2025,3,suzuka,Japanese Grand Prix,conventional,FP1,push,84
+2025,3,suzuka,Japanese Grand Prix,conventional,FP2,cool,50
+2025,3,suzuka,Japanese Grand Prix,conventional,FP2,invalid,145
+2025,3,suzuka,Japanese Grand Prix,conventional,FP2,push,32
+2025,3,suzuka,Japanese Grand Prix,conventional,FP3,cool,62
+2025,3,suzuka,Japanese Grand Prix,conventional,FP3,invalid,150
+2025,3,suzuka,Japanese Grand Prix,conventional,FP3,long,67
+2025,3,suzuka,Japanese Grand Prix,conventional,FP3,push,55
+2025,3,suzuka,Japanese Grand Prix,conventional,Q,cool,19
+2025,3,suzuka,Japanese Grand Prix,conventional,Q,invalid,179
+2025,3,suzuka,Japanese Grand Prix,conventional,Q,push,94
+2025,3,suzuka,Japanese Grand Prix,conventional,R,clean,618
+2025,3,suzuka,Japanese Grand Prix,conventional,R,invalid,50
+2025,3,suzuka,Japanese Grand Prix,conventional,R,lap1,20
+2025,3,suzuka,Japanese Grand Prix,conventional,R,traffic,371
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP1,cool,199
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP1,invalid,154
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP1,long,28
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP1,push,45
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP2,cool,301
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP2,invalid,158
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP2,long,8
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP2,push,55
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP3,cool,89
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP3,invalid,170
+2025,4,bahrain,Bahrain Grand Prix,conventional,FP3,push,50
+2025,4,bahrain,Bahrain Grand Prix,conventional,Q,cool,14
+2025,4,bahrain,Bahrain Grand Prix,conventional,Q,invalid,184
+2025,4,bahrain,Bahrain Grand Prix,conventional,Q,push,79
+2025,4,bahrain,Bahrain Grand Prix,conventional,R,clean,467
+2025,4,bahrain,Bahrain Grand Prix,conventional,R,invalid,117
+2025,4,bahrain,Bahrain Grand Prix,conventional,R,lap1,16
+2025,4,bahrain,Bahrain Grand Prix,conventional,R,neutral,52
+2025,4,bahrain,Bahrain Grand Prix,conventional,R,traffic,477
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP1,cool,174
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP1,invalid,155
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP1,long,69
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP1,push,74
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP2,cool,149
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP2,invalid,173
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP2,push,72
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP3,cool,79
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP3,invalid,187
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP3,long,5
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,FP3,push,86
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,Q,cool,24
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,Q,invalid,180
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,Q,push,86
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,R,clean,554
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,R,invalid,54
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,R,neutral,47
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,R,traffic,244
+2025,6,miami,Miami Grand Prix,sprint,FP1,cool,91
+2025,6,miami,Miami Grand Prix,sprint,FP1,invalid,152
+2025,6,miami,Miami Grand Prix,sprint,FP1,long,137
+2025,6,miami,Miami Grand Prix,sprint,FP1,push,54
+2025,6,miami,Miami Grand Prix,sprint,Q,cool,22
+2025,6,miami,Miami Grand Prix,sprint,Q,invalid,195
+2025,6,miami,Miami Grand Prix,sprint,Q,push,97
+2025,6,miami,Miami Grand Prix,sprint,R,clean,383
+2025,6,miami,Miami Grand Prix,sprint,R,invalid,48
+2025,6,miami,Miami Grand Prix,sprint,R,lap1,13
+2025,6,miami,Miami Grand Prix,sprint,R,neutral,27
+2025,6,miami,Miami Grand Prix,sprint,R,traffic,88
+2025,6,miami,Miami Grand Prix,sprint,S,clean,66
+2025,6,miami,Miami Grand Prix,sprint,S,invalid,70
+2025,6,miami,Miami Grand Prix,sprint,S,neutral,104
+2025,6,miami,Miami Grand Prix,sprint,S,traffic,101
+2025,6,miami,Miami Grand Prix,sprint,SQ,cool,35
+2025,6,miami,Miami Grand Prix,sprint,SQ,invalid,114
+2025,6,miami,Miami Grand Prix,sprint,SQ,push,64
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP1,cool,124
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP1,invalid,193
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP1,long,40
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP1,push,70
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP2,cool,150
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP2,invalid,191
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP2,long,101
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP2,push,77
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP3,cool,97
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP3,invalid,173
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP3,long,5
+2025,7,imola,Emilia Romagna Grand Prix,conventional,FP3,push,86
+2025,7,imola,Emilia Romagna Grand Prix,conventional,Q,cool,12
+2025,7,imola,Emilia Romagna Grand Prix,conventional,Q,invalid,187
+2025,7,imola,Emilia Romagna Grand Prix,conventional,Q,push,83
+2025,7,imola,Emilia Romagna Grand Prix,conventional,R,clean,518
+2025,7,imola,Emilia Romagna Grand Prix,conventional,R,invalid,79
+2025,7,imola,Emilia Romagna Grand Prix,conventional,R,lap1,19
+2025,7,imola,Emilia Romagna Grand Prix,conventional,R,neutral,134
+2025,7,imola,Emilia Romagna Grand Prix,conventional,R,traffic,457
+2025,8,monaco,Monaco Grand Prix,conventional,FP1,cool,301
+2025,8,monaco,Monaco Grand Prix,conventional,FP1,invalid,146
+2025,8,monaco,Monaco Grand Prix,conventional,FP1,long,103
+2025,8,monaco,Monaco Grand Prix,conventional,FP1,push,60
+2025,8,monaco,Monaco Grand Prix,conventional,FP2,cool,216
+2025,8,monaco,Monaco Grand Prix,conventional,FP2,invalid,189
+2025,8,monaco,Monaco Grand Prix,conventional,FP2,long,123
+2025,8,monaco,Monaco Grand Prix,conventional,FP2,push,84
+2025,8,monaco,Monaco Grand Prix,conventional,FP3,cool,212
+2025,8,monaco,Monaco Grand Prix,conventional,FP3,invalid,141
+2025,8,monaco,Monaco Grand Prix,conventional,FP3,long,37
+2025,8,monaco,Monaco Grand Prix,conventional,FP3,push,101
+2025,8,monaco,Monaco Grand Prix,conventional,Q,cool,136
+2025,8,monaco,Monaco Grand Prix,conventional,Q,invalid,200
+2025,8,monaco,Monaco Grand Prix,conventional,Q,push,97
+2025,8,monaco,Monaco Grand Prix,conventional,R,clean,683
+2025,8,monaco,Monaco Grand Prix,conventional,R,invalid,129
+2025,8,monaco,Monaco Grand Prix,conventional,R,neutral,72
+2025,8,monaco,Monaco Grand Prix,conventional,R,traffic,541
+2025,9,catalunya,Spanish Grand Prix,conventional,FP1,cool,287
+2025,9,catalunya,Spanish Grand Prix,conventional,FP1,invalid,179
+2025,9,catalunya,Spanish Grand Prix,conventional,FP1,long,10
+2025,9,catalunya,Spanish Grand Prix,conventional,FP1,push,39
+2025,9,catalunya,Spanish Grand Prix,conventional,FP2,cool,318
+2025,9,catalunya,Spanish Grand Prix,conventional,FP2,invalid,207
+2025,9,catalunya,Spanish Grand Prix,conventional,FP2,push,57
+2025,9,catalunya,Spanish Grand Prix,conventional,FP3,cool,76
+2025,9,catalunya,Spanish Grand Prix,conventional,FP3,invalid,180
+2025,9,catalunya,Spanish Grand Prix,conventional,FP3,long,15
+2025,9,catalunya,Spanish Grand Prix,conventional,FP3,push,38
+2025,9,catalunya,Spanish Grand Prix,conventional,Q,cool,12
+2025,9,catalunya,Spanish Grand Prix,conventional,Q,invalid,159
+2025,9,catalunya,Spanish Grand Prix,conventional,Q,push,76
+2025,9,catalunya,Spanish Grand Prix,conventional,R,clean,666
+2025,9,catalunya,Spanish Grand Prix,conventional,R,invalid,120
+2025,9,catalunya,Spanish Grand Prix,conventional,R,lap1,19
+2025,9,catalunya,Spanish Grand Prix,conventional,R,neutral,91
+2025,9,catalunya,Spanish Grand Prix,conventional,R,traffic,308
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP1,cool,244
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP1,invalid,169
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP1,long,49
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP1,push,88
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP2,cool,214
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP2,invalid,146
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP2,long,168
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP2,push,70
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP3,cool,206
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP3,invalid,145
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP3,long,5
+2025,10,villeneuve,Canadian Grand Prix,conventional,FP3,push,102
+2025,10,villeneuve,Canadian Grand Prix,conventional,Q,cool,75
+2025,10,villeneuve,Canadian Grand Prix,conventional,Q,invalid,208
+2025,10,villeneuve,Canadian Grand Prix,conventional,Q,push,107
+2025,10,villeneuve,Canadian Grand Prix,conventional,R,clean,698
+2025,10,villeneuve,Canadian Grand Prix,conventional,R,invalid,185
+2025,10,villeneuve,Canadian Grand Prix,conventional,R,neutral,20
+2025,10,villeneuve,Canadian Grand Prix,conventional,R,traffic,446
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP1,cool,232
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP1,invalid,183
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP1,long,155
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP1,push,69
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP2,cool,300
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP2,invalid,202
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP2,long,82
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP2,push,80
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP3,cool,125
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP3,invalid,192
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP3,long,8
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,FP3,push,91
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,Q,cool,21
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,Q,invalid,196
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,Q,push,93
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,R,clean,695
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,R,invalid,79
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,R,neutral,49
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,R,traffic,305
+2025,12,silverstone,British Grand Prix,conventional,FP1,cool,172
+2025,12,silverstone,British Grand Prix,conventional,FP1,invalid,151
+2025,12,silverstone,British Grand Prix,conventional,FP1,long,107
+2025,12,silverstone,British Grand Prix,conventional,FP1,push,76
+2025,12,silverstone,British Grand Prix,conventional,FP2,cool,267
+2025,12,silverstone,British Grand Prix,conventional,FP2,invalid,174
+2025,12,silverstone,British Grand Prix,conventional,FP2,long,16
+2025,12,silverstone,British Grand Prix,conventional,FP2,push,79
+2025,12,silverstone,British Grand Prix,conventional,FP3,cool,53
+2025,12,silverstone,British Grand Prix,conventional,FP3,invalid,163
+2025,12,silverstone,British Grand Prix,conventional,FP3,long,12
+2025,12,silverstone,British Grand Prix,conventional,FP3,push,64
+2025,12,silverstone,British Grand Prix,conventional,Q,cool,25
+2025,12,silverstone,British Grand Prix,conventional,Q,invalid,176
+2025,12,silverstone,British Grand Prix,conventional,Q,push,90
+2025,12,silverstone,British Grand Prix,conventional,R,clean,313
+2025,12,silverstone,British Grand Prix,conventional,R,invalid,85
+2025,12,silverstone,British Grand Prix,conventional,R,lap1,18
+2025,12,silverstone,British Grand Prix,conventional,R,neutral,194
+2025,12,silverstone,British Grand Prix,conventional,R,traffic,217
+2025,13,spa,Belgian Grand Prix,sprint,FP1,cool,215
+2025,13,spa,Belgian Grand Prix,sprint,FP1,invalid,122
+2025,13,spa,Belgian Grand Prix,sprint,FP1,long,57
+2025,13,spa,Belgian Grand Prix,sprint,FP1,push,43
+2025,13,spa,Belgian Grand Prix,sprint,Q,cool,15
+2025,13,spa,Belgian Grand Prix,sprint,Q,invalid,193
+2025,13,spa,Belgian Grand Prix,sprint,Q,push,84
+2025,13,spa,Belgian Grand Prix,sprint,R,clean,409
+2025,13,spa,Belgian Grand Prix,sprint,R,invalid,85
+2025,13,spa,Belgian Grand Prix,sprint,R,neutral,121
+2025,13,spa,Belgian Grand Prix,sprint,R,traffic,264
+2025,13,spa,Belgian Grand Prix,sprint,S,clean,81
+2025,13,spa,Belgian Grand Prix,sprint,S,invalid,4
+2025,13,spa,Belgian Grand Prix,sprint,S,lap1,19
+2025,13,spa,Belgian Grand Prix,sprint,S,traffic,194
+2025,13,spa,Belgian Grand Prix,sprint,SQ,cool,33
+2025,13,spa,Belgian Grand Prix,sprint,SQ,invalid,95
+2025,13,spa,Belgian Grand Prix,sprint,SQ,push,57
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP1,cool,246
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP1,invalid,187
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP1,long,31
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP1,push,56
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP2,cool,282
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP2,invalid,197
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP2,long,19
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP2,push,67
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP3,cool,95
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP3,invalid,188
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP3,long,25
+2025,14,hungaroring,Hungarian Grand Prix,conventional,FP3,push,72
+2025,14,hungaroring,Hungarian Grand Prix,conventional,Q,cool,17
+2025,14,hungaroring,Hungarian Grand Prix,conventional,Q,invalid,162
+2025,14,hungaroring,Hungarian Grand Prix,conventional,Q,push,85
+2025,14,hungaroring,Hungarian Grand Prix,conventional,R,clean,797
+2025,14,hungaroring,Hungarian Grand Prix,conventional,R,invalid,73
+2025,14,hungaroring,Hungarian Grand Prix,conventional,R,lap1,20
+2025,14,hungaroring,Hungarian Grand Prix,conventional,R,traffic,479
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP1,cool,217
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP1,invalid,189
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP1,long,97
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP1,push,58
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP2,cool,187
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP2,invalid,165
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP2,long,55
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP2,push,42
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP3,cool,164
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP3,invalid,160
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP3,long,19
+2025,15,zandvoort,Dutch Grand Prix,conventional,FP3,push,72
+2025,15,zandvoort,Dutch Grand Prix,conventional,Q,cool,16
+2025,15,zandvoort,Dutch Grand Prix,conventional,Q,invalid,179
+2025,15,zandvoort,Dutch Grand Prix,conventional,Q,push,95
+2025,15,zandvoort,Dutch Grand Prix,conventional,R,clean,471
+2025,15,zandvoort,Dutch Grand Prix,conventional,R,invalid,89
+2025,15,zandvoort,Dutch Grand Prix,conventional,R,lap1,20
+2025,15,zandvoort,Dutch Grand Prix,conventional,R,neutral,202
+2025,15,zandvoort,Dutch Grand Prix,conventional,R,traffic,583
+2025,16,monza,Italian Grand Prix,conventional,FP1,cool,197
+2025,16,monza,Italian Grand Prix,conventional,FP1,invalid,174
+2025,16,monza,Italian Grand Prix,conventional,FP1,long,21
+2025,16,monza,Italian Grand Prix,conventional,FP1,push,89
+2025,16,monza,Italian Grand Prix,conventional,FP2,cool,124
+2025,16,monza,Italian Grand Prix,conventional,FP2,invalid,180
+2025,16,monza,Italian Grand Prix,conventional,FP2,long,151
+2025,16,monza,Italian Grand Prix,conventional,FP2,push,76
+2025,16,monza,Italian Grand Prix,conventional,FP3,cool,132
+2025,16,monza,Italian Grand Prix,conventional,FP3,invalid,170
+2025,16,monza,Italian Grand Prix,conventional,FP3,long,26
+2025,16,monza,Italian Grand Prix,conventional,FP3,push,91
+2025,16,monza,Italian Grand Prix,conventional,Q,cool,24
+2025,16,monza,Italian Grand Prix,conventional,Q,invalid,195
+2025,16,monza,Italian Grand Prix,conventional,Q,push,96
+2025,16,monza,Italian Grand Prix,conventional,R,clean,530
+2025,16,monza,Italian Grand Prix,conventional,R,invalid,61
+2025,16,monza,Italian Grand Prix,conventional,R,lap1,19
+2025,16,monza,Italian Grand Prix,conventional,R,traffic,366
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP1,cool,132
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP1,invalid,121
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP1,long,6
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP1,push,66
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP2,cool,150
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP2,invalid,132
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP2,long,85
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP2,push,67
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP3,cool,193
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP3,invalid,98
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP3,long,12
+2025,17,baku,Azerbaijan Grand Prix,conventional,FP3,push,74
+2025,17,baku,Azerbaijan Grand Prix,conventional,R,clean,527
+2025,17,baku,Azerbaijan Grand Prix,conventional,R,invalid,43
+2025,17,baku,Azerbaijan Grand Prix,conventional,R,neutral,71
+2025,17,baku,Azerbaijan Grand Prix,conventional,R,traffic,327
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP1,cool,226
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP1,invalid,144
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP1,long,36
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP1,push,66
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP2,cool,154
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP2,invalid,126
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP2,long,16
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP2,push,57
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP3,cool,158
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP3,invalid,165
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP3,long,57
+2025,18,marina_bay,Singapore Grand Prix,conventional,FP3,push,60
+2025,18,marina_bay,Singapore Grand Prix,conventional,Q,cool,28
+2025,18,marina_bay,Singapore Grand Prix,conventional,Q,invalid,186
+2025,18,marina_bay,Singapore Grand Prix,conventional,Q,push,84
+2025,18,marina_bay,Singapore Grand Prix,conventional,R,clean,744
+2025,18,marina_bay,Singapore Grand Prix,conventional,R,invalid,65
+2025,18,marina_bay,Singapore Grand Prix,conventional,R,lap1,20
+2025,18,marina_bay,Singapore Grand Prix,conventional,R,traffic,400
+2025,19,americas,United States Grand Prix,sprint,FP1,cool,221
+2025,19,americas,United States Grand Prix,sprint,FP1,invalid,123
+2025,19,americas,United States Grand Prix,sprint,FP1,long,90
+2025,19,americas,United States Grand Prix,sprint,FP1,push,44
+2025,19,americas,United States Grand Prix,sprint,Q,cool,22
+2025,19,americas,United States Grand Prix,sprint,Q,invalid,187
+2025,19,americas,United States Grand Prix,sprint,Q,push,76
+2025,19,americas,United States Grand Prix,sprint,R,clean,656
+2025,19,americas,United States Grand Prix,sprint,R,invalid,74
+2025,19,americas,United States Grand Prix,sprint,R,lap1,20
+2025,19,americas,United States Grand Prix,sprint,R,neutral,36
+2025,19,americas,United States Grand Prix,sprint,R,traffic,281
+2025,19,americas,United States Grand Prix,sprint,S,clean,52
+2025,19,americas,United States Grand Prix,sprint,S,invalid,29
+2025,19,americas,United States Grand Prix,sprint,S,neutral,138
+2025,19,americas,United States Grand Prix,sprint,S,traffic,101
+2025,19,americas,United States Grand Prix,sprint,SQ,cool,49
+2025,19,americas,United States Grand Prix,sprint,SQ,invalid,102
+2025,19,americas,United States Grand Prix,sprint,SQ,push,53
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP1,cool,245
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP1,invalid,151
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP1,long,139
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP1,push,54
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP2,cool,196
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP2,invalid,180
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP2,long,170
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP2,push,74
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP3,cool,148
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP3,invalid,182
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP3,long,38
+2025,20,rodriguez,Mexico City Grand Prix,conventional,FP3,push,85
+2025,20,rodriguez,Mexico City Grand Prix,conventional,Q,cool,26
+2025,20,rodriguez,Mexico City Grand Prix,conventional,Q,invalid,187
+2025,20,rodriguez,Mexico City Grand Prix,conventional,Q,push,94
+2025,20,rodriguez,Mexico City Grand Prix,conventional,R,clean,814
+2025,20,rodriguez,Mexico City Grand Prix,conventional,R,invalid,63
+2025,20,rodriguez,Mexico City Grand Prix,conventional,R,lap1,20
+2025,20,rodriguez,Mexico City Grand Prix,conventional,R,neutral,16
+2025,20,rodriguez,Mexico City Grand Prix,conventional,R,traffic,353
+2025,21,interlagos,São Paulo Grand Prix,sprint,FP1,cool,235
+2025,21,interlagos,São Paulo Grand Prix,sprint,FP1,invalid,150
+2025,21,interlagos,São Paulo Grand Prix,sprint,FP1,long,176
+2025,21,interlagos,São Paulo Grand Prix,sprint,FP1,push,67
+2025,21,interlagos,São Paulo Grand Prix,sprint,Q,cool,28
+2025,21,interlagos,São Paulo Grand Prix,sprint,Q,invalid,194
+2025,21,interlagos,São Paulo Grand Prix,sprint,Q,push,94
+2025,21,interlagos,São Paulo Grand Prix,sprint,R,clean,660
+2025,21,interlagos,São Paulo Grand Prix,sprint,R,invalid,79
+2025,21,interlagos,São Paulo Grand Prix,sprint,R,lap1,18
+2025,21,interlagos,São Paulo Grand Prix,sprint,R,neutral,105
+2025,21,interlagos,São Paulo Grand Prix,sprint,R,traffic,390
+2025,21,interlagos,São Paulo Grand Prix,sprint,S,clean,111
+2025,21,interlagos,São Paulo Grand Prix,sprint,S,invalid,40
+2025,21,interlagos,São Paulo Grand Prix,sprint,S,neutral,37
+2025,21,interlagos,São Paulo Grand Prix,sprint,S,traffic,256
+2025,21,interlagos,São Paulo Grand Prix,sprint,SQ,cool,56
+2025,21,interlagos,São Paulo Grand Prix,sprint,SQ,invalid,116
+2025,21,interlagos,São Paulo Grand Prix,sprint,SQ,push,81
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP1,cool,258
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP1,invalid,103
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP1,long,113
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP1,push,61
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP2,cool,122
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP2,invalid,120
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP2,long,32
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP2,push,46
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP3,cool,278
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP3,invalid,90
+2025,22,vegas,Las Vegas Grand Prix,conventional,FP3,push,38
+2025,22,vegas,Las Vegas Grand Prix,conventional,Q,cool,180
+2025,22,vegas,Las Vegas Grand Prix,conventional,Q,invalid,125
+2025,22,vegas,Las Vegas Grand Prix,conventional,Q,long,21
+2025,22,vegas,Las Vegas Grand Prix,conventional,Q,push,49
+2025,22,vegas,Las Vegas Grand Prix,conventional,R,clean,558
+2025,22,vegas,Las Vegas Grand Prix,conventional,R,invalid,48
+2025,22,vegas,Las Vegas Grand Prix,conventional,R,lap1,17
+2025,22,vegas,Las Vegas Grand Prix,conventional,R,neutral,46
+2025,22,vegas,Las Vegas Grand Prix,conventional,R,traffic,219
+2025,23,losail,Qatar Grand Prix,sprint,FP1,cool,237
+2025,23,losail,Qatar Grand Prix,sprint,FP1,invalid,149
+2025,23,losail,Qatar Grand Prix,sprint,FP1,long,113
+2025,23,losail,Qatar Grand Prix,sprint,FP1,push,57
+2025,23,losail,Qatar Grand Prix,sprint,Q,cool,55
+2025,23,losail,Qatar Grand Prix,sprint,Q,invalid,194
+2025,23,losail,Qatar Grand Prix,sprint,Q,push,109
+2025,23,losail,Qatar Grand Prix,sprint,R,clean,454
+2025,23,losail,Qatar Grand Prix,sprint,R,invalid,103
+2025,23,losail,Qatar Grand Prix,sprint,R,lap1,20
+2025,23,losail,Qatar Grand Prix,sprint,R,neutral,45
+2025,23,losail,Qatar Grand Prix,sprint,R,traffic,448
+2025,23,losail,Qatar Grand Prix,sprint,S,clean,139
+2025,23,losail,Qatar Grand Prix,sprint,S,invalid,36
+2025,23,losail,Qatar Grand Prix,sprint,S,lap1,10
+2025,23,losail,Qatar Grand Prix,sprint,S,traffic,195
+2025,23,losail,Qatar Grand Prix,sprint,SQ,cool,107
+2025,23,losail,Qatar Grand Prix,sprint,SQ,invalid,100
+2025,23,losail,Qatar Grand Prix,sprint,SQ,push,90
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,cool,212
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,invalid,148
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,long,97
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP1,push,75
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,cool,300
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,invalid,158
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,long,41
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP2,push,85
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,cool,109
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,invalid,143
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,long,6
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,FP3,push,68
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,Q,cool,18
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,Q,invalid,176
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,Q,push,92
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,clean,618
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,invalid,90
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,lap1,20
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,R,traffic,428
+2026,1,albert_park,Australian Grand Prix,conventional,FP1,cool,205
+2026,1,albert_park,Australian Grand Prix,conventional,FP1,invalid,163
+2026,1,albert_park,Australian Grand Prix,conventional,FP1,long,67
+2026,1,albert_park,Australian Grand Prix,conventional,FP1,push,52
+2026,1,albert_park,Australian Grand Prix,conventional,FP2,cool,184
+2026,1,albert_park,Australian Grand Prix,conventional,FP2,invalid,174
+2026,1,albert_park,Australian Grand Prix,conventional,FP2,long,118
+2026,1,albert_park,Australian Grand Prix,conventional,FP2,push,68
+2026,1,albert_park,Australian Grand Prix,conventional,FP3,cool,120
+2026,1,albert_park,Australian Grand Prix,conventional,FP3,invalid,147
+2026,1,albert_park,Australian Grand Prix,conventional,FP3,long,52
+2026,1,albert_park,Australian Grand Prix,conventional,FP3,push,58
+2026,1,albert_park,Australian Grand Prix,conventional,Q,cool,65
+2026,1,albert_park,Australian Grand Prix,conventional,Q,invalid,196
+2026,1,albert_park,Australian Grand Prix,conventional,Q,push,98
+2026,1,albert_park,Australian Grand Prix,conventional,R,clean,614
+2026,1,albert_park,Australian Grand Prix,conventional,R,invalid,111
+2026,1,albert_park,Australian Grand Prix,conventional,R,neutral,60
+2026,1,albert_park,Australian Grand Prix,conventional,R,traffic,217
+2026,2,shanghai,Chinese Grand Prix,sprint,FP1,cool,227
+2026,2,shanghai,Chinese Grand Prix,sprint,FP1,invalid,141
+2026,2,shanghai,Chinese Grand Prix,sprint,FP1,long,116
+2026,2,shanghai,Chinese Grand Prix,sprint,FP1,push,56
+2026,2,shanghai,Chinese Grand Prix,sprint,Q,cool,50
+2026,2,shanghai,Chinese Grand Prix,sprint,Q,invalid,177
+2026,2,shanghai,Chinese Grand Prix,sprint,Q,long,10
+2026,2,shanghai,Chinese Grand Prix,sprint,Q,push,88
+2026,2,shanghai,Chinese Grand Prix,sprint,R,clean,499
+2026,2,shanghai,Chinese Grand Prix,sprint,R,invalid,48
+2026,2,shanghai,Chinese Grand Prix,sprint,R,lap1,17
+2026,2,shanghai,Chinese Grand Prix,sprint,R,neutral,47
+2026,2,shanghai,Chinese Grand Prix,sprint,R,traffic,313
+2026,2,shanghai,Chinese Grand Prix,sprint,S,clean,85
+2026,2,shanghai,Chinese Grand Prix,sprint,S,invalid,27
+2026,2,shanghai,Chinese Grand Prix,sprint,S,lap1,22
+2026,2,shanghai,Chinese Grand Prix,sprint,S,neutral,52
+2026,2,shanghai,Chinese Grand Prix,sprint,S,traffic,213
+2026,2,shanghai,Chinese Grand Prix,sprint,SQ,cool,93
+2026,2,shanghai,Chinese Grand Prix,sprint,SQ,invalid,77
+2026,2,shanghai,Chinese Grand Prix,sprint,SQ,long,10
+2026,2,shanghai,Chinese Grand Prix,sprint,SQ,push,77
+2026,3,suzuka,Japanese Grand Prix,conventional,FP1,cool,202
+2026,3,suzuka,Japanese Grand Prix,conventional,FP1,invalid,162
+2026,3,suzuka,Japanese Grand Prix,conventional,FP1,long,69
+2026,3,suzuka,Japanese Grand Prix,conventional,FP1,push,92
+2026,3,suzuka,Japanese Grand Prix,conventional,FP2,cool,176
+2026,3,suzuka,Japanese Grand Prix,conventional,FP2,invalid,156
+2026,3,suzuka,Japanese Grand Prix,conventional,FP2,long,130
+2026,3,suzuka,Japanese Grand Prix,conventional,FP2,push,85
+2026,3,suzuka,Japanese Grand Prix,conventional,FP3,cool,145
+2026,3,suzuka,Japanese Grand Prix,conventional,FP3,invalid,160
+2026,3,suzuka,Japanese Grand Prix,conventional,FP3,long,19
+2026,3,suzuka,Japanese Grand Prix,conventional,FP3,push,112
+2026,3,suzuka,Japanese Grand Prix,conventional,Q,cool,40
+2026,3,suzuka,Japanese Grand Prix,conventional,Q,invalid,175
+2026,3,suzuka,Japanese Grand Prix,conventional,Q,push,109
+2026,3,suzuka,Japanese Grand Prix,conventional,R,clean,472
+2026,3,suzuka,Japanese Grand Prix,conventional,R,invalid,63
+2026,3,suzuka,Japanese Grand Prix,conventional,R,lap1,21
+2026,3,suzuka,Japanese Grand Prix,conventional,R,neutral,100
+2026,3,suzuka,Japanese Grand Prix,conventional,R,traffic,452
+2026,4,miami,Miami Grand Prix,sprint,FP1,cool,270
+2026,4,miami,Miami Grand Prix,sprint,FP1,invalid,217
+2026,4,miami,Miami Grand Prix,sprint,FP1,long,169
+2026,4,miami,Miami Grand Prix,sprint,FP1,push,101
+2026,4,miami,Miami Grand Prix,sprint,Q,cool,28
+2026,4,miami,Miami Grand Prix,sprint,Q,invalid,201
+2026,4,miami,Miami Grand Prix,sprint,Q,push,95
+2026,4,miami,Miami Grand Prix,sprint,R,clean,589
+2026,4,miami,Miami Grand Prix,sprint,R,invalid,62
+2026,4,miami,Miami Grand Prix,sprint,R,lap1,21
+2026,4,miami,Miami Grand Prix,sprint,R,neutral,105
+2026,4,miami,Miami Grand Prix,sprint,R,traffic,265
+2026,4,miami,Miami Grand Prix,sprint,S,clean,175
+2026,4,miami,Miami Grand Prix,sprint,S,invalid,19
+2026,4,miami,Miami Grand Prix,sprint,S,lap1,20
+2026,4,miami,Miami Grand Prix,sprint,S,traffic,167
+2026,4,miami,Miami Grand Prix,sprint,SQ,cool,55
+2026,4,miami,Miami Grand Prix,sprint,SQ,invalid,112
+2026,4,miami,Miami Grand Prix,sprint,SQ,push,70
+2026,5,villeneuve,Canadian Grand Prix,sprint,FP1,cool,225
+2026,5,villeneuve,Canadian Grand Prix,sprint,FP1,invalid,219
+2026,5,villeneuve,Canadian Grand Prix,sprint,FP1,long,134
+2026,5,villeneuve,Canadian Grand Prix,sprint,FP1,push,41
+2026,5,villeneuve,Canadian Grand Prix,sprint,Q,cool,169
+2026,5,villeneuve,Canadian Grand Prix,sprint,Q,invalid,185
+2026,5,villeneuve,Canadian Grand Prix,sprint,Q,push,102
+2026,5,villeneuve,Canadian Grand Prix,sprint,R,clean,830
+2026,5,villeneuve,Canadian Grand Prix,sprint,R,invalid,140
+2026,5,villeneuve,Canadian Grand Prix,sprint,R,neutral,40
+2026,5,villeneuve,Canadian Grand Prix,sprint,R,traffic,202
+2026,5,villeneuve,Canadian Grand Prix,sprint,S,clean,216
+2026,5,villeneuve,Canadian Grand Prix,sprint,S,invalid,34
+2026,5,villeneuve,Canadian Grand Prix,sprint,S,neutral,21
+2026,5,villeneuve,Canadian Grand Prix,sprint,S,traffic,220
+2026,5,villeneuve,Canadian Grand Prix,sprint,SQ,cool,116
+2026,5,villeneuve,Canadian Grand Prix,sprint,SQ,invalid,113
+2026,5,villeneuve,Canadian Grand Prix,sprint,SQ,push,71
+2026,6,monaco,Monaco Grand Prix,conventional,FP1,cool,265
+2026,6,monaco,Monaco Grand Prix,conventional,FP1,invalid,194
+2026,6,monaco,Monaco Grand Prix,conventional,FP1,long,93
+2026,6,monaco,Monaco Grand Prix,conventional,FP1,push,68
+2026,6,monaco,Monaco Grand Prix,conventional,FP2,cool,332
+2026,6,monaco,Monaco Grand Prix,conventional,FP2,invalid,231
+2026,6,monaco,Monaco Grand Prix,conventional,FP2,long,81
+2026,6,monaco,Monaco Grand Prix,conventional,FP2,push,67
+2026,6,monaco,Monaco Grand Prix,conventional,FP3,cool,208
+2026,6,monaco,Monaco Grand Prix,conventional,FP3,invalid,187
+2026,6,monaco,Monaco Grand Prix,conventional,FP3,long,37
+2026,6,monaco,Monaco Grand Prix,conventional,FP3,push,86
+2026,6,monaco,Monaco Grand Prix,conventional,Q,cool,183
+2026,6,monaco,Monaco Grand Prix,conventional,Q,invalid,205
+2026,6,monaco,Monaco Grand Prix,conventional,Q,push,96
+2026,6,monaco,Monaco Grand Prix,conventional,R,clean,831
+2026,6,monaco,Monaco Grand Prix,conventional,R,invalid,249
+2026,6,monaco,Monaco Grand Prix,conventional,R,neutral,57
+2026,6,monaco,Monaco Grand Prix,conventional,R,traffic,315
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP1,cool,233
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP1,invalid,200
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP1,long,41
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP1,push,70
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP2,cool,292
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP2,invalid,216
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP2,long,10
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP2,push,68
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP3,cool,74
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP3,invalid,185
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP3,long,10
+2026,7,catalunya,Barcelona Grand Prix,conventional,FP3,push,68
+2026,7,catalunya,Barcelona Grand Prix,conventional,Q,cool,15
+2026,7,catalunya,Barcelona Grand Prix,conventional,Q,invalid,164
+2026,7,catalunya,Barcelona Grand Prix,conventional,Q,push,76
+2026,7,catalunya,Barcelona Grand Prix,conventional,R,clean,790
+2026,7,catalunya,Barcelona Grand Prix,conventional,R,invalid,118
+2026,7,catalunya,Barcelona Grand Prix,conventional,R,lap1,22
+2026,7,catalunya,Barcelona Grand Prix,conventional,R,neutral,41
+2026,7,catalunya,Barcelona Grand Prix,conventional,R,traffic,270
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP1,cool,173
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP1,invalid,200
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP1,long,59
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP1,push,70
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP2,cool,237
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP2,invalid,206
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP2,long,126
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP2,push,62
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP3,cool,122
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP3,invalid,211
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP3,long,39
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,FP3,push,90
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,Q,cool,14
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,Q,invalid,188
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,Q,push,88
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,R,clean,908
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,R,invalid,101
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,R,lap1,22
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,R,neutral,14
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,R,traffic,297
+2026,9,silverstone,British Grand Prix,sprint,FP1,cool,239
+2026,9,silverstone,British Grand Prix,sprint,FP1,invalid,177
+2026,9,silverstone,British Grand Prix,sprint,FP1,long,123
+2026,9,silverstone,British Grand Prix,sprint,FP1,push,74
+2026,9,silverstone,British Grand Prix,sprint,Q,cool,19
+2026,9,silverstone,British Grand Prix,sprint,Q,invalid,199
+2026,9,silverstone,British Grand Prix,sprint,Q,push,91
+2026,9,silverstone,British Grand Prix,sprint,R,clean,674
+2026,9,silverstone,British Grand Prix,sprint,R,invalid,122
+2026,9,silverstone,British Grand Prix,sprint,R,lap1,21
+2026,9,silverstone,British Grand Prix,sprint,R,neutral,63
+2026,9,silverstone,British Grand Prix,sprint,R,traffic,234
+2026,9,silverstone,British Grand Prix,sprint,S,clean,160
+2026,9,silverstone,British Grand Prix,sprint,S,invalid,12
+2026,9,silverstone,British Grand Prix,sprint,S,lap1,21
+2026,9,silverstone,British Grand Prix,sprint,S,traffic,179
+2026,9,silverstone,British Grand Prix,sprint,SQ,cool,45
+2026,9,silverstone,British Grand Prix,sprint,SQ,invalid,115
+2026,9,silverstone,British Grand Prix,sprint,SQ,push,76
+2026,10,spa,Belgian Grand Prix,conventional,FP1,cool,167
+2026,10,spa,Belgian Grand Prix,conventional,FP1,invalid,158
+2026,10,spa,Belgian Grand Prix,conventional,FP1,long,74
+2026,10,spa,Belgian Grand Prix,conventional,FP1,push,87
+2026,10,spa,Belgian Grand Prix,conventional,FP2,cool,130
+2026,10,spa,Belgian Grand Prix,conventional,FP2,invalid,172
+2026,10,spa,Belgian Grand Prix,conventional,FP2,long,13
+2026,10,spa,Belgian Grand Prix,conventional,FP2,push,79
+2026,10,spa,Belgian Grand Prix,conventional,FP3,cool,113
+2026,10,spa,Belgian Grand Prix,conventional,FP3,invalid,148
+2026,10,spa,Belgian Grand Prix,conventional,FP3,long,78
+2026,10,spa,Belgian Grand Prix,conventional,FP3,push,78
+2026,10,spa,Belgian Grand Prix,conventional,Q,cool,16
+2026,10,spa,Belgian Grand Prix,conventional,Q,invalid,168
+2026,10,spa,Belgian Grand Prix,conventional,Q,push,85
+2026,10,spa,Belgian Grand Prix,conventional,R,clean,435
+2026,10,spa,Belgian Grand Prix,conventional,R,invalid,69
+2026,10,spa,Belgian Grand Prix,conventional,R,neutral,85
+2026,10,spa,Belgian Grand Prix,conventional,R,traffic,286
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP1,cool,218
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP1,invalid,187
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP1,long,79
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP1,push,61
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP2,cool,278
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP2,invalid,186
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP2,long,44
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP2,push,64
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP3,cool,140
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP3,invalid,165
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP3,long,16
+2026,11,hungaroring,Hungarian Grand Prix,conventional,FP3,push,72
+2026,11,hungaroring,Hungarian Grand Prix,conventional,Q,cool,25
+2026,11,hungaroring,Hungarian Grand Prix,conventional,Q,invalid,186
+2026,11,hungaroring,Hungarian Grand Prix,conventional,Q,push,88
+2026,11,hungaroring,Hungarian Grand Prix,conventional,R,clean,969
+2026,11,hungaroring,Hungarian Grand Prix,conventional,R,invalid,112
+2026,11,hungaroring,Hungarian Grand Prix,conventional,R,lap1,18
+2026,11,hungaroring,Hungarian Grand Prix,conventional,R,traffic,333
+2026,12,zandvoort,Dutch Grand Prix,sprint,FP1,cool,312
+2026,12,zandvoort,Dutch Grand Prix,sprint,FP1,invalid,163
+2026,12,zandvoort,Dutch Grand Prix,sprint,FP1,long,165
+2026,12,zandvoort,Dutch Grand Prix,sprint,FP1,push,53
+2026,12,zandvoort,Dutch Grand Prix,sprint,Q,cool,95
+2026,12,zandvoort,Dutch Grand Prix,sprint,Q,invalid,199
+2026,12,zandvoort,Dutch Grand Prix,sprint,Q,push,83
+2026,12,zandvoort,Dutch Grand Prix,sprint,R,clean,788
+2026,12,zandvoort,Dutch Grand Prix,sprint,R,invalid,159
+2026,12,zandvoort,Dutch Grand Prix,sprint,R,neutral,71
+2026,12,zandvoort,Dutch Grand Prix,sprint,R,traffic,351
+2026,12,zandvoort,Dutch Grand Prix,sprint,S,clean,209
+2026,12,zandvoort,Dutch Grand Prix,sprint,S,invalid,6
+2026,12,zandvoort,Dutch Grand Prix,sprint,S,lap1,21
+2026,12,zandvoort,Dutch Grand Prix,sprint,S,traffic,270
+2026,12,zandvoort,Dutch Grand Prix,sprint,SQ,cool,93
+2026,12,zandvoort,Dutch Grand Prix,sprint,SQ,invalid,99
+2026,12,zandvoort,Dutch Grand Prix,sprint,SQ,push,62
+2026,13,monza,Italian Grand Prix,conventional,FP1,cool,192
+2026,13,monza,Italian Grand Prix,conventional,FP1,invalid,180
+2026,13,monza,Italian Grand Prix,conventional,FP1,long,75
+2026,13,monza,Italian Grand Prix,conventional,FP1,push,98
+2026,13,monza,Italian Grand Prix,conventional,FP2,cool,172
+2026,13,monza,Italian Grand Prix,conventional,FP2,invalid,181
+2026,13,monza,Italian Grand Prix,conventional,FP2,long,174
+2026,13,monza,Italian Grand Prix,conventional,FP2,push,91
+2026,13,monza,Italian Grand Prix,conventional,FP3,cool,136
+2026,13,monza,Italian Grand Prix,conventional,FP3,invalid,217
+2026,13,monza,Italian Grand Prix,conventional,FP3,long,29
+2026,13,monza,Italian Grand Prix,conventional,FP3,push,90
+2026,13,monza,Italian Grand Prix,conventional,Q,cool,21
+2026,13,monza,Italian Grand Prix,conventional,Q,invalid,193
+2026,13,monza,Italian Grand Prix,conventional,Q,push,93
+2026,13,monza,Italian Grand Prix,conventional,R,clean,556
+2026,13,monza,Italian Grand Prix,conventional,R,invalid,105
+2026,13,monza,Italian Grand Prix,conventional,R,lap1,21
+2026,13,monza,Italian Grand Prix,conventional,R,neutral,31
+2026,13,monza,Italian Grand Prix,conventional,R,traffic,342
+2026,14,madring,Spanish Grand Prix,conventional,FP1,cool,237
+2026,14,madring,Spanish Grand Prix,conventional,FP1,invalid,193
+2026,14,madring,Spanish Grand Prix,conventional,FP1,long,55
+2026,14,madring,Spanish Grand Prix,conventional,FP1,push,76
+2026,14,madring,Spanish Grand Prix,conventional,FP2,cool,200
+2026,14,madring,Spanish Grand Prix,conventional,FP2,invalid,184
+2026,14,madring,Spanish Grand Prix,conventional,FP2,long,21
+2026,14,madring,Spanish Grand Prix,conventional,FP2,push,76
+2026,14,madring,Spanish Grand Prix,conventional,FP3,cool,64
+2026,14,madring,Spanish Grand Prix,conventional,FP3,invalid,140
+2026,14,madring,Spanish Grand Prix,conventional,FP3,push,57
+2026,14,madring,Spanish Grand Prix,conventional,Q,cool,49
+2026,14,madring,Spanish Grand Prix,conventional,Q,invalid,178
+2026,14,madring,Spanish Grand Prix,conventional,Q,push,85
+2026,14,madring,Spanish Grand Prix,conventional,R,clean,736
+2026,14,madring,Spanish Grand Prix,conventional,R,invalid,86
+2026,14,madring,Spanish Grand Prix,conventional,R,lap1,21
+2026,14,madring,Spanish Grand Prix,conventional,R,neutral,19
+2026,14,madring,Spanish Grand Prix,conventional,R,traffic,247
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP1,cool,216
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP1,invalid,139
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP1,long,50
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP1,push,58
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP2,cool,198
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP2,invalid,113
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP2,long,74
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP2,push,72
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP3,cool,241
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP3,invalid,113
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP3,long,5
+2026,15,baku,Azerbaijan Grand Prix,conventional,FP3,push,87
+2026,15,baku,Azerbaijan Grand Prix,conventional,Q,cool,145
+2026,15,baku,Azerbaijan Grand Prix,conventional,Q,invalid,127
+2026,15,baku,Azerbaijan Grand Prix,conventional,Q,push,101
+2026,15,baku,Azerbaijan Grand Prix,conventional,R,clean,399
+2026,15,baku,Azerbaijan Grand Prix,conventional,R,invalid,92
+2026,15,baku,Azerbaijan Grand Prix,conventional,R,lap1,22
+2026,15,baku,Azerbaijan Grand Prix,conventional,R,neutral,94
+2026,15,baku,Azerbaijan Grand Prix,conventional,R,traffic,376
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP1,cool,220
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP1,invalid,188
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP1,long,20
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP1,push,78
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP2,cool,312
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP2,invalid,190
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP2,long,56
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP2,push,56
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP3,cool,98
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP3,invalid,156
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP3,long,26
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,FP3,push,67
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,Q,cool,15
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,Q,invalid,147
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,Q,push,77
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,R,clean,467
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,R,invalid,190
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,R,neutral,189
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,R,traffic,299
+2026,17,marina_bay,Singapore Grand Prix,sprint,FP1,cool,294
+2026,17,marina_bay,Singapore Grand Prix,sprint,FP1,invalid,153
+2026,17,marina_bay,Singapore Grand Prix,sprint,FP1,long,50
+2026,17,marina_bay,Singapore Grand Prix,sprint,FP1,push,71
+2026,17,marina_bay,Singapore Grand Prix,sprint,Q,cool,72
+2026,17,marina_bay,Singapore Grand Prix,sprint,Q,invalid,199
+2026,17,marina_bay,Singapore Grand Prix,sprint,Q,push,92
+2026,17,marina_bay,Singapore Grand Prix,sprint,R,clean,822
+2026,17,marina_bay,Singapore Grand Prix,sprint,R,invalid,84
+2026,17,marina_bay,Singapore Grand Prix,sprint,R,lap1,19
+2026,17,marina_bay,Singapore Grand Prix,sprint,R,neutral,15
+2026,17,marina_bay,Singapore Grand Prix,sprint,R,traffic,300
+2026,17,marina_bay,Singapore Grand Prix,sprint,S,clean,112
+2026,17,marina_bay,Singapore Grand Prix,sprint,S,invalid,92
+2026,17,marina_bay,Singapore Grand Prix,sprint,S,lap1,20
+2026,17,marina_bay,Singapore Grand Prix,sprint,S,neutral,15
+2026,17,marina_bay,Singapore Grand Prix,sprint,S,traffic,81
+2026,17,marina_bay,Singapore Grand Prix,sprint,SQ,cool,88
+2026,17,marina_bay,Singapore Grand Prix,sprint,SQ,invalid,139
+2026,17,marina_bay,Singapore Grand Prix,sprint,SQ,push,60
+2026,18,americas,United States Grand Prix,conventional,FP1,cool,175
+2026,18,americas,United States Grand Prix,conventional,FP1,invalid,193
+2026,18,americas,United States Grand Prix,conventional,FP1,long,65
+2026,18,americas,United States Grand Prix,conventional,FP1,push,74
+2026,18,americas,United States Grand Prix,conventional,FP2,cool,179
+2026,18,americas,United States Grand Prix,conventional,FP2,invalid,219
+2026,18,americas,United States Grand Prix,conventional,FP2,long,112
+2026,18,americas,United States Grand Prix,conventional,FP2,push,79
+2026,18,americas,United States Grand Prix,conventional,FP3,cool,129
+2026,18,americas,United States Grand Prix,conventional,FP3,invalid,172
+2026,18,americas,United States Grand Prix,conventional,FP3,long,32
+2026,18,americas,United States Grand Prix,conventional,FP3,push,90
+2026,18,americas,United States Grand Prix,conventional,Q,cool,25
+2026,18,americas,United States Grand Prix,conventional,Q,invalid,167
+2026,18,americas,United States Grand Prix,conventional,Q,push,88
+2026,18,americas,United States Grand Prix,conventional,R,clean,762
+2026,18,americas,United States Grand Prix,conventional,R,invalid,94
+2026,18,americas,United States Grand Prix,conventional,R,lap1,21
+2026,18,americas,United States Grand Prix,conventional,R,neutral,37
+2026,18,americas,United States Grand Prix,conventional,R,traffic,252

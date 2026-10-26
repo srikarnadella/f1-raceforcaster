@@ -1,0 +1,44 @@
+driver_id,hot track,medium-speed technical,overtaking-friendly,power / long straights,safety-car prone,twisty / technical,track_group,code
+albon,0.02596,-0.08143,0.09986,0.01641,-0.1351,-0.2261,strongest at twisty / technical,ALB
+alonso,-0.03297,-0.213,0.02494,0.1567,-0.05865,-0.06392,strongest at medium-speed technical,ALO
+antonelli,-0.004456,-0.1053,-0.05429,0.05519,0.0975,-0.06438,strongest at medium-speed technical,ANT
+bearman,-0.0527,0.03228,0.1272,0.00417,-0.07878,0.08223,strongest at safety-car prone,BEA
+bortoleto,-0.04692,-0.06373,0.02749,-0.1266,-0.00507,0.4208,strongest at power / long straights,BOR
+bottas,-0.05754,-0.07438,-0.111,0.08894,0.1486,0.04595,strongest at medium-speed technical,BOT
+button,0.04998,0.1775,-0.1578,-0.09954,0.0006065,0.01845,strongest at safety-car prone,BUT
+colapinto,-0.1049,0.1988,0.07385,-0.02313,0.2723,0.0374,strongest at twisty / technical,COL
+ericsson,-0.03608,-0.04367,-0.08617,-0.0205,-0.1546,0.2811,strongest at power / long straights,ERI
+gasly,-0.0184,0.104,0.01812,0.09019,-0.2248,-0.01915,strongest at safety-car prone,GAS
+giovinazzi,0.1262,-0.01759,-0.07343,-0.02296,-0.02192,-0.04796,strongest at medium-speed technical,GIO
+grosjean,0.01809,0.05868,-0.02214,0.02762,-0.08482,-0.0926,strongest at safety-car prone,GRO
+gutierrez,0.06361,0.01133,-0.008401,-0.0156,0.1671,-0.1873,strongest at twisty / technical,GUT
+hadjar,-0.01124,-0.1096,0.04269,0.061,-0.02732,0.02971,strongest at medium-speed technical,HAD
+hamilton,-0.005945,0.00422,0.002888,0.04127,-0.09477,0.103,strongest at safety-car prone,HAM
+hulkenberg,-0.01676,0.147,-0.2114,0.1391,0.01726,-0.135,strongest at safety-car prone,HUL
+jolyon_palmer,-0.01682,-0.2537,0.2201,-0.2329,0.06864,0.1868,strongest at power / long straights,PAL
+kevin_magnussen,0.07095,-0.03919,-0.1438,0.1083,0.039,-0.05336,strongest at medium-speed technical,MAG
+kvyat,0.008283,0.1664,-0.03995,-0.06422,-0.01024,0.0821,strongest at safety-car prone,KVY
+latifi,-0.03204,-0.1442,-0.01019,-0.08794,0.1582,0.06604,strongest at medium-speed technical,LAT
+lawson,-0.0386,0.04245,0.06045,0.05915,0.1842,-0.1786,strongest at twisty / technical,LAW
+leclerc,0.08073,-0.1156,0.006499,-0.1235,-0.0152,0.04633,strongest at medium-speed technical,LEC
+maldonado,-0.1656,-0.08076,0.2302,-0.144,-0.09068,0.108,strongest at power / long straights,MAL
+massa,-0.01336,0.1934,0.02481,0.007141,0.01825,-0.2393,strongest at twisty / technical,MAS
+max_verstappen,-0.002642,0.09623,0.0747,-0.03338,-0.1146,0.06368,strongest at safety-car prone,VER
+mick_schumacher,0.02016,-0.0196,0.005997,-0.1081,0.08139,0.1265,strongest at medium-speed technical,MSC
+nasr,0.05392,0.002537,0.1741,-0.1031,0.1097,-0.05381,strongest at twisty / technical,NAS
+norris,-0.07762,0.1667,0.09641,0.1079,-0.01464,-0.1287,strongest at twisty / technical,NOR
+ocon,0.02352,-0.2038,-0.04187,-0.1141,0.1726,-0.1089,strongest at medium-speed technical,OCO
+perez,0.09702,0.06373,0.02776,0.03922,-0.001846,-0.3809,strongest at twisty / technical,PER
+piastri,0.09544,-0.1237,-0.02088,-0.1795,-0.04824,0.05169,strongest at medium-speed technical,PIA
+raikkonen,-0.02926,0.1076,0.01477,-0.08109,0.0005483,0.1265,strongest at safety-car prone,RAI
+ricciardo,-0.01239,0.00099,-0.2234,-0.008066,0.149,0.2226,strongest at medium-speed technical,RIC
+rosberg,-0.03496,-0.1151,0.09174,0.02787,0.2382,-0.09255,strongest at twisty / technical,ROS
+russell,0.03865,0.3582,0.03742,-0.007353,-0.1582,0.09873,strongest at safety-car prone,RUS
+sainz,-0.03519,-0.05314,-0.03033,0.06168,0.06075,0.08288,strongest at medium-speed technical,SAI
+sargeant,-0.08896,-0.07324,-0.07207,0.1108,0.1533,0.1483,strongest at medium-speed technical,SAR
+stroll,-0.03792,0.1452,0.00471,-0.08006,-0.0236,0.4058,strongest at power / long straights,STR
+tsunoda,0.09236,-0.103,0.06608,0.01209,-0.2557,-0.07772,strongest at safety-car prone,TSU
+vandoorne,0.08211,-0.08472,-0.1042,-0.1183,-0.001371,-0.03858,strongest at medium-speed technical,VAN
+vettel,-0.06621,-0.1439,0.1187,0.1072,0.02469,-0.2619,strongest at twisty / technical,VET
+wehrlein,-0.01608,0.2507,-0.2669,0.0704,0.1083,-0.01073,strongest at safety-car prone,WEH
+zhou,0.06938,0.0311,0.01429,-0.1548,-0.04652,0.04765,strongest at safety-car prone,ZHO

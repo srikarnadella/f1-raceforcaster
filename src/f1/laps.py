@@ -79,21 +79,20 @@ def categorise(laps: pd.DataFrame) -> pd.DataFrame:
 
 
 def corrected_pace(laps: pd.DataFrame) -> pd.DataFrame:
-    """Fit time = driver effect + fuel*lap + deg*tyre_age on green laps (clean+traffic)
-    and return corrected lap times: what the lap would be at lap 1 fuel / new tyres.
-    Shared fuel and degradation slopes across the field (per race)."""
+    """Corrected lap times (what each lap would be at lap-1 fuel on new tyres) from the
+    shared lap-time model (analytics/pacefit.py), fitted on green laps. Jolpica has no
+    tyre compounds, so every lap is one compound and only fuel and tyre age are fitted."""
+    from .analytics.pacefit import fit
     l = categorise(laps)
-    g = l[l["category"].isin(["clean", "traffic"])].copy()
-    if len(g) < 50:
+    g = l[l["category"].isin(["clean", "traffic"])].rename(columns={"time_s": "lap_s"}).assign(compound="UNKNOWN")
+    out = fit(g, fuel=True, coefficients=True) if len(g) >= 50 else None
+    if out is None:
         l["corrected_s"] = np.nan
         return l
-    drivers = sorted(g["driver_id"].unique())
-    D = pd.get_dummies(g["driver_id"]).reindex(columns=drivers, fill_value=0).to_numpy(float)
-    X = np.column_stack([D, g["lap"].to_numpy(float), g["tyre_age"].to_numpy(float)])
-    coef, *_ = np.linalg.lstsq(X, g["time_s"].to_numpy(), rcond=None)
-    fuel, deg = coef[-2], coef[-1]
+    _, _, c = out
+    fuel, deg = c["fuel"], c["deg"]["UNKNOWN"]
     l["corrected_s"] = l["time_s"] - fuel * l["lap"] - deg * l["tyre_age"]
-    l.attrs.update(fuel_s_per_lap=float(fuel), deg_s_per_lap=float(deg))
+    l.attrs.update(fuel_s_per_lap=fuel, deg_s_per_lap=deg)
     return l
 
 

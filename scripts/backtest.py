@@ -4,10 +4,9 @@ Usage: python scripts/backtest.py [--spec models/specs/x.json] [--from 2019] [--
 """
 import argparse
 import json
+from pathlib import Path
 import time
 
-import _path  # noqa: F401
-import numpy as np
 
 from eval.harness import evaluate
 from eval.metrics import bootstrap_ci
@@ -50,8 +49,9 @@ def write(spec, path, test_from=2019, test_to=None, verbose=False, version=None)
                                                           "top1_hit"]].mean().round(4).to_dict("index")
                  for name, r in out.items()}
     rep = report(out)
-    json.dump({"model_version": version, "generated": registry.now(), "data_hash": registry.data_hash(),
-               "overall": rep, "by_season": by_season}, open(path, "w"), indent=1, default=float)
+    Path(path).write_text(json.dumps({"model_version": version, "generated": registry.now(),
+                                      "data_hash": registry.data_hash(), "overall": rep, "by_season": by_season},
+                                     indent=1, default=float))
     return rep
 
 
@@ -62,7 +62,7 @@ if __name__ == "__main__":
     ap.add_argument("--to", dest="test_to", type=int)
     ap.add_argument("--out")
     a = ap.parse_args()
-    spec = json.load(open(a.spec)) if a.spec else registry.champion_spec()
+    spec = json.loads(Path(a.spec).read_text()) if a.spec else registry.champion_spec()
     version = None if a.spec else registry.load()["champion"]
     rep = write(spec, a.out, a.test_from, a.test_to, verbose=True, version=version) if a.out else report(run(spec, a.test_from, a.test_to))
     print(json.dumps(rep, indent=1, default=float))

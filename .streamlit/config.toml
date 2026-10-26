@@ -1,0 +1,37 @@
+# Dark framed sheet: a near-black frame (sidebar + top) holds a slightly lighter work
+# sheet; elevation by lightness only, colour on data (team colours), accent on selection.
+[theme]
+base = "dark"
+primaryColor = "#4fb3c8"
+backgroundColor = "#16171a"
+secondaryBackgroundColor = "#1f2125"
+textColor = "#ececee"
+linkColor = "#6cc4d6"
+linkUnderline = false
+borderColor = "#2a2c31"
+dataframeBorderColor = "#24262a"
+dataframeHeaderBackgroundColor = "#16171a"
+dataframeHeaderTextColor = "#a3a6ad"
+showWidgetBorder = true
+showSidebarBorder = false
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+headingFont = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap"
+headingFontSizes = ["22px", "16px", "14px", "14px", "14px", "14px"]
+headingFontWeights = [600, 600, 600, 600, 600, 600]
+baseFontSize = 14
+baseFontWeight = 400
+metricValueFontSize = "28px"
+metricValueFontWeight = 400
+baseRadius = "8px"
+buttonRadius = "6px"
+chartCategoricalColors = ["#4fb3c8", "#6f9fe0", "#d9a441", "#a3a6ad", "#4cc38a", "#f06272"]
+redColor = "#f06272"
+greenColor = "#4cc38a"
+
+[theme.sidebar]
+backgroundColor = "#0f1012"
+secondaryBackgroundColor = "#1a1b1e"
+borderColor = "#26282c"
+
+[client]
+toolbarMode = "minimal"

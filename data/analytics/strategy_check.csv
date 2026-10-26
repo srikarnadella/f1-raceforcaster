@@ -1,0 +1,50 @@
+season,round,circuit_id,actual_stops,pred_stops,last_visit_stops,plan,actual_round
+2024,1,bahrain,2,1,2,S25 → H32,2
+2024,2,jeddah,1,1,1,S16 → H34,1
+2024,3,albert_park,2,1,3,S53 → M5,2
+2024,4,suzuka,3,1,2,M25 → H28,3
+2024,6,miami,1,1,1,M26 → H31,1
+2024,8,monaco,0,2,,S21 → M28 → M29,0
+2024,13,hungaroring,2,1,2,M35 → H35,2
+2024,14,spa,2,1,,S17 → M27,2
+2024,15,zandvoort,1,2,,S20 → M26 → M26,1
+2024,16,monza,1.5,1,1,S23 → H28,2
+2024,17,baku,1,1,1,S34 → M17,1
+2024,18,marina_bay,1,1,1,S31 → M31,1
+2024,19,americas,1,1,2,M29 → H27,1
+2024,20,rodriguez,1,2,2,S22 → S22 → M27,1
+2024,22,vegas,2,1,2,M21 → H29,2
+2024,23,losail,3,1,3,M22 → H35,3
+2024,24,yas_marina,1,1,2,M25 → H33,1
+2025,2,shanghai,1,1,2,M24 → H32,1
+2025,3,suzuka,1,1,3,M26 → H27,1
+2025,4,bahrain,2,1,2,S24 → H33,2
+2025,5,jeddah,1,1,1,M28 → H22,1
+2025,7,imola,2,1,1,M30 → H33,2
+2025,8,monaco,2,1,0,M43 → H35,2
+2025,9,catalunya,3,1,2,M31 → H35,3
+2025,11,red_bull_ring,2,1,,M34 → H37,2
+2025,14,hungaroring,1,1,2,M35 → H35,1
+2025,15,zandvoort,2,2,1,S17 → H27 → H28,2
+2025,16,monza,1,1,1.5,S32 → H20,1
+2025,17,baku,1,1,1,S35 → M16,1
+2025,19,americas,1,1,1,M28 → H28,1
+2025,20,rodriguez,1,1,1,M32 → H39,1
+2025,21,interlagos,2,1,,M34 → H36,2
+2025,22,vegas,1,1,2,M18 → H32,1
+2025,23,losail,2,1,3,M25 → H32,2
+2025,24,yas_marina,1,1,1,M27 → H31,1
+2026,1,albert_park,1,1,2,S52 → M5,1
+2026,2,shanghai,1,1,1,M23 → H33,1
+2026,3,suzuka,1,1,1,M26 → H27,1
+2026,5,villeneuve,1,1,2,S54 → M16,1
+2026,6,monaco,4.5,1,2,M39 → H39,4
+2026,7,catalunya,2,2,3,S17 → H24 → H25,2
+2026,8,red_bull_ring,2,1,2,M32 → H38,2
+2026,9,silverstone,2,1,1,S18 → H34,2
+2026,10,spa,1,1,2,S39 → H5,1
+2026,11,hungaroring,2,1,1,M34 → H36,2
+2026,13,monza,1,1,1,S23 → H29,1
+2026,15,baku,2,1,1,S40 → M11,2
+2026,17,marina_bay,1,1,1,S36 → M26,1
+2026,18,americas,1,1,1,M30 → H26,1

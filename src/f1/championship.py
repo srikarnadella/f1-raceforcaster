@@ -15,7 +15,7 @@ import pandas as pd
 
 from .config import RACE_POINTS, SEED, sprint_points
 from .features import build_features
-from .models import RaceModel, form_only_spec, simulate_orders
+from .models import RaceModel, form_only_spec
 
 
 def standings(results: pd.DataFrame, season: int, after_round: int) -> tuple[pd.Series, pd.Series]:

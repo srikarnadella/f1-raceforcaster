@@ -1,0 +1,1706 @@
+season,round,circuit_id,race_name,format,driver_id,deg_s_per_lap,consistency_s,stint_laps
+2023,1,bahrain,Bahrain Grand Prix,conventional,albon,0.1442,0.15634,50
+2023,1,bahrain,Bahrain Grand Prix,conventional,alonso,0.10737,0.34795,51
+2023,1,bahrain,Bahrain Grand Prix,conventional,bottas,0.10619,0.39437,49
+2023,1,bahrain,Bahrain Grand Prix,conventional,de_vries,0.15288,0.47452,47
+2023,1,bahrain,Bahrain Grand Prix,conventional,gasly,0.15249,0.19698,48
+2023,1,bahrain,Bahrain Grand Prix,conventional,hamilton,0.11248,0.30072,50
+2023,1,bahrain,Bahrain Grand Prix,conventional,hulkenberg,0.17659,0.47881,44
+2023,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,0.16306,0.34366,48
+2023,1,bahrain,Bahrain Grand Prix,conventional,leclerc,0.12812,0.33344,28
+2023,1,bahrain,Bahrain Grand Prix,conventional,max_verstappen,0.08529,0.22226,50
+2023,1,bahrain,Bahrain Grand Prix,conventional,norris,0.12139,0.47959,29
+2023,1,bahrain,Bahrain Grand Prix,conventional,ocon,0.18201,0.32179,31
+2023,1,bahrain,Bahrain Grand Prix,conventional,perez,0.080514,0.48434,51
+2023,1,bahrain,Bahrain Grand Prix,conventional,piastri,0.14246,0.17309,11
+2023,1,bahrain,Bahrain Grand Prix,conventional,russell,0.1284,0.226,50
+2023,1,bahrain,Bahrain Grand Prix,conventional,sainz,0.12136,0.31383,51
+2023,1,bahrain,Bahrain Grand Prix,conventional,sargeant,0.1525,0.34758,49
+2023,1,bahrain,Bahrain Grand Prix,conventional,stroll,0.12594,0.31264,51
+2023,1,bahrain,Bahrain Grand Prix,conventional,tsunoda,0.13385,0.19793,50
+2023,1,bahrain,Bahrain Grand Prix,conventional,zhou,0.13303,0.39947,46
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,-0.039318,0.60139,14
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,alonso,-0.004168,0.40183,46
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,0.045432,0.63108,39
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,de_vries,-0.064583,0.70712,45
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,gasly,-0.0055266,0.51604,43
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,-0.015291,0.46347,46
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,-0.031459,0.53849,42
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,kevin_magnussen,0.0068549,0.73833,36
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,-0.018711,0.74065,42
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,-0.033814,0.75604,44
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,0.025204,0.62381,42
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,0.01804,0.51828,44
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,0.018278,0.45868,45
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,piastri,0.032423,0.81704,43
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,-0.009393,0.37675,46
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sainz,-0.0083279,0.4836,43
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,-0.016318,0.68119,44
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,stroll,0.046518,0.34046,10
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,-0.033315,0.60928,45
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,0.00023543,0.49609,38
+2023,3,albert_park,Australian Grand Prix,conventional,alonso,-0.016553,0.32325,41
+2023,3,albert_park,Australian Grand Prix,conventional,bottas,-0.0056674,0.50678,39
+2023,3,albert_park,Australian Grand Prix,conventional,de_vries,0.033466,0.48705,37
+2023,3,albert_park,Australian Grand Prix,conventional,gasly,-0.0076735,0.44506,41
+2023,3,albert_park,Australian Grand Prix,conventional,hamilton,-0.017521,0.35075,41
+2023,3,albert_park,Australian Grand Prix,conventional,hulkenberg,0.016094,0.651,41
+2023,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,-0.0039371,0.50699,40
+2023,3,albert_park,Australian Grand Prix,conventional,max_verstappen,-0.001753,0.24661,40
+2023,3,albert_park,Australian Grand Prix,conventional,norris,-0.0010173,0.46171,41
+2023,3,albert_park,Australian Grand Prix,conventional,ocon,-0.018566,0.48909,41
+2023,3,albert_park,Australian Grand Prix,conventional,perez,-0.017523,0.40285,40
+2023,3,albert_park,Australian Grand Prix,conventional,piastri,-0.014302,0.4167,40
+2023,3,albert_park,Australian Grand Prix,conventional,russell,-0.24639,0.35441,6
+2023,3,albert_park,Australian Grand Prix,conventional,sainz,-0.0048829,0.29621,41
+2023,3,albert_park,Australian Grand Prix,conventional,sargeant,0.043912,0.90269,37
+2023,3,albert_park,Australian Grand Prix,conventional,stroll,-0.0080125,0.35079,41
+2023,3,albert_park,Australian Grand Prix,conventional,tsunoda,0.00032964,0.49843,40
+2023,3,albert_park,Australian Grand Prix,conventional,zhou,-0.0028395,0.57061,40
+2023,4,baku,Azerbaijan Grand Prix,sprint,albon,0.012487,0.75039,39
+2023,4,baku,Azerbaijan Grand Prix,sprint,alonso,0.0054846,0.40296,47
+2023,4,baku,Azerbaijan Grand Prix,sprint,bottas,0.019513,0.82637,35
+2023,4,baku,Azerbaijan Grand Prix,sprint,de_vries,-0.0076143,0.42249,8
+2023,4,baku,Azerbaijan Grand Prix,sprint,gasly,0.034006,0.90075,39
+2023,4,baku,Azerbaijan Grand Prix,sprint,hamilton,0.022663,0.46823,45
+2023,4,baku,Azerbaijan Grand Prix,sprint,hulkenberg,0.030016,0.8504,43
+2023,4,baku,Azerbaijan Grand Prix,sprint,kevin_magnussen,0.0060498,0.73446,46
+2023,4,baku,Azerbaijan Grand Prix,sprint,leclerc,0.0031903,0.33545,47
+2023,4,baku,Azerbaijan Grand Prix,sprint,max_verstappen,0.022469,0.28464,46
+2023,4,baku,Azerbaijan Grand Prix,sprint,norris,0.012616,0.61749,45
+2023,4,baku,Azerbaijan Grand Prix,sprint,ocon,0.0070546,0.54316,44
+2023,4,baku,Azerbaijan Grand Prix,sprint,perez,0.023347,0.2014,47
+2023,4,baku,Azerbaijan Grand Prix,sprint,piastri,0.0069165,0.70848,44
+2023,4,baku,Azerbaijan Grand Prix,sprint,russell,-0.0021148,0.4914,44
+2023,4,baku,Azerbaijan Grand Prix,sprint,sainz,0.016435,0.37311,47
+2023,4,baku,Azerbaijan Grand Prix,sprint,sargeant,0.0033057,0.72303,44
+2023,4,baku,Azerbaijan Grand Prix,sprint,stroll,0.030014,0.3756,46
+2023,4,baku,Azerbaijan Grand Prix,sprint,tsunoda,-8.7496e-05,0.70292,44
+2023,4,baku,Azerbaijan Grand Prix,sprint,zhou,0.023675,0.3065,30
+2023,5,miami,Miami Grand Prix,conventional,albon,0.038877,0.39373,52
+2023,5,miami,Miami Grand Prix,conventional,alonso,0.007668,0.36537,54
+2023,5,miami,Miami Grand Prix,conventional,bottas,0.0068312,0.39729,54
+2023,5,miami,Miami Grand Prix,conventional,de_vries,-0.0034534,0.41564,54
+2023,5,miami,Miami Grand Prix,conventional,gasly,0.037467,0.47939,54
+2023,5,miami,Miami Grand Prix,conventional,hamilton,0.0096726,0.30009,54
+2023,5,miami,Miami Grand Prix,conventional,hulkenberg,0.044201,0.45122,54
+2023,5,miami,Miami Grand Prix,conventional,kevin_magnussen,0.023195,0.46973,53
+2023,5,miami,Miami Grand Prix,conventional,leclerc,0.0056646,0.42305,54
+2023,5,miami,Miami Grand Prix,conventional,max_verstappen,-0.01192,0.30798,54
+2023,5,miami,Miami Grand Prix,conventional,norris,0.041063,0.29418,52
+2023,5,miami,Miami Grand Prix,conventional,ocon,0.021403,0.38847,53
+2023,5,miami,Miami Grand Prix,conventional,perez,0.015368,0.35735,54
+2023,5,miami,Miami Grand Prix,conventional,piastri,0.026657,0.78015,50
+2023,5,miami,Miami Grand Prix,conventional,russell,-0.0033467,0.30396,54
+2023,5,miami,Miami Grand Prix,conventional,sainz,0.0073742,0.34934,53
+2023,5,miami,Miami Grand Prix,conventional,sargeant,0.036271,0.44953,52
+2023,5,miami,Miami Grand Prix,conventional,stroll,0.0076606,0.42735,53
+2023,5,miami,Miami Grand Prix,conventional,tsunoda,0.002733,0.35091,54
+2023,5,miami,Miami Grand Prix,conventional,zhou,0.039445,0.38639,54
+2023,6,monaco,Monaco Grand Prix,conventional,albon,0.011871,0.84289,51
+2023,6,monaco,Monaco Grand Prix,conventional,alonso,-0.10574,0.73059,58
+2023,6,monaco,Monaco Grand Prix,conventional,bottas,0.0003065,0.72933,48
+2023,6,monaco,Monaco Grand Prix,conventional,de_vries,-0.075206,0.78562,56
+2023,6,monaco,Monaco Grand Prix,conventional,gasly,-0.11348,0.53425,52
+2023,6,monaco,Monaco Grand Prix,conventional,hamilton,-0.11465,0.62008,55
+2023,6,monaco,Monaco Grand Prix,conventional,hulkenberg,0.00057514,1.229,53
+2023,6,monaco,Monaco Grand Prix,conventional,kevin_magnussen,0.0018986,0.73937,47
+2023,6,monaco,Monaco Grand Prix,conventional,leclerc,-0.077236,0.45866,55
+2023,6,monaco,Monaco Grand Prix,conventional,max_verstappen,-0.098652,0.67931,58
+2023,6,monaco,Monaco Grand Prix,conventional,norris,-0.034402,0.53985,54
+2023,6,monaco,Monaco Grand Prix,conventional,ocon,-0.11819,0.49373,54
+2023,6,monaco,Monaco Grand Prix,conventional,perez,0.10736,1.0541,43
+2023,6,monaco,Monaco Grand Prix,conventional,piastri,-0.075535,0.6835,56
+2023,6,monaco,Monaco Grand Prix,conventional,russell,-0.094509,0.67774,58
+2023,6,monaco,Monaco Grand Prix,conventional,sainz,-0.10675,0.522,54
+2023,6,monaco,Monaco Grand Prix,conventional,sargeant,0.092147,1.0256,48
+2023,6,monaco,Monaco Grand Prix,conventional,stroll,0.00064861,0.86126,48
+2023,6,monaco,Monaco Grand Prix,conventional,tsunoda,-0.0074612,0.48758,49
+2023,6,monaco,Monaco Grand Prix,conventional,zhou,-0.029967,1.2239,54
+2023,7,catalunya,Spanish Grand Prix,conventional,albon,0.053888,0.31588,60
+2023,7,catalunya,Spanish Grand Prix,conventional,alonso,0.04748,0.28185,60
+2023,7,catalunya,Spanish Grand Prix,conventional,bottas,0.078634,0.89778,57
+2023,7,catalunya,Spanish Grand Prix,conventional,de_vries,0.042461,0.43794,60
+2023,7,catalunya,Spanish Grand Prix,conventional,gasly,0.056699,0.35398,61
+2023,7,catalunya,Spanish Grand Prix,conventional,hamilton,0.056702,0.44874,61
+2023,7,catalunya,Spanish Grand Prix,conventional,hulkenberg,0.12804,0.51753,57
+2023,7,catalunya,Spanish Grand Prix,conventional,kevin_magnussen,0.16776,0.63279,56
+2023,7,catalunya,Spanish Grand Prix,conventional,leclerc,0.050321,0.33812,61
+2023,7,catalunya,Spanish Grand Prix,conventional,max_verstappen,0.053732,0.27991,58
+2023,7,catalunya,Spanish Grand Prix,conventional,norris,0.11357,0.58325,58
+2023,7,catalunya,Spanish Grand Prix,conventional,ocon,0.058999,0.39699,61
+2023,7,catalunya,Spanish Grand Prix,conventional,perez,0.07077,0.40104,61
+2023,7,catalunya,Spanish Grand Prix,conventional,piastri,0.042665,0.55528,60
+2023,7,catalunya,Spanish Grand Prix,conventional,russell,0.060182,0.29206,61
+2023,7,catalunya,Spanish Grand Prix,conventional,sainz,0.055809,0.36672,61
+2023,7,catalunya,Spanish Grand Prix,conventional,sargeant,0.10742,0.57328,60
+2023,7,catalunya,Spanish Grand Prix,conventional,stroll,0.057328,0.28264,61
+2023,7,catalunya,Spanish Grand Prix,conventional,tsunoda,0.035111,0.36987,61
+2023,7,catalunya,Spanish Grand Prix,conventional,zhou,0.043849,0.40753,60
+2023,8,villeneuve,Canadian Grand Prix,conventional,albon,0.0052359,0.31871,61
+2023,8,villeneuve,Canadian Grand Prix,conventional,alonso,0.039928,0.32482,58
+2023,8,villeneuve,Canadian Grand Prix,conventional,bottas,0.021341,0.40047,60
+2023,8,villeneuve,Canadian Grand Prix,conventional,de_vries,0.032649,0.32154,49
+2023,8,villeneuve,Canadian Grand Prix,conventional,gasly,0.005275,0.26903,57
+2023,8,villeneuve,Canadian Grand Prix,conventional,hamilton,0.046999,0.32327,59
+2023,8,villeneuve,Canadian Grand Prix,conventional,hulkenberg,0.038209,0.49928,57
+2023,8,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,0.01802,0.50895,56
+2023,8,villeneuve,Canadian Grand Prix,conventional,leclerc,0.015516,0.42155,60
+2023,8,villeneuve,Canadian Grand Prix,conventional,max_verstappen,0.042129,0.19596,59
+2023,8,villeneuve,Canadian Grand Prix,conventional,norris,0.025576,0.3839,58
+2023,8,villeneuve,Canadian Grand Prix,conventional,ocon,0.012981,0.31072,59
+2023,8,villeneuve,Canadian Grand Prix,conventional,perez,0.017596,0.32395,56
+2023,8,villeneuve,Canadian Grand Prix,conventional,piastri,-0.0003219,0.35934,57
+2023,8,villeneuve,Canadian Grand Prix,conventional,russell,-0.018038,0.34136,45
+2023,8,villeneuve,Canadian Grand Prix,conventional,sainz,0.011334,0.41066,59
+2023,8,villeneuve,Canadian Grand Prix,conventional,stroll,0.005949,0.31743,58
+2023,8,villeneuve,Canadian Grand Prix,conventional,tsunoda,0.0064566,0.48381,59
+2023,8,villeneuve,Canadian Grand Prix,conventional,zhou,0.014973,0.49453,56
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,albon,0.03181,0.35709,59
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,alonso,0.042447,0.20156,62
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,bottas,0.085866,0.66069,60
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,de_vries,0.049941,0.37669,59
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,gasly,0.048667,0.44411,58
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,hamilton,0.049095,0.52139,61
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,-0.027,0.42572,6
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,kevin_magnussen,0.067819,0.54601,59
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,leclerc,0.071335,0.20708,62
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,max_verstappen,0.059231,0.14589,57
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,norris,0.05786,0.31769,62
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,ocon,0.024231,0.38686,61
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,perez,0.027794,0.60395,59
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,piastri,0.074846,0.64696,60
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,russell,0.030557,0.22394,64
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,sainz,0.06835,0.2825,59
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,sargeant,0.036433,0.40186,62
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,stroll,0.029959,0.28326,58
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,tsunoda,0.098983,0.59903,53
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,zhou,0.072622,0.44511,57
+2023,10,silverstone,British Grand Prix,conventional,albon,0.011247,0.27258,43
+2023,10,silverstone,British Grand Prix,conventional,alonso,0.015557,0.32481,44
+2023,10,silverstone,British Grand Prix,conventional,bottas,-0.012024,0.35844,44
+2023,10,silverstone,British Grand Prix,conventional,de_vries,-0.012235,0.43105,38
+2023,10,silverstone,British Grand Prix,conventional,gasly,0.096592,0.68029,36
+2023,10,silverstone,British Grand Prix,conventional,hamilton,0.042353,0.48811,45
+2023,10,silverstone,British Grand Prix,conventional,hulkenberg,0.011406,0.21908,37
+2023,10,silverstone,British Grand Prix,conventional,kevin_magnussen,-0.0056164,0.30189,28
+2023,10,silverstone,British Grand Prix,conventional,leclerc,0.034152,0.35022,42
+2023,10,silverstone,British Grand Prix,conventional,max_verstappen,0.056154,0.20293,45
+2023,10,silverstone,British Grand Prix,conventional,norris,0.048266,0.22704,42
+2023,10,silverstone,British Grand Prix,conventional,ocon,-0.048512,0.34937,8
+2023,10,silverstone,British Grand Prix,conventional,perez,0.0021421,0.32794,42
+2023,10,silverstone,British Grand Prix,conventional,piastri,0.037943,0.2952,42
+2023,10,silverstone,British Grand Prix,conventional,russell,0.026731,0.25392,39
+2023,10,silverstone,British Grand Prix,conventional,sainz,0.023707,0.53206,42
+2023,10,silverstone,British Grand Prix,conventional,sargeant,0.0048696,0.39634,41
+2023,10,silverstone,British Grand Prix,conventional,stroll,0.02114,0.48479,40
+2023,10,silverstone,British Grand Prix,conventional,tsunoda,0.0372,0.27608,42
+2023,10,silverstone,British Grand Prix,conventional,zhou,0.003667,0.28473,42
+2023,11,hungaroring,Hungarian Grand Prix,conventional,albon,0.015011,0.35857,64
+2023,11,hungaroring,Hungarian Grand Prix,conventional,alonso,0.025864,0.34771,65
+2023,11,hungaroring,Hungarian Grand Prix,conventional,bottas,0.037712,0.44136,64
+2023,11,hungaroring,Hungarian Grand Prix,conventional,hamilton,0.043225,0.42614,64
+2023,11,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,0.071212,0.47464,63
+2023,11,hungaroring,Hungarian Grand Prix,conventional,kevin_magnussen,0.089545,0.86313,62
+2023,11,hungaroring,Hungarian Grand Prix,conventional,leclerc,0.073891,0.32072,64
+2023,11,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,0.020377,0.39931,65
+2023,11,hungaroring,Hungarian Grand Prix,conventional,norris,0.069863,0.26714,63
+2023,11,hungaroring,Hungarian Grand Prix,conventional,perez,0.046623,0.40363,64
+2023,11,hungaroring,Hungarian Grand Prix,conventional,piastri,0.069712,0.41246,62
+2023,11,hungaroring,Hungarian Grand Prix,conventional,ricciardo,0.047927,0.6399,63
+2023,11,hungaroring,Hungarian Grand Prix,conventional,russell,0.050828,0.45861,64
+2023,11,hungaroring,Hungarian Grand Prix,conventional,sainz,0.061841,0.46949,65
+2023,11,hungaroring,Hungarian Grand Prix,conventional,sargeant,0.057736,0.50277,60
+2023,11,hungaroring,Hungarian Grand Prix,conventional,stroll,0.053984,0.4867,63
+2023,11,hungaroring,Hungarian Grand Prix,conventional,tsunoda,0.064215,0.46337,64
+2023,11,hungaroring,Hungarian Grand Prix,conventional,zhou,0.048142,0.54455,64
+2023,12,spa,Belgian Grand Prix,sprint,albon,0.35103,0.6162,31
+2023,12,spa,Belgian Grand Prix,sprint,alonso,0.063694,0.97411,39
+2023,12,spa,Belgian Grand Prix,sprint,bottas,0.20499,0.55758,35
+2023,12,spa,Belgian Grand Prix,sprint,gasly,0.13524,0.81943,41
+2023,12,spa,Belgian Grand Prix,sprint,hamilton,0.18566,0.99468,35
+2023,12,spa,Belgian Grand Prix,sprint,hulkenberg,0.23827,0.88824,38
+2023,12,spa,Belgian Grand Prix,sprint,kevin_magnussen,0.25201,0.59408,36
+2023,12,spa,Belgian Grand Prix,sprint,leclerc,0.16246,1.052,39
+2023,12,spa,Belgian Grand Prix,sprint,max_verstappen,0.082557,0.99785,38
+2023,12,spa,Belgian Grand Prix,sprint,norris,0.15848,0.52665,35
+2023,12,spa,Belgian Grand Prix,sprint,ocon,0.20659,0.73496,35
+2023,12,spa,Belgian Grand Prix,sprint,perez,0.10303,0.79431,38
+2023,12,spa,Belgian Grand Prix,sprint,ricciardo,0.26575,0.65597,35
+2023,12,spa,Belgian Grand Prix,sprint,russell,0.12897,0.73204,41
+2023,12,spa,Belgian Grand Prix,sprint,sainz,0.38823,0.63612,12
+2023,12,spa,Belgian Grand Prix,sprint,sargeant,0.24239,0.54047,35
+2023,12,spa,Belgian Grand Prix,sprint,stroll,0.11881,0.91199,41
+2023,12,spa,Belgian Grand Prix,sprint,tsunoda,0.17032,0.57017,37
+2023,12,spa,Belgian Grand Prix,sprint,zhou,0.22696,0.80504,34
+2023,13,zandvoort,Dutch Grand Prix,conventional,albon,0.025297,0.58825,43
+2023,13,zandvoort,Dutch Grand Prix,conventional,alonso,-0.11136,0.47489,53
+2023,13,zandvoort,Dutch Grand Prix,conventional,bottas,-0.10399,0.48773,43
+2023,13,zandvoort,Dutch Grand Prix,conventional,gasly,0.046824,0.32736,45
+2023,13,zandvoort,Dutch Grand Prix,conventional,hamilton,0.024723,0.69396,41
+2023,13,zandvoort,Dutch Grand Prix,conventional,hulkenberg,-0.064521,0.55122,43
+2023,13,zandvoort,Dutch Grand Prix,conventional,kevin_magnussen,0.03462,0.45817,41
+2023,13,zandvoort,Dutch Grand Prix,conventional,lawson,0.05522,0.60492,41
+2023,13,zandvoort,Dutch Grand Prix,conventional,leclerc,0.10636,0.58741,29
+2023,13,zandvoort,Dutch Grand Prix,conventional,max_verstappen,0.0072087,0.55079,47
+2023,13,zandvoort,Dutch Grand Prix,conventional,norris,0.064652,0.66911,40
+2023,13,zandvoort,Dutch Grand Prix,conventional,ocon,0.030009,0.66195,47
+2023,13,zandvoort,Dutch Grand Prix,conventional,perez,0.047426,0.37194,46
+2023,13,zandvoort,Dutch Grand Prix,conventional,piastri,-0.12304,0.60583,43
+2023,13,zandvoort,Dutch Grand Prix,conventional,russell,-0.0052755,0.58956,38
+2023,13,zandvoort,Dutch Grand Prix,conventional,sainz,0.045796,0.43265,46
+2023,13,zandvoort,Dutch Grand Prix,conventional,sargeant,-1.2008,0.8513,6
+2023,13,zandvoort,Dutch Grand Prix,conventional,stroll,0.061218,0.34813,36
+2023,13,zandvoort,Dutch Grand Prix,conventional,tsunoda,0.0050815,0.79594,48
+2023,13,zandvoort,Dutch Grand Prix,conventional,zhou,0.052161,0.43712,46
+2023,14,monza,Italian Grand Prix,conventional,albon,0.070271,0.34072,48
+2023,14,monza,Italian Grand Prix,conventional,alonso,0.041987,0.32822,47
+2023,14,monza,Italian Grand Prix,conventional,bottas,0.069313,0.36006,46
+2023,14,monza,Italian Grand Prix,conventional,gasly,0.014953,0.35527,45
+2023,14,monza,Italian Grand Prix,conventional,hamilton,0.046706,0.35545,46
+2023,14,monza,Italian Grand Prix,conventional,hulkenberg,0.08811,0.31614,45
+2023,14,monza,Italian Grand Prix,conventional,kevin_magnussen,0.017597,0.61777,45
+2023,14,monza,Italian Grand Prix,conventional,lawson,0.054048,0.28099,45
+2023,14,monza,Italian Grand Prix,conventional,leclerc,0.094094,0.30718,47
+2023,14,monza,Italian Grand Prix,conventional,max_verstappen,0.082058,0.50697,48
+2023,14,monza,Italian Grand Prix,conventional,norris,0.074805,0.30777,46
+2023,14,monza,Italian Grand Prix,conventional,ocon,0.086429,0.36861,35
+2023,14,monza,Italian Grand Prix,conventional,perez,0.054475,0.31516,45
+2023,14,monza,Italian Grand Prix,conventional,piastri,0.074859,0.31007,44
+2023,14,monza,Italian Grand Prix,conventional,russell,0.065589,0.24124,47
+2023,14,monza,Italian Grand Prix,conventional,sainz,0.10227,0.29599,47
+2023,14,monza,Italian Grand Prix,conventional,sargeant,0.066585,0.38643,46
+2023,14,monza,Italian Grand Prix,conventional,stroll,0.084641,0.78211,47
+2023,14,monza,Italian Grand Prix,conventional,zhou,0.048317,0.42373,45
+2023,15,marina_bay,Singapore Grand Prix,conventional,albon,0.028981,0.80424,55
+2023,15,marina_bay,Singapore Grand Prix,conventional,alonso,0.038639,0.89514,52
+2023,15,marina_bay,Singapore Grand Prix,conventional,bottas,0.039546,1.0642,43
+2023,15,marina_bay,Singapore Grand Prix,conventional,gasly,-0.006417,0.9459,54
+2023,15,marina_bay,Singapore Grand Prix,conventional,hamilton,0.066383,0.72945,55
+2023,15,marina_bay,Singapore Grand Prix,conventional,hulkenberg,0.045582,0.90114,53
+2023,15,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,0.033019,0.8535,54
+2023,15,marina_bay,Singapore Grand Prix,conventional,lawson,0.027624,0.85591,55
+2023,15,marina_bay,Singapore Grand Prix,conventional,leclerc,0.040773,0.77835,55
+2023,15,marina_bay,Singapore Grand Prix,conventional,max_verstappen,0.03333,0.68597,53
+2023,15,marina_bay,Singapore Grand Prix,conventional,norris,0.0009512,0.67015,56
+2023,15,marina_bay,Singapore Grand Prix,conventional,ocon,-0.02558,0.70021,38
+2023,15,marina_bay,Singapore Grand Prix,conventional,perez,0.065161,1.0842,53
+2023,15,marina_bay,Singapore Grand Prix,conventional,piastri,-0.016317,0.85376,55
+2023,15,marina_bay,Singapore Grand Prix,conventional,russell,0.073427,0.56988,54
+2023,15,marina_bay,Singapore Grand Prix,conventional,sainz,-0.0062606,0.67022,56
+2023,15,marina_bay,Singapore Grand Prix,conventional,sargeant,0.075338,0.46235,54
+2023,15,marina_bay,Singapore Grand Prix,conventional,zhou,0.070249,0.91959,53
+2023,16,suzuka,Japanese Grand Prix,conventional,albon,0.12633,0.37901,18
+2023,16,suzuka,Japanese Grand Prix,conventional,alonso,0.10531,0.9799,38
+2023,16,suzuka,Japanese Grand Prix,conventional,gasly,0.13786,0.54057,43
+2023,16,suzuka,Japanese Grand Prix,conventional,hamilton,0.12143,0.47571,43
+2023,16,suzuka,Japanese Grand Prix,conventional,hulkenberg,0.12176,0.45341,37
+2023,16,suzuka,Japanese Grand Prix,conventional,kevin_magnussen,0.1668,0.66179,42
+2023,16,suzuka,Japanese Grand Prix,conventional,lawson,0.11809,0.38524,37
+2023,16,suzuka,Japanese Grand Prix,conventional,leclerc,0.13481,0.32112,43
+2023,16,suzuka,Japanese Grand Prix,conventional,max_verstappen,0.15273,0.29499,44
+2023,16,suzuka,Japanese Grand Prix,conventional,norris,0.15077,0.35488,43
+2023,16,suzuka,Japanese Grand Prix,conventional,ocon,0.10204,0.47414,45
+2023,16,suzuka,Japanese Grand Prix,conventional,perez,0.14123,0.37172,6
+2023,16,suzuka,Japanese Grand Prix,conventional,piastri,0.1099,0.33348,43
+2023,16,suzuka,Japanese Grand Prix,conventional,russell,0.1018,0.41843,43
+2023,16,suzuka,Japanese Grand Prix,conventional,sainz,0.13908,0.47567,44
+2023,16,suzuka,Japanese Grand Prix,conventional,sargeant,0.15594,0.47434,12
+2023,16,suzuka,Japanese Grand Prix,conventional,stroll,0.11855,0.24571,9
+2023,16,suzuka,Japanese Grand Prix,conventional,tsunoda,0.14826,0.32284,37
+2023,16,suzuka,Japanese Grand Prix,conventional,zhou,0.10039,0.36742,37
+2023,17,losail,Qatar Grand Prix,sprint,albon,-0.060398,0.46346,43
+2023,17,losail,Qatar Grand Prix,sprint,alonso,-0.0040408,0.2801,39
+2023,17,losail,Qatar Grand Prix,sprint,bottas,0.026585,0.55756,46
+2023,17,losail,Qatar Grand Prix,sprint,gasly,0.047102,0.6972,35
+2023,17,losail,Qatar Grand Prix,sprint,hulkenberg,0.049611,0.67847,44
+2023,17,losail,Qatar Grand Prix,sprint,kevin_magnussen,0.039594,0.51343,47
+2023,17,losail,Qatar Grand Prix,sprint,lawson,-0.038863,0.74215,45
+2023,17,losail,Qatar Grand Prix,sprint,leclerc,-0.0063429,0.4865,46
+2023,17,losail,Qatar Grand Prix,sprint,max_verstappen,-0.0088682,0.25384,42
+2023,17,losail,Qatar Grand Prix,sprint,norris,-0.040592,0.33891,45
+2023,17,losail,Qatar Grand Prix,sprint,ocon,0.040055,0.38825,42
+2023,17,losail,Qatar Grand Prix,sprint,perez,-0.069277,0.56715,41
+2023,17,losail,Qatar Grand Prix,sprint,piastri,0.014958,0.34048,45
+2023,17,losail,Qatar Grand Prix,sprint,russell,-0.094605,0.48199,39
+2023,17,losail,Qatar Grand Prix,sprint,sargeant,0.043363,0.4096,29
+2023,17,losail,Qatar Grand Prix,sprint,stroll,0.011529,0.54855,46
+2023,17,losail,Qatar Grand Prix,sprint,tsunoda,0.12201,0.58706,41
+2023,17,losail,Qatar Grand Prix,sprint,zhou,-0.029069,0.32659,41
+2023,18,americas,United States Grand Prix,sprint,albon,0.039106,0.36058,46
+2023,18,americas,United States Grand Prix,sprint,alonso,0.013771,0.41974,36
+2023,18,americas,United States Grand Prix,sprint,bottas,0.035537,0.39392,51
+2023,18,americas,United States Grand Prix,sprint,gasly,0.056812,0.52055,50
+2023,18,americas,United States Grand Prix,sprint,hamilton,0.071931,0.28848,48
+2023,18,americas,United States Grand Prix,sprint,hulkenberg,0.071903,0.43589,49
+2023,18,americas,United States Grand Prix,sprint,kevin_magnussen,0.041423,0.47792,46
+2023,18,americas,United States Grand Prix,sprint,leclerc,0.079663,0.4277,50
+2023,18,americas,United States Grand Prix,sprint,max_verstappen,0.079932,0.23325,51
+2023,18,americas,United States Grand Prix,sprint,norris,0.10966,0.45067,49
+2023,18,americas,United States Grand Prix,sprint,perez,0.064003,0.42252,50
+2023,18,americas,United States Grand Prix,sprint,piastri,0.066983,0.35232,8
+2023,18,americas,United States Grand Prix,sprint,ricciardo,0.1183,0.6781,50
+2023,18,americas,United States Grand Prix,sprint,russell,0.080932,0.41707,50
+2023,18,americas,United States Grand Prix,sprint,sainz,0.083279,0.29841,50
+2023,18,americas,United States Grand Prix,sprint,sargeant,0.070997,0.39063,50
+2023,18,americas,United States Grand Prix,sprint,stroll,0.018789,0.43695,50
+2023,18,americas,United States Grand Prix,sprint,tsunoda,0.041792,0.41022,47
+2023,18,americas,United States Grand Prix,sprint,zhou,0.032755,0.63186,50
+2023,19,rodriguez,Mexico City Grand Prix,conventional,albon,0.035053,0.43566,65
+2023,19,rodriguez,Mexico City Grand Prix,conventional,alonso,-0.0055632,0.77951,36
+2023,19,rodriguez,Mexico City Grand Prix,conventional,bottas,0.082271,0.64856,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,gasly,0.045024,0.40103,60
+2023,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,0.047529,0.40023,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,0.084137,0.60708,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,0.17088,0.39424,26
+2023,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,0.039076,0.23195,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,0.055747,0.24607,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,norris,0.016315,0.52359,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,ocon,0.043232,0.6473,64
+2023,19,rodriguez,Mexico City Grand Prix,conventional,piastri,0.045276,0.44297,63
+2023,19,rodriguez,Mexico City Grand Prix,conventional,ricciardo,0.05686,0.48428,59
+2023,19,rodriguez,Mexico City Grand Prix,conventional,russell,0.060873,0.50207,57
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sainz,0.041356,0.24574,61
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sargeant,0.097711,0.63518,58
+2023,19,rodriguez,Mexico City Grand Prix,conventional,stroll,0.043085,0.43716,55
+2023,19,rodriguez,Mexico City Grand Prix,conventional,tsunoda,0.10468,0.64205,55
+2023,19,rodriguez,Mexico City Grand Prix,conventional,zhou,0.071409,0.54428,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,alonso,0.046586,0.32036,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,bottas,0.096904,0.3312,32
+2023,20,interlagos,São Paulo Grand Prix,sprint,gasly,0.06532,0.5826,64
+2023,20,interlagos,São Paulo Grand Prix,sprint,hamilton,0.05292,0.37661,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,hulkenberg,0.024021,0.70724,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,max_verstappen,0.037405,0.23208,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,norris,0.064551,0.32648,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,ocon,0.11962,0.30359,60
+2023,20,interlagos,São Paulo Grand Prix,sprint,perez,0.057749,0.31676,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,piastri,0.040923,0.58787,62
+2023,20,interlagos,São Paulo Grand Prix,sprint,ricciardo,0.050647,0.59482,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,russell,0.034572,0.32819,48
+2023,20,interlagos,São Paulo Grand Prix,sprint,sainz,0.063146,0.23355,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,sargeant,0.067733,0.35679,62
+2023,20,interlagos,São Paulo Grand Prix,sprint,stroll,0.058074,0.2013,63
+2023,20,interlagos,São Paulo Grand Prix,sprint,tsunoda,0.048869,0.25396,62
+2023,20,interlagos,São Paulo Grand Prix,sprint,zhou,0.028645,0.42171,10
+2023,21,vegas,Las Vegas Grand Prix,conventional,albon,0.0059567,0.60946,38
+2023,21,vegas,Las Vegas Grand Prix,conventional,alonso,-0.035461,0.94735,40
+2023,21,vegas,Las Vegas Grand Prix,conventional,bottas,-0.027756,0.77745,38
+2023,21,vegas,Las Vegas Grand Prix,conventional,gasly,0.037813,0.85895,39
+2023,21,vegas,Las Vegas Grand Prix,conventional,hamilton,-0.11663,0.91264,38
+2023,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,0.031023,0.76533,29
+2023,21,vegas,Las Vegas Grand Prix,conventional,kevin_magnussen,-0.056261,0.58758,38
+2023,21,vegas,Las Vegas Grand Prix,conventional,leclerc,-0.042937,0.60903,38
+2023,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,-0.008598,0.82878,39
+2023,21,vegas,Las Vegas Grand Prix,conventional,ocon,0.010867,0.81605,38
+2023,21,vegas,Las Vegas Grand Prix,conventional,perez,-0.042279,0.62849,40
+2023,21,vegas,Las Vegas Grand Prix,conventional,piastri,-0.042573,0.62979,37
+2023,21,vegas,Las Vegas Grand Prix,conventional,ricciardo,-0.030962,0.92751,39
+2023,21,vegas,Las Vegas Grand Prix,conventional,russell,-0.080056,0.66236,39
+2023,21,vegas,Las Vegas Grand Prix,conventional,sainz,-0.059143,0.92906,41
+2023,21,vegas,Las Vegas Grand Prix,conventional,sargeant,0.021463,0.90186,38
+2023,21,vegas,Las Vegas Grand Prix,conventional,stroll,-0.050115,0.91066,40
+2023,21,vegas,Las Vegas Grand Prix,conventional,tsunoda,-0.0077602,0.71049,30
+2023,21,vegas,Las Vegas Grand Prix,conventional,zhou,0.076876,0.83955,41
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,albon,0.066363,0.20171,49
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,0.054897,0.31908,52
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,bottas,0.089487,0.46271,54
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,0.08209,0.35968,51
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,0.056649,0.50063,52
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,0.065084,0.4363,52
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,0.10047,0.40713,49
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,0.066394,0.40103,51
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,0.053744,0.18966,52
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,norris,0.041987,0.34633,50
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,ocon,0.068181,0.39276,55
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,perez,0.062444,0.25935,52
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,0.070983,0.36786,51
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,ricciardo,0.048552,0.55269,48
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,russell,0.045959,0.2621,52
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,0.067088,0.3643,50
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sargeant,0.095357,0.33151,51
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,0.099381,0.31958,51
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,0.062456,0.4055,53
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,zhou,0.08503,0.30062,52
+2024,1,bahrain,Bahrain Grand Prix,conventional,albon,0.10675,0.30285,49
+2024,1,bahrain,Bahrain Grand Prix,conventional,alonso,0.092404,0.37451,52
+2024,1,bahrain,Bahrain Grand Prix,conventional,bottas,0.11986,0.51221,51
+2024,1,bahrain,Bahrain Grand Prix,conventional,gasly,0.12556,0.18368,48
+2024,1,bahrain,Bahrain Grand Prix,conventional,hamilton,0.083673,0.27634,50
+2024,1,bahrain,Bahrain Grand Prix,conventional,hulkenberg,0.11178,0.46936,50
+2024,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,0.12804,0.30075,51
+2024,1,bahrain,Bahrain Grand Prix,conventional,leclerc,0.1093,0.27441,51
+2024,1,bahrain,Bahrain Grand Prix,conventional,max_verstappen,0.11006,0.4669,51
+2024,1,bahrain,Bahrain Grand Prix,conventional,norris,0.11362,0.19518,50
+2024,1,bahrain,Bahrain Grand Prix,conventional,ocon,0.13072,0.41489,51
+2024,1,bahrain,Bahrain Grand Prix,conventional,perez,0.11648,0.24663,52
+2024,1,bahrain,Bahrain Grand Prix,conventional,piastri,0.10196,0.17304,50
+2024,1,bahrain,Bahrain Grand Prix,conventional,ricciardo,0.12577,0.28607,48
+2024,1,bahrain,Bahrain Grand Prix,conventional,russell,0.11049,0.34213,51
+2024,1,bahrain,Bahrain Grand Prix,conventional,sainz,0.097346,0.24901,52
+2024,1,bahrain,Bahrain Grand Prix,conventional,sargeant,0.11538,0.85586,48
+2024,1,bahrain,Bahrain Grand Prix,conventional,stroll,0.13004,0.28068,52
+2024,1,bahrain,Bahrain Grand Prix,conventional,tsunoda,0.10292,0.46134,49
+2024,1,bahrain,Bahrain Grand Prix,conventional,zhou,0.13042,0.40397,51
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,0.0068564,0.76513,38
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,alonso,0.025411,0.39808,41
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,bearman,0.017523,0.28656,40
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,0.051998,0.80166,37
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,0.077705,0.32709,44
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,0.039135,0.48184,43
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,kevin_magnussen,0.013297,0.88813,37
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,0.040184,0.38982,41
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,0.07363,0.39081,40
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,0.084727,0.30455,43
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,0.027008,0.86105,40
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,0.059887,0.46334,41
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,piastri,0.037333,0.42095,39
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ricciardo,0.020193,0.82723,38
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,0.030626,0.67811,40
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,0.03463,0.62624,39
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,0.024678,0.83556,39
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,0.016935,0.50139,43
+2024,3,albert_park,Australian Grand Prix,conventional,albon,0.03616,0.6474,45
+2024,3,albert_park,Australian Grand Prix,conventional,alonso,0.028715,0.51972,49
+2024,3,albert_park,Australian Grand Prix,conventional,bottas,0.048259,0.86625,42
+2024,3,albert_park,Australian Grand Prix,conventional,gasly,0.037829,0.63094,48
+2024,3,albert_park,Australian Grand Prix,conventional,hamilton,0.26051,0.3886,6
+2024,3,albert_park,Australian Grand Prix,conventional,hulkenberg,0.078311,0.38691,49
+2024,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,0.07716,0.74528,44
+2024,3,albert_park,Australian Grand Prix,conventional,leclerc,0.017173,0.277,47
+2024,3,albert_park,Australian Grand Prix,conventional,norris,0.029008,0.20072,47
+2024,3,albert_park,Australian Grand Prix,conventional,ocon,0.061221,0.53456,41
+2024,3,albert_park,Australian Grand Prix,conventional,perez,0.035736,0.51718,48
+2024,3,albert_park,Australian Grand Prix,conventional,piastri,0.025964,0.33358,47
+2024,3,albert_park,Australian Grand Prix,conventional,ricciardo,0.043449,0.82109,46
+2024,3,albert_park,Australian Grand Prix,conventional,russell,0.029093,0.30269,42
+2024,3,albert_park,Australian Grand Prix,conventional,sainz,0.042503,0.25882,48
+2024,3,albert_park,Australian Grand Prix,conventional,stroll,0.017104,0.53475,43
+2024,3,albert_park,Australian Grand Prix,conventional,tsunoda,0.024387,0.38843,48
+2024,3,albert_park,Australian Grand Prix,conventional,zhou,0.0099198,0.5158,44
+2024,4,suzuka,Japanese Grand Prix,conventional,alonso,0.14288,0.34558,46
+2024,4,suzuka,Japanese Grand Prix,conventional,bottas,0.15601,0.78032,43
+2024,4,suzuka,Japanese Grand Prix,conventional,gasly,0.16369,0.80179,45
+2024,4,suzuka,Japanese Grand Prix,conventional,hamilton,0.19047,0.41258,45
+2024,4,suzuka,Japanese Grand Prix,conventional,hulkenberg,0.13719,0.61301,44
+2024,4,suzuka,Japanese Grand Prix,conventional,kevin_magnussen,0.095808,0.45437,47
+2024,4,suzuka,Japanese Grand Prix,conventional,leclerc,0.06072,0.36571,48
+2024,4,suzuka,Japanese Grand Prix,conventional,max_verstappen,0.15406,0.32096,46
+2024,4,suzuka,Japanese Grand Prix,conventional,norris,0.13601,0.41069,45
+2024,4,suzuka,Japanese Grand Prix,conventional,ocon,0.10798,0.71997,45
+2024,4,suzuka,Japanese Grand Prix,conventional,perez,0.15007,0.34924,45
+2024,4,suzuka,Japanese Grand Prix,conventional,piastri,0.17231,0.48219,44
+2024,4,suzuka,Japanese Grand Prix,conventional,russell,0.16375,0.50026,46
+2024,4,suzuka,Japanese Grand Prix,conventional,sainz,0.13771,0.33038,45
+2024,4,suzuka,Japanese Grand Prix,conventional,sargeant,0.076288,0.44839,36
+2024,4,suzuka,Japanese Grand Prix,conventional,stroll,0.21685,0.58838,43
+2024,4,suzuka,Japanese Grand Prix,conventional,tsunoda,0.1303,0.61911,42
+2024,5,shanghai,Chinese Grand Prix,sprint,albon,0.1223,0.25972,41
+2024,5,shanghai,Chinese Grand Prix,sprint,alonso,0.20862,0.44847,40
+2024,5,shanghai,Chinese Grand Prix,sprint,bottas,0.17796,0.23873,16
+2024,5,shanghai,Chinese Grand Prix,sprint,gasly,0.12358,0.2252,38
+2024,5,shanghai,Chinese Grand Prix,sprint,hamilton,0.14649,0.25048,42
+2024,5,shanghai,Chinese Grand Prix,sprint,hulkenberg,0.13236,0.27727,36
+2024,5,shanghai,Chinese Grand Prix,sprint,kevin_magnussen,0.10138,0.63493,40
+2024,5,shanghai,Chinese Grand Prix,sprint,leclerc,0.097715,0.26559,44
+2024,5,shanghai,Chinese Grand Prix,sprint,max_verstappen,0.15776,0.15002,42
+2024,5,shanghai,Chinese Grand Prix,sprint,norris,0.12288,0.29341,44
+2024,5,shanghai,Chinese Grand Prix,sprint,ocon,0.14304,0.21675,42
+2024,5,shanghai,Chinese Grand Prix,sprint,perez,0.12443,0.31543,42
+2024,5,shanghai,Chinese Grand Prix,sprint,piastri,0.13381,0.2821,39
+2024,5,shanghai,Chinese Grand Prix,sprint,ricciardo,0.13754,0.24965,18
+2024,5,shanghai,Chinese Grand Prix,sprint,russell,0.15402,0.2671,42
+2024,5,shanghai,Chinese Grand Prix,sprint,sainz,0.10131,0.26967,42
+2024,5,shanghai,Chinese Grand Prix,sprint,sargeant,0.14082,0.36074,41
+2024,5,shanghai,Chinese Grand Prix,sprint,stroll,0.18983,0.21047,37
+2024,5,shanghai,Chinese Grand Prix,sprint,tsunoda,0.17503,0.3777,17
+2024,5,shanghai,Chinese Grand Prix,sprint,zhou,0.15483,0.34842,40
+2024,6,miami,Miami Grand Prix,sprint,albon,0.033208,0.49895,39
+2024,6,miami,Miami Grand Prix,sprint,alonso,0.030762,0.43766,47
+2024,6,miami,Miami Grand Prix,sprint,bottas,0.030109,0.30176,47
+2024,6,miami,Miami Grand Prix,sprint,gasly,0.043466,0.41158,46
+2024,6,miami,Miami Grand Prix,sprint,hamilton,0.0042918,0.42207,48
+2024,6,miami,Miami Grand Prix,sprint,hulkenberg,0.07874,0.28944,45
+2024,6,miami,Miami Grand Prix,sprint,kevin_magnussen,0.047296,0.40886,45
+2024,6,miami,Miami Grand Prix,sprint,leclerc,0.025981,0.26047,48
+2024,6,miami,Miami Grand Prix,sprint,max_verstappen,0.036182,0.24266,48
+2024,6,miami,Miami Grand Prix,sprint,norris,0.026132,0.25246,50
+2024,6,miami,Miami Grand Prix,sprint,ocon,0.025577,0.50889,49
+2024,6,miami,Miami Grand Prix,sprint,perez,0.017798,0.30723,48
+2024,6,miami,Miami Grand Prix,sprint,piastri,0.075832,0.44801,47
+2024,6,miami,Miami Grand Prix,sprint,ricciardo,0.010313,0.44844,49
+2024,6,miami,Miami Grand Prix,sprint,russell,0.036245,0.43484,47
+2024,6,miami,Miami Grand Prix,sprint,sainz,0.01666,0.30395,48
+2024,6,miami,Miami Grand Prix,sprint,sargeant,0.043858,0.27162,22
+2024,6,miami,Miami Grand Prix,sprint,stroll,0.022361,0.42283,43
+2024,6,miami,Miami Grand Prix,sprint,tsunoda,0.018103,0.42048,49
+2024,6,miami,Miami Grand Prix,sprint,zhou,0.027524,0.35629,47
+2024,7,imola,Emilia Romagna Grand Prix,conventional,albon,0.050334,0.39695,39
+2024,7,imola,Emilia Romagna Grand Prix,conventional,alonso,0.11845,0.55052,48
+2024,7,imola,Emilia Romagna Grand Prix,conventional,bottas,0.05728,0.60235,58
+2024,7,imola,Emilia Romagna Grand Prix,conventional,gasly,0.067439,0.54424,57
+2024,7,imola,Emilia Romagna Grand Prix,conventional,hamilton,0.039911,0.43431,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,0.055222,0.5071,57
+2024,7,imola,Emilia Romagna Grand Prix,conventional,kevin_magnussen,0.0362,0.57305,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,leclerc,0.056289,0.24995,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,max_verstappen,0.053716,0.19014,57
+2024,7,imola,Emilia Romagna Grand Prix,conventional,norris,0.043388,0.2054,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ocon,0.064044,0.68751,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,perez,0.042214,0.45925,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,piastri,0.053743,0.28397,60
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ricciardo,0.044571,0.72404,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,russell,0.08496,0.30821,58
+2024,7,imola,Emilia Romagna Grand Prix,conventional,sainz,0.051498,0.3245,60
+2024,7,imola,Emilia Romagna Grand Prix,conventional,sargeant,0.061989,0.72586,59
+2024,7,imola,Emilia Romagna Grand Prix,conventional,stroll,0.051429,0.55592,60
+2024,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,0.048867,0.68764,58
+2024,7,imola,Emilia Romagna Grand Prix,conventional,zhou,0.059941,0.67768,59
+2024,8,monaco,Monaco Grand Prix,conventional,albon,0.058818,1.0687,74
+2024,8,monaco,Monaco Grand Prix,conventional,alonso,0.052971,0.81463,72
+2024,8,monaco,Monaco Grand Prix,conventional,bottas,0.037213,1.2839,69
+2024,8,monaco,Monaco Grand Prix,conventional,gasly,0.052308,0.79285,73
+2024,8,monaco,Monaco Grand Prix,conventional,hamilton,0.041792,0.7533,70
+2024,8,monaco,Monaco Grand Prix,conventional,leclerc,0.04569,0.65146,74
+2024,8,monaco,Monaco Grand Prix,conventional,max_verstappen,0.062043,0.58486,70
+2024,8,monaco,Monaco Grand Prix,conventional,norris,0.045215,0.56888,73
+2024,8,monaco,Monaco Grand Prix,conventional,piastri,0.047637,0.55184,75
+2024,8,monaco,Monaco Grand Prix,conventional,ricciardo,0.0536,0.88947,72
+2024,8,monaco,Monaco Grand Prix,conventional,russell,0.028244,0.65472,72
+2024,8,monaco,Monaco Grand Prix,conventional,sainz,0.044819,0.8384,75
+2024,8,monaco,Monaco Grand Prix,conventional,sargeant,0.10544,1.0369,68
+2024,8,monaco,Monaco Grand Prix,conventional,stroll,0.072115,0.98119,64
+2024,8,monaco,Monaco Grand Prix,conventional,tsunoda,0.043371,1.1244,73
+2024,8,monaco,Monaco Grand Prix,conventional,zhou,0.069286,0.98937,64
+2024,9,villeneuve,Canadian Grand Prix,conventional,albon,-0.39084,0.9697,35
+2024,9,villeneuve,Canadian Grand Prix,conventional,alonso,-0.22759,0.72409,44
+2024,9,villeneuve,Canadian Grand Prix,conventional,bottas,-0.013392,1.4997,47
+2024,9,villeneuve,Canadian Grand Prix,conventional,gasly,-0.25833,0.84742,44
+2024,9,villeneuve,Canadian Grand Prix,conventional,hamilton,-0.25464,0.72035,38
+2024,9,villeneuve,Canadian Grand Prix,conventional,hulkenberg,-0.17858,0.92597,49
+2024,9,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,-0.26175,0.61013,39
+2024,9,villeneuve,Canadian Grand Prix,conventional,leclerc,-0.36588,1.2359,25
+2024,9,villeneuve,Canadian Grand Prix,conventional,max_verstappen,-0.16775,0.71109,48
+2024,9,villeneuve,Canadian Grand Prix,conventional,norris,-0.18699,0.73174,47
+2024,9,villeneuve,Canadian Grand Prix,conventional,ocon,-0.027248,1.5253,48
+2024,9,villeneuve,Canadian Grand Prix,conventional,perez,-0.40722,0.55158,32
+2024,9,villeneuve,Canadian Grand Prix,conventional,piastri,-0.2396,0.78048,49
+2024,9,villeneuve,Canadian Grand Prix,conventional,ricciardo,-0.28361,0.79662,46
+2024,9,villeneuve,Canadian Grand Prix,conventional,russell,-0.20862,0.79173,42
+2024,9,villeneuve,Canadian Grand Prix,conventional,sainz,-0.40775,0.92219,37
+2024,9,villeneuve,Canadian Grand Prix,conventional,sargeant,-0.12488,1.0213,14
+2024,9,villeneuve,Canadian Grand Prix,conventional,stroll,-0.26742,0.89296,46
+2024,9,villeneuve,Canadian Grand Prix,conventional,tsunoda,-0.012575,1.5147,43
+2024,9,villeneuve,Canadian Grand Prix,conventional,zhou,-0.2338,0.77045,39
+2024,10,catalunya,Spanish Grand Prix,conventional,albon,0.074556,0.59765,58
+2024,10,catalunya,Spanish Grand Prix,conventional,alonso,0.067408,0.53718,59
+2024,10,catalunya,Spanish Grand Prix,conventional,bottas,0.10854,0.78181,60
+2024,10,catalunya,Spanish Grand Prix,conventional,gasly,0.10292,0.42486,61
+2024,10,catalunya,Spanish Grand Prix,conventional,hamilton,0.096122,0.35036,59
+2024,10,catalunya,Spanish Grand Prix,conventional,hulkenberg,0.066178,0.41914,61
+2024,10,catalunya,Spanish Grand Prix,conventional,kevin_magnussen,0.081174,0.58285,60
+2024,10,catalunya,Spanish Grand Prix,conventional,leclerc,0.090505,0.2398,61
+2024,10,catalunya,Spanish Grand Prix,conventional,max_verstappen,0.095069,0.30916,61
+2024,10,catalunya,Spanish Grand Prix,conventional,norris,0.063383,0.38804,60
+2024,10,catalunya,Spanish Grand Prix,conventional,ocon,0.085495,0.47309,61
+2024,10,catalunya,Spanish Grand Prix,conventional,perez,0.10379,0.27198,59
+2024,10,catalunya,Spanish Grand Prix,conventional,piastri,0.072525,0.34584,61
+2024,10,catalunya,Spanish Grand Prix,conventional,ricciardo,0.0036833,0.59776,59
+2024,10,catalunya,Spanish Grand Prix,conventional,russell,0.092046,0.42795,61
+2024,10,catalunya,Spanish Grand Prix,conventional,sainz,0.080949,0.4128,59
+2024,10,catalunya,Spanish Grand Prix,conventional,sargeant,0.11315,0.74764,57
+2024,10,catalunya,Spanish Grand Prix,conventional,stroll,0.056226,0.69126,60
+2024,10,catalunya,Spanish Grand Prix,conventional,tsunoda,0.11964,0.88488,56
+2024,10,catalunya,Spanish Grand Prix,conventional,zhou,0.079717,0.46836,60
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,albon,0.058637,0.45127,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,alonso,0.067895,0.44084,61
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,bottas,0.048339,0.47785,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,gasly,0.083281,0.26047,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,hamilton,0.071851,0.26283,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,0.067045,0.35593,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,kevin_magnussen,0.060125,0.30456,65
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,leclerc,0.073949,0.31584,61
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,max_verstappen,0.10689,0.26723,57
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,norris,0.10082,0.21359,55
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,ocon,0.088764,0.40275,65
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,perez,0.07913,0.31201,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,piastri,0.064723,0.28781,63
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,ricciardo,0.043085,0.26268,65
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,russell,0.077609,0.25837,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,sainz,0.071653,0.20649,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,sargeant,0.083956,0.56586,58
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,stroll,0.0871,0.51003,64
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,tsunoda,0.070664,0.57052,63
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,zhou,0.069056,0.60544,62
+2024,12,silverstone,British Grand Prix,conventional,albon,0.052639,0.94326,43
+2024,12,silverstone,British Grand Prix,conventional,alonso,0.087407,0.95099,45
+2024,12,silverstone,British Grand Prix,conventional,bottas,0.10466,1.0341,42
+2024,12,silverstone,British Grand Prix,conventional,hamilton,0.09019,0.85356,44
+2024,12,silverstone,British Grand Prix,conventional,hulkenberg,0.02318,0.9771,44
+2024,12,silverstone,British Grand Prix,conventional,kevin_magnussen,0.12956,0.81547,45
+2024,12,silverstone,British Grand Prix,conventional,leclerc,0.083462,0.87874,38
+2024,12,silverstone,British Grand Prix,conventional,max_verstappen,0.069249,0.95736,44
+2024,12,silverstone,British Grand Prix,conventional,norris,0.073283,0.98844,44
+2024,12,silverstone,British Grand Prix,conventional,ocon,0.1201,1.0128,35
+2024,12,silverstone,British Grand Prix,conventional,perez,0.21885,1.216,38
+2024,12,silverstone,British Grand Prix,conventional,piastri,0.054828,0.88861,43
+2024,12,silverstone,British Grand Prix,conventional,ricciardo,0.19531,1.1439,42
+2024,12,silverstone,British Grand Prix,conventional,russell,0.1187,0.85558,21
+2024,12,silverstone,British Grand Prix,conventional,sainz,0.0044958,0.94068,42
+2024,12,silverstone,British Grand Prix,conventional,sargeant,0.15571,0.94658,44
+2024,12,silverstone,British Grand Prix,conventional,stroll,0.025652,0.8924,44
+2024,12,silverstone,British Grand Prix,conventional,tsunoda,0.088506,0.90253,45
+2024,12,silverstone,British Grand Prix,conventional,zhou,0.1869,1.0824,30
+2024,13,hungaroring,Hungarian Grand Prix,conventional,albon,0.078753,0.54206,59
+2024,13,hungaroring,Hungarian Grand Prix,conventional,alonso,0.047091,0.54555,60
+2024,13,hungaroring,Hungarian Grand Prix,conventional,bottas,0.037853,0.88388,64
+2024,13,hungaroring,Hungarian Grand Prix,conventional,gasly,0.02217,0.42045,25
+2024,13,hungaroring,Hungarian Grand Prix,conventional,hamilton,0.075065,0.33662,65
+2024,13,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,0.091634,0.65135,62
+2024,13,hungaroring,Hungarian Grand Prix,conventional,kevin_magnussen,0.091308,0.58557,59
+2024,13,hungaroring,Hungarian Grand Prix,conventional,leclerc,0.079158,0.38154,65
+2024,13,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,0.096905,0.51497,62
+2024,13,hungaroring,Hungarian Grand Prix,conventional,norris,0.086431,0.51882,64
+2024,13,hungaroring,Hungarian Grand Prix,conventional,ocon,0.068582,0.59094,53
+2024,13,hungaroring,Hungarian Grand Prix,conventional,perez,0.05727,0.60766,65
+2024,13,hungaroring,Hungarian Grand Prix,conventional,piastri,0.082306,0.33761,64
+2024,13,hungaroring,Hungarian Grand Prix,conventional,ricciardo,0.085674,0.87515,59
+2024,13,hungaroring,Hungarian Grand Prix,conventional,russell,0.08574,0.46039,65
+2024,13,hungaroring,Hungarian Grand Prix,conventional,sainz,0.07756,0.4115,65
+2024,13,hungaroring,Hungarian Grand Prix,conventional,sargeant,0.058327,0.56812,57
+2024,13,hungaroring,Hungarian Grand Prix,conventional,stroll,0.02733,0.4473,65
+2024,13,hungaroring,Hungarian Grand Prix,conventional,tsunoda,0.039175,0.51877,66
+2024,13,hungaroring,Hungarian Grand Prix,conventional,zhou,0.094801,0.83816,59
+2024,14,spa,Belgian Grand Prix,conventional,albon,0.094626,0.33628,39
+2024,14,spa,Belgian Grand Prix,conventional,alonso,0.040562,0.34271,41
+2024,14,spa,Belgian Grand Prix,conventional,bottas,0.071684,0.44086,39
+2024,14,spa,Belgian Grand Prix,conventional,gasly,0.088537,0.31147,39
+2024,14,spa,Belgian Grand Prix,conventional,hamilton,0.1014,0.23724,38
+2024,14,spa,Belgian Grand Prix,conventional,hulkenberg,0.12937,0.33994,33
+2024,14,spa,Belgian Grand Prix,conventional,kevin_magnussen,0.042406,0.46435,40
+2024,14,spa,Belgian Grand Prix,conventional,leclerc,0.098206,0.41161,39
+2024,14,spa,Belgian Grand Prix,conventional,max_verstappen,0.11448,0.31697,39
+2024,14,spa,Belgian Grand Prix,conventional,norris,0.1037,0.2779,37
+2024,14,spa,Belgian Grand Prix,conventional,ocon,0.038159,0.5423,39
+2024,14,spa,Belgian Grand Prix,conventional,perez,0.12844,0.35943,36
+2024,14,spa,Belgian Grand Prix,conventional,piastri,0.072274,0.40725,39
+2024,14,spa,Belgian Grand Prix,conventional,ricciardo,0.067324,0.40164,39
+2024,14,spa,Belgian Grand Prix,conventional,russell,0.052264,0.35121,41
+2024,14,spa,Belgian Grand Prix,conventional,sainz,0.046767,0.31111,36
+2024,14,spa,Belgian Grand Prix,conventional,sargeant,0.11659,0.47435,38
+2024,14,spa,Belgian Grand Prix,conventional,stroll,0.060848,0.38356,40
+2024,14,spa,Belgian Grand Prix,conventional,tsunoda,0.048647,0.59246,41
+2024,15,zandvoort,Dutch Grand Prix,conventional,albon,0.011334,0.65845,66
+2024,15,zandvoort,Dutch Grand Prix,conventional,alonso,0.032985,0.49548,68
+2024,15,zandvoort,Dutch Grand Prix,conventional,bottas,0.060838,0.51845,65
+2024,15,zandvoort,Dutch Grand Prix,conventional,gasly,0.036201,0.5527,67
+2024,15,zandvoort,Dutch Grand Prix,conventional,hamilton,0.043273,0.42044,67
+2024,15,zandvoort,Dutch Grand Prix,conventional,hulkenberg,0.046763,0.45981,68
+2024,15,zandvoort,Dutch Grand Prix,conventional,kevin_magnussen,0.062408,0.71236,67
+2024,15,zandvoort,Dutch Grand Prix,conventional,leclerc,0.028659,0.2316,69
+2024,15,zandvoort,Dutch Grand Prix,conventional,max_verstappen,0.046865,0.18191,69
+2024,15,zandvoort,Dutch Grand Prix,conventional,norris,0.029722,0.21687,69
+2024,15,zandvoort,Dutch Grand Prix,conventional,ocon,0.044846,0.71252,68
+2024,15,zandvoort,Dutch Grand Prix,conventional,perez,0.037287,0.31591,69
+2024,15,zandvoort,Dutch Grand Prix,conventional,piastri,0.040074,0.24946,69
+2024,15,zandvoort,Dutch Grand Prix,conventional,ricciardo,0.022666,0.39066,68
+2024,15,zandvoort,Dutch Grand Prix,conventional,russell,0.038679,0.383,67
+2024,15,zandvoort,Dutch Grand Prix,conventional,sainz,0.028683,0.29847,68
+2024,15,zandvoort,Dutch Grand Prix,conventional,sargeant,0.04398,0.68095,68
+2024,15,zandvoort,Dutch Grand Prix,conventional,stroll,0.042143,0.44098,68
+2024,15,zandvoort,Dutch Grand Prix,conventional,tsunoda,0.071429,0.61959,66
+2024,15,zandvoort,Dutch Grand Prix,conventional,zhou,0.059305,0.67989,64
+2024,16,monza,Italian Grand Prix,conventional,albon,0.030138,0.31206,48
+2024,16,monza,Italian Grand Prix,conventional,alonso,0.026752,0.28895,47
+2024,16,monza,Italian Grand Prix,conventional,bottas,0.014374,0.58712,49
+2024,16,monza,Italian Grand Prix,conventional,colapinto,0.044181,0.42403,50
+2024,16,monza,Italian Grand Prix,conventional,gasly,0.065994,0.49306,45
+2024,16,monza,Italian Grand Prix,conventional,hamilton,0.022864,0.56004,48
+2024,16,monza,Italian Grand Prix,conventional,hulkenberg,0.069183,0.80097,44
+2024,16,monza,Italian Grand Prix,conventional,kevin_magnussen,0.015115,0.32415,49
+2024,16,monza,Italian Grand Prix,conventional,leclerc,0.060727,0.28536,50
+2024,16,monza,Italian Grand Prix,conventional,max_verstappen,0.076016,0.33008,48
+2024,16,monza,Italian Grand Prix,conventional,norris,-0.0041381,0.45828,47
+2024,16,monza,Italian Grand Prix,conventional,ocon,0.066477,0.44661,49
+2024,16,monza,Italian Grand Prix,conventional,perez,0.049363,0.57467,48
+2024,16,monza,Italian Grand Prix,conventional,piastri,0.043218,0.37776,48
+2024,16,monza,Italian Grand Prix,conventional,ricciardo,0.018052,0.30824,49
+2024,16,monza,Italian Grand Prix,conventional,russell,-0.020839,0.46877,47
+2024,16,monza,Italian Grand Prix,conventional,sainz,0.070131,0.41618,49
+2024,16,monza,Italian Grand Prix,conventional,stroll,0.099541,0.61292,43
+2024,16,monza,Italian Grand Prix,conventional,zhou,0.05828,0.65534,49
+2024,17,baku,Azerbaijan Grand Prix,conventional,albon,0.027147,0.48332,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,alonso,-0.0023808,0.43481,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,bearman,0.039846,0.73395,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,bottas,0.03052,1.0352,45
+2024,17,baku,Azerbaijan Grand Prix,conventional,colapinto,0.013508,0.58555,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,gasly,0.019651,0.60781,48
+2024,17,baku,Azerbaijan Grand Prix,conventional,hamilton,0.008696,0.7548,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,0.049024,0.57731,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,leclerc,0.084471,0.53458,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,max_verstappen,0.042876,0.57331,44
+2024,17,baku,Azerbaijan Grand Prix,conventional,norris,0.044382,0.53948,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,ocon,0.013516,0.71721,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,perez,0.063901,0.49066,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,piastri,0.080471,0.36239,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,ricciardo,0.017378,1.0014,47
+2024,17,baku,Azerbaijan Grand Prix,conventional,russell,0.031601,0.41342,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,sainz,0.059853,0.4309,46
+2024,17,baku,Azerbaijan Grand Prix,conventional,stroll,0.099543,0.47266,40
+2024,17,baku,Azerbaijan Grand Prix,conventional,tsunoda,-0.10819,0.95307,10
+2024,17,baku,Azerbaijan Grand Prix,conventional,zhou,0.015506,0.48837,46
+2024,18,marina_bay,Singapore Grand Prix,conventional,albon,-0.0151,0.46905,9
+2024,18,marina_bay,Singapore Grand Prix,conventional,alonso,0.048131,0.50446,57
+2024,18,marina_bay,Singapore Grand Prix,conventional,bottas,0.044389,0.63275,58
+2024,18,marina_bay,Singapore Grand Prix,conventional,colapinto,0.067916,0.55371,57
+2024,18,marina_bay,Singapore Grand Prix,conventional,gasly,0.10698,0.79713,57
+2024,18,marina_bay,Singapore Grand Prix,conventional,hamilton,0.042609,0.63094,58
+2024,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,0.07419,0.46882,58
+2024,18,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,0.089253,0.62892,45
+2024,18,marina_bay,Singapore Grand Prix,conventional,leclerc,0.070398,0.57935,57
+2024,18,marina_bay,Singapore Grand Prix,conventional,max_verstappen,0.041693,0.33944,59
+2024,18,marina_bay,Singapore Grand Prix,conventional,norris,0.061379,0.83248,59
+2024,18,marina_bay,Singapore Grand Prix,conventional,ocon,0.074021,0.63908,58
+2024,18,marina_bay,Singapore Grand Prix,conventional,perez,0.06121,0.49747,56
+2024,18,marina_bay,Singapore Grand Prix,conventional,piastri,0.042673,0.47099,59
+2024,18,marina_bay,Singapore Grand Prix,conventional,ricciardo,0.071052,0.92803,52
+2024,18,marina_bay,Singapore Grand Prix,conventional,russell,0.046399,0.46474,57
+2024,18,marina_bay,Singapore Grand Prix,conventional,sainz,0.034906,0.58397,59
+2024,18,marina_bay,Singapore Grand Prix,conventional,stroll,0.054066,0.69516,58
+2024,18,marina_bay,Singapore Grand Prix,conventional,tsunoda,0.036238,0.50922,57
+2024,18,marina_bay,Singapore Grand Prix,conventional,zhou,0.0649,0.60129,58
+2024,19,americas,United States Grand Prix,sprint,albon,0.044437,0.64111,45
+2024,19,americas,United States Grand Prix,sprint,alonso,0.036797,0.50262,47
+2024,19,americas,United States Grand Prix,sprint,bottas,0.065507,0.83894,48
+2024,19,americas,United States Grand Prix,sprint,colapinto,0.010035,0.33073,47
+2024,19,americas,United States Grand Prix,sprint,gasly,0.011864,0.46999,49
+2024,19,americas,United States Grand Prix,sprint,hulkenberg,-0.0016231,0.42449,47
+2024,19,americas,United States Grand Prix,sprint,kevin_magnussen,0.014736,0.37604,46
+2024,19,americas,United States Grand Prix,sprint,lawson,0.010607,0.33611,49
+2024,19,americas,United States Grand Prix,sprint,leclerc,0.057055,0.33461,50
+2024,19,americas,United States Grand Prix,sprint,max_verstappen,0.06495,0.25802,48
+2024,19,americas,United States Grand Prix,sprint,norris,0.036848,0.2794,47
+2024,19,americas,United States Grand Prix,sprint,ocon,0.03931,0.504,44
+2024,19,americas,United States Grand Prix,sprint,perez,0.018328,0.43787,50
+2024,19,americas,United States Grand Prix,sprint,piastri,0.032228,0.43449,47
+2024,19,americas,United States Grand Prix,sprint,russell,0.0036286,0.46754,48
+2024,19,americas,United States Grand Prix,sprint,sainz,0.055243,0.51485,50
+2024,19,americas,United States Grand Prix,sprint,stroll,0.06342,0.52931,46
+2024,19,americas,United States Grand Prix,sprint,tsunoda,0.026753,0.48796,47
+2024,19,americas,United States Grand Prix,sprint,zhou,0.027435,0.40945,45
+2024,20,rodriguez,Mexico City Grand Prix,conventional,alonso,0.2606,0.23295,8
+2024,20,rodriguez,Mexico City Grand Prix,conventional,bottas,0.053726,0.44142,62
+2024,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,0.044659,0.48868,61
+2024,20,rodriguez,Mexico City Grand Prix,conventional,gasly,0.05097,0.48931,62
+2024,20,rodriguez,Mexico City Grand Prix,conventional,hamilton,0.037223,0.47477,62
+2024,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,0.043223,0.31415,61
+2024,20,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,0.045573,0.3177,63
+2024,20,rodriguez,Mexico City Grand Prix,conventional,lawson,0.052582,0.59959,56
+2024,20,rodriguez,Mexico City Grand Prix,conventional,leclerc,0.055186,0.27904,59
+2024,20,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,0.036383,0.42329,62
+2024,20,rodriguez,Mexico City Grand Prix,conventional,norris,0.0371,0.18033,62
+2024,20,rodriguez,Mexico City Grand Prix,conventional,ocon,0.032307,0.54509,62
+2024,20,rodriguez,Mexico City Grand Prix,conventional,perez,0.11857,0.37153,54
+2024,20,rodriguez,Mexico City Grand Prix,conventional,piastri,0.016418,0.61992,61
+2024,20,rodriguez,Mexico City Grand Prix,conventional,russell,0.039632,0.3292,63
+2024,20,rodriguez,Mexico City Grand Prix,conventional,sainz,0.030032,0.23292,63
+2024,20,rodriguez,Mexico City Grand Prix,conventional,stroll,0.031192,0.46165,61
+2024,20,rodriguez,Mexico City Grand Prix,conventional,zhou,0.051195,0.65637,62
+2024,21,interlagos,São Paulo Grand Prix,sprint,alonso,-0.048747,0.81364,50
+2024,21,interlagos,São Paulo Grand Prix,sprint,bearman,-0.10005,0.6018,51
+2024,21,interlagos,São Paulo Grand Prix,sprint,bottas,-0.10065,0.84363,53
+2024,21,interlagos,São Paulo Grand Prix,sprint,colapinto,-0.084789,0.65434,20
+2024,21,interlagos,São Paulo Grand Prix,sprint,gasly,-0.097142,0.52532,54
+2024,21,interlagos,São Paulo Grand Prix,sprint,hamilton,-0.10161,0.56047,51
+2024,21,interlagos,São Paulo Grand Prix,sprint,hulkenberg,-0.098263,0.73366,23
+2024,21,interlagos,São Paulo Grand Prix,sprint,lawson,-0.098863,0.48558,52
+2024,21,interlagos,São Paulo Grand Prix,sprint,leclerc,-0.088842,0.46488,49
+2024,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,-0.080572,0.66702,55
+2024,21,interlagos,São Paulo Grand Prix,sprint,norris,-0.077869,0.44381,53
+2024,21,interlagos,São Paulo Grand Prix,sprint,ocon,-0.061926,0.44319,55
+2024,21,interlagos,São Paulo Grand Prix,sprint,perez,-0.078988,0.65168,53
+2024,21,interlagos,São Paulo Grand Prix,sprint,piastri,-0.077827,0.73135,52
+2024,21,interlagos,São Paulo Grand Prix,sprint,russell,-0.064043,0.52693,53
+2024,21,interlagos,São Paulo Grand Prix,sprint,sainz,-0.062096,0.86434,24
+2024,21,interlagos,São Paulo Grand Prix,sprint,tsunoda,-0.086862,0.40838,53
+2024,21,interlagos,São Paulo Grand Prix,sprint,zhou,-0.074347,0.82956,51
+2024,22,vegas,Las Vegas Grand Prix,conventional,albon,-0.05984,0.71932,21
+2024,22,vegas,Las Vegas Grand Prix,conventional,alonso,0.094096,0.7428,43
+2024,22,vegas,Las Vegas Grand Prix,conventional,bottas,0.15425,0.89558,44
+2024,22,vegas,Las Vegas Grand Prix,conventional,colapinto,0.077284,0.81315,45
+2024,22,vegas,Las Vegas Grand Prix,conventional,gasly,0.35679,0.65667,8
+2024,22,vegas,Las Vegas Grand Prix,conventional,hamilton,0.062203,0.6629,44
+2024,22,vegas,Las Vegas Grand Prix,conventional,hulkenberg,0.11214,0.3871,45
+2024,22,vegas,Las Vegas Grand Prix,conventional,kevin_magnussen,0.069121,0.74177,47
+2024,22,vegas,Las Vegas Grand Prix,conventional,lawson,0.10652,0.48699,45
+2024,22,vegas,Las Vegas Grand Prix,conventional,leclerc,0.082082,0.64701,44
+2024,22,vegas,Las Vegas Grand Prix,conventional,max_verstappen,0.041205,0.39617,44
+2024,22,vegas,Las Vegas Grand Prix,conventional,norris,0.030708,0.58339,42
+2024,22,vegas,Las Vegas Grand Prix,conventional,ocon,0.13928,0.46033,40
+2024,22,vegas,Las Vegas Grand Prix,conventional,perez,0.080726,0.72014,45
+2024,22,vegas,Las Vegas Grand Prix,conventional,piastri,0.10914,0.55835,45
+2024,22,vegas,Las Vegas Grand Prix,conventional,russell,0.049143,0.39868,45
+2024,22,vegas,Las Vegas Grand Prix,conventional,sainz,0.034786,0.51679,44
+2024,22,vegas,Las Vegas Grand Prix,conventional,stroll,-0.01853,0.57687,44
+2024,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,0.087682,0.6422,45
+2024,22,vegas,Las Vegas Grand Prix,conventional,zhou,0.10947,0.44445,45
+2024,23,losail,Qatar Grand Prix,sprint,albon,0.060139,0.80095,42
+2024,23,losail,Qatar Grand Prix,sprint,alonso,-0.044299,0.54977,44
+2024,23,losail,Qatar Grand Prix,sprint,bottas,-0.0050884,0.7986,41
+2024,23,losail,Qatar Grand Prix,sprint,gasly,-0.038959,0.45031,42
+2024,23,losail,Qatar Grand Prix,sprint,hamilton,-0.00068509,0.60497,37
+2024,23,losail,Qatar Grand Prix,sprint,hulkenberg,-0.058741,0.67945,26
+2024,23,losail,Qatar Grand Prix,sprint,kevin_magnussen,-0.031272,0.48048,40
+2024,23,losail,Qatar Grand Prix,sprint,lawson,0.022939,0.40071,42
+2024,23,losail,Qatar Grand Prix,sprint,leclerc,-0.026965,0.47558,45
+2024,23,losail,Qatar Grand Prix,sprint,max_verstappen,0.0079429,0.248,45
+2024,23,losail,Qatar Grand Prix,sprint,norris,0.0085025,0.58207,39
+2024,23,losail,Qatar Grand Prix,sprint,perez,-0.014941,0.50731,30
+2024,23,losail,Qatar Grand Prix,sprint,piastri,-0.02308,0.37323,42
+2024,23,losail,Qatar Grand Prix,sprint,russell,-0.010698,0.38744,43
+2024,23,losail,Qatar Grand Prix,sprint,sainz,-0.046585,0.59707,44
+2024,23,losail,Qatar Grand Prix,sprint,tsunoda,0.017134,0.53787,45
+2024,23,losail,Qatar Grand Prix,sprint,zhou,-0.075014,0.49459,45
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,albon,0.082696,0.47815,51
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,0.097665,0.26664,50
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,bottas,0.13142,0.34791,22
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,colapinto,0.079312,0.79508,21
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,doohan,0.064994,0.52127,49
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,0.07039,0.38057,52
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,0.038649,0.28091,52
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,0.093404,0.30317,53
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,0.17127,0.47398,45
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,lawson,0.070045,0.56226,42
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,0.04956,0.41525,51
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,0.054419,0.25529,52
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,norris,0.061997,0.32432,53
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,0.067955,0.39069,48
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,0.067286,0.22741,51
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,0.052584,0.17837,52
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,0.093417,0.44369,47
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,0.059358,0.69195,50
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,zhou,0.061767,0.32407,50
+2025,1,albert_park,Australian Grand Prix,conventional,albon,-0.16638,0.77111,30
+2025,1,albert_park,Australian Grand Prix,conventional,alonso,-0.17482,0.70404,24
+2025,1,albert_park,Australian Grand Prix,conventional,antonelli,-0.18646,1.0581,29
+2025,1,albert_park,Australian Grand Prix,conventional,bearman,-0.17463,0.74828,30
+2025,1,albert_park,Australian Grand Prix,conventional,bortoleto,-0.19539,0.70094,25
+2025,1,albert_park,Australian Grand Prix,conventional,gasly,-0.15665,0.53471,23
+2025,1,albert_park,Australian Grand Prix,conventional,hamilton,-0.14066,0.52139,23
+2025,1,albert_park,Australian Grand Prix,conventional,hulkenberg,-0.12797,0.46329,29
+2025,1,albert_park,Australian Grand Prix,conventional,lawson,-0.13859,0.70548,21
+2025,1,albert_park,Australian Grand Prix,conventional,leclerc,-0.13072,0.46765,24
+2025,1,albert_park,Australian Grand Prix,conventional,max_verstappen,-0.10279,0.86782,24
+2025,1,albert_park,Australian Grand Prix,conventional,norris,-0.16942,0.82922,31
+2025,1,albert_park,Australian Grand Prix,conventional,ocon,-0.11513,0.92625,24
+2025,1,albert_park,Australian Grand Prix,conventional,piastri,-0.12618,0.57458,23
+2025,1,albert_park,Australian Grand Prix,conventional,russell,-0.14005,0.71123,31
+2025,1,albert_park,Australian Grand Prix,conventional,stroll,-0.12319,0.9127,30
+2025,1,albert_park,Australian Grand Prix,conventional,tsunoda,-0.11052,0.5346,23
+2025,2,shanghai,Chinese Grand Prix,sprint,albon,0.029765,0.2902,53
+2025,2,shanghai,Chinese Grand Prix,sprint,antonelli,0.037218,0.37727,53
+2025,2,shanghai,Chinese Grand Prix,sprint,bearman,0.042802,0.3346,53
+2025,2,shanghai,Chinese Grand Prix,sprint,bortoleto,0.13636,0.42547,51
+2025,2,shanghai,Chinese Grand Prix,sprint,doohan,0.028586,0.44756,52
+2025,2,shanghai,Chinese Grand Prix,sprint,gasly,0.024536,0.53123,53
+2025,2,shanghai,Chinese Grand Prix,sprint,hadjar,0.060176,0.49701,50
+2025,2,shanghai,Chinese Grand Prix,sprint,hamilton,0.074507,0.3309,51
+2025,2,shanghai,Chinese Grand Prix,sprint,hulkenberg,0.12053,0.60545,52
+2025,2,shanghai,Chinese Grand Prix,sprint,lawson,0.09848,0.3024,51
+2025,2,shanghai,Chinese Grand Prix,sprint,leclerc,0.07196,0.39352,53
+2025,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,0.046725,0.27214,53
+2025,2,shanghai,Chinese Grand Prix,sprint,norris,0.073674,0.69862,53
+2025,2,shanghai,Chinese Grand Prix,sprint,ocon,0.030592,0.3102,53
+2025,2,shanghai,Chinese Grand Prix,sprint,piastri,0.053599,0.28958,53
+2025,2,shanghai,Chinese Grand Prix,sprint,russell,0.055168,0.32217,53
+2025,2,shanghai,Chinese Grand Prix,sprint,sainz,0.051512,0.38196,53
+2025,2,shanghai,Chinese Grand Prix,sprint,stroll,0.060087,0.33472,53
+2025,2,shanghai,Chinese Grand Prix,sprint,tsunoda,0.11754,0.27964,47
+2025,3,suzuka,Japanese Grand Prix,conventional,albon,0.011006,0.25771,50
+2025,3,suzuka,Japanese Grand Prix,conventional,alonso,0.042293,0.22879,50
+2025,3,suzuka,Japanese Grand Prix,conventional,antonelli,0.038004,0.20129,48
+2025,3,suzuka,Japanese Grand Prix,conventional,bearman,0.047933,0.45599,50
+2025,3,suzuka,Japanese Grand Prix,conventional,bortoleto,0.036587,0.42326,50
+2025,3,suzuka,Japanese Grand Prix,conventional,doohan,0.032573,0.36935,50
+2025,3,suzuka,Japanese Grand Prix,conventional,gasly,0.046615,0.31001,49
+2025,3,suzuka,Japanese Grand Prix,conventional,hadjar,0.014651,0.28724,50
+2025,3,suzuka,Japanese Grand Prix,conventional,hamilton,0.046015,0.30408,50
+2025,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,0.02846,0.6077,50
+2025,3,suzuka,Japanese Grand Prix,conventional,lawson,0.066654,0.39528,50
+2025,3,suzuka,Japanese Grand Prix,conventional,leclerc,0.039613,0.26594,50
+2025,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,0.035559,0.15252,50
+2025,3,suzuka,Japanese Grand Prix,conventional,norris,0.02897,0.13677,49
+2025,3,suzuka,Japanese Grand Prix,conventional,ocon,0.042154,0.44104,50
+2025,3,suzuka,Japanese Grand Prix,conventional,piastri,0.029023,0.28637,50
+2025,3,suzuka,Japanese Grand Prix,conventional,russell,0.026267,0.31716,49
+2025,3,suzuka,Japanese Grand Prix,conventional,sainz,0.056157,0.54949,48
+2025,3,suzuka,Japanese Grand Prix,conventional,stroll,0.011558,0.33306,46
+2025,3,suzuka,Japanese Grand Prix,conventional,tsunoda,0.040699,0.31171,49
+2025,4,bahrain,Bahrain Grand Prix,conventional,albon,0.16212,0.46548,50
+2025,4,bahrain,Bahrain Grand Prix,conventional,alonso,0.11125,0.35574,49
+2025,4,bahrain,Bahrain Grand Prix,conventional,antonelli,0.17838,0.31674,42
+2025,4,bahrain,Bahrain Grand Prix,conventional,bearman,0.14382,0.39268,48
+2025,4,bahrain,Bahrain Grand Prix,conventional,bortoleto,0.1115,0.4353,50
+2025,4,bahrain,Bahrain Grand Prix,conventional,doohan,0.16882,0.41693,44
+2025,4,bahrain,Bahrain Grand Prix,conventional,gasly,0.16991,0.45788,48
+2025,4,bahrain,Bahrain Grand Prix,conventional,hadjar,0.11063,0.59362,42
+2025,4,bahrain,Bahrain Grand Prix,conventional,hamilton,0.12015,0.44968,49
+2025,4,bahrain,Bahrain Grand Prix,conventional,hulkenberg,0.11332,0.38974,44
+2025,4,bahrain,Bahrain Grand Prix,conventional,lawson,0.12436,0.42595,49
+2025,4,bahrain,Bahrain Grand Prix,conventional,leclerc,0.15407,0.25471,49
+2025,4,bahrain,Bahrain Grand Prix,conventional,max_verstappen,0.16686,0.53579,45
+2025,4,bahrain,Bahrain Grand Prix,conventional,norris,0.12822,0.45872,48
+2025,4,bahrain,Bahrain Grand Prix,conventional,ocon,0.15501,0.28019,48
+2025,4,bahrain,Bahrain Grand Prix,conventional,piastri,0.11198,0.24055,49
+2025,4,bahrain,Bahrain Grand Prix,conventional,russell,0.13634,0.17398,50
+2025,4,bahrain,Bahrain Grand Prix,conventional,sainz,0.26825,0.66446,35
+2025,4,bahrain,Bahrain Grand Prix,conventional,stroll,0.10337,0.40798,49
+2025,4,bahrain,Bahrain Grand Prix,conventional,tsunoda,0.16235,0.3453,47
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,albon,0.034881,0.4166,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,alonso,3.5321e-05,0.48794,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,antonelli,0.023841,0.34537,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,bearman,0.0059837,0.4961,45
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,bortoleto,0.040691,1.016,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,doohan,0.08595,0.77557,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hadjar,0.03077,0.52402,43
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,0.032767,0.405,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,0.081985,0.73325,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,lawson,-0.024018,0.47883,43
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,0.024247,0.29657,45
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,0.0413,0.2113,45
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,norris,-0.0011935,0.42001,44
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,ocon,0.01435,0.51486,46
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,piastri,0.053224,0.28134,45
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,russell,0.078924,0.43925,45
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,sainz,0.021445,0.39699,45
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,stroll,0.057198,0.54175,43
+2025,6,miami,Miami Grand Prix,sprint,albon,0.0068557,0.20932,24
+2025,6,miami,Miami Grand Prix,sprint,alonso,0.05039,0.51484,23
+2025,6,miami,Miami Grand Prix,sprint,antonelli,0.020004,0.25845,24
+2025,6,miami,Miami Grand Prix,sprint,gasly,0.053403,0.3401,24
+2025,6,miami,Miami Grand Prix,sprint,hadjar,-0.0050793,0.79274,30
+2025,6,miami,Miami Grand Prix,sprint,hamilton,0.048675,0.35397,24
+2025,6,miami,Miami Grand Prix,sprint,hulkenberg,0.054191,0.43035,27
+2025,6,miami,Miami Grand Prix,sprint,leclerc,0.0097504,0.34814,24
+2025,6,miami,Miami Grand Prix,sprint,max_verstappen,0.034282,0.22999,24
+2025,6,miami,Miami Grand Prix,sprint,norris,0.015208,0.92951,24
+2025,6,miami,Miami Grand Prix,sprint,ocon,0.037807,0.19989,29
+2025,6,miami,Miami Grand Prix,sprint,piastri,0.048254,0.19955,23
+2025,6,miami,Miami Grand Prix,sprint,russell,0.020015,0.14545,24
+2025,6,miami,Miami Grand Prix,sprint,sainz,0.011203,0.24639,24
+2025,6,miami,Miami Grand Prix,sprint,stroll,0.019829,0.62531,28
+2025,6,miami,Miami Grand Prix,sprint,tsunoda,0.021152,0.13537,24
+2025,7,imola,Emilia Romagna Grand Prix,conventional,albon,0.047215,0.48649,50
+2025,7,imola,Emilia Romagna Grand Prix,conventional,alonso,0.058385,0.6044,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,antonelli,0.01684,0.60155,41
+2025,7,imola,Emilia Romagna Grand Prix,conventional,bearman,0.061909,0.56551,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,bortoleto,0.041642,0.45003,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,colapinto,0.06383,0.55085,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,gasly,0.07799,0.41909,42
+2025,7,imola,Emilia Romagna Grand Prix,conventional,hadjar,0.045963,0.43997,51
+2025,7,imola,Emilia Romagna Grand Prix,conventional,hamilton,0.0039864,0.52801,52
+2025,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,0.038301,0.49418,51
+2025,7,imola,Emilia Romagna Grand Prix,conventional,lawson,0.043082,0.51245,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,leclerc,0.055053,0.6893,50
+2025,7,imola,Emilia Romagna Grand Prix,conventional,max_verstappen,0.04658,0.18827,51
+2025,7,imola,Emilia Romagna Grand Prix,conventional,norris,0.01203,0.41065,50
+2025,7,imola,Emilia Romagna Grand Prix,conventional,ocon,0.097747,0.62178,25
+2025,7,imola,Emilia Romagna Grand Prix,conventional,piastri,0.047463,0.39941,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,russell,0.072091,0.44073,50
+2025,7,imola,Emilia Romagna Grand Prix,conventional,sainz,0.074031,0.37656,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,stroll,0.048579,0.45889,49
+2025,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,0.042406,0.41262,51
+2025,8,monaco,Monaco Grand Prix,conventional,albon,-0.13322,0.86042,58
+2025,8,monaco,Monaco Grand Prix,conventional,alonso,-0.21277,0.84281,29
+2025,8,monaco,Monaco Grand Prix,conventional,antonelli,0.0082507,1.0291,60
+2025,8,monaco,Monaco Grand Prix,conventional,bearman,0.098355,1.2995,67
+2025,8,monaco,Monaco Grand Prix,conventional,bortoleto,0.15,1.3316,65
+2025,8,monaco,Monaco Grand Prix,conventional,colapinto,0.05905,1.2396,66
+2025,8,monaco,Monaco Grand Prix,conventional,hadjar,-0.00061484,0.93057,65
+2025,8,monaco,Monaco Grand Prix,conventional,hamilton,-0.059527,0.90864,67
+2025,8,monaco,Monaco Grand Prix,conventional,hulkenberg,0.084305,1.2721,64
+2025,8,monaco,Monaco Grand Prix,conventional,lawson,-0.01855,0.77651,60
+2025,8,monaco,Monaco Grand Prix,conventional,leclerc,-0.027009,0.69427,67
+2025,8,monaco,Monaco Grand Prix,conventional,max_verstappen,-0.011325,0.63053,65
+2025,8,monaco,Monaco Grand Prix,conventional,norris,-0.031581,0.81498,67
+2025,8,monaco,Monaco Grand Prix,conventional,ocon,-0.00087501,0.94338,67
+2025,8,monaco,Monaco Grand Prix,conventional,piastri,-0.024056,0.64665,67
+2025,8,monaco,Monaco Grand Prix,conventional,russell,-0.060679,0.96339,61
+2025,8,monaco,Monaco Grand Prix,conventional,sainz,-0.034929,1.2269,62
+2025,8,monaco,Monaco Grand Prix,conventional,stroll,0.064519,0.9951,65
+2025,8,monaco,Monaco Grand Prix,conventional,tsunoda,0.011906,1.1331,66
+2025,9,catalunya,Spanish Grand Prix,conventional,albon,0.2022,0.4281,17
+2025,9,catalunya,Spanish Grand Prix,conventional,alonso,0.069359,0.54658,53
+2025,9,catalunya,Spanish Grand Prix,conventional,antonelli,0.074161,0.29186,43
+2025,9,catalunya,Spanish Grand Prix,conventional,bearman,0.0038592,0.63039,52
+2025,9,catalunya,Spanish Grand Prix,conventional,bortoleto,0.11196,0.62257,54
+2025,9,catalunya,Spanish Grand Prix,conventional,colapinto,0.047989,0.71643,53
+2025,9,catalunya,Spanish Grand Prix,conventional,gasly,0.042872,0.59059,54
+2025,9,catalunya,Spanish Grand Prix,conventional,hadjar,0.048048,0.36142,50
+2025,9,catalunya,Spanish Grand Prix,conventional,hamilton,0.11819,0.41191,53
+2025,9,catalunya,Spanish Grand Prix,conventional,hulkenberg,0.02026,0.46171,54
+2025,9,catalunya,Spanish Grand Prix,conventional,lawson,0.027465,0.65501,53
+2025,9,catalunya,Spanish Grand Prix,conventional,leclerc,0.12871,0.34218,54
+2025,9,catalunya,Spanish Grand Prix,conventional,max_verstappen,0.15757,0.18503,41
+2025,9,catalunya,Spanish Grand Prix,conventional,norris,0.10227,0.22085,50
+2025,9,catalunya,Spanish Grand Prix,conventional,ocon,0.12227,0.62842,54
+2025,9,catalunya,Spanish Grand Prix,conventional,piastri,0.10433,0.26819,51
+2025,9,catalunya,Spanish Grand Prix,conventional,russell,0.10436,0.35933,54
+2025,9,catalunya,Spanish Grand Prix,conventional,sainz,0.018511,0.38081,54
+2025,9,catalunya,Spanish Grand Prix,conventional,tsunoda,0.11965,0.46888,52
+2025,10,villeneuve,Canadian Grand Prix,conventional,albon,0.10085,0.52513,41
+2025,10,villeneuve,Canadian Grand Prix,conventional,alonso,0.05394,0.4349,57
+2025,10,villeneuve,Canadian Grand Prix,conventional,antonelli,0.0071764,0.17884,57
+2025,10,villeneuve,Canadian Grand Prix,conventional,bearman,0.04274,0.8501,57
+2025,10,villeneuve,Canadian Grand Prix,conventional,bortoleto,0.043071,0.52699,60
+2025,10,villeneuve,Canadian Grand Prix,conventional,colapinto,0.034298,0.57887,60
+2025,10,villeneuve,Canadian Grand Prix,conventional,gasly,0.035913,0.51623,59
+2025,10,villeneuve,Canadian Grand Prix,conventional,hadjar,0.035457,0.69659,59
+2025,10,villeneuve,Canadian Grand Prix,conventional,hamilton,0.0043038,0.37421,58
+2025,10,villeneuve,Canadian Grand Prix,conventional,hulkenberg,0.011751,0.36149,60
+2025,10,villeneuve,Canadian Grand Prix,conventional,lawson,0.012871,0.48165,49
+2025,10,villeneuve,Canadian Grand Prix,conventional,leclerc,0.021565,0.34736,57
+2025,10,villeneuve,Canadian Grand Prix,conventional,max_verstappen,0.035073,0.18864,58
+2025,10,villeneuve,Canadian Grand Prix,conventional,norris,0.019904,0.22797,58
+2025,10,villeneuve,Canadian Grand Prix,conventional,ocon,0.015585,0.35509,60
+2025,10,villeneuve,Canadian Grand Prix,conventional,piastri,0.020631,0.2967,58
+2025,10,villeneuve,Canadian Grand Prix,conventional,russell,0.013781,0.20672,58
+2025,10,villeneuve,Canadian Grand Prix,conventional,sainz,0.017442,0.46173,60
+2025,10,villeneuve,Canadian Grand Prix,conventional,stroll,0.056697,0.48287,57
+2025,10,villeneuve,Canadian Grand Prix,conventional,tsunoda,0.03449,0.52309,60
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,albon,0.016867,0.38497,9
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,alonso,0.048126,0.35608,63
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,bearman,0.0446,0.47006,60
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,bortoleto,0.053802,0.42903,62
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,colapinto,0.065297,0.53783,60
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,gasly,0.076256,0.47964,62
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hadjar,0.06605,0.52715,64
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hamilton,0.058663,0.28818,62
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,0.0033878,0.47006,62
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,lawson,0.040227,0.39613,65
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,leclerc,0.041647,0.30194,62
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,norris,0.076894,0.33444,62
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,ocon,0.044872,0.43354,61
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,piastri,0.088678,0.35216,61
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,russell,0.041465,0.26753,63
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,stroll,0.067152,0.5216,61
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,tsunoda,0.09544,0.63078,59
+2025,12,silverstone,British Grand Prix,conventional,albon,0.041625,1.103,33
+2025,12,silverstone,British Grand Prix,conventional,alonso,-0.069623,1.0499,24
+2025,12,silverstone,British Grand Prix,conventional,bearman,-0.053542,0.95559,27
+2025,12,silverstone,British Grand Prix,conventional,gasly,-0.061641,0.88253,27
+2025,12,silverstone,British Grand Prix,conventional,hamilton,-0.12701,0.76683,26
+2025,12,silverstone,British Grand Prix,conventional,hulkenberg,-0.092917,0.7736,30
+2025,12,silverstone,British Grand Prix,conventional,leclerc,-0.056407,0.81194,27
+2025,12,silverstone,British Grand Prix,conventional,max_verstappen,-0.1421,0.8022,27
+2025,12,silverstone,British Grand Prix,conventional,norris,0.0078824,0.64581,29
+2025,12,silverstone,British Grand Prix,conventional,ocon,0.09615,1.0474,34
+2025,12,silverstone,British Grand Prix,conventional,piastri,-0.052401,0.61587,27
+2025,12,silverstone,British Grand Prix,conventional,russell,-0.07627,0.81167,25
+2025,12,silverstone,British Grand Prix,conventional,sainz,0.019546,0.6493,25
+2025,12,silverstone,British Grand Prix,conventional,stroll,-0.024429,1.003,29
+2025,12,silverstone,British Grand Prix,conventional,tsunoda,-0.059191,0.73759,25
+2025,13,spa,Belgian Grand Prix,sprint,albon,0.040022,0.43769,30
+2025,13,spa,Belgian Grand Prix,sprint,alonso,0.011787,0.71329,27
+2025,13,spa,Belgian Grand Prix,sprint,antonelli,0.018886,0.75647,29
+2025,13,spa,Belgian Grand Prix,sprint,bearman,0.028357,0.43816,30
+2025,13,spa,Belgian Grand Prix,sprint,bortoleto,0.02468,0.6599,31
+2025,13,spa,Belgian Grand Prix,sprint,colapinto,-0.030713,0.71339,28
+2025,13,spa,Belgian Grand Prix,sprint,gasly,0.008246,0.43931,31
+2025,13,spa,Belgian Grand Prix,sprint,hadjar,0.046708,0.76552,27
+2025,13,spa,Belgian Grand Prix,sprint,hamilton,0.042549,0.37594,31
+2025,13,spa,Belgian Grand Prix,sprint,hulkenberg,-0.02002,0.77255,29
+2025,13,spa,Belgian Grand Prix,sprint,lawson,0.025874,0.53598,31
+2025,13,spa,Belgian Grand Prix,sprint,leclerc,0.047018,0.56675,31
+2025,13,spa,Belgian Grand Prix,sprint,max_verstappen,0.038888,0.59221,31
+2025,13,spa,Belgian Grand Prix,sprint,norris,0.047059,0.62926,29
+2025,13,spa,Belgian Grand Prix,sprint,ocon,0.0046465,0.51805,30
+2025,13,spa,Belgian Grand Prix,sprint,piastri,0.037786,0.83782,31
+2025,13,spa,Belgian Grand Prix,sprint,russell,0.039292,0.4777,31
+2025,13,spa,Belgian Grand Prix,sprint,sainz,-0.011126,0.64846,29
+2025,13,spa,Belgian Grand Prix,sprint,stroll,0.022287,0.37372,31
+2025,13,spa,Belgian Grand Prix,sprint,tsunoda,0.037829,0.43564,29
+2025,14,hungaroring,Hungarian Grand Prix,conventional,albon,0.063419,0.64613,63
+2025,14,hungaroring,Hungarian Grand Prix,conventional,alonso,0.013861,0.55146,67
+2025,14,hungaroring,Hungarian Grand Prix,conventional,antonelli,0.010807,0.77616,65
+2025,14,hungaroring,Hungarian Grand Prix,conventional,bearman,0.073415,0.45488,43
+2025,14,hungaroring,Hungarian Grand Prix,conventional,bortoleto,0.026586,0.3006,67
+2025,14,hungaroring,Hungarian Grand Prix,conventional,colapinto,0.04665,0.74401,62
+2025,14,hungaroring,Hungarian Grand Prix,conventional,gasly,0.066595,0.46746,64
+2025,14,hungaroring,Hungarian Grand Prix,conventional,hadjar,0.044709,0.59483,66
+2025,14,hungaroring,Hungarian Grand Prix,conventional,hamilton,0.046541,0.54991,65
+2025,14,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,0.061028,0.79183,59
+2025,14,hungaroring,Hungarian Grand Prix,conventional,lawson,0.024844,0.30806,67
+2025,14,hungaroring,Hungarian Grand Prix,conventional,leclerc,0.077087,0.3309,65
+2025,14,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,0.04004,0.52625,65
+2025,14,hungaroring,Hungarian Grand Prix,conventional,norris,0.02559,0.3844,66
+2025,14,hungaroring,Hungarian Grand Prix,conventional,ocon,0.028156,0.68831,66
+2025,14,hungaroring,Hungarian Grand Prix,conventional,piastri,0.045869,0.33253,65
+2025,14,hungaroring,Hungarian Grand Prix,conventional,russell,0.045304,0.40592,64
+2025,14,hungaroring,Hungarian Grand Prix,conventional,sainz,0.048488,0.68202,63
+2025,14,hungaroring,Hungarian Grand Prix,conventional,stroll,0.020728,0.35478,67
+2025,14,hungaroring,Hungarian Grand Prix,conventional,tsunoda,0.07626,0.51429,63
+2025,15,zandvoort,Dutch Grand Prix,conventional,albon,0.035461,0.30762,56
+2025,15,zandvoort,Dutch Grand Prix,conventional,alonso,0.063312,0.72716,52
+2025,15,zandvoort,Dutch Grand Prix,conventional,antonelli,0.029753,0.42354,54
+2025,15,zandvoort,Dutch Grand Prix,conventional,bearman,0.01859,0.52107,56
+2025,15,zandvoort,Dutch Grand Prix,conventional,bortoleto,0.09461,0.56576,53
+2025,15,zandvoort,Dutch Grand Prix,conventional,colapinto,0.048608,0.54436,49
+2025,15,zandvoort,Dutch Grand Prix,conventional,gasly,0.059849,0.56907,55
+2025,15,zandvoort,Dutch Grand Prix,conventional,hadjar,0.048176,0.28407,56
+2025,15,zandvoort,Dutch Grand Prix,conventional,hamilton,0.059265,0.29722,21
+2025,15,zandvoort,Dutch Grand Prix,conventional,hulkenberg,0.035772,0.71532,53
+2025,15,zandvoort,Dutch Grand Prix,conventional,lawson,0.099225,0.48404,53
+2025,15,zandvoort,Dutch Grand Prix,conventional,leclerc,0.060761,0.3266,42
+2025,15,zandvoort,Dutch Grand Prix,conventional,max_verstappen,0.045969,0.2279,56
+2025,15,zandvoort,Dutch Grand Prix,conventional,norris,0.013871,0.39141,52
+2025,15,zandvoort,Dutch Grand Prix,conventional,ocon,0.016785,0.60247,55
+2025,15,zandvoort,Dutch Grand Prix,conventional,piastri,0.04758,0.31098,56
+2025,15,zandvoort,Dutch Grand Prix,conventional,russell,0.055371,0.3722,55
+2025,15,zandvoort,Dutch Grand Prix,conventional,sainz,0.096496,0.21407,48
+2025,15,zandvoort,Dutch Grand Prix,conventional,stroll,0.027887,0.51027,53
+2025,15,zandvoort,Dutch Grand Prix,conventional,tsunoda,0.052865,0.45291,54
+2025,16,monza,Italian Grand Prix,conventional,albon,-0.0063007,0.24409,49
+2025,16,monza,Italian Grand Prix,conventional,alonso,-0.013798,0.27878,18
+2025,16,monza,Italian Grand Prix,conventional,antonelli,0.0023958,0.35926,47
+2025,16,monza,Italian Grand Prix,conventional,bearman,-0.0058781,0.26193,49
+2025,16,monza,Italian Grand Prix,conventional,bortoleto,0.0067072,0.26505,49
+2025,16,monza,Italian Grand Prix,conventional,colapinto,0.020018,0.49747,46
+2025,16,monza,Italian Grand Prix,conventional,gasly,0.0028563,0.40623,44
+2025,16,monza,Italian Grand Prix,conventional,hadjar,0.0016411,0.33353,49
+2025,16,monza,Italian Grand Prix,conventional,hamilton,0.011289,0.30077,50
+2025,16,monza,Italian Grand Prix,conventional,lawson,0.0017205,0.42239,49
+2025,16,monza,Italian Grand Prix,conventional,leclerc,0.0004681,0.20873,49
+2025,16,monza,Italian Grand Prix,conventional,max_verstappen,0.033809,0.25256,50
+2025,16,monza,Italian Grand Prix,conventional,norris,0.028841,0.27149,50
+2025,16,monza,Italian Grand Prix,conventional,ocon,0.01203,0.21288,49
+2025,16,monza,Italian Grand Prix,conventional,piastri,-0.00092552,0.42115,50
+2025,16,monza,Italian Grand Prix,conventional,russell,0.014247,0.26067,49
+2025,16,monza,Italian Grand Prix,conventional,sainz,0.017103,0.27922,47
+2025,16,monza,Italian Grand Prix,conventional,stroll,0.016899,0.21681,46
+2025,16,monza,Italian Grand Prix,conventional,tsunoda,0.0136,0.30337,49
+2025,17,baku,Azerbaijan Grand Prix,conventional,albon,-0.025845,0.62666,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,alonso,-0.053684,0.67954,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,antonelli,-0.019371,0.47789,45
+2025,17,baku,Azerbaijan Grand Prix,conventional,bearman,0.02077,0.44838,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,bortoleto,0.0080139,0.60874,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,colapinto,-0.018476,0.69051,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,gasly,0.032413,0.57703,43
+2025,17,baku,Azerbaijan Grand Prix,conventional,hadjar,-0.0038624,0.27188,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,hamilton,0.041124,0.40071,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,0.016236,0.46517,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,lawson,-0.010335,0.30772,45
+2025,17,baku,Azerbaijan Grand Prix,conventional,leclerc,-0.03067,0.65277,45
+2025,17,baku,Azerbaijan Grand Prix,conventional,max_verstappen,0.030241,0.37048,45
+2025,17,baku,Azerbaijan Grand Prix,conventional,norris,0.0025196,0.27102,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,ocon,-0.006119,0.51674,46
+2025,17,baku,Azerbaijan Grand Prix,conventional,russell,0.012219,0.27928,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,sainz,-0.0015077,0.35616,45
+2025,17,baku,Azerbaijan Grand Prix,conventional,stroll,0.030519,0.50677,44
+2025,17,baku,Azerbaijan Grand Prix,conventional,tsunoda,-0.011807,0.53291,45
+2025,18,marina_bay,Singapore Grand Prix,conventional,albon,-0.0011794,0.89159,57
+2025,18,marina_bay,Singapore Grand Prix,conventional,alonso,-0.017988,0.7381,59
+2025,18,marina_bay,Singapore Grand Prix,conventional,antonelli,0.035897,0.63774,57
+2025,18,marina_bay,Singapore Grand Prix,conventional,bearman,-0.0018647,1.021,56
+2025,18,marina_bay,Singapore Grand Prix,conventional,bortoleto,0.05717,0.7399,58
+2025,18,marina_bay,Singapore Grand Prix,conventional,colapinto,0.028277,0.82357,55
+2025,18,marina_bay,Singapore Grand Prix,conventional,gasly,0.17331,0.65426,55
+2025,18,marina_bay,Singapore Grand Prix,conventional,hadjar,0.023031,0.94391,58
+2025,18,marina_bay,Singapore Grand Prix,conventional,hamilton,0.089863,0.61646,54
+2025,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,0.10624,0.88373,56
+2025,18,marina_bay,Singapore Grand Prix,conventional,lawson,-0.01128,0.74654,58
+2025,18,marina_bay,Singapore Grand Prix,conventional,leclerc,0.057271,0.68549,58
+2025,18,marina_bay,Singapore Grand Prix,conventional,max_verstappen,0.03873,0.55825,57
+2025,18,marina_bay,Singapore Grand Prix,conventional,norris,0.038542,0.50806,58
+2025,18,marina_bay,Singapore Grand Prix,conventional,ocon,0.039593,0.95518,56
+2025,18,marina_bay,Singapore Grand Prix,conventional,piastri,0.030564,0.53678,59
+2025,18,marina_bay,Singapore Grand Prix,conventional,russell,0.053625,0.50273,59
+2025,18,marina_bay,Singapore Grand Prix,conventional,sainz,0.032176,0.75841,57
+2025,18,marina_bay,Singapore Grand Prix,conventional,stroll,-0.0097673,0.79611,57
+2025,18,marina_bay,Singapore Grand Prix,conventional,tsunoda,0.019254,0.95456,58
+2025,19,americas,United States Grand Prix,sprint,albon,0.065028,0.56948,44
+2025,19,americas,United States Grand Prix,sprint,alonso,0.0089711,0.37073,50
+2025,19,americas,United States Grand Prix,sprint,antonelli,0.054046,0.59048,47
+2025,19,americas,United States Grand Prix,sprint,bearman,0.033803,0.43134,49
+2025,19,americas,United States Grand Prix,sprint,bortoleto,0.11142,0.43525,45
+2025,19,americas,United States Grand Prix,sprint,colapinto,0.062929,0.53102,47
+2025,19,americas,United States Grand Prix,sprint,gasly,0.070871,0.52436,49
+2025,19,americas,United States Grand Prix,sprint,hadjar,0.03748,0.58107,49
+2025,19,americas,United States Grand Prix,sprint,hamilton,0.053832,0.43105,48
+2025,19,americas,United States Grand Prix,sprint,hulkenberg,0.014051,0.49255,51
+2025,19,americas,United States Grand Prix,sprint,lawson,0.016393,0.29929,51
+2025,19,americas,United States Grand Prix,sprint,leclerc,0.048582,0.57583,50
+2025,19,americas,United States Grand Prix,sprint,max_verstappen,0.045613,0.49495,51
+2025,19,americas,United States Grand Prix,sprint,norris,0.035179,0.45241,48
+2025,19,americas,United States Grand Prix,sprint,ocon,0.036572,0.51266,50
+2025,19,americas,United States Grand Prix,sprint,piastri,0.035888,0.26258,49
+2025,19,americas,United States Grand Prix,sprint,russell,0.047556,0.26393,50
+2025,19,americas,United States Grand Prix,sprint,stroll,0.018891,0.422,49
+2025,19,americas,United States Grand Prix,sprint,tsunoda,0.03581,0.33006,50
+2025,20,rodriguez,Mexico City Grand Prix,conventional,albon,0.059157,0.72686,65
+2025,20,rodriguez,Mexico City Grand Prix,conventional,alonso,0.077529,0.62818,30
+2025,20,rodriguez,Mexico City Grand Prix,conventional,antonelli,0.053326,0.5127,63
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bearman,0.056681,0.28692,63
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bortoleto,0.062206,0.53253,67
+2025,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,0.056177,0.47004,65
+2025,20,rodriguez,Mexico City Grand Prix,conventional,gasly,0.042214,0.61544,65
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hadjar,0.07181,0.6946,65
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hamilton,0.07127,0.41458,63
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,-0.0080844,0.98733,23
+2025,20,rodriguez,Mexico City Grand Prix,conventional,leclerc,0.0555,0.25201,66
+2025,20,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,0.054616,0.19769,65
+2025,20,rodriguez,Mexico City Grand Prix,conventional,norris,0.052902,0.29463,66
+2025,20,rodriguez,Mexico City Grand Prix,conventional,ocon,0.037882,0.55984,66
+2025,20,rodriguez,Mexico City Grand Prix,conventional,piastri,0.053033,0.60334,64
+2025,20,rodriguez,Mexico City Grand Prix,conventional,russell,0.081193,0.45375,63
+2025,20,rodriguez,Mexico City Grand Prix,conventional,sainz,0.076285,0.39316,60
+2025,20,rodriguez,Mexico City Grand Prix,conventional,stroll,0.05034,0.48938,63
+2025,20,rodriguez,Mexico City Grand Prix,conventional,tsunoda,0.054063,0.55093,66
+2025,21,interlagos,São Paulo Grand Prix,sprint,albon,0.11866,0.51347,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,alonso,0.062888,0.46298,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,antonelli,0.062382,0.26952,59
+2025,21,interlagos,São Paulo Grand Prix,sprint,bearman,0.023585,0.51048,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,colapinto,0.058969,0.56452,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,gasly,0.057137,0.55297,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,hadjar,0.066576,0.5374,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,hamilton,-0.028916,0.76935,22
+2025,21,interlagos,São Paulo Grand Prix,sprint,hulkenberg,0.052131,0.58429,62
+2025,21,interlagos,São Paulo Grand Prix,sprint,lawson,0.044342,0.51379,62
+2025,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,0.079426,0.39743,59
+2025,21,interlagos,São Paulo Grand Prix,sprint,norris,0.046031,0.1976,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,ocon,0.070899,0.55683,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,piastri,0.058693,0.29204,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,russell,0.06681,0.41832,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,sainz,0.056584,0.55329,60
+2025,21,interlagos,São Paulo Grand Prix,sprint,stroll,0.092852,0.35615,59
+2025,21,interlagos,São Paulo Grand Prix,sprint,tsunoda,0.064698,0.54221,60
+2025,22,vegas,Las Vegas Grand Prix,conventional,albon,-0.00044391,0.47735,26
+2025,22,vegas,Las Vegas Grand Prix,conventional,alonso,0.049379,0.53336,45
+2025,22,vegas,Las Vegas Grand Prix,conventional,antonelli,-0.0016885,0.3931,46
+2025,22,vegas,Las Vegas Grand Prix,conventional,bearman,-0.0070335,0.38671,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,colapinto,0.021199,0.49198,42
+2025,22,vegas,Las Vegas Grand Prix,conventional,gasly,0.033605,0.31589,45
+2025,22,vegas,Las Vegas Grand Prix,conventional,hadjar,0.015949,0.46174,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,hamilton,-0.014861,0.54627,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,hulkenberg,-0.00090262,0.29026,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,lawson,0.038099,0.44092,42
+2025,22,vegas,Las Vegas Grand Prix,conventional,leclerc,0.03745,0.45123,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,max_verstappen,0.011782,0.22002,43
+2025,22,vegas,Las Vegas Grand Prix,conventional,norris,0.032622,0.92673,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,ocon,0.010709,0.32688,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,piastri,0.0023857,0.46241,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,russell,-0.0010858,0.57676,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,sainz,0.0064658,0.5488,44
+2025,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,0.063366,0.46804,43
+2025,23,losail,Qatar Grand Prix,sprint,albon,0.01984,0.18965,42
+2025,23,losail,Qatar Grand Prix,sprint,alonso,-0.017106,0.62121,45
+2025,23,losail,Qatar Grand Prix,sprint,antonelli,0.05376,0.4432,44
+2025,23,losail,Qatar Grand Prix,sprint,bearman,0.056735,0.20277,27
+2025,23,losail,Qatar Grand Prix,sprint,bortoleto,0.052689,0.28057,45
+2025,23,losail,Qatar Grand Prix,sprint,colapinto,0.047601,0.34414,43
+2025,23,losail,Qatar Grand Prix,sprint,gasly,0.040572,0.35788,44
+2025,23,losail,Qatar Grand Prix,sprint,hadjar,-0.0040024,0.1911,41
+2025,23,losail,Qatar Grand Prix,sprint,hamilton,0.042055,0.30127,45
+2025,23,losail,Qatar Grand Prix,sprint,lawson,0.0070034,0.28158,44
+2025,23,losail,Qatar Grand Prix,sprint,leclerc,0.032791,0.24959,44
+2025,23,losail,Qatar Grand Prix,sprint,max_verstappen,0.031356,0.33632,45
+2025,23,losail,Qatar Grand Prix,sprint,norris,0.039331,0.38819,45
+2025,23,losail,Qatar Grand Prix,sprint,ocon,0.064,0.29301,43
+2025,23,losail,Qatar Grand Prix,sprint,piastri,0.041879,0.39892,46
+2025,23,losail,Qatar Grand Prix,sprint,russell,0.010765,0.38375,42
+2025,23,losail,Qatar Grand Prix,sprint,sainz,0.037437,0.19917,45
+2025,23,losail,Qatar Grand Prix,sprint,stroll,0.0065508,0.29591,35
+2025,23,losail,Qatar Grand Prix,sprint,tsunoda,0.010946,0.23421,44
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,albon,0.062884,0.32775,50
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,0.011906,0.35149,55
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,antonelli,0.089419,0.46116,52
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bearman,0.048706,0.47237,54
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bortoleto,0.037798,0.36942,53
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,colapinto,0.10845,0.46424,49
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,0.10362,0.33313,48
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hadjar,0.055561,0.47902,52
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,0.093534,0.44634,45
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,0.10592,0.63566,46
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,lawson,0.080391,0.48712,52
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,0.056678,0.40948,51
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,0.058362,0.25686,53
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,norris,0.035985,0.39066,53
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,ocon,0.053727,0.45745,54
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,0.065097,0.19925,54
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,0.034612,0.31167,55
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,0.06611,0.43321,54
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,0.046298,0.5083,54
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,0.070151,0.36902,53
+2026,1,albert_park,Australian Grand Prix,conventional,albon,0.0090901,0.68316,47
+2026,1,albert_park,Australian Grand Prix,conventional,alonso,-0.11035,0.60346,8
+2026,1,albert_park,Australian Grand Prix,conventional,antonelli,-0.017693,0.55017,49
+2026,1,albert_park,Australian Grand Prix,conventional,arvid_lindblad,0.063708,0.85008,48
+2026,1,albert_park,Australian Grand Prix,conventional,bearman,0.02676,0.58682,48
+2026,1,albert_park,Australian Grand Prix,conventional,bortoleto,0.025024,0.53058,47
+2026,1,albert_park,Australian Grand Prix,conventional,bottas,-0.12712,0.38276,8
+2026,1,albert_park,Australian Grand Prix,conventional,colapinto,0.046593,0.83503,44
+2026,1,albert_park,Australian Grand Prix,conventional,gasly,0.034435,0.68361,47
+2026,1,albert_park,Australian Grand Prix,conventional,hadjar,0.013819,0.1769,8
+2026,1,albert_park,Australian Grand Prix,conventional,hamilton,0.0061415,0.68872,46
+2026,1,albert_park,Australian Grand Prix,conventional,lawson,0.023599,0.72691,46
+2026,1,albert_park,Australian Grand Prix,conventional,leclerc,0.019609,0.39562,45
+2026,1,albert_park,Australian Grand Prix,conventional,max_verstappen,0.056617,0.39829,48
+2026,1,albert_park,Australian Grand Prix,conventional,norris,0.00067443,0.42181,49
+2026,1,albert_park,Australian Grand Prix,conventional,ocon,0.0096697,0.66479,48
+2026,1,albert_park,Australian Grand Prix,conventional,perez,0.13137,1.0736,44
+2026,1,albert_park,Australian Grand Prix,conventional,russell,0.043865,0.65864,48
+2026,1,albert_park,Australian Grand Prix,conventional,sainz,0.067759,0.79001,43
+2026,1,albert_park,Australian Grand Prix,conventional,stroll,0.018188,0.78858,18
+2026,2,shanghai,Chinese Grand Prix,sprint,alonso,-0.014594,0.66813,25
+2026,2,shanghai,Chinese Grand Prix,sprint,antonelli,0.0098293,0.4919,50
+2026,2,shanghai,Chinese Grand Prix,sprint,arvid_lindblad,0.068313,0.50198,46
+2026,2,shanghai,Chinese Grand Prix,sprint,bearman,0.0050875,0.37618,50
+2026,2,shanghai,Chinese Grand Prix,sprint,bottas,0.030558,0.46122,50
+2026,2,shanghai,Chinese Grand Prix,sprint,colapinto,0.091441,0.45823,48
+2026,2,shanghai,Chinese Grand Prix,sprint,gasly,-0.0012643,0.46805,51
+2026,2,shanghai,Chinese Grand Prix,sprint,hadjar,0.023162,0.32635,50
+2026,2,shanghai,Chinese Grand Prix,sprint,hamilton,0.01332,0.54225,51
+2026,2,shanghai,Chinese Grand Prix,sprint,hulkenberg,0.053128,0.59379,48
+2026,2,shanghai,Chinese Grand Prix,sprint,lawson,0.027279,0.30733,50
+2026,2,shanghai,Chinese Grand Prix,sprint,leclerc,0.02256,0.57256,51
+2026,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,0.0030644,0.37963,37
+2026,2,shanghai,Chinese Grand Prix,sprint,ocon,0.071955,0.53706,45
+2026,2,shanghai,Chinese Grand Prix,sprint,perez,0.056167,0.85157,49
+2026,2,shanghai,Chinese Grand Prix,sprint,russell,-8.7751e-05,0.68352,51
+2026,2,shanghai,Chinese Grand Prix,sprint,sainz,0.038925,0.48444,49
+2026,2,shanghai,Chinese Grand Prix,sprint,stroll,-0.084681,0.22965,8
+2026,3,suzuka,Japanese Grand Prix,conventional,albon,0.0034292,0.29946,37
+2026,3,suzuka,Japanese Grand Prix,conventional,alonso,0.062557,0.51578,43
+2026,3,suzuka,Japanese Grand Prix,conventional,antonelli,0.051532,0.41774,46
+2026,3,suzuka,Japanese Grand Prix,conventional,arvid_lindblad,0.053706,0.5268,42
+2026,3,suzuka,Japanese Grand Prix,conventional,bearman,0.053998,0.37882,13
+2026,3,suzuka,Japanese Grand Prix,conventional,bortoleto,0.021263,0.52884,46
+2026,3,suzuka,Japanese Grand Prix,conventional,bottas,0.10927,0.66038,41
+2026,3,suzuka,Japanese Grand Prix,conventional,colapinto,0.038426,0.36296,43
+2026,3,suzuka,Japanese Grand Prix,conventional,gasly,0.062471,0.33587,46
+2026,3,suzuka,Japanese Grand Prix,conventional,hadjar,0.043804,0.63999,43
+2026,3,suzuka,Japanese Grand Prix,conventional,hamilton,0.071976,0.42894,45
+2026,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,-0.0096304,0.57256,46
+2026,3,suzuka,Japanese Grand Prix,conventional,lawson,0.050431,0.30337,46
+2026,3,suzuka,Japanese Grand Prix,conventional,leclerc,0.048248,0.38726,44
+2026,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,0.0422,0.39938,46
+2026,3,suzuka,Japanese Grand Prix,conventional,norris,0.058372,0.46206,44
+2026,3,suzuka,Japanese Grand Prix,conventional,ocon,0.048033,0.62027,44
+2026,3,suzuka,Japanese Grand Prix,conventional,perez,0.058578,0.24048,44
+2026,3,suzuka,Japanese Grand Prix,conventional,piastri,0.048922,0.24413,44
+2026,3,suzuka,Japanese Grand Prix,conventional,russell,0.052534,0.42595,45
+2026,3,suzuka,Japanese Grand Prix,conventional,sainz,0.024042,0.3754,46
+2026,3,suzuka,Japanese Grand Prix,conventional,stroll,0.078739,0.24092,19
+2026,4,miami,Miami Grand Prix,sprint,albon,0.025146,0.30139,48
+2026,4,miami,Miami Grand Prix,sprint,alonso,-0.01095,0.75801,43
+2026,4,miami,Miami Grand Prix,sprint,antonelli,0.014144,0.30209,46
+2026,4,miami,Miami Grand Prix,sprint,arvid_lindblad,0.027022,0.72857,46
+2026,4,miami,Miami Grand Prix,sprint,bearman,0.03625,0.41613,46
+2026,4,miami,Miami Grand Prix,sprint,bortoleto,-0.0040356,0.43658,47
+2026,4,miami,Miami Grand Prix,sprint,bottas,0.05465,1.0038,40
+2026,4,miami,Miami Grand Prix,sprint,colapinto,0.018578,0.29579,48
+2026,4,miami,Miami Grand Prix,sprint,hamilton,0.061799,0.40464,48
+2026,4,miami,Miami Grand Prix,sprint,leclerc,0.017689,0.488,47
+2026,4,miami,Miami Grand Prix,sprint,max_verstappen,0.035884,0.61374,46
+2026,4,miami,Miami Grand Prix,sprint,norris,0.023994,0.32945,47
+2026,4,miami,Miami Grand Prix,sprint,ocon,0.026491,0.52305,47
+2026,4,miami,Miami Grand Prix,sprint,perez,0.021196,0.6134,46
+2026,4,miami,Miami Grand Prix,sprint,piastri,0.017264,0.47908,48
+2026,4,miami,Miami Grand Prix,sprint,russell,0.030867,0.66444,48
+2026,4,miami,Miami Grand Prix,sprint,sainz,0.023421,0.43052,48
+2026,4,miami,Miami Grand Prix,sprint,stroll,0.016021,0.71897,43
+2026,5,villeneuve,Canadian Grand Prix,sprint,albon,-0.53868,0.71461,9
+2026,5,villeneuve,Canadian Grand Prix,sprint,alonso,-0.079657,0.81132,17
+2026,5,villeneuve,Canadian Grand Prix,sprint,antonelli,-0.013302,0.73791,56
+2026,5,villeneuve,Canadian Grand Prix,sprint,bearman,-0.059105,0.70954,58
+2026,5,villeneuve,Canadian Grand Prix,sprint,bortoleto,-0.049688,0.61355,51
+2026,5,villeneuve,Canadian Grand Prix,sprint,bottas,-0.046938,0.975,43
+2026,5,villeneuve,Canadian Grand Prix,sprint,colapinto,-0.040972,0.69471,58
+2026,5,villeneuve,Canadian Grand Prix,sprint,gasly,-0.048563,0.70717,55
+2026,5,villeneuve,Canadian Grand Prix,sprint,hadjar,-0.077975,0.60835,50
+2026,5,villeneuve,Canadian Grand Prix,sprint,hamilton,-0.017678,0.55819,58
+2026,5,villeneuve,Canadian Grand Prix,sprint,hulkenberg,-0.0095227,0.64469,50
+2026,5,villeneuve,Canadian Grand Prix,sprint,lawson,-0.039,0.64368,56
+2026,5,villeneuve,Canadian Grand Prix,sprint,leclerc,0.006244,0.65488,59
+2026,5,villeneuve,Canadian Grand Prix,sprint,max_verstappen,-0.021852,0.55302,58
+2026,5,villeneuve,Canadian Grand Prix,sprint,norris,-0.063752,0.69872,28
+2026,5,villeneuve,Canadian Grand Prix,sprint,ocon,-0.069875,0.72035,53
+2026,5,villeneuve,Canadian Grand Prix,sprint,perez,-0.12318,0.9609,29
+2026,5,villeneuve,Canadian Grand Prix,sprint,piastri,-0.054578,1.0309,50
+2026,5,villeneuve,Canadian Grand Prix,sprint,russell,-0.018706,0.79296,25
+2026,5,villeneuve,Canadian Grand Prix,sprint,sainz,-0.036332,0.67275,55
+2026,5,villeneuve,Canadian Grand Prix,sprint,stroll,-0.079688,1.1302,47
+2026,6,monaco,Monaco Grand Prix,conventional,albon,-0.083567,0.87388,57
+2026,6,monaco,Monaco Grand Prix,conventional,alonso,-0.051598,0.79505,58
+2026,6,monaco,Monaco Grand Prix,conventional,antonelli,-0.025972,0.52874,59
+2026,6,monaco,Monaco Grand Prix,conventional,arvid_lindblad,-0.017453,1.1829,60
+2026,6,monaco,Monaco Grand Prix,conventional,bearman,-0.12425,1.4617,23
+2026,6,monaco,Monaco Grand Prix,conventional,bortoleto,0.030512,1.4651,55
+2026,6,monaco,Monaco Grand Prix,conventional,bottas,0.015833,0.87884,13
+2026,6,monaco,Monaco Grand Prix,conventional,colapinto,-0.013084,0.96383,59
+2026,6,monaco,Monaco Grand Prix,conventional,gasly,-0.056516,0.58023,60
+2026,6,monaco,Monaco Grand Prix,conventional,hadjar,-0.010767,0.53267,59
+2026,6,monaco,Monaco Grand Prix,conventional,hamilton,0.018508,0.4322,60
+2026,6,monaco,Monaco Grand Prix,conventional,hulkenberg,0.0013591,1.2649,57
+2026,6,monaco,Monaco Grand Prix,conventional,lawson,-0.057182,0.62644,60
+2026,6,monaco,Monaco Grand Prix,conventional,leclerc,-0.010825,0.40487,52
+2026,6,monaco,Monaco Grand Prix,conventional,norris,0.014879,0.72437,41
+2026,6,monaco,Monaco Grand Prix,conventional,ocon,0.018812,1.0267,59
+2026,6,monaco,Monaco Grand Prix,conventional,perez,-0.041606,0.91027,52
+2026,6,monaco,Monaco Grand Prix,conventional,piastri,-0.042186,0.61171,60
+2026,6,monaco,Monaco Grand Prix,conventional,russell,0.017674,1.0308,53
+2026,6,monaco,Monaco Grand Prix,conventional,sainz,0.032697,1.3056,48
+2026,6,monaco,Monaco Grand Prix,conventional,stroll,0.026068,0.99106,46
+2026,7,catalunya,Barcelona Grand Prix,conventional,albon,0.20991,0.62785,36
+2026,7,catalunya,Barcelona Grand Prix,conventional,alonso,0.13867,0.41104,34
+2026,7,catalunya,Barcelona Grand Prix,conventional,antonelli,0.14641,0.26489,49
+2026,7,catalunya,Barcelona Grand Prix,conventional,arvid_lindblad,0.10967,0.81728,55
+2026,7,catalunya,Barcelona Grand Prix,conventional,bearman,0.12401,1.0063,53
+2026,7,catalunya,Barcelona Grand Prix,conventional,bortoleto,0.18386,0.54676,52
+2026,7,catalunya,Barcelona Grand Prix,conventional,bottas,0.34355,0.3486,12
+2026,7,catalunya,Barcelona Grand Prix,conventional,colapinto,0.11035,0.79074,53
+2026,7,catalunya,Barcelona Grand Prix,conventional,gasly,0.16186,0.61034,55
+2026,7,catalunya,Barcelona Grand Prix,conventional,hadjar,0.15104,0.4225,50
+2026,7,catalunya,Barcelona Grand Prix,conventional,hamilton,0.17397,0.17322,54
+2026,7,catalunya,Barcelona Grand Prix,conventional,hulkenberg,0.17042,0.33916,25
+2026,7,catalunya,Barcelona Grand Prix,conventional,lawson,0.10099,0.78592,53
+2026,7,catalunya,Barcelona Grand Prix,conventional,leclerc,0.15941,0.36615,55
+2026,7,catalunya,Barcelona Grand Prix,conventional,max_verstappen,0.17767,0.1967,56
+2026,7,catalunya,Barcelona Grand Prix,conventional,norris,0.12939,0.60401,55
+2026,7,catalunya,Barcelona Grand Prix,conventional,ocon,0.22668,0.43571,49
+2026,7,catalunya,Barcelona Grand Prix,conventional,perez,0.21404,0.88069,52
+2026,7,catalunya,Barcelona Grand Prix,conventional,piastri,0.14923,0.42782,55
+2026,7,catalunya,Barcelona Grand Prix,conventional,russell,0.16635,0.39662,54
+2026,7,catalunya,Barcelona Grand Prix,conventional,sainz,0.1284,0.45832,47
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,albon,0.096451,0.59631,61
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,alonso,0.087798,0.57379,63
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,antonelli,0.061939,0.2415,61
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,arvid_lindblad,0.074063,0.56032,61
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bearman,0.087714,0.53705,63
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bortoleto,0.078265,0.50543,59
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,colapinto,0.071757,0.62105,62
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,gasly,0.074174,0.43784,59
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hadjar,0.07085,0.3611,63
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hamilton,0.10911,0.51312,62
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,0.04808,0.53699,60
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,lawson,0.072227,0.54651,61
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,leclerc,0.080063,0.49921,60
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,max_verstappen,0.076847,0.29258,61
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,norris,0.08176,0.28386,60
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,ocon,0.082124,0.69269,60
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,piastri,0.08057,0.32107,61
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,russell,0.082584,0.25143,61
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,sainz,0.1592,0.54993,20
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,stroll,0.079877,0.6394,39
+2026,9,silverstone,British Grand Prix,sprint,albon,0.24092,0.76751,26
+2026,9,silverstone,British Grand Prix,sprint,alonso,0.064792,0.75136,40
+2026,9,silverstone,British Grand Prix,sprint,antonelli,0.020561,0.24599,32
+2026,9,silverstone,British Grand Prix,sprint,arvid_lindblad,0.067489,0.51609,41
+2026,9,silverstone,British Grand Prix,sprint,bearman,0.058349,0.8242,40
+2026,9,silverstone,British Grand Prix,sprint,bortoleto,0.063571,0.58341,41
+2026,9,silverstone,British Grand Prix,sprint,bottas,0.095982,0.62819,39
+2026,9,silverstone,British Grand Prix,sprint,colapinto,0.059683,0.72251,41
+2026,9,silverstone,British Grand Prix,sprint,gasly,0.054421,0.71502,40
+2026,9,silverstone,British Grand Prix,sprint,hadjar,0.073533,0.33297,40
+2026,9,silverstone,British Grand Prix,sprint,hamilton,0.065997,0.52483,40
+2026,9,silverstone,British Grand Prix,sprint,hulkenberg,-0.0078447,0.31663,27
+2026,9,silverstone,British Grand Prix,sprint,lawson,0.041703,0.70163,41
+2026,9,silverstone,British Grand Prix,sprint,leclerc,0.06139,0.20951,41
+2026,9,silverstone,British Grand Prix,sprint,max_verstappen,0.071539,0.20422,39
+2026,9,silverstone,British Grand Prix,sprint,norris,0.057921,0.24344,39
+2026,9,silverstone,British Grand Prix,sprint,ocon,0.024049,0.38846,40
+2026,9,silverstone,British Grand Prix,sprint,perez,0.043902,0.61452,40
+2026,9,silverstone,British Grand Prix,sprint,piastri,0.083422,0.48339,38
+2026,9,silverstone,British Grand Prix,sprint,russell,0.11581,0.28773,38
+2026,9,silverstone,British Grand Prix,sprint,sainz,0.051695,0.65385,38
+2026,9,silverstone,British Grand Prix,sprint,stroll,0.039649,0.94253,34
+2026,10,spa,Belgian Grand Prix,conventional,albon,0.060553,0.40099,37
+2026,10,spa,Belgian Grand Prix,conventional,alonso,0.28696,1.2414,31
+2026,10,spa,Belgian Grand Prix,conventional,antonelli,0.037744,0.30647,33
+2026,10,spa,Belgian Grand Prix,conventional,arvid_lindblad,0.053914,0.3485,36
+2026,10,spa,Belgian Grand Prix,conventional,bearman,0.070164,0.28708,37
+2026,10,spa,Belgian Grand Prix,conventional,bortoleto,0.048606,0.42761,36
+2026,10,spa,Belgian Grand Prix,conventional,bottas,0.03499,0.87504,35
+2026,10,spa,Belgian Grand Prix,conventional,colapinto,0.03757,0.35724,36
+2026,10,spa,Belgian Grand Prix,conventional,gasly,-0.0067712,0.56724,36
+2026,10,spa,Belgian Grand Prix,conventional,hadjar,-4.9746e-05,0.40221,36
+2026,10,spa,Belgian Grand Prix,conventional,hamilton,0.084413,0.4493,37
+2026,10,spa,Belgian Grand Prix,conventional,hulkenberg,-0.02184,0.5477,37
+2026,10,spa,Belgian Grand Prix,conventional,lawson,0.024371,0.52582,35
+2026,10,spa,Belgian Grand Prix,conventional,leclerc,0.037677,0.30897,37
+2026,10,spa,Belgian Grand Prix,conventional,max_verstappen,0.064287,0.24601,36
+2026,10,spa,Belgian Grand Prix,conventional,norris,0.0055307,0.46451,35
+2026,10,spa,Belgian Grand Prix,conventional,ocon,0.0085795,0.40953,36
+2026,10,spa,Belgian Grand Prix,conventional,perez,-0.42629,0.67582,6
+2026,10,spa,Belgian Grand Prix,conventional,piastri,0.1147,0.45105,37
+2026,10,spa,Belgian Grand Prix,conventional,sainz,0.086697,0.34833,35
+2026,10,spa,Belgian Grand Prix,conventional,stroll,0.011184,0.62379,12
+2026,11,hungaroring,Hungarian Grand Prix,conventional,albon,0.090248,0.71244,60
+2026,11,hungaroring,Hungarian Grand Prix,conventional,alonso,0.053574,0.59527,63
+2026,11,hungaroring,Hungarian Grand Prix,conventional,antonelli,0.056781,0.50934,61
+2026,11,hungaroring,Hungarian Grand Prix,conventional,arvid_lindblad,0.084792,0.68397,63
+2026,11,hungaroring,Hungarian Grand Prix,conventional,bearman,0.12492,0.64206,60
+2026,11,hungaroring,Hungarian Grand Prix,conventional,bortoleto,0.073871,0.69661,62
+2026,11,hungaroring,Hungarian Grand Prix,conventional,bottas,0.061112,0.47605,12
+2026,11,hungaroring,Hungarian Grand Prix,conventional,colapinto,0.0992,0.69379,61
+2026,11,hungaroring,Hungarian Grand Prix,conventional,gasly,0.13169,0.61558,61
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hadjar,0.11486,0.42064,64
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hamilton,0.042756,0.42846,63
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,0.054122,0.68121,62
+2026,11,hungaroring,Hungarian Grand Prix,conventional,lawson,0.07876,0.65383,62
+2026,11,hungaroring,Hungarian Grand Prix,conventional,leclerc,0.10531,0.38188,63
+2026,11,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,0.054634,0.24137,63
+2026,11,hungaroring,Hungarian Grand Prix,conventional,norris,0.083439,0.38592,61
+2026,11,hungaroring,Hungarian Grand Prix,conventional,ocon,0.071826,0.5991,62
+2026,11,hungaroring,Hungarian Grand Prix,conventional,perez,0.016286,0.96723,41
+2026,11,hungaroring,Hungarian Grand Prix,conventional,piastri,0.075424,0.49026,50
+2026,11,hungaroring,Hungarian Grand Prix,conventional,russell,0.056868,0.57005,64
+2026,11,hungaroring,Hungarian Grand Prix,conventional,sainz,0.13225,0.72956,61
+2026,11,hungaroring,Hungarian Grand Prix,conventional,stroll,0.020311,0.78226,63
+2026,12,zandvoort,Dutch Grand Prix,sprint,albon,0.07064,0.65176,51
+2026,12,zandvoort,Dutch Grand Prix,sprint,alonso,0.014223,0.54887,59
+2026,12,zandvoort,Dutch Grand Prix,sprint,antonelli,0.088297,0.2119,58
+2026,12,zandvoort,Dutch Grand Prix,sprint,arvid_lindblad,0.032037,0.51507,58
+2026,12,zandvoort,Dutch Grand Prix,sprint,bortoleto,0.095321,0.73175,52
+2026,12,zandvoort,Dutch Grand Prix,sprint,bottas,0.086286,0.4472,43
+2026,12,zandvoort,Dutch Grand Prix,sprint,colapinto,0.10016,0.89644,52
+2026,12,zandvoort,Dutch Grand Prix,sprint,gasly,0.025154,0.61542,57
+2026,12,zandvoort,Dutch Grand Prix,sprint,hamilton,0.075098,0.51582,60
+2026,12,zandvoort,Dutch Grand Prix,sprint,hulkenberg,-0.0055708,0.68214,55
+2026,12,zandvoort,Dutch Grand Prix,sprint,lawson,0.066695,0.40084,59
+2026,12,zandvoort,Dutch Grand Prix,sprint,leclerc,0.076962,0.35234,58
+2026,12,zandvoort,Dutch Grand Prix,sprint,norris,0.077848,0.37333,57
+2026,12,zandvoort,Dutch Grand Prix,sprint,ocon,0.015559,0.64376,42
+2026,12,zandvoort,Dutch Grand Prix,sprint,perez,0.023089,0.68293,56
+2026,12,zandvoort,Dutch Grand Prix,sprint,piastri,0.074292,0.46245,56
+2026,12,zandvoort,Dutch Grand Prix,sprint,russell,0.057981,0.37514,58
+2026,12,zandvoort,Dutch Grand Prix,sprint,sainz,0.032979,0.60415,52
+2026,12,zandvoort,Dutch Grand Prix,sprint,stroll,0.037583,0.52727,34
+2026,12,zandvoort,Dutch Grand Prix,sprint,tsunoda,0.01233,0.49505,55
+2026,13,monza,Italian Grand Prix,conventional,albon,0.010055,0.40469,35
+2026,13,monza,Italian Grand Prix,conventional,alonso,0.051076,0.45144,16
+2026,13,monza,Italian Grand Prix,conventional,antonelli,0.0061785,0.3307,43
+2026,13,monza,Italian Grand Prix,conventional,arvid_lindblad,0.014467,0.58121,46
+2026,13,monza,Italian Grand Prix,conventional,bearman,0.031489,0.33673,45
+2026,13,monza,Italian Grand Prix,conventional,bortoleto,0.011264,0.37347,46
+2026,13,monza,Italian Grand Prix,conventional,bottas,0.0091717,0.71044,40
+2026,13,monza,Italian Grand Prix,conventional,colapinto,-0.021255,0.34216,44
+2026,13,monza,Italian Grand Prix,conventional,gasly,-0.0039991,0.53767,45
+2026,13,monza,Italian Grand Prix,conventional,hamilton,0.020325,0.40819,43
+2026,13,monza,Italian Grand Prix,conventional,hulkenberg,-0.034777,0.46169,43
+2026,13,monza,Italian Grand Prix,conventional,lawson,0.012617,0.3552,38
+2026,13,monza,Italian Grand Prix,conventional,max_verstappen,0.026906,0.50546,44
+2026,13,monza,Italian Grand Prix,conventional,norris,0.0036377,0.48011,43
+2026,13,monza,Italian Grand Prix,conventional,ocon,0.038163,0.58129,44
+2026,13,monza,Italian Grand Prix,conventional,perez,0.013472,0.6204,43
+2026,13,monza,Italian Grand Prix,conventional,piastri,0.014033,0.36515,45
+2026,13,monza,Italian Grand Prix,conventional,russell,0.0088806,0.56031,44
+2026,13,monza,Italian Grand Prix,conventional,sainz,-0.0035438,0.28723,44
+2026,13,monza,Italian Grand Prix,conventional,stroll,0.029963,0.49538,18
+2026,13,monza,Italian Grand Prix,conventional,tsunoda,0.023974,0.49498,46
+2026,14,madring,Spanish Grand Prix,conventional,albon,0.021236,0.97649,51
+2026,14,madring,Spanish Grand Prix,conventional,alonso,0.07043,1.2541,50
+2026,14,madring,Spanish Grand Prix,conventional,antonelli,0.012898,0.52813,52
+2026,14,madring,Spanish Grand Prix,conventional,arvid_lindblad,0.052588,0.79968,51
+2026,14,madring,Spanish Grand Prix,conventional,bearman,0.027334,0.72246,49
+2026,14,madring,Spanish Grand Prix,conventional,bortoleto,0.044072,0.69664,48
+2026,14,madring,Spanish Grand Prix,conventional,bottas,0.11277,1.557,45
+2026,14,madring,Spanish Grand Prix,conventional,colapinto,0.033326,0.68181,52
+2026,14,madring,Spanish Grand Prix,conventional,gasly,-0.012511,1.0078,51
+2026,14,madring,Spanish Grand Prix,conventional,hulkenberg,0.025104,0.58038,51
+2026,14,madring,Spanish Grand Prix,conventional,lawson,0.012982,0.83635,52
+2026,14,madring,Spanish Grand Prix,conventional,leclerc,0.03118,0.58542,52
+2026,14,madring,Spanish Grand Prix,conventional,max_verstappen,0.0080699,0.21975,52
+2026,14,madring,Spanish Grand Prix,conventional,norris,0.019381,0.40118,52
+2026,14,madring,Spanish Grand Prix,conventional,ocon,0.016603,0.63879,53
+2026,14,madring,Spanish Grand Prix,conventional,perez,0.17824,0.67476,23
+2026,14,madring,Spanish Grand Prix,conventional,piastri,-0.039174,0.84445,49
+2026,14,madring,Spanish Grand Prix,conventional,russell,-0.019433,0.7122,52
+2026,14,madring,Spanish Grand Prix,conventional,sainz,0.16689,1.0441,31
+2026,14,madring,Spanish Grand Prix,conventional,stroll,-0.077073,0.30534,11
+2026,14,madring,Spanish Grand Prix,conventional,tsunoda,-0.054832,0.52983,48
+2026,15,baku,Azerbaijan Grand Prix,conventional,albon,-0.002479,0.53844,28
+2026,15,baku,Azerbaijan Grand Prix,conventional,alonso,0.013311,0.57276,18
+2026,15,baku,Azerbaijan Grand Prix,conventional,antonelli,-0.067825,0.7604,41
+2026,15,baku,Azerbaijan Grand Prix,conventional,arvid_lindblad,-0.02603,0.42688,40
+2026,15,baku,Azerbaijan Grand Prix,conventional,bearman,-0.0067867,0.45618,40
+2026,15,baku,Azerbaijan Grand Prix,conventional,bortoleto,-0.0062022,0.52316,38
+2026,15,baku,Azerbaijan Grand Prix,conventional,bottas,-0.0066663,0.44888,35
+2026,15,baku,Azerbaijan Grand Prix,conventional,colapinto,0.02883,0.3645,28
+2026,15,baku,Azerbaijan Grand Prix,conventional,gasly,-0.0026848,0.21707,28
+2026,15,baku,Azerbaijan Grand Prix,conventional,hadjar,-0.004595,0.5201,41
+2026,15,baku,Azerbaijan Grand Prix,conventional,hamilton,-0.050965,0.41179,40
+2026,15,baku,Azerbaijan Grand Prix,conventional,hulkenberg,-0.0102,0.63871,40
+2026,15,baku,Azerbaijan Grand Prix,conventional,lawson,-0.046777,0.59777,40
+2026,15,baku,Azerbaijan Grand Prix,conventional,leclerc,-0.0032895,0.63325,41
+2026,15,baku,Azerbaijan Grand Prix,conventional,max_verstappen,0.0063017,0.42261,41
+2026,15,baku,Azerbaijan Grand Prix,conventional,norris,-0.0005723,0.57252,28
+2026,15,baku,Azerbaijan Grand Prix,conventional,ocon,-0.014317,0.52291,40
+2026,15,baku,Azerbaijan Grand Prix,conventional,perez,-0.015194,0.58949,40
+2026,15,baku,Azerbaijan Grand Prix,conventional,piastri,-0.016896,0.29812,39
+2026,15,baku,Azerbaijan Grand Prix,conventional,russell,0.0088399,0.43807,41
+2026,15,baku,Azerbaijan Grand Prix,conventional,sainz,-0.047839,0.57509,38
+2026,15,baku,Azerbaijan Grand Prix,conventional,stroll,-0.021229,0.18949,6
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,albon,0.10181,0.6822,22
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,alonso,-0.013409,0.9354,31
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,antonelli,0.08497,0.95404,26
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,arvid_lindblad,-0.011765,1.4542,32
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,bearman,0.0028868,1.312,27
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,bortoleto,0.037905,1.1654,23
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,colapinto,0.018612,0.89299,31
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,gasly,-0.00020024,0.8293,29
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hadjar,-0.0046681,0.98094,28
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hamilton,0.0029032,0.65688,27
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hulkenberg,0.030243,1.164,32
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,lawson,-0.013462,0.94768,28
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,leclerc,0.005989,0.79787,26
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,max_verstappen,0.0018743,0.81224,32
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,norris,-0.03333,0.9641,27
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,ocon,0.064985,0.71159,25
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,perez,0.15982,1.2018,22
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,piastri,0.037298,0.67564,31
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,russell,0.022326,0.82333,28
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,sainz,0.019716,0.6887,31
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,stroll,-0.019843,1.1476,31
+2026,17,marina_bay,Singapore Grand Prix,sprint,albon,0.071514,0.86977,51
+2026,17,marina_bay,Singapore Grand Prix,sprint,alonso,0.00319,0.70073,54
+2026,17,marina_bay,Singapore Grand Prix,sprint,antonelli,0.058075,0.60862,52
+2026,17,marina_bay,Singapore Grand Prix,sprint,arvid_lindblad,0.049325,0.88385,54
+2026,17,marina_bay,Singapore Grand Prix,sprint,bearman,0.071093,0.42275,51
+2026,17,marina_bay,Singapore Grand Prix,sprint,bortoleto,0.33434,1.4559,6
+2026,17,marina_bay,Singapore Grand Prix,sprint,bottas,0.097014,1.336,51
+2026,17,marina_bay,Singapore Grand Prix,sprint,colapinto,0.0071766,0.55665,26
+2026,17,marina_bay,Singapore Grand Prix,sprint,gasly,0.06652,0.60869,52
+2026,17,marina_bay,Singapore Grand Prix,sprint,hadjar,-0.036976,1.1221,55
+2026,17,marina_bay,Singapore Grand Prix,sprint,hamilton,0.087335,0.79639,53
+2026,17,marina_bay,Singapore Grand Prix,sprint,hulkenberg,0.025455,0.31753,55
+2026,17,marina_bay,Singapore Grand Prix,sprint,lawson,0.043549,0.28461,54
+2026,17,marina_bay,Singapore Grand Prix,sprint,leclerc,0.072727,0.42258,54
+2026,17,marina_bay,Singapore Grand Prix,sprint,max_verstappen,0.053281,0.50215,54
+2026,17,marina_bay,Singapore Grand Prix,sprint,norris,0.081832,0.80449,54
+2026,17,marina_bay,Singapore Grand Prix,sprint,ocon,0.045715,0.65302,53
+2026,17,marina_bay,Singapore Grand Prix,sprint,perez,0.075518,0.96398,53
+2026,17,marina_bay,Singapore Grand Prix,sprint,piastri,0.089921,0.44915,47
+2026,17,marina_bay,Singapore Grand Prix,sprint,russell,0.0156,0.60287,55
+2026,17,marina_bay,Singapore Grand Prix,sprint,sainz,0.045111,0.81246,53
+2026,17,marina_bay,Singapore Grand Prix,sprint,stroll,0.003338,0.89388,29
+2026,18,americas,United States Grand Prix,conventional,albon,0.12306,0.70929,44
+2026,18,americas,United States Grand Prix,conventional,alonso,0.025836,0.43979,43
+2026,18,americas,United States Grand Prix,conventional,antonelli,0.065914,0.2813,48
+2026,18,americas,United States Grand Prix,conventional,arvid_lindblad,0.079285,0.7052,47
+2026,18,americas,United States Grand Prix,conventional,bearman,0.22991,0.60786,15
+2026,18,americas,United States Grand Prix,conventional,bortoleto,0.033297,0.44635,45
+2026,18,americas,United States Grand Prix,conventional,bottas,0.052338,0.69449,44
+2026,18,americas,United States Grand Prix,conventional,colapinto,0.056657,0.74293,25
+2026,18,americas,United States Grand Prix,conventional,gasly,0.060377,0.29665,50
+2026,18,americas,United States Grand Prix,conventional,hadjar,0.043261,0.32166,47
+2026,18,americas,United States Grand Prix,conventional,hamilton,0.065147,0.22166,47
+2026,18,americas,United States Grand Prix,conventional,hulkenberg,0.037274,0.35968,48
+2026,18,americas,United States Grand Prix,conventional,lawson,0.055336,0.34892,50
+2026,18,americas,United States Grand Prix,conventional,leclerc,0.096438,0.43212,46
+2026,18,americas,United States Grand Prix,conventional,max_verstappen,0.10641,0.23857,47
+2026,18,americas,United States Grand Prix,conventional,norris,0.09515,0.47307,48
+2026,18,americas,United States Grand Prix,conventional,ocon,0.099407,0.61812,48
+2026,18,americas,United States Grand Prix,conventional,perez,0.027219,0.73244,48
+2026,18,americas,United States Grand Prix,conventional,piastri,0.07949,0.35961,46
+2026,18,americas,United States Grand Prix,conventional,russell,0.10508,0.31032,45
+2026,18,americas,United States Grand Prix,conventional,sainz,0.12396,0.37024,44
+2026,18,americas,United States Grand Prix,conventional,stroll,0.021031,0.64008,45

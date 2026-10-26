@@ -17,7 +17,12 @@ DIRECTION = {
     "podium_brier": False, "top10_brier": False,
     "spearman": True, "kendall": True, "mae_pos": False,
 }
-COMPOSITE = ["winner_logloss", "podium_brier", "top10_brier", "spearman"]
+# Promotion objective. Changed by the project owner on 2026-10-25: optimise for the race winner first and the
+# podium second; top-10 and the full finishing order are still predicted and reported but no longer decide
+# promotions. (Previously an equal-weight mean of winner log-loss, podium Brier, top-10 Brier and Spearman.)
+COMPOSITE_WEIGHTS = {"winner_logloss": 0.6, "podium_brier": 0.4}
+COMPOSITE = list(COMPOSITE_WEIGHTS)
+REPORTED_ONLY = ["top10_brier", "spearman", "kendall", "mae_pos"]
 
 
 def score_race(pred: pd.DataFrame, actual: pd.DataFrame) -> dict:

@@ -1,0 +1,36 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "f1-forecaster"
+version = "0.2.0"
+description = "F1 race-winner and podium forecasting: Plackett-Luce + lap-by-lap race simulator, OpenF1 analytics, walk-forward evaluation"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.setuptools]
+package-dir = { "f1" = "src/f1", "eval" = "eval" }
+packages = ["f1", "f1.analytics", "eval"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+src = ["src", "app", "scripts", "eval", "tests"]
+
+[tool.ruff.lint]
+# pyflakes, bugbear, syntax/runtime errors, pyupgrade, simplify
+select = ["F", "B", "E9", "PLE", "UP", "SIM"]
+# zip(strict=) everywhere is noise for this codebase's paired arrays; module-level ranges as defaults are fine
+ignore = ["B905", "B008", "B007", "B028", "UP038", "SIM108", "SIM117"]
+
+[tool.mypy]
+python_version = "3.12"
+files = ["src/f1", "eval"]
+mypy_path = "src"
+explicit_package_bases = true
+ignore_missing_imports = true
+# pandas-heavy research code: check what is annotated and real errors, without demanding annotations everywhere
+check_untyped_defs = true
+warn_unused_ignores = true
+no_implicit_optional = true

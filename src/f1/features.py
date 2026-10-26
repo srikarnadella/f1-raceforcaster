@@ -80,13 +80,18 @@ def weekend_features(race: pd.DataFrame) -> pd.DataFrame:
 
 def build_features(results: pd.DataFrame, entry: pd.DataFrame | None = None,
                    form_half_life: float = 6.0, dnf_half_life: float = 12.0,
-                   race_pace: bool | pd.DataFrame = False) -> pd.DataFrame:
+                   race_pace: bool | pd.DataFrame = False,
+                   openf1: bool | pd.DataFrame = False) -> pd.DataFrame:
     """Feature rows for every race in `results`, plus `entry` (an upcoming race
     with pre-race data only) if given. Rows of each race only see earlier races.
 
     race_pace: True loads lap-derived race pace (src/f1/laps.py) for past races,
     or pass the table directly. A race's pace enters the state only after its
-    own features are fixed, like every other outcome."""
+    own features are fixed, like every other outcome.
+
+    openf1: True attaches pre-race OpenF1 features (analytics/prerace.py:
+    practice long runs and one-lap pace, sprint pace, telemetry DNA projection),
+    or pass that table directly. They come from sessions before the race only."""
     races = results if entry is None else pd.concat([results, entry], ignore_index=True)
     races = races.sort_values(["season", "round"], kind="stable")
 
@@ -96,9 +101,10 @@ def build_features(results: pd.DataFrame, entry: pd.DataFrame | None = None,
     drv_gain = _EWM(form_half_life, 0.0)
     con_dnf = _EWM(dnf_half_life, 0.12)
     drv_dnf = _EWM(dnf_half_life, 0.12)
-    circ_dnf_sum, circ_dnf_n = defaultdict(float), defaultdict(int)
+    circ_dnf_sum: defaultdict[str, float] = defaultdict(float)
+    circ_dnf_n: defaultdict[str, int] = defaultdict(int)
     global_dnf = [0.0, 0]
-    era_count = defaultdict(int)
+    era_count: defaultdict[int, int] = defaultdict(int)
     if race_pace is True:
         from .laps import pace_table
         race_pace = pace_table()
@@ -164,7 +170,11 @@ def build_features(results: pd.DataFrame, entry: pd.DataFrame | None = None,
         global_dnf[0] += dnf.sum()
         global_dnf[1] += len(r)
 
-    return pd.concat(out, ignore_index=True)
+    feats = pd.concat(out, ignore_index=True)
+    if openf1 is not False and openf1 is not None:
+        from .analytics.prerace import attach
+        feats = attach(feats, None if openf1 is True else openf1)
+    return feats
 
 
 def feature_hash(feats: pd.DataFrame, columns: list[str]) -> str:

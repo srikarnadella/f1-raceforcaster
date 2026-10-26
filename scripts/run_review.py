@@ -3,9 +3,9 @@
 Usage: python scripts/run_review.py 2026_18 [--no-improve]
 """
 import json
+from pathlib import Path
 import sys
 
-import _path  # noqa: F401
 
 from f1 import championship, improve, ingest, registry, review, state
 from f1.config import CHAMP_DIR
@@ -24,6 +24,13 @@ def main(key: str, run_improve: bool = True):
     if len(race) < MIN_RESULT_ROWS:
         print(f"{key}: results not available yet ({len(race)} rows); will retry next tick")
         return
+    # OpenF1 race laps + analytics first: the champion's race simulator and the improvement cycle read
+    # them, so they must include this race before anything is scored or re-tuned (best effort)
+    import subprocess
+    here = Path(__file__).parent
+    for cmd in (["fetch_openf1.py", "--season", str(season), "--round", str(rnd)], ["build_analytics.py"]):
+        r = subprocess.run([sys.executable, str(here / cmd[0]), *cmd[1:]], capture_output=True, text=True)
+        print(cmd[0], "ok" if r.returncode == 0 else f"failed: {r.stderr[-300:]}")
     scores = review.score_logged(results, season, rnd)
     print(f"{key}: scored {len(scores)} logged forecast(s)")
     review.pace_report(results, season, rnd)
@@ -52,6 +59,10 @@ def main(key: str, run_improve: bool = True):
     spec = registry.champion_spec(reg)
     backtest.write(spec, REPORTS / "backtest.json", version=reg["champion"])
     backtest.write(spec, REPORTS / f"backtest_{season}.json", test_from=season, version=reg["champion"])
+    import subprocess
+    here = Path(__file__).parent
+    r = subprocess.run([sys.executable, str(here / "model_lab.py")], capture_output=True, text=True)
+    print("model_lab.py", "ok" if r.returncode == 0 else f"failed: {r.stderr[-300:]}")
     state.mark("review", season, rnd, "done")
 
 

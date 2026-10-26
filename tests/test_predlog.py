@@ -1,4 +1,4 @@
-from datetime import datetime, timezone
+from datetime import datetime, UTC
 
 import pandas as pd
 import pytest
@@ -24,7 +24,7 @@ KW = dict(season=2030, rnd=1, race_name="Test GP", race_utc=pd.Timestamp("2030-0
 
 
 def test_append_only_and_idempotent(tmp_log):
-    now = datetime(2030, 3, 1, 10, tzinfo=timezone.utc)
+    now = datetime(2030, 3, 1, 10, tzinfo=UTC)
     assert predlog.log_forecast(_pred(), now=now, **KW) is not None
     before = (tmp_log / "log.jsonl").read_text()
     assert predlog.log_forecast(_pred(), now=now, **KW) is None
@@ -35,7 +35,7 @@ def test_append_only_and_idempotent(tmp_log):
 
 
 def test_late_forecast_refused(tmp_log):
-    late = datetime(2030, 3, 1, 12, 5, tzinfo=timezone.utc)
+    late = datetime(2030, 3, 1, 12, 5, tzinfo=UTC)
     with pytest.raises(predlog.LateForecast):
         predlog.log_forecast(_pred(), now=late, **KW)
     e = predlog.log_forecast(_pred(), now=late, allow_late=True, **KW)

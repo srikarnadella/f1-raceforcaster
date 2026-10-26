@@ -1,0 +1,436 @@
+{
+ "season": 2026,
+ "round": 19,
+ "race_name": "Mexico City Grand Prix",
+ "circuit_id": "rodriguez",
+ "race_utc": "2026-11-01T20:00:00+00:00",
+ "format": "conventional",
+ "strategy": [
+  {
+   "stops": 1,
+   "plan": "M34 \u2192 H37",
+   "pace_time_s": 125.20724055778581,
+   "time_s": 125.52754569174238,
+   "delta_s": 0.0,
+   "pace_only_delta_s": 0.0
+  },
+  {
+   "stops": 2,
+   "plan": "S16 \u2192 M27 \u2192 M28",
+   "pace_time_s": 127.94277029685423,
+   "time_s": 128.58338056476734,
+   "delta_s": 3.0558348730249634,
+   "pace_only_delta_s": 2.7355297390684257
+  },
+  {
+   "stops": 2,
+   "plan": "M24 \u2192 M24 \u2192 H23",
+   "pace_time_s": 130.09299876856005,
+   "time_s": 130.73360903647318,
+   "delta_s": 5.206063344730808,
+   "pace_only_delta_s": 4.885758210774242
+  },
+  {
+   "stops": 2,
+   "plan": "S16 \u2192 M27 \u2192 H28",
+   "pace_time_s": 134.46877257292206,
+   "time_s": 135.10938284083517,
+   "delta_s": 9.581837149092792,
+   "pace_only_delta_s": 9.261532015136254
+  },
+  {
+   "stops": 1,
+   "plan": "S24 \u2192 M47",
+   "pace_time_s": 135.15654370634292,
+   "time_s": 135.47684884029948,
+   "delta_s": 9.949303148557107,
+   "pace_only_delta_s": 9.949303148557107
+  },
+  {
+   "stops": 1,
+   "plan": "S22 \u2192 H49",
+   "pace_time_s": 137.78401449375502,
+   "time_s": 138.10431962771156,
+   "delta_s": 12.576773935969186,
+   "pace_only_delta_s": 12.576773935969214
+  }
+ ],
+ "strategy_inputs": {
+  "deg": {
+   "SOFT": 0.11315590073886231,
+   "MEDIUM": 0.05023164345991812,
+   "HARD": 0.032420483220347976
+  },
+  "offset": {
+   "SOFT": 0.0,
+   "MEDIUM": 0.4083333333333334,
+   "HARD": 0.8996666666666666
+  },
+  "pit_loss": 25.356812995229905,
+  "passing_ease": 0.9733079055036203
+ },
+ "circuit": {
+  "overtakes_per_lap": 0.7786463244028963,
+  "pit_loss_s": 25.356812995229905,
+  "race_laps": 71.0,
+  "sc_rate": 1.8527954947226262,
+  "race_track_temp": 43.94342033747309,
+  "race_deg": 0.055029739333669794
+ },
+ "cluster": "hot track",
+ "similar": {
+  "miami": 2.34,
+  "americas": 2.62,
+  "interlagos": 3.05
+ },
+ "profile_from": "2025 R20",
+ "profile": {
+  "share_straight": 0.4621098652235438,
+  "share_fast": 0.016685976764009267,
+  "share_medium": 0.11123120014397567,
+  "share_slow": 0.40997295786847127,
+  "top_speed_kmh": 351.0,
+  "avg_speed_kmh": 202.41843727674438,
+  "full_throttle_pct": 61.411764705882355
+ },
+ "teams": [
+  {
+   "constructor_id": "mercedes",
+   "team_name": "Mercedes",
+   "team_colour": "#00D7B6",
+   "dna_vs_median": -1.739105101463343,
+   "form_vs_median": -1.3475692723783221,
+   "z_straight": -1.0350427106732505,
+   "z_fast": -2.866133355618873,
+   "z_medium": -3.167100792945039,
+   "z_slow": -2.0993994376063823,
+   "blend_vs_median": -1.5433371869208325,
+   "dna_gap": 0.0,
+   "blend_gap": 0.0
+  },
+  {
+   "constructor_id": "ferrari",
+   "team_name": "Ferrari",
+   "team_colour": "#ED1131",
+   "dna_vs_median": -1.6036763936349236,
+   "form_vs_median": -1.0897585592780847,
+   "z_straight": -0.031235993883821964,
+   "z_fast": -3.1627628272894963,
+   "z_medium": -3.7249984175612596,
+   "z_slow": -2.7370880922960263,
+   "blend_vs_median": -1.3467174764565042,
+   "dna_gap": 0.13542870782841931,
+   "blend_gap": 0.19661971046432836
+  },
+  {
+   "constructor_id": "red_bull",
+   "team_name": "Red Bull Racing",
+   "team_colour": "#4781D7",
+   "dna_vs_median": -1.3527304684888317,
+   "form_vs_median": -1.0344355890465489,
+   "z_straight": -1.1646436097722246,
+   "z_fast": -0.5202091085563242,
+   "z_medium": -1.9599287887730936,
+   "z_slow": -1.4338793015279003,
+   "blend_vs_median": -1.1935830287676903,
+   "dna_gap": 0.38637463297451125,
+   "blend_gap": 0.34975415815314226
+  },
+  {
+   "constructor_id": "mclaren",
+   "team_name": "McLaren",
+   "team_colour": "#F47600",
+   "dna_vs_median": -1.3494595316019626,
+   "form_vs_median": -0.990230131888897,
+   "z_straight": -0.9736730521787536,
+   "z_fast": -2.822389400400806,
+   "z_medium": -2.765093773279224,
+   "z_slow": -1.329006158489333,
+   "blend_vs_median": -1.1698448317454297,
+   "dna_gap": 0.3896455698613803,
+   "blend_gap": 0.3734923551754028
+  },
+  {
+   "constructor_id": "alpine",
+   "team_name": "Alpine",
+   "team_colour": "#00A1E8",
+   "dna_vs_median": -0.4692891951860146,
+   "form_vs_median": -0.02501267909184937,
+   "z_straight": -0.32403489491119175,
+   "z_fast": 0.47385950572551555,
+   "z_medium": 0.17427269060134065,
+   "z_slow": -0.8460090748522024,
+   "blend_vs_median": -0.247150937138932,
+   "dna_gap": 1.2698159062773284,
+   "blend_gap": 1.2961862497819006
+  },
+  {
+   "constructor_id": "rb",
+   "team_name": "Racing Bulls",
+   "team_colour": "#6C98FF",
+   "dna_vs_median": -0.39461293168265904,
+   "form_vs_median": -0.06841320880036383,
+   "z_straight": -0.9559751829334713,
+   "z_fast": -0.33683907694924076,
+   "z_medium": 0.5900428546486982,
+   "z_slow": -0.031363177354033836,
+   "blend_vs_median": -0.23151307024151144,
+   "dna_gap": 1.344492169780684,
+   "blend_gap": 1.3118241166793212
+  },
+  {
+   "constructor_id": "audi",
+   "team_name": "Audi",
+   "team_colour": "#F50537",
+   "dna_vs_median": -0.06994608286061194,
+   "form_vs_median": 0.22217534052392013,
+   "z_straight": 0.08960416514189379,
+   "z_fast": 1.5981315123699595,
+   "z_medium": -0.42854881909491016,
+   "z_slow": -0.2203838951246468,
+   "blend_vs_median": 0.0761146288316541,
+   "dna_gap": 1.669159018602731,
+   "blend_gap": 1.6194518157524866
+  },
+  {
+   "constructor_id": "haas",
+   "team_name": "Haas F1 Team",
+   "team_colour": "#9C9FA2",
+   "dna_vs_median": 0.4647046847017631,
+   "form_vs_median": 0.7177515124905425,
+   "z_straight": -0.07618838248167004,
+   "z_fast": 2.1301413748013895,
+   "z_medium": 1.08284910646999,
+   "z_slow": 0.8388894586574809,
+   "blend_vs_median": 0.5912280985961528,
+   "dna_gap": 2.203809786165106,
+   "blend_gap": 2.1345652855169854
+  },
+  {
+   "constructor_id": "williams",
+   "team_name": "Williams",
+   "team_colour": "#1868DB",
+   "dna_vs_median": 0.6880450465494271,
+   "form_vs_median": 1.2593036948297294,
+   "z_straight": 0.8410862437031492,
+   "z_fast": 3.020075483724334,
+   "z_medium": 2.4813121295498615,
+   "z_slow": -0.06591029749551047,
+   "blend_vs_median": 0.9736743706895783,
+   "dna_gap": 2.42715014801277,
+   "blend_gap": 2.517011557610411
+  },
+  {
+   "constructor_id": "aston_martin",
+   "team_name": "Aston Martin",
+   "team_colour": "#229971",
+   "dna_vs_median": 1.6104446263108743,
+   "form_vs_median": 2.129176954498629,
+   "z_straight": 2.7020322273062614,
+   "z_fast": 2.892892837772238,
+   "z_medium": 1.0445125086548297,
+   "z_slow": 0.4813872514223593,
+   "blend_vs_median": 1.8698107904047516,
+   "dna_gap": 3.3495497277742174,
+   "blend_gap": 3.4131479773255844
+  },
+  {
+   "constructor_id": "cadillac",
+   "team_name": "Cadillac",
+   "team_colour": "#909090",
+   "dna_vs_median": 2.3405868360630553,
+   "form_vs_median": 2.528055895371948,
+   "z_straight": 0.981489214495793,
+   "z_fast": 5.754812223433482,
+   "z_medium": 4.9890865336427,
+   "z_slow": 3.014989691173552,
+   "blend_vs_median": 2.4343213657175014,
+   "dna_gap": 4.079691937526398,
+   "blend_gap": 3.977658552638334
+  }
+ ],
+ "preweekend": {
+  "model_version": "v2",
+  "sigma_team": 0.55375,
+  "n_grids": 300,
+  "n_races": 200,
+  "drivers": [
+   {
+    "driver_id": "antonelli",
+    "code": "ANT",
+    "constructor_id": "mercedes",
+    "p_pole": 0.3833,
+    "p_win": 0.2806,
+    "p_top3": 0.6054
+   },
+   {
+    "driver_id": "max_verstappen",
+    "code": "VER",
+    "constructor_id": "red_bull",
+    "p_pole": 0.1433,
+    "p_win": 0.1532,
+    "p_top3": 0.4236
+   },
+   {
+    "driver_id": "leclerc",
+    "code": "LEC",
+    "constructor_id": "ferrari",
+    "p_pole": 0.12,
+    "p_win": 0.1369,
+    "p_top3": 0.41
+   },
+   {
+    "driver_id": "hamilton",
+    "code": "HAM",
+    "constructor_id": "ferrari",
+    "p_pole": 0.1033,
+    "p_win": 0.1143,
+    "p_top3": 0.3679
+   },
+   {
+    "driver_id": "norris",
+    "code": "NOR",
+    "constructor_id": "mclaren",
+    "p_pole": 0.0933,
+    "p_win": 0.1074,
+    "p_top3": 0.3478
+   },
+   {
+    "driver_id": "russell",
+    "code": "RUS",
+    "constructor_id": "mercedes",
+    "p_pole": 0.05,
+    "p_win": 0.0856,
+    "p_top3": 0.3329
+   },
+   {
+    "driver_id": "piastri",
+    "code": "PIA",
+    "constructor_id": "mclaren",
+    "p_pole": 0.06,
+    "p_win": 0.0633,
+    "p_top3": 0.2349
+   },
+   {
+    "driver_id": "hadjar",
+    "code": "HAD",
+    "constructor_id": "red_bull",
+    "p_pole": 0.0333,
+    "p_win": 0.0353,
+    "p_top3": 0.157
+   },
+   {
+    "driver_id": "lawson",
+    "code": "LAW",
+    "constructor_id": "rb",
+    "p_pole": 0.0033,
+    "p_win": 0.0064,
+    "p_top3": 0.0323
+   },
+   {
+    "driver_id": "arvid_lindblad",
+    "code": "LIN",
+    "constructor_id": "rb",
+    "p_pole": 0.0067,
+    "p_win": 0.005,
+    "p_top3": 0.0239
+   },
+   {
+    "driver_id": "gasly",
+    "code": "GAS",
+    "constructor_id": "alpine",
+    "p_pole": 0.0033,
+    "p_win": 0.0041,
+    "p_top3": 0.0221
+   },
+   {
+    "driver_id": "hulkenberg",
+    "code": "HUL",
+    "constructor_id": "audi",
+    "p_pole": 0.0,
+    "p_win": 0.0022,
+    "p_top3": 0.0119
+   },
+   {
+    "driver_id": "colapinto",
+    "code": "COL",
+    "constructor_id": "alpine",
+    "p_pole": 0.0,
+    "p_win": 0.0014,
+    "p_top3": 0.0081
+   },
+   {
+    "driver_id": "bortoleto",
+    "code": "BOR",
+    "constructor_id": "audi",
+    "p_pole": 0.0,
+    "p_win": 0.0013,
+    "p_top3": 0.0075
+   },
+   {
+    "driver_id": "bearman",
+    "code": "BEA",
+    "constructor_id": "haas",
+    "p_pole": 0.0,
+    "p_win": 0.0009,
+    "p_top3": 0.0051
+   },
+   {
+    "driver_id": "ocon",
+    "code": "OCO",
+    "constructor_id": "haas",
+    "p_pole": 0.0,
+    "p_win": 0.0007,
+    "p_top3": 0.0031
+   },
+   {
+    "driver_id": "sainz",
+    "code": "SAI",
+    "constructor_id": "williams",
+    "p_pole": 0.0,
+    "p_win": 0.0005,
+    "p_top3": 0.0021
+   },
+   {
+    "driver_id": "albon",
+    "code": "ALB",
+    "constructor_id": "williams",
+    "p_pole": 0.0,
+    "p_win": 0.0004,
+    "p_top3": 0.0015
+   },
+   {
+    "driver_id": "alonso",
+    "code": "ALO",
+    "constructor_id": "aston_martin",
+    "p_pole": 0.0,
+    "p_win": 0.0003,
+    "p_top3": 0.0016
+   },
+   {
+    "driver_id": "stroll",
+    "code": "STR",
+    "constructor_id": "aston_martin",
+    "p_pole": 0.0,
+    "p_win": 0.0001,
+    "p_top3": 0.0006
+   },
+   {
+    "driver_id": "perez",
+    "code": "PER",
+    "constructor_id": "cadillac",
+    "p_pole": 0.0,
+    "p_win": 0.0001,
+    "p_top3": 0.0005
+   },
+   {
+    "driver_id": "bottas",
+    "code": "BOT",
+    "constructor_id": "cadillac",
+    "p_pole": 0.0,
+    "p_win": 0.0,
+    "p_top3": 0.0005
+   }
+  ]
+ }
+}

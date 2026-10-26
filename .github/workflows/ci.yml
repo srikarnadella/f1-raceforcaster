@@ -1,0 +1,35 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt -r requirements-dev.txt
+      - name: Lint
+        run: ruff check src eval scripts app tests
+      - name: Type check
+        run: mypy
+      - name: Tests with coverage (leakage, models, gate, contracts, analytics)
+        run: python -m pytest -q --cov=f1 --cov=eval --cov-report=term --cov-report=xml --cov-fail-under=55
+      - name: Coverage summary
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import xml.etree.ElementTree as ET
+          r = ET.parse("coverage.xml").getroot()
+          print(f"### Test coverage: {float(r.get('line-rate')) * 100:.1f}% of lines")
+          PY

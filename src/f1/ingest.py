@@ -12,7 +12,7 @@ from __future__ import annotations
 import numpy as np
 import pandas as pd
 
-from . import jolpica
+from . import jolpica, schemas
 from .config import CALENDAR_CSV, FIRST_SEASON, RESULTS_DIR
 
 RESULT_COLS = [
@@ -172,6 +172,7 @@ def update(seasons: list[int] | None = None, current: int | None = None) -> dict
                 continue
             new = pd.concat([old[~old["round"].isin(grow)], new[new["round"].isin(grow)]], ignore_index=True)
             new = new.sort_values(["round", "position"], kind="stable")
+        schemas.validate(new, "results")
         new.to_csv(path, index=False)
         changed[season] = new["round"].nunique()
     if cal:
@@ -180,7 +181,9 @@ def update(seasons: list[int] | None = None, current: int | None = None) -> dict
             old = pd.read_csv(CALENDAR_CSV)
             old = old[~old["season"].isin(cdf["season"])]
             cdf = pd.concat([old, cdf], ignore_index=True)
-        cdf.sort_values(["season", "round"]).to_csv(CALENDAR_CSV, index=False)
+        cdf = cdf.sort_values(["season", "round"])
+        schemas.validate(cdf, "calendar")
+        cdf.to_csv(CALENDAR_CSV, index=False)
     return changed
 
 
@@ -213,10 +216,10 @@ def weekend_entry(season: int, rnd: int, ttl_hours: float = 0.5) -> pd.DataFrame
         raise jolpica.DataUnavailable(f"no qualifying yet for {season} R{rnd}")
     sprint = {}
     if ev["format"] == "sprint":
-        s = jolpica.fetch_races(f"{season}/{rnd}/sprint", "SprintResults", ttl_hours)
-        if not s or not s[0].get("SprintResults"):
+        pages = jolpica.fetch_races(f"{season}/{rnd}/sprint", "SprintResults", ttl_hours)
+        if not pages or not pages[0].get("SprintResults"):
             raise jolpica.DataUnavailable(f"no sprint result yet for {season} R{rnd}")
-        sprint = {r["Driver"]["driverId"]: r for r in s[0]["SprintResults"]}
+        sprint = {r["Driver"]["driverId"]: r for r in pages[0]["SprintResults"]}
     rows = []
     for qr in q[0]["QualifyingResults"]:
         did = qr["Driver"]["driverId"]

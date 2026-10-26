@@ -10,7 +10,7 @@ import copy
 import hashlib
 import json
 import subprocess
-from datetime import datetime, timezone
+from datetime import datetime, UTC
 
 from .config import RESULTS_DIR, REGISTRY, ROOT
 from .models import DEFAULT_SPEC
@@ -20,7 +20,7 @@ ROLLBACK_MARGIN = 0.02
 
 
 def now() -> str:
-    return datetime.now(timezone.utc).isoformat(timespec="seconds")
+    return datetime.now(UTC).isoformat(timespec="seconds")
 
 
 def git_commit() -> str:
@@ -31,9 +31,16 @@ def git_commit() -> str:
         return "uncommitted"
 
 
-def data_hash() -> str:
+def data_hash(analytics: bool = False) -> str:
+    """Fingerprint of the data a model was trained on: the result store, plus (when the
+    model reads them) the analytics tables the race simulator and practice features use."""
     h = hashlib.sha256()
-    for f in sorted(RESULTS_DIR.glob("*.csv")):
+    files = sorted(RESULTS_DIR.glob("*.csv"))
+    if analytics:
+        from .analytics.build import OUT
+        files += [OUT / f for f in ("profiles.csv", "weekend.csv", "overtakes_by_race.csv", "prerace_features.csv",
+                                    "one_lap.csv", "race_pace.csv") if (OUT / f).exists()]
+    for f in files:
         h.update(f.name.encode())
         h.update(f.read_bytes())
     return h.hexdigest()[:16]

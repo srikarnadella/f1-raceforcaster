@@ -9,7 +9,7 @@ and late entries never count as live accuracy.
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+from datetime import datetime, UTC
 
 import pandas as pd
 
@@ -56,7 +56,7 @@ def log_forecast(pred: pd.DataFrame, *, season: int, rnd: int, race_name: str, r
                  fmt: str, role: str, model_version: str, git_commit: str, data_hash: str,
                  feature_hash: str, allow_late: bool = False, now: datetime | None = None) -> dict | None:
     """Append a forecast. Returns the entry, or None if already logged."""
-    now = now or datetime.now(timezone.utc)
+    now = now or datetime.now(UTC)
     late = now >= race_utc.to_pydatetime()
     if late and not allow_late:
         raise LateForecast(f"{season} R{rnd}: race started at {race_utc}, now {now}")
@@ -76,7 +76,7 @@ def log_forecast(pred: pd.DataFrame, *, season: int, rnd: int, race_name: str, r
 def log_score(entry: dict, metrics: dict, baselines: dict) -> dict | None:
     rec = {"season": entry["season"], "round": entry["round"], "role": entry["role"],
            "model_version": entry["model_version"], "late": entry["late"], "logged_at": entry["logged_at"],
-           "scored_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+           "scored_at": datetime.now(UTC).isoformat(timespec="seconds"),
            "metrics": metrics, "baselines": baselines}
     if any(_key(s) == _key(rec) for s in read_scores()):
         return None
