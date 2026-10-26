@@ -1,0 +1,38 @@
+name: deploy-check
+
+# Streamlit Community Cloud redeploys the dashboard on every push to main.
+# This checks the live app answers afterwards (and daily, which also keeps it awake).
+# Set the repository variable STREAMLIT_APP_URL (Settings > Secrets and variables > Actions > Variables).
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "23 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Wait for the redeploy, then check the app responds
+        env:
+          URL: ${{ vars.STREAMLIT_APP_URL }}
+        run: |
+          if [ -z "$URL" ]; then
+            echo "::notice::STREAMLIT_APP_URL is not set yet; skipping the live check."
+            exit 0
+          fi
+          if [ "${{ github.event_name }}" = "push" ]; then sleep 180; fi
+          for i in $(seq 1 10); do
+            code=$(curl -sSL -o /dev/null -w "%{http_code}" --max-time 30 "$URL" || echo 000)
+            echo "attempt $i: HTTP $code"
+            if [ "$code" = "200" ]; then echo "### Dashboard is up: $URL" >> "$GITHUB_STEP_SUMMARY"; exit 0; fi
+            sleep 30
+          done
+          echo "::error::Dashboard at $URL did not answer 200"
+          exit 1

@@ -1,5 +1,7 @@
 # F1 Forecaster
 
+[![ci](https://github.com/srikarnadella/f1-raceforcaster/actions/workflows/ci.yml/badge.svg)](https://github.com/srikarnadella/f1-raceforcaster/actions/workflows/ci.yml)
+
 Forecasts F1 race winner, podium/top-10, finishing order and championship from practice, qualifying and sprint
 data, scores every forecast against reality, and analyses race pace, tyre wear and where each car and driver gains
 or loses time (2023 onward, via OpenF1). See `CLAUDE.md` for the full brief.
@@ -66,3 +68,13 @@ championship history. Raw API responses are cached in `.cache/`
 | Explainability | SHAP for the race-pace model and the 2026 confidence model |
 | Deep learning | PyTorch listwise ranker (`src/f1/analytics/torch_ranker.py`), optional backend of the neural challenger |
 | Pipeline | `src/f1/analytics/pipeline.py`: staged analytics build (circuits → eras → strategy → DNA → profiles → affinity → race pace → projection) |
+
+## Deployment
+
+- **Dashboard**: Streamlit Community Cloud, entrypoint `app/streamlit_app.py`, Python 3.12, dependencies from
+  `app/requirements.txt`. It redeploys on every push to `main` (including the bot's forecast and review commits).
+- **CI** (`ci.yml`): lint, type check, tests with coverage (including a render of every dashboard page) on push and PR.
+- **CD check** (`deploy-check.yml`): after each push and daily, confirms the live app answers (needs the repository
+  variable `STREAMLIT_APP_URL`).
+- **Scheduled pipeline** (`race-weekend.yml`, `backfill-laps.yml`): forecasts after qualifying, reviews after the race,
+  improvement cycle, data backfill. **Dependabot** opens weekly dependency updates.
