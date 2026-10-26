@@ -58,7 +58,7 @@ jobs:
 
       - name: Keep the MLflow tracking database
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: mlflow-tune-${{ github.run_id }}
           path: mlflow.db
