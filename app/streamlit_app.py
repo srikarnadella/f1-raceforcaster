@@ -7,6 +7,11 @@ import pandas as pd
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parents[1]
+try:  # installed package (pip install -e .) locally and in CI
+    import f1  # noqa: F401
+except ImportError:  # hosted dashboard (Streamlit Community Cloud) installs only app/requirements.txt
+    import sys
+    sys.path[:0] = [str(ROOT / "src"), str(ROOT)]
 
 from eval.metrics import calibration_table  # noqa: E402
 import analytics_pages as AP  # noqa: E402
