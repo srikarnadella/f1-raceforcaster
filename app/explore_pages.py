@@ -394,9 +394,11 @@ def eras_page():
     old_name = E.ERA_NAMES.get(f.get("old_era"), f.get("old_era"))
     finding = None
     if f.get("factor") == f.get("factor") and f.get("factor") is not None:
-        finding = (f"At the same tracks, the {rep['current_era_name']} produce {f['factor']:.2f}× the green-flag "
+        raw = f.get("raw_factor", f["factor"])
+        finding = (f"At the same tracks, the {rep['current_era_name']} produce {raw:.2f}× the green-flag "
                    f"passes per lap of the {old_name} cars (90% interval {f['lo']:.2f}–{f['hi']:.2f}, "
-                   f"{f['circuits']} tracks raced under both).")
+                   f"{f['circuits']} tracks raced under both). Predictions use a cautious {f['factor']:.2f}×, "
+                   "shrunk toward no change while few tracks have been raced under both.")
     ui.title("Regulation eras", finding, scope="Explore · each rule set measured separately, then scaled")
     labels = {"overtakes_per_lap": "Passes per lap", "pit_loss_s": "Pit-stop loss", "sc_rate": "SC / VSC per race",
               "race_deg": "Tyre wear", "avg_speed_kmh": "Lap speed"}
@@ -469,9 +471,11 @@ def eras_page():
                                    | {"Upcoming round": "{:.0f}"}, na_rep="–"), hide_index=True, width="stretch")
     v = rep.get("validation", {})
     if v.get("model", {}).get("n"):
-        ui.note(f"Walk-forward over {v['model']['n']} races under the current rules (each predicted from earlier races "
-                f"only): error {v['model']['mae_per_lap']:.3f} passes per lap, vs {v['last_visit']['mae_per_lap']:.3f} for "
-                f"'same as last visit' and {v['previous_era_only']['mae_per_lap']:.3f} for 'previous rules only'.")
+        ui.note(f"Walk-forward over the {v['model']['n']} races under the current rules where every method can predict "
+                f"(each from earlier races only): error {v['model']['mae_per_lap']:.3f} passes per lap for this estimate, "
+                f"{v['previous_era_only']['mae_per_lap']:.3f} for 'previous rules only' and "
+                f"{v['last_visit']['mae_per_lap']:.3f} for 'same as last visit'. Track-level passing under the new rules is "
+                "close to the previous era's; the era factor adds little at a single track.")
 
 
 # ------------------------------------------------------------------ 2026 season: predicting winners

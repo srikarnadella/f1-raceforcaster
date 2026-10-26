@@ -78,3 +78,40 @@ def test_correction_window(tmp_path, monkeypatch):
     assert ingest._corrected_rounds(2026, old, new, today=race_day + pd.Timedelta(days=2)) == [last]
     assert (tmp_path / "corrections.jsonl").read_text().count('"field": "points"') == 1
     assert ingest._corrected_rounds(2026, old, new, today=race_day + pd.Timedelta(days=30)) == []
+
+
+def test_calendar_takes_actual_session_times_from_openf1(monkeypatch):
+    """Jolpica's Las Vegas 2024 race time was a day early; OpenF1's actual start must win."""
+    import pandas as pd
+
+    from f1 import ingest, openf1
+    cal = pd.DataFrame({"season": [2024], "round": [22], "race_name": ["Las Vegas Grand Prix"],
+                        "circuit_id": ["vegas"], "format": ["conventional"],
+                        "fp1_utc": [pd.Timestamp("2024-11-21 02:30", tz="UTC")], "sprint_quali_utc": [pd.NaT],
+                        "sprint_utc": [pd.NaT], "quali_utc": [pd.Timestamp("2024-11-22 06:00", tz="UTC")],
+                        "race_utc": [pd.Timestamp("2024-11-23 06:00", tz="UTC")]})
+    sessions = [{"meeting_key": 7, "session_name": "Qualifying", "date_start": "2024-11-23T06:00:00+00:00"},
+                {"meeting_key": 7, "session_name": "Race", "date_start": "2024-11-24T06:00:00+00:00"}]
+    monkeypatch.setattr(openf1, "_get", lambda *a, **k: sessions)
+    monkeypatch.setattr(openf1, "meetings", lambda season, cal, **k: {22: 7})
+    out = ingest.reconcile_times(cal)
+    assert out["race_utc"].iat[0] == pd.Timestamp("2024-11-24 06:00", tz="UTC")
+    assert out["quali_utc"].iat[0] == pd.Timestamp("2024-11-23 06:00", tz="UTC")
+    assert out["fp1_utc"].iat[0] == pd.Timestamp("2024-11-21 02:30", tz="UTC")   # no OpenF1 value: kept
+    assert out["times_source"].iat[0] == "openf1"
+
+
+def test_calendar_keeps_jolpica_times_when_openf1_fails(monkeypatch):
+    import pandas as pd
+
+    from f1 import ingest, openf1
+    cal = pd.DataFrame({"season": [2026], "round": [19], "race_name": ["x"], "circuit_id": ["x"],
+                        "format": ["conventional"], "fp1_utc": [pd.NaT], "sprint_quali_utc": [pd.NaT],
+                        "sprint_utc": [pd.NaT], "quali_utc": [pd.NaT],
+                        "race_utc": [pd.Timestamp("2026-11-01 20:00", tz="UTC")]})
+
+    def boom(*a, **k):
+        raise openf1.LiveSession("live")
+    monkeypatch.setattr(openf1, "_get", boom)
+    out = ingest.reconcile_times(cal)
+    assert out["race_utc"].iat[0] == pd.Timestamp("2026-11-01 20:00", tz="UTC") and out["times_source"].iat[0] == "jolpica"

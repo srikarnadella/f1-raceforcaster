@@ -136,9 +136,12 @@ def validate(weekend: pd.DataFrame, penalty: float | None = None) -> tuple[pd.Da
     if v.empty:
         return v, {}
     v["actual_round"] = v["actual_stops"].round()
-    res = {"n": int(len(v)), "exact_model": round(float((v["pred_stops"] == v["actual_round"]).mean()), 3),
-           "mae_model": round(float((v["pred_stops"] - v["actual_stops"]).abs().mean()), 3)}
+    # both methods scored on the same races: those with an earlier dry visit to copy
     ok = v["last_visit_stops"].notna()
-    res["exact_last_visit"] = round(float((v.loc[ok, "last_visit_stops"].round() == v.loc[ok, "actual_round"]).mean()), 3)
-    res["mae_last_visit"] = round(float((v.loc[ok, "last_visit_stops"] - v.loc[ok, "actual_stops"]).abs().mean()), 3)
+    c = v[ok]
+    res = {"n": int(ok.sum()),
+           "exact_model": round(float((c["pred_stops"] == c["actual_round"]).mean()), 3),
+           "mae_model": round(float((c["pred_stops"] - c["actual_stops"]).abs().mean()), 3),
+           "exact_last_visit": round(float((c["last_visit_stops"].round() == c["actual_round"]).mean()), 3),
+           "mae_last_visit": round(float((c["last_visit_stops"] - c["actual_stops"]).abs().mean()), 3)}
     return v, res

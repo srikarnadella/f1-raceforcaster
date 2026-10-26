@@ -292,15 +292,15 @@ season,round,driver_id,code,constructor_id,quali_gap_pct,race_pace_gap_pct,pred
 2024,17,albon,ALB,williams,1.455,0.9702,1.624
 2024,17,alonso,ALO,aston_martin,0.9905,1.025,1.258
 2024,17,bearman,BEA,haas,1.581,0.9966,1.687
-2024,17,bottas,BOT,sauber,2.223,1.926,2.411
+2024,17,bottas,BOT,sauber,2.223,1.926,2.415
 2024,17,colapinto,COL,williams,1.093,1.111,1.496
-2024,17,gasly,GAS,alpine,1.7,1.253,2.103
+2024,17,gasly,GAS,alpine,1.7,1.253,2.107
 2024,17,hamilton,HAM,mercedes,0.9116,0.5623,0.8761
 2024,17,hulkenberg,HUL,haas,1.713,1.092,1.914
 2024,17,leclerc,LEC,ferrari,0,0,0.2467
 2024,17,max_verstappen,VER,red_bull,0.6491,0.3573,0.576
 2024,17,norris,NOR,mclaren,2.214,0.3127,0.8661
-2024,17,ocon,OCO,alpine,3.097,1.696,2.399
+2024,17,ocon,OCO,alpine,3.097,1.696,2.403
 2024,17,perez,PER,red_bull,0.442,0.2518,0.3712
 2024,17,piastri,PIA,mclaren,0.3167,0.395,0
 2024,17,ricciardo,RIC,rb,2.153,1.341,2.026
@@ -308,7 +308,7 @@ season,round,driver_id,code,constructor_id,quali_gap_pct,race_pace_gap_pct,pred
 2024,17,sainz,SAI,ferrari,0.4341,0.2302,0.4145
 2024,17,stroll,STR,aston_martin,1.978,1.347,1.643
 2024,17,tsunoda,TSU,rb,1.648,2.904,1.975
-2024,17,zhou,ZHO,sauber,2.842,1.83,2.319
+2024,17,zhou,ZHO,sauber,2.842,1.83,2.323
 2024,18,alonso,ALO,aston_martin,0.7696,1.523,1.401
 2024,18,bottas,BOT,sauber,2.287,2.594,2.038
 2024,18,colapinto,COL,williams,1.068,1.438,1.37

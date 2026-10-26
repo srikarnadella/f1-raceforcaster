@@ -50,7 +50,8 @@
     "metric": "per_lap",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 1.134440340667793,
+    "factor": 1.08071652385945,
+    "raw_factor": 1.134440340667793,
     "lo": 0.996704683051836,
     "hi": 1.2946828622816147,
     "circuits": 16
@@ -59,7 +60,8 @@
     "metric": "pit_loss_s",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 1.0717014269408676,
+    "factor": 1.0435348547442649,
+    "raw_factor": 1.0717014269408676,
     "lo": 1.020815405125614,
     "hi": 1.1270399078402153,
     "circuits": 16
@@ -68,7 +70,8 @@
     "metric": "sc_rate",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 1.3895966210419697,
+    "factor": 1.131314311234732,
+    "raw_factor": 1.3895966210419697,
     "lo": 0.8434326653017492,
     "hi": 2.4068519496707266,
     "circuits": 6
@@ -77,16 +80,18 @@
     "metric": "avg_speed_kmh",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 0.9809989256090703,
+    "factor": 0.9882639254173147,
+    "raw_factor": 0.9809989256090703,
     "lo": 0.9719562869820615,
-    "hi": 0.9893502810556116,
+    "hi": 0.9893502810556117,
     "circuits": 16
    },
    "race_deg": {
     "metric": "race_deg",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 0.9412156100399623,
+    "factor": 0.9663370562270761,
+    "raw_factor": 0.9412156100399622,
     "lo": 0.7264150201676317,
     "hi": 1.2219899284840758,
     "circuits": 13
@@ -95,7 +100,8 @@
     "metric": "race_deg_soft",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 0.7732912862408764,
+    "factor": 0.8793698233626603,
+    "raw_factor": 0.7732912862408764,
     "lo": 0.47054333965208817,
     "hi": 1.2446482725948647,
     "circuits": 10
@@ -104,7 +110,8 @@
     "metric": "race_deg_medium",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 0.8510231844119969,
+    "factor": 0.9128547005163884,
+    "raw_factor": 0.851023184411997,
     "lo": 0.6447506883208542,
     "hi": 1.1229551985834658,
     "circuits": 13
@@ -113,7 +120,8 @@
     "metric": "race_deg_hard",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 0.87741497213391,
+    "factor": 0.9367043141428942,
+    "raw_factor": 0.87741497213391,
     "lo": 0.6416082168309929,
     "hi": 1.1874397221734188,
     "circuits": 10
@@ -135,8 +143,8 @@
   },
   "validation": {
    "model": {
-    "mae_per_lap": 0.176,
-    "n": 18
+    "mae_per_lap": 0.166,
+    "n": 16
    },
    "last_visit": {
     "mae_per_lap": 0.26,
@@ -145,13 +153,17 @@
    "previous_era_only": {
     "mae_per_lap": 0.168,
     "n": 16
+   },
+   "model_all_races": {
+    "mae_per_lap": 0.168,
+    "n": 18
    }
   }
  },
  "strategy": {
-  "n": 49,
-  "exact_model": 0.531,
-  "mae_model": 0.592,
+  "n": 44,
+  "exact_model": 0.591,
+  "mae_model": 0.523,
   "exact_last_visit": 0.455,
   "mae_last_visit": 0.602
  },
@@ -212,16 +224,16 @@
   },
   "races": 65,
   "shap_mean_abs": {
-   "fp_longrun_gap": 0.05417096367923776,
-   "is_sprint": 0.019098833041830306,
-   "quali_gap_pct": 0.2941901634564648,
-   "race_track_temp": 0.04136408955503599,
-   "share_fast": 0.03974829363579591,
-   "share_slow": 0.05684442587504379,
-   "share_straight": 0.05316939553260913,
-   "team_deg_prior": 0.03497537292857668,
-   "team_racepace_prior": 0.3997902858666733,
-   "team_rmq_prior": 0.017892849599293423
+   "fp_longrun_gap": 0.05417096367933273,
+   "is_sprint": 0.019098833040646513,
+   "quali_gap_pct": 0.29419016345680743,
+   "race_track_temp": 0.041364089554842054,
+   "share_fast": 0.039748293635600576,
+   "share_slow": 0.056844425875839426,
+   "share_straight": 0.05316939553224642,
+   "team_deg_prior": 0.034975372929329805,
+   "team_racepace_prior": 0.3997902858663832,
+   "team_rmq_prior": 0.017892849599182057
   }
  }
 }

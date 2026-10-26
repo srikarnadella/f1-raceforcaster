@@ -133,9 +133,14 @@ def test_era_factor_and_current_estimates():
         if c != "d":  # d not yet raced under the new rules
             rows.append({"circuit_id": c, "era": 2026, "per_lap": base * 1.5})
     df = pd.DataFrame(rows)
-    f = E.era_factor(df, "per_lap", 2026, 2022)
+    f = E.era_factor(df, "per_lap", 2026, 2022, shrink=0)
     assert abs(f["factor"] - 1.5) < 1e-9 and f["circuits"] == 3
+    shrunk = E.era_factor(df, "per_lap", 2026, 2022)
+    assert 1.0 < shrunk["factor"] < 1.5 and abs(shrunk["raw_factor"] - 1.5) < 1e-9   # few circuits: pulled toward 1
+    monkey = E.FACTOR_SHRINK
+    E.FACTOR_SHRINK = 0.0
     est = E.current_estimates(df, "per_lap", 2026)
+    E.FACTOR_SHRINK = monkey
     assert abs(est.loc["d", "estimate"] - 0.6 * 1.5) < 1e-9          # unseen: previous era x factor
     assert abs(est.loc["a", "estimate"] - 0.6) < 1e-9                # seen: own value (prior agrees)
     assert est.loc["d", "current_era_races"] == 0

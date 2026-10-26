@@ -247,16 +247,24 @@ def _team_projection(c: Context, proj: dict, p: pd.Series, s: int, r: int):
                          **{f"z_{k}": float(row.get(f"z_{k}", np.nan)) for k in ZONE_CLASSES}}
                         for _, row in dna.iterrows()])
     tdf["blend_vs_median"] = 0.5 * tdf["dna_vs_median"] + 0.5 * tdf["form_vs_median"]
-    for col in ["dna_vs_median", "blend_vs_median"]:
+    for col in ["dna_vs_median", "blend_vs_median", "form_vs_median"]:
         tdf[col.replace("vs_median", "gap")] = tdf[col] - tdf[col].min()
-    proj["teams"] = tdf.sort_values("blend_gap").to_dict("records")
+    # use whichever projection has the lowest walk-forward error (DNA alone, blend, or recent form alone)
+    names = {"proj_gap": "dna_gap", "blend_gap": "blend_gap", "season_avg_gap": "form_gap"}
+    scored = {k: v["mae_pct"] for k, v in c.dna_check.items() if k in names}
+    best = min(scored, key=lambda k: scored[k]) if scored else "blend_gap"
+    tdf["projected_gap"] = tdf[names[best]]
+    proj["team_method"] = {"used": {"proj_gap": "team strengths x circuit (DNA)", "blend_gap": "50/50 DNA and recent form",
+                                    "season_avg_gap": "recent qualifying form"}[best],
+                           "walk_forward_mae_pct": {names[k]: v for k, v in scored.items()}}
+    proj["teams"] = tdf.sort_values("projected_gap").to_dict("records")
     # pre-weekend win probabilities: Monte Carlo over qualifying + champion race model
-    mae = c.dna_check.get("blend_gap", {}).get("mae_pct", 0.5)
+    mae = scored.get(best, 0.5)
     dd = c.driver_dna
     dds = dd[dd["season"] == s] if len(dd) and s in set(dd["season"]) else pd.DataFrame()
     split = dds.set_index("driver_id")["tm_quali_pct"] if len(dds) else pd.Series(dtype=float)
     reg = registry.ensure_initialized()
-    pw = preweekend.simulate(s, r, tdf.rename(columns={"blend_gap": "gap_pct"}), split, 1.25 * mae,
+    pw = preweekend.simulate(s, r, tdf.rename(columns={"projected_gap": "gap_pct"}), split, 1.25 * mae,
                              registry.champion_spec(reg), results=res)
     proj["preweekend"] = {"model_version": reg["champion"], **pw.attrs, "drivers": pw.round(4).to_dict("records")}
 

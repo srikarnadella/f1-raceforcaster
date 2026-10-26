@@ -16,8 +16,10 @@ Eras (config.ERA_STARTS): 2014-16, 2017-21, 2022-25 (ground effect), 2026-.
    corners, top speed, braking) plus an era term, so it can predict a circuit
    the current rules have not raced yet.
 4. Current-era estimate per circuit and metric: the circuit's own current-era
-   mean when it exists, shrunk toward (its previous-era mean x era factor) and,
-   for overtakes, the profile model; otherwise those two alone.
+   mean when it exists, shrunk toward its previous-era mean x era factor; with
+   no current-era race, the scaled previous-era mean; with no history at all,
+   the track-layout model (it is worse than a circuit's own record, so it only
+   fills the gaps: walk-forward check on 2026).
 5. Walk-forward check over the current era's races: each race predicted from
    everything before it, against "same as last visit" and "previous era only".
 """
@@ -51,8 +53,13 @@ def count_overtakes(laps: pd.DataFrame) -> dict:
             "green_laps": int(l.loc[l["category"].isin(["clean", "traffic", "slow"]), "lap"].nunique())}
 
 
+OVERTAKE_METHOD = "count_passes-v1"  # bump when the pass definition or lap classes change
+
+
 def overtakes_table(results: pd.DataFrame, cache: pd.DataFrame | None = None) -> pd.DataFrame:
     """One row per race with stored laps: season, round, circuit_id, era, overtakes, per lap."""
+    if cache is not None and ("method" not in cache or (cache["method"] != OVERTAKE_METHOD).any()):
+        cache = None  # counted by an older definition: recount everything
     done = set(zip(cache["season"], cache["round"])) if cache is not None and len(cache) else set()
     circ = results.drop_duplicates(["season", "round"]).set_index(["season", "round"])["circuit_id"]
     rows = [] if cache is None else cache.to_dict("records")
@@ -66,7 +73,8 @@ def overtakes_table(results: pd.DataFrame, cache: pd.DataFrame | None = None) ->
             o = count_overtakes(pd.read_csv(p))
         except Exception:
             continue
-        rows.append({"season": s, "round": r, "circuit_id": circ[(s, r)], "era": era_of(s), **o})
+        rows.append({"season": s, "round": r, "circuit_id": circ[(s, r)], "era": era_of(s), **o,
+                     "method": OVERTAKE_METHOD})
     t = pd.DataFrame(rows)
     if len(t):
         t["per_lap"] = t["overtakes"] / t["race_laps"].clip(lower=1)
@@ -76,7 +84,11 @@ def overtakes_table(results: pd.DataFrame, cache: pd.DataFrame | None = None) ->
 
 # ------------------------------------------------------------------ era factors
 
-def era_factor(df: pd.DataFrame, metric: str, new: int, old: int, n_boot: int = 2000, seed: int = 0) -> dict:
+FACTOR_SHRINK = 10.0  # pseudo-circuits of "no change" (factor 1) the measured factor is shrunk toward
+
+
+def era_factor(df: pd.DataFrame, metric: str, new: int, old: int, n_boot: int = 2000, seed: int = 0,
+               shrink: float | None = None) -> dict:
     """Geometric-mean ratio of a circuit metric between two eras over circuits raced in both."""
     a = df[df["era"] == new].groupby("circuit_id")[metric].mean()
     b = df[df["era"] == old].groupby("circuit_id")[metric].mean()
@@ -88,7 +100,11 @@ def era_factor(df: pd.DataFrame, metric: str, new: int, old: int, n_boot: int = 
     lr = np.log(j["new"] / j["old"]).to_numpy()
     rng = np.random.default_rng(seed)
     boot = np.exp(lr[rng.integers(0, len(lr), (n_boot, len(lr)))].mean(1))
-    return {"metric": metric, "new_era": new, "old_era": old, "factor": float(np.exp(lr.mean())),
+    # shrink toward "the new rules change nothing" while few circuits have been raced under both:
+    # three early races once said 1.5x and over-scaled every track (walk-forward 2026)
+    k = FACTOR_SHRINK if shrink is None else shrink
+    return {"metric": metric, "new_era": new, "old_era": old,
+            "factor": float(np.exp(lr.sum() / (len(lr) + k))), "raw_factor": float(np.exp(lr.mean())),
             "lo": float(np.percentile(boot, 5)), "hi": float(np.percentile(boot, 95)), "circuits": int(len(j)),
             "per_circuit": {c: float(v) for c, v in (j["new"] / j["old"]).items()}}
 
@@ -136,15 +152,20 @@ def current_estimates(df: pd.DataFrame, metric: str, era: int, prior: pd.Series 
     rows = []
     for c in idx:
         scaled = prev.get(c, np.nan) * f["factor"] if pd.notna(f["factor"]) else np.nan
-        pr = [v for v in (scaled, prior.get(c, np.nan) if prior is not None else np.nan) if pd.notna(v)]
-        p0 = float(np.mean(pr)) if pr else np.nan
+        if pd.isna(scaled) and pd.notna(prev.get(c, np.nan)):
+            scaled = prev.get(c)   # no era factor yet (first races of an era): the previous era as is
+        # the circuit's own previous-era record wins; the layout model only fills circuits with no history
+        # (walk-forward 2026: averaging the two was worse than the scaled record alone)
+        layout = prior.get(c, np.nan) if prior is not None else np.nan
+        p0 = scaled if pd.notna(scaled) else layout
         if c in cur.index and cur.loc[c, "count"] > 0:
             n, m = cur.loc[c, "count"], cur.loc[c, "mean"]
             est = (n * m + SHRINK * p0) / (n + SHRINK) if pd.notna(p0) else m
             how = f"{int(n)} race(s) under these rules" + (", shrunk toward the scaled prior" if pd.notna(p0) else "")
         else:
             est = p0
-            how = "previous era × era factor" + (" and track-profile model" if len(pr) == 2 else "") if pr else "no data"
+            how = ("previous era × era factor" if pd.notna(scaled) else
+                   "track-layout model (no earlier visit)" if pd.notna(layout) else "no data")
         rows.append({"circuit_id": c, "estimate": est, "current_era_mean": cur["mean"].get(c, np.nan),
                      "current_era_races": int(cur["count"].get(c, 0)), "previous_era_mean": prev.get(c, np.nan),
                      "scaled_previous": scaled, "profile_model": prior.get(c, np.nan) if prior is not None else np.nan,
@@ -172,9 +193,15 @@ def validate(ov: pd.DataFrame, layout: pd.DataFrame, era: int) -> tuple[pd.DataF
                      "previous_era_only": prev_era[prev_era["era"] == prev_era["era"].max()]["per_lap"].mean()
                      if len(prev_era) else np.nan})
     v = pd.DataFrame(rows)
-    res = {}
+    res: dict = {}
+    if v.empty:
+        return v, res
+    # every method scored on the same races (those where all three can predict), plus the model on all
+    common = v[["model", "last_visit", "previous_era_only", "actual"]].notna().all(axis=1)
     for k in ("model", "last_visit", "previous_era_only"):
-        ok = v[k].notna() & v["actual"].notna() if len(v) else pd.Series(dtype=bool)
-        res[k] = {"mae_per_lap": round(float((v.loc[ok, k] - v.loc[ok, "actual"]).abs().mean()), 3) if ok.any() else None,
-                  "n": int(ok.sum()) if len(v) else 0}
+        res[k] = {"mae_per_lap": round(float((v.loc[common, k] - v.loc[common, "actual"]).abs().mean()), 3),
+                  "n": int(common.sum())}
+    ok = v["model"].notna() & v["actual"].notna()
+    res["model_all_races"] = {"mae_per_lap": round(float((v.loc[ok, "model"] - v.loc[ok, "actual"]).abs().mean()), 3),
+                              "n": int(ok.sum())}
     return v, res

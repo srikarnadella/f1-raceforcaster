@@ -1,157 +1,157 @@
 stops,plan,pace_time_s,time_s,delta_s,pace_only_delta_s,circuit_id,race_name
-1,S46 → M11,49.4,53.69,0,0,albert_park,Australian Grand Prix
-1,S47 → H10,50.72,55.01,1.328,1.328,albert_park,Australian Grand Prix
-2,S26 → S26 → M5,60.92,69.5,15.81,11.52,albert_park,Australian Grand Prix
-2,S26 → S26 → H5,61.71,70.29,16.61,12.32,albert_park,Australian Grand Prix
-2,S41 → M8 → M8,70.35,78.93,25.24,20.95,albert_park,Australian Grand Prix
-1,M27 → H30,79.85,84.14,30.45,30.45,albert_park,Australian Grand Prix
-1,M30 → H26,86.92,87.35,0,0,americas,United States Grand Prix
-1,S21 → M35,87.79,88.22,0.8726,0.8726,americas,United States Grand Prix
-2,S14 → M21 → M21,89.79,90.66,3.305,2.87,americas,United States Grand Prix
-2,M20 → M21 → H15,92.21,93.08,5.729,5.294,americas,United States Grand Prix
-2,S15 → S16 → M25,94.12,94.99,7.635,7.2,americas,United States Grand Prix
-1,S23 → H33,97.85,98.28,10.93,10.93,americas,United States Grand Prix
-1,S28 → H29,121.1,124,0,1.865,bahrain,Bahrain Grand Prix
-2,S19 → S20 → H18,119.2,125.1,1.07,0,bahrain,Bahrain Grand Prix
-2,S21 → S21 → M15,122.7,128.6,4.603,3.533,bahrain,Bahrain Grand Prix
-2,S20 → H18 → H19,124.7,130.6,6.586,5.516,bahrain,Bahrain Grand Prix
-1,S32 → M25,131,134,9.966,11.83,bahrain,Bahrain Grand Prix
-1,M24 → H33,136.8,139.7,15.7,17.57,bahrain,Bahrain Grand Prix
-1,S40 → M11,47.48,48.82,0,0,baku,Azerbaijan Grand Prix
-1,S46 → H5,50.73,52.07,3.254,3.254,baku,Azerbaijan Grand Prix
-2,S23 → S23 → M5,63.7,66.38,17.57,16.23,baku,Azerbaijan Grand Prix
-2,S23 → S23 → H5,65.82,68.49,19.68,18.34,baku,Azerbaijan Grand Prix
-2,S34 → M8 → M9,71,73.68,24.86,23.52,baku,Azerbaijan Grand Prix
-1,M27 → H24,75.37,76.71,27.89,27.89,baku,Azerbaijan Grand Prix
-2,S22 → H22 → H22,105.3,112.3,0,0,catalunya,Barcelona Grand Prix
-1,S33 → H33,109.5,113,0.7162,4.19,catalunya,Barcelona Grand Prix
-2,S22 → S22 → H22,107.1,114.1,1.794,1.794,catalunya,Barcelona Grand Prix
-2,M18 → H24 → H24,110.5,117.5,5.19,5.19,catalunya,Barcelona Grand Prix
-1,M29 → H37,121.8,125.3,13.01,16.48,catalunya,Barcelona Grand Prix
-3,S15 → H17 → H17 → H17,115.7,126.2,13.89,10.42,catalunya,Barcelona Grand Prix
-2,S22 → S23 → M25,121.5,130.8,0,0,hungaroring,Hungarian Grand Prix
-1,S31 → M39,127.6,132.3,1.488,6.137,hungaroring,Hungarian Grand Prix
-2,S23 → S24 → H23,124,133.3,2.512,2.512,hungaroring,Hungarian Grand Prix
-2,S22 → M24 → M24,125.1,134.4,3.615,3.615,hungaroring,Hungarian Grand Prix
-1,M38 → H32,133.3,137.9,7.093,11.74,hungaroring,Hungarian Grand Prix
-1,S34 → H36,134,138.7,7.89,12.54,hungaroring,Hungarian Grand Prix
-1,M32 → H31,89.12,92.72,0,0,imola,Emilia Romagna Grand Prix
-1,S20 → H43,103.9,107.5,14.78,14.78,imola,Emilia Romagna Grand Prix
-1,S20 → M43,103.9,107.5,14.78,14.78,imola,Emilia Romagna Grand Prix
-2,M21 → H21 → H21,104.7,111.9,19.22,15.62,imola,Emilia Romagna Grand Prix
-2,M21 → M21 → H21,105,112.2,19.49,15.89,imola,Emilia Romagna Grand Prix
-2,S13 → H25 → H25,109.8,117,24.25,20.65,imola,Emilia Romagna Grand Prix
-1,M36 → H34,99.29,101.7,0,0,interlagos,São Paulo Grand Prix
-1,S30 → M40,102.4,104.8,3.107,3.107,interlagos,São Paulo Grand Prix
-2,S19 → M25 → M26,102.3,107.1,5.394,2.992,interlagos,São Paulo Grand Prix
-2,M24 → M24 → H22,103.3,108.1,6.432,4.03,interlagos,São Paulo Grand Prix
-1,S30 → H40,108.7,111.1,9.391,9.391,interlagos,São Paulo Grand Prix
-2,S21 → S21 → M28,106.8,111.6,9.91,7.508,interlagos,São Paulo Grand Prix
-1,M27 → H23,66.99,67.98,0,0,jeddah,Saudi Arabian Grand Prix
-1,S18 → M32,67.3,68.29,0.3123,0.3123,jeddah,Saudi Arabian Grand Prix
-1,S18 → H32,72.56,73.56,5.574,5.574,jeddah,Saudi Arabian Grand Prix
-2,S12 → M19 → M19,78.33,80.32,12.34,11.34,jeddah,Saudi Arabian Grand Prix
-2,S13 → S14 → M23,80.21,82.19,14.21,13.22,jeddah,Saudi Arabian Grand Prix
-2,M18 → M18 → H14,80.68,82.66,14.68,13.69,jeddah,Saudi Arabian Grand Prix
-1,M26 → H31,73.74,77.31,0,0,losail,Qatar Grand Prix
-1,S11 → H46,82.72,86.29,8.981,8.981,losail,Qatar Grand Prix
-1,S12 → M45,88.96,92.54,15.23,15.23,losail,Qatar Grand Prix
-2,M16 → H20 → H21,96.42,103.6,26.26,22.69,losail,Qatar Grand Prix
-2,S7 → H25 → H25,98.36,105.5,28.19,24.62,losail,Qatar Grand Prix
-2,M17 → M18 → H22,98.71,105.9,28.54,24.97,losail,Qatar Grand Prix
-1,S14 → H43,59.57,63.93,0,0,madring,Spanish Grand Prix
-1,M15 → H42,60.48,64.84,0.9106,0.9106,madring,Spanish Grand Prix
-2,S8 → H24 → H25,71.79,80.52,16.59,12.23,madring,Spanish Grand Prix
-2,M7 → H25 → H25,72.8,81.52,17.59,13.23,madring,Spanish Grand Prix
-2,S11 → S12 → H34,79.38,88.1,24.17,19.81,madring,Spanish Grand Prix
-1,S26 → M31,88.88,93.25,29.32,29.32,madring,Spanish Grand Prix
-1,S34 → M28,77.47,82.77,0,0,marina_bay,Singapore Grand Prix
-1,S36 → H26,82.9,88.2,5.432,5.432,marina_bay,Singapore Grand Prix
-1,M33 → H29,89.12,94.42,11.64,11.64,marina_bay,Singapore Grand Prix
-2,S22 → S22 → M18,88.11,98.71,15.94,10.64,marina_bay,Singapore Grand Prix
-2,S24 → M19 → M19,90.98,101.6,18.81,13.51,marina_bay,Singapore Grand Prix
-2,S23 → S24 → H15,91.51,102.1,19.34,14.03,marina_bay,Singapore Grand Prix
-1,S29 → H28,59.91,59.91,0,0,miami,Miami Grand Prix
-1,S29 → M28,60.06,60.06,0.1459,0.1459,miami,Miami Grand Prix
-1,M29 → H28,65.47,65.47,5.557,5.557,miami,Miami Grand Prix
-2,S20 → S21 → H16,69.38,69.38,9.465,9.465,miami,Miami Grand Prix
-2,S20 → S21 → M16,69.68,69.68,9.766,9.766,miami,Miami Grand Prix
-2,S22 → H17 → H18,73.75,73.75,13.84,13.84,miami,Miami Grand Prix
-1,M39 → H39,96.78,106.9,0,0,monaco,Monaco Grand Prix
-1,S31 → H47,103.7,113.8,6.916,6.916,monaco,Monaco Grand Prix
-1,S31 → M47,105.3,115.5,8.56,8.56,monaco,Monaco Grand Prix
-2,M26 → H26 → H26,100.3,120.5,13.61,3.474,monaco,Monaco Grand Prix
-2,S20 → H29 → H29,100.9,121.2,14.28,4.142,monaco,Monaco Grand Prix
-2,M26 → M26 → H26,102,122.3,15.34,5.207,monaco,Monaco Grand Prix
-1,S23 → H29,67.3,67.3,0,0,monza,Italian Grand Prix
-1,S24 → M28,67.65,67.65,0.3504,0.3504,monza,Italian Grand Prix
-1,M25 → H27,69.43,69.43,2.133,2.133,monza,Italian Grand Prix
-2,S17 → S17 → M18,87.45,87.45,20.16,20.16,monza,Italian Grand Prix
-2,S17 → S17 → H18,87.64,87.64,20.34,20.34,monza,Italian Grand Prix
-2,S17 → M17 → M18,90.06,90.06,22.76,22.76,monza,Italian Grand Prix
-1,M33 → H37,96.94,101.2,0,0,red_bull_ring,Austrian Grand Prix
-1,S31 → H39,99.96,104.2,3.017,3.017,red_bull_ring,Austrian Grand Prix
-2,M22 → M23 → H25,97.04,105.5,4.326,0.0946,red_bull_ring,Austrian Grand Prix
-2,M22 → H24 → H24,97.47,105.9,4.761,0.5298,red_bull_ring,Austrian Grand Prix
-1,S34 → M36,102.4,106.7,5.485,5.485,red_bull_ring,Austrian Grand Prix
-2,S22 → M24 → M24,98.37,106.8,5.658,1.427,red_bull_ring,Austrian Grand Prix
-1,M34 → H37,125.2,125.6,0,0,rodriguez,Mexico City Grand Prix
-2,S16 → M27 → M28,127.9,128.7,3.113,2.736,rodriguez,Mexico City Grand Prix
-2,M24 → M24 → H23,130.1,130.8,5.263,4.886,rodriguez,Mexico City Grand Prix
-2,S16 → M27 → H28,134.5,135.2,9.639,9.262,rodriguez,Mexico City Grand Prix
-1,S24 → M47,135.2,135.5,9.949,9.949,rodriguez,Mexico City Grand Prix
-1,S22 → H49,137.8,138.2,12.58,12.58,rodriguez,Mexico City Grand Prix
-1,S25 → M30,86.36,87.83,0,0,sepang,Bahrain Grand Prix in Malaysia
-1,M28 → H27,92.27,93.74,5.918,5.918,sepang,Bahrain Grand Prix in Malaysia
-1,S25 → H30,92.46,93.93,6.104,6.104,sepang,Bahrain Grand Prix in Malaysia
-2,S17 → S18 → M20,96.26,99.19,11.37,9.899,sepang,Bahrain Grand Prix in Malaysia
-2,S17 → M19 → M19,98.09,101,13.2,11.73,sepang,Bahrain Grand Prix in Malaysia
-2,S18 → S19 → H18,101.1,104,16.2,14.74,sepang,Bahrain Grand Prix in Malaysia
-1,S20 → H36,104.3,104.3,0,0,shanghai,Chinese Grand Prix
-1,M20 → H36,107.3,107.3,2.978,2.978,shanghai,Chinese Grand Prix
-2,S14 → H21 → H21,115.8,115.8,11.55,11.55,shanghai,Chinese Grand Prix
-2,S15 → S16 → H25,116.7,116.7,12.39,12.39,shanghai,Chinese Grand Prix
-2,M13 → H21 → H22,118.3,118.3,14.03,14.03,shanghai,Chinese Grand Prix
-1,S28 → M28,122.3,122.3,18.01,18.01,shanghai,Chinese Grand Prix
-1,M25 → H27,63.64,67.39,0,0,silverstone,British Grand Prix
-1,S16 → H36,70.11,73.86,6.465,6.465,silverstone,British Grand Prix
-1,S18 → M34,70.37,74.12,6.727,6.727,silverstone,British Grand Prix
-2,M17 → M17 → H18,79.62,87.12,19.73,15.98,silverstone,British Grand Prix
-2,S11 → M20 → M21,80.69,88.19,20.8,17.05,silverstone,British Grand Prix
-2,M17 → H17 → H18,81.14,88.64,21.24,17.49,silverstone,British Grand Prix
-1,S24 → H20,70.29,70.29,0,0,spa,Belgian Grand Prix
-1,S29 → M15,74.34,74.34,4.048,4.048,spa,Belgian Grand Prix
-2,S17 → S18 → H9,77.6,77.6,7.313,7.313,spa,Belgian Grand Prix
-2,S18 → S19 → M7,77.99,77.99,7.704,7.704,spa,Belgian Grand Prix
-2,S20 → H12 → H12,87.1,87.1,16.81,16.81,spa,Belgian Grand Prix
-1,M16 → H28,87.78,87.78,17.49,17.49,spa,Belgian Grand Prix
-1,M25 → H28,90.8,93.92,0,0,suzuka,Japanese Grand Prix
-1,S23 → M30,92.92,96.04,2.117,2.117,suzuka,Japanese Grand Prix
-1,S22 → H31,93.37,96.49,2.57,2.57,suzuka,Japanese Grand Prix
-2,S15 → M19 → M19,99.82,106.1,12.14,9.021,suzuka,Japanese Grand Prix
-2,S16 → S17 → M20,100,106.3,12.35,9.229,suzuka,Japanese Grand Prix
-2,S15 → M19 → H19,101.5,107.7,13.8,10.68,suzuka,Japanese Grand Prix
-1,M18 → H32,69.28,69.28,0,0,vegas,Las Vegas Grand Prix
-1,S14 → H36,71.16,71.16,1.878,1.878,vegas,Las Vegas Grand Prix
-1,S20 → M30,84.18,84.18,14.9,14.9,vegas,Las Vegas Grand Prix
-2,S9 → H20 → H21,84.84,84.84,15.57,15.57,vegas,Las Vegas Grand Prix
-2,M12 → H19 → H19,85,85,15.73,15.73,vegas,Las Vegas Grand Prix
-2,M13 → M14 → H23,87.92,87.92,18.64,18.64,vegas,Las Vegas Grand Prix
-1,S57 → M12,40.9,44.6,0,0,villeneuve,Canadian Grand Prix
-1,S64 → H5,42.4,46.1,1.502,1.502,villeneuve,Canadian Grand Prix
-2,S32 → S32 → M5,59.91,67.31,22.72,19.02,villeneuve,Canadian Grand Prix
-1,M37 → H32,64.57,68.27,23.68,23.68,villeneuve,Canadian Grand Prix
-2,S32 → S32 → H5,60.87,68.28,23.68,19.98,villeneuve,Canadian Grand Prix
-2,S51 → M9 → M9,65.64,73.04,28.45,24.74,villeneuve,Canadian Grand Prix
-1,M26 → H32,107.4,107.4,0,0,yas_marina,Abu Dhabi Grand Prix
-1,S21 → H37,111.8,111.8,4.427,4.427,yas_marina,Abu Dhabi Grand Prix
-1,S23 → M35,115.5,115.5,8.098,8.098,yas_marina,Abu Dhabi Grand Prix
-2,S16 → M21 → M21,116.8,116.8,9.347,9.347,yas_marina,Abu Dhabi Grand Prix
-2,M18 → M19 → H21,117.1,117.1,9.696,9.696,yas_marina,Abu Dhabi Grand Prix
-2,S15 → M20 → H23,117.4,117.4,9.947,9.947,yas_marina,Abu Dhabi Grand Prix
-1,M34 → H38,109.9,115.2,0,2.241,zandvoort,Dutch Grand Prix
-1,S31 → H41,110.1,115.4,0.1887,2.43,zandvoort,Dutch Grand Prix
-1,S33 → M39,112.3,117.6,2.33,4.571,zandvoort,Dutch Grand Prix
-2,S23 → S23 → M26,107.7,118.3,3.047,0,zandvoort,Dutch Grand Prix
-2,S22 → S23 → H27,108,118.6,3.343,0.2961,zandvoort,Dutch Grand Prix
-2,S22 → M25 → M25,109.3,119.9,4.681,1.634,zandvoort,Dutch Grand Prix
+1,S49 → M8,45.4,50.03,0,0,albert_park,Australian Grand Prix
+1,S51 → H6,46.39,51.02,0.9963,0.9963,albert_park,Australian Grand Prix
+2,S26 → S26 → M5,58.06,67.31,17.29,12.66,albert_park,Australian Grand Prix
+2,S26 → S26 → H5,58.84,68.1,18.07,13.44,albert_park,Australian Grand Prix
+2,S45 → M6 → M6,66.86,76.11,26.09,21.46,albert_park,Australian Grand Prix
+1,M26 → H31,80.83,85.46,35.43,35.43,albert_park,Australian Grand Prix
+1,M30 → H26,88.28,88.31,0,0,americas,United States Grand Prix
+1,S20 → M36,91,91.03,2.722,2.722,americas,United States Grand Prix
+2,S13 → M21 → M22,91.1,91.16,2.853,2.821,americas,United States Grand Prix
+2,M20 → M21 → H15,92.79,92.85,4.542,4.511,americas,United States Grand Prix
+2,S15 → S15 → M26,96.53,96.59,8.281,8.249,americas,United States Grand Prix
+1,S22 → H34,101,101,12.71,12.71,americas,United States Grand Prix
+2,S19 → S19 → H19,123.7,128.5,0,0,bahrain,Bahrain Grand Prix
+1,S27 → H30,128,130.4,1.906,4.308,bahrain,Bahrain Grand Prix
+2,S19 → H19 → H19,127.9,132.8,4.269,4.269,bahrain,Bahrain Grand Prix
+2,S20 → S21 → M16,128.1,132.9,4.396,4.396,bahrain,Bahrain Grand Prix
+3,S15 → S15 → S15 → H12,133.9,141.1,12.63,10.23,bahrain,Bahrain Grand Prix
+1,S31 → M26,139.6,142,13.55,15.95,bahrain,Bahrain Grand Prix
+1,S40 → M11,47.96,49.73,0,0,baku,Azerbaijan Grand Prix
+1,S46 → H5,51.31,53.08,3.353,3.353,baku,Azerbaijan Grand Prix
+2,S23 → S23 → M5,63.54,67.09,17.36,15.58,baku,Azerbaijan Grand Prix
+2,S23 → S23 → H5,65.64,69.19,19.46,17.69,baku,Azerbaijan Grand Prix
+2,S34 → M8 → M9,71.01,74.56,24.83,23.05,baku,Azerbaijan Grand Prix
+1,M27 → H24,76.35,78.12,28.39,28.39,baku,Azerbaijan Grand Prix
+2,S22 → H22 → H22,106.8,114.3,0,0,catalunya,Barcelona Grand Prix
+1,S33 → H33,112.7,116.5,2.177,5.92,catalunya,Barcelona Grand Prix
+2,S22 → S22 → H22,109.1,116.6,2.299,2.299,catalunya,Barcelona Grand Prix
+2,M18 → H24 → H24,111.5,119,4.72,4.72,catalunya,Barcelona Grand Prix
+3,S15 → H17 → H17 → H17,116.2,127.5,13.18,9.433,catalunya,Barcelona Grand Prix
+1,M29 → H37,123.9,127.7,13.41,17.15,catalunya,Barcelona Grand Prix
+2,S22 → S22 → M26,125,135.2,0,0,hungaroring,Hungarian Grand Prix
+1,S31 → M39,132.3,137.4,2.276,7.374,hungaroring,Hungarian Grand Prix
+2,S21 → M24 → M25,127.5,137.7,2.521,2.521,hungaroring,Hungarian Grand Prix
+2,S23 → S23 → H24,127.6,137.8,2.66,2.66,hungaroring,Hungarian Grand Prix
+1,M38 → H32,135.8,140.9,5.754,10.85,hungaroring,Hungarian Grand Prix
+1,S33 → H37,138.9,144,8.834,13.93,hungaroring,Hungarian Grand Prix
+1,M32 → H31,91.49,96.45,0,0,imola,Emilia Romagna Grand Prix
+1,S19 → M44,108.5,113.5,17.01,17.01,imola,Emilia Romagna Grand Prix
+1,S19 → H44,108.5,113.5,17.04,17.04,imola,Emilia Romagna Grand Prix
+2,M21 → H21 → H21,105.3,115.2,18.75,13.78,imola,Emilia Romagna Grand Prix
+2,M21 → M21 → H21,105.5,115.5,19.02,14.06,imola,Emilia Romagna Grand Prix
+2,S12 → H25 → H26,111.2,121.1,24.66,19.7,imola,Emilia Romagna Grand Prix
+1,M35 → H35,102.8,106.1,0,0,interlagos,São Paulo Grand Prix
+2,S18 → M26 → M26,104.8,111.3,5.254,1.986,interlagos,São Paulo Grand Prix
+2,M24 → M24 → H22,104.9,111.4,5.334,2.067,interlagos,São Paulo Grand Prix
+1,S29 → M41,108.2,111.5,5.414,5.414,interlagos,São Paulo Grand Prix
+2,M25 → H22 → H23,109.6,116.1,10.07,6.798,interlagos,São Paulo Grand Prix
+1,S29 → H41,114,117.3,11.24,11.24,interlagos,São Paulo Grand Prix
+1,M26 → H24,68.01,70.93,0,0,jeddah,Saudi Arabian Grand Prix
+1,S17 → M33,69.76,72.68,1.75,1.75,jeddah,Saudi Arabian Grand Prix
+1,S17 → H33,74.8,77.73,6.797,6.797,jeddah,Saudi Arabian Grand Prix
+2,S11 → M19 → M20,78.89,84.73,13.81,10.88,jeddah,Saudi Arabian Grand Prix
+2,M18 → M18 → H14,80.63,86.47,15.54,12.62,jeddah,Saudi Arabian Grand Prix
+2,S13 → S13 → M24,81.62,87.47,16.54,13.62,jeddah,Saudi Arabian Grand Prix
+1,M26 → H31,74.53,79.23,0,0,losail,Qatar Grand Prix
+1,S11 → H46,84.99,89.69,10.45,10.45,losail,Qatar Grand Prix
+1,S12 → M45,91.47,96.17,16.94,16.94,losail,Qatar Grand Prix
+2,M16 → H20 → H21,95.86,105.3,26.03,21.33,losail,Qatar Grand Prix
+2,M17 → M18 → H22,98.17,107.6,28.34,23.64,losail,Qatar Grand Prix
+2,S6 → H25 → H26,98.37,107.8,28.54,23.83,losail,Qatar Grand Prix
+1,S15 → H42,61.06,65.42,0,0,madring,Spanish Grand Prix
+1,M16 → H41,61.95,66.32,0.8982,0.8982,madring,Spanish Grand Prix
+2,S8 → H24 → H25,72.74,81.47,16.05,11.69,madring,Spanish Grand Prix
+2,M8 → H24 → H25,73.76,82.49,17.07,12.71,madring,Spanish Grand Prix
+2,S12 → S12 → H33,80.44,89.16,23.75,19.38,madring,Spanish Grand Prix
+1,S26 → M31,90.25,94.61,29.19,29.19,madring,Spanish Grand Prix
+1,S34 → M28,79.31,84.76,0,0,marina_bay,Singapore Grand Prix
+1,S36 → H26,85.11,90.55,5.796,5.796,marina_bay,Singapore Grand Prix
+1,M33 → H29,91.58,97.02,12.27,12.27,marina_bay,Singapore Grand Prix
+2,S22 → S22 → M18,88.8,99.68,14.93,9.484,marina_bay,Singapore Grand Prix
+2,S24 → M19 → M19,91.74,102.6,17.87,12.43,marina_bay,Singapore Grand Prix
+2,S23 → S24 → H15,92.33,103.2,18.46,13.02,marina_bay,Singapore Grand Prix
+1,S29 → H28,62.16,62.58,0,0,miami,Miami Grand Prix
+1,S28 → M29,62.25,62.67,0.09328,0.09328,miami,Miami Grand Prix
+1,M29 → H28,66.89,67.31,4.727,4.727,miami,Miami Grand Prix
+2,S20 → S20 → H17,70.75,71.59,9.008,8.589,miami,Miami Grand Prix
+2,S20 → S20 → M17,71.04,71.87,9.293,8.874,miami,Miami Grand Prix
+2,S21 → H18 → H18,74.78,75.62,13.04,12.62,miami,Miami Grand Prix
+1,M39 → H39,98.82,109.8,0,0,monaco,Monaco Grand Prix
+1,S30 → H48,108.1,119.1,9.31,9.31,monaco,Monaco Grand Prix
+1,S29 → M49,109.6,120.5,10.73,10.73,monaco,Monaco Grand Prix
+2,M26 → H26 → H26,101.3,123.2,13.4,2.463,monaco,Monaco Grand Prix
+2,M26 → M26 → H26,103,124.8,15.08,4.14,monaco,Monaco Grand Prix
+2,S19 → H29 → H30,103,124.9,15.1,4.164,monaco,Monaco Grand Prix
+1,S23 → H29,68.56,68.56,0,0,monza,Italian Grand Prix
+1,S24 → M28,69.04,69.04,0.483,0.483,monza,Italian Grand Prix
+1,M25 → H27,70.25,70.25,1.698,1.698,monza,Italian Grand Prix
+2,S17 → S17 → M18,88.06,88.06,19.51,19.51,monza,Italian Grand Prix
+2,S17 → S17 → H18,88.2,88.2,19.65,19.65,monza,Italian Grand Prix
+2,S17 → M17 → M18,90.43,90.43,21.87,21.87,monza,Italian Grand Prix
+1,M33 → H37,99.08,103.6,0,0.9412,red_bull_ring,Austrian Grand Prix
+2,M22 → M23 → H25,98.14,107.2,3.577,0,red_bull_ring,Austrian Grand Prix
+1,S31 → H39,102.7,107.2,3.592,4.533,red_bull_ring,Austrian Grand Prix
+2,M22 → H24 → H24,98.46,107.5,3.892,0.3151,red_bull_ring,Austrian Grand Prix
+2,S22 → M24 → M24,99.91,108.9,5.343,1.767,red_bull_ring,Austrian Grand Prix
+1,S33 → M37,105.5,110.1,6.463,7.404,red_bull_ring,Austrian Grand Prix
+1,M33 → H38,128.2,130.6,0,0,rodriguez,Mexico City Grand Prix
+2,S15 → M28 → M28,131.1,135.9,5.37,2.959,rodriguez,Mexico City Grand Prix
+2,M24 → M24 → H23,131.5,136.3,5.734,3.323,rodriguez,Mexico City Grand Prix
+2,S15 → M27 → H29,137.1,141.9,11.34,8.929,rodriguez,Mexico City Grand Prix
+1,S23 → M48,142.5,144.9,14.35,14.35,rodriguez,Mexico City Grand Prix
+1,S21 → H50,143.1,145.5,14.93,14.93,rodriguez,Mexico City Grand Prix
+1,S25 → M30,88.9,90.37,0,0,sepang,Bahrain Grand Prix in Malaysia
+1,M28 → H27,94.69,96.16,5.791,5.791,sepang,Bahrain Grand Prix in Malaysia
+1,S25 → H30,94.8,96.27,5.897,5.897,sepang,Bahrain Grand Prix in Malaysia
+2,S17 → S18 → M20,97.96,100.9,10.52,9.055,sepang,Bahrain Grand Prix in Malaysia
+2,S17 → M19 → M19,99.81,102.7,12.38,10.91,sepang,Bahrain Grand Prix in Malaysia
+2,S18 → S19 → H18,102.7,105.6,15.27,13.8,sepang,Bahrain Grand Prix in Malaysia
+1,S20 → H36,106.9,106.9,0,0,shanghai,Chinese Grand Prix
+1,M20 → H36,109.2,109.2,2.257,2.257,shanghai,Chinese Grand Prix
+2,S14 → H21 → H21,116.9,116.9,10,10,shanghai,Chinese Grand Prix
+2,S15 → S15 → H26,118.5,118.5,11.55,11.55,shanghai,Chinese Grand Prix
+2,M13 → H21 → H22,119,119,12.12,12.12,shanghai,Chinese Grand Prix
+1,S27 → M29,126.2,126.2,19.26,19.26,shanghai,Chinese Grand Prix
+1,M24 → H28,63.91,67.57,0,0,silverstone,British Grand Prix
+1,S16 → H36,70.42,74.08,6.512,6.512,silverstone,British Grand Prix
+1,S18 → M34,71.18,74.84,7.271,7.271,silverstone,British Grand Prix
+2,M17 → M17 → H18,79.4,86.72,19.15,15.49,silverstone,British Grand Prix
+2,S11 → M20 → M21,80.7,88.02,20.45,16.79,silverstone,British Grand Prix
+2,M17 → H17 → H18,80.8,88.12,20.55,16.89,silverstone,British Grand Prix
+1,S25 → H19,69.96,70.35,0,0,spa,Belgian Grand Prix
+1,S29 → M15,73.94,74.32,3.975,3.975,spa,Belgian Grand Prix
+2,S18 → S18 → H8,76.72,77.48,7.134,6.751,spa,Belgian Grand Prix
+2,S18 → S19 → M7,77.08,77.85,7.502,7.118,spa,Belgian Grand Prix
+2,S20 → H12 → H12,86.55,87.32,16.97,16.59,spa,Belgian Grand Prix
+1,M16 → H28,88.68,89.06,18.72,18.72,spa,Belgian Grand Prix
+1,M25 → H28,92.59,95.67,0,0,suzuka,Japanese Grand Prix
+1,S22 → M31,97.29,100.4,4.703,4.703,suzuka,Japanese Grand Prix
+1,S21 → H32,97.31,100.4,4.72,4.72,suzuka,Japanese Grand Prix
+2,S15 → M19 → M19,101.8,108,12.29,9.213,suzuka,Japanese Grand Prix
+2,M17 → M18 → H18,102.4,108.6,12.92,9.844,suzuka,Japanese Grand Prix
+2,S14 → M19 → H20,103.3,109.5,13.83,10.75,suzuka,Japanese Grand Prix
+1,M18 → H32,70.55,70.55,0,0,vegas,Las Vegas Grand Prix
+1,S14 → H36,73.33,73.33,2.781,2.781,vegas,Las Vegas Grand Prix
+2,M12 → H19 → H19,84.84,84.84,14.3,14.3,vegas,Las Vegas Grand Prix
+2,S9 → H20 → H21,85.06,85.06,14.51,14.51,vegas,Las Vegas Grand Prix
+1,S19 → M31,88.02,88.02,17.47,17.47,vegas,Las Vegas Grand Prix
+2,M13 → M14 → H23,88.02,88.02,17.47,17.47,vegas,Las Vegas Grand Prix
+1,S57 → M12,41.43,46.08,0,0,villeneuve,Canadian Grand Prix
+1,S64 → H5,43,47.66,1.576,1.576,villeneuve,Canadian Grand Prix
+2,S32 → S32 → M5,59.79,69.1,23.01,18.36,villeneuve,Canadian Grand Prix
+2,S32 → S32 → H5,60.74,70.05,23.97,19.31,villeneuve,Canadian Grand Prix
+1,M36 → H33,66.04,70.69,24.61,24.61,villeneuve,Canadian Grand Prix
+2,S51 → M9 → M9,65.75,75.06,28.98,24.32,villeneuve,Canadian Grand Prix
+1,M26 → H32,110.1,110.1,0,0,yas_marina,Abu Dhabi Grand Prix
+1,S20 → H38,116.6,116.6,6.483,6.483,yas_marina,Abu Dhabi Grand Prix
+2,M18 → M19 → H21,118.2,118.2,8.107,8.107,yas_marina,Abu Dhabi Grand Prix
+2,M18 → H20 → H20,118.9,118.9,8.865,8.865,yas_marina,Abu Dhabi Grand Prix
+2,S15 → M21 → M22,119.4,119.4,9.315,9.315,yas_marina,Abu Dhabi Grand Prix
+1,S22 → M36,121.7,121.7,11.61,11.61,yas_marina,Abu Dhabi Grand Prix
+1,M34 → H38,113.9,119.2,0,1.328,zandvoort,Dutch Grand Prix
+1,S30 → H42,116.2,121.5,2.242,3.569,zandvoort,Dutch Grand Prix
+2,S22 → S22 → H28,112.6,123.3,4.001,0,zandvoort,Dutch Grand Prix
+2,S23 → S23 → M26,112.8,123.4,4.184,0.1826,zandvoort,Dutch Grand Prix
+2,S22 → M25 → M25,113.1,123.8,4.523,0.522,zandvoort,Dutch Grand Prix
+1,S32 → M40,119.2,124.6,5.329,6.657,zandvoort,Dutch Grand Prix

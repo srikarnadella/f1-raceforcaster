@@ -176,7 +176,7 @@ def update(seasons: list[int] | None = None, current: int | None = None) -> dict
         new.to_csv(path, index=False)
         changed[season] = new["round"].nunique()
     if cal:
-        cdf = pd.DataFrame(cal)
+        cdf = reconcile_times(pd.DataFrame(cal))
         if CALENDAR_CSV.exists():
             old = pd.read_csv(CALENDAR_CSV)
             old = old[~old["season"].isin(cdf["season"])]
@@ -185,6 +185,41 @@ def update(seasons: list[int] | None = None, current: int | None = None) -> dict
         schemas.validate(cdf, "calendar")
         cdf.to_csv(CALENDAR_CSV, index=False)
     return changed
+
+
+OPENF1_SESSION_COL = {"Practice 1": "fp1_utc", "Sprint Qualifying": "sprint_quali_utc", "Sprint Shootout": "sprint_quali_utc",
+                      "Sprint": "sprint_utc", "Qualifying": "quali_utc", "Race": "race_utc"}
+
+
+def reconcile_times(cal: pd.DataFrame) -> pd.DataFrame:
+    """Replace Jolpica's session times with OpenF1's where OpenF1 has the meeting (2023+).
+
+    Jolpica carries the planned schedule and has known errors (Las Vegas 2023-24 a day early:
+    local date with the UTC time); OpenF1 has the times sessions actually ran (rain-moved
+    qualifying at Sao Paulo 2024, Miami 2026 brought forward). The prediction log's "logged
+    before the start" check depends on race_utc being right. Best effort: on any OpenF1 error
+    the Jolpica times stay."""
+    from . import openf1
+    cal = cal.copy()
+    cal["times_source"] = cal.get("times_source", "jolpica")
+    for c in ["fp1_utc", "sprint_quali_utc", "sprint_utc", "quali_utc", "race_utc"]:
+        cal[c] = pd.to_datetime(cal[c], utc=True)
+    for season in sorted(s for s in cal["season"].unique() if s >= openf1.FIRST_SEASON):
+        try:
+            sess = pd.DataFrame(openf1._get("sessions", 6.0, year=int(season)))
+            meetings = openf1.meetings(int(season), cal)
+        except Exception:
+            continue
+        if sess.empty:
+            continue
+        for rnd, mk in meetings.items():
+            i = cal.index[(cal["season"] == season) & (cal["round"] == rnd)]
+            for _, x in sess[sess["meeting_key"] == mk].iterrows():
+                col = OPENF1_SESSION_COL.get(x["session_name"])
+                if col and not x.get("is_cancelled", False):
+                    cal.loc[i, col] = pd.Timestamp(x["date_start"]).tz_convert("UTC")
+                    cal.loc[i, "times_source"] = "openf1"
+    return cal
 
 
 def load_results(seasons=None) -> pd.DataFrame:

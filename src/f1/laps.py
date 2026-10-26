@@ -147,16 +147,20 @@ def infer_compounds(laps: pd.DataFrame, k: int = 3, seed: int = 0) -> pd.DataFra
     return st
 
 
+# bump when the lap-time model or lap classes change: cached rows from another method are recomputed
+PACE_METHOD = "pacefit-v1"
+
+
 def pace_table(refresh: bool = False) -> pd.DataFrame:
     """Race pace gap per driver for every race with lap data (cached in data/laps/pace_summary.csv)."""
     out_path = LAPS_DIR / "pace_summary.csv"
     files = sorted(p for p in LAPS_DIR.glob("*_*.csv") if p.name != "pace_summary.csv")
-    if out_path.exists() and not refresh:
-        cached = pd.read_csv(out_path)
+    cached = pd.read_csv(out_path) if out_path.exists() and not refresh else None
+    if cached is not None and ("method" not in cached or (cached["method"] != PACE_METHOD).any()):
+        cached = None  # computed by an older method: rebuild everything
+    if cached is not None:
         done = set(zip(cached.season, cached["round"]))
         files = [f for f in files if tuple(map(int, f.stem.split("_"))) not in done]
-    else:
-        cached = None
     rows = []
     for f in files:
         season, rnd = map(int, f.stem.split("_"))
@@ -164,7 +168,8 @@ def pace_table(refresh: bool = False) -> pd.DataFrame:
             rp = driver_race_pace(pd.read_csv(f))
         except Exception:
             continue
-        rows.append(rp[["driver_id", "race_pace_gap", "n_clean", "n_traffic", "stops"]].assign(season=season, round=rnd))
+        rows.append(rp[["driver_id", "race_pace_gap", "n_clean", "n_traffic", "stops"]].assign(season=season, round=rnd,
+                                                                                         method=PACE_METHOD))
     new = pd.concat(rows, ignore_index=True) if rows else pd.DataFrame()
     tab = pd.concat([d for d in (cached, new) if d is not None and len(d)], ignore_index=True) if (rows or cached is not None) else pd.DataFrame(
         columns=["season", "round", "driver_id", "race_pace_gap"])

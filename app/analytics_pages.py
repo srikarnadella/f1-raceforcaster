@@ -481,7 +481,9 @@ def projections():
     if p.get("preweekend"):
         d0 = pd.DataFrame(p["preweekend"]["drivers"])
         fav = d0.iloc[0]
-    tops = pd.DataFrame(p.get("teams", [])).sort_values("blend_gap") if p.get("teams") else None
+    tops = pd.DataFrame(p.get("teams", [])) if p.get("teams") else None
+    if tops is not None:
+        tops = tops.sort_values("projected_gap" if "projected_gap" in tops else "blend_gap")
     fin = []
     if tops is not None and len(tops):
         fin.append(f"{tops['team_name'].iat[0]} project as the fastest car here")
@@ -493,16 +495,21 @@ def projections():
                + (f" · similar: {', '.join(p['similar'])}" if p.get("similar") else ""))
     if p.get("teams"):
         t = pd.DataFrame(p["teams"])
-        st.markdown(f"**Pre-weekend team pace projection** from each team's zone DNA × this circuit's lap profile "
-                    f"(measured {p.get('profile_from')}), blended 50/50 with recent overall qualifying form.")
+        tm = p.get("team_method", {})
+        maes = tm.get("walk_forward_mae_pct", {})
+        st.markdown(f"**Pre-weekend team pace projection**, using **{tm.get('used', 'the blend')}**: the method with "
+                    "the lowest walk-forward error (" + ", ".join(f"{ {'dna_gap': 'DNA', 'blend_gap': 'blend', 'form_gap': 'form'}[k]} "
+                    f"{v:.3f}%" for k, v in maes.items()) + "). Circuit lap profile measured "
+                    f"{p.get('profile_from')}.")
         prof = p.get("profile", {})
         ui.kpis([(f"{ZONE_LABEL[k]}", f"{prof.get(f'share_{k}', 0):.0%}", None, "of the pole lap") for k in ZONES])
-        t = t.sort_values("blend_gap")
+        gapcol = "projected_gap" if "projected_gap" in t else "blend_gap"
+        t = t.sort_values(gapcol)
         st.altair_chart(alt.Chart(t).mark_bar().encode(
-            x=alt.X("blend_gap:Q", title="projected one-lap gap to best team (%)", axis=alt.Axis(tickCount=6)),
+            x=alt.X(f"{gapcol}:Q", title="projected one-lap gap to best team (%)", axis=alt.Axis(tickCount=6)),
             y=alt.Y("team_name:N", sort=list(t["team_name"]), title=None),
             color=alt.Color("team_name:N", scale=team_scale(t), legend=None),
-            tooltip=["team_name", alt.Tooltip("blend_gap:Q", format=".2f"), alt.Tooltip("dna_gap:Q", format=".2f")]),
+            tooltip=["team_name", alt.Tooltip(f"{gapcol}:Q", format=".2f"), alt.Tooltip("dna_gap:Q", format=".2f")]),
             width="stretch")
         contrib = t.melt(id_vars=["team_name"], value_vars=[f"z_{k}" for k in ZONES], var_name="zone", value_name="z")
         contrib["share"] = contrib["zone"].str[2:].map(lambda k: prof.get(f"share_{k}", 0))
