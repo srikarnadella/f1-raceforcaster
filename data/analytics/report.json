@@ -224,16 +224,16 @@
   },
   "races": 65,
   "shap_mean_abs": {
-   "fp_longrun_gap": 0.05417096367933273,
-   "is_sprint": 0.019098833040646513,
-   "quali_gap_pct": 0.29419016345680743,
-   "race_track_temp": 0.041364089554842054,
-   "share_fast": 0.039748293635600576,
-   "share_slow": 0.056844425875839426,
-   "share_straight": 0.05316939553224642,
-   "team_deg_prior": 0.034975372929329805,
-   "team_racepace_prior": 0.3997902858663832,
-   "team_rmq_prior": 0.017892849599182057
+   "fp_longrun_gap": 0.054170963679424984,
+   "is_sprint": 0.01909883304064385,
+   "quali_gap_pct": 0.2941901634568191,
+   "race_track_temp": 0.041364089555058145,
+   "share_fast": 0.03974829363543746,
+   "share_slow": 0.05684442587559062,
+   "share_straight": 0.053169395532310745,
+   "team_deg_prior": 0.034975372929288547,
+   "team_racepace_prior": 0.3997902858664064,
+   "team_rmq_prior": 0.017892849599178806
   }
  }
 }
