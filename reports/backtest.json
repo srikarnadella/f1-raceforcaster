@@ -1,158 +1,158 @@
 {
- "model_version": null,
- "generated": "2026-10-25T19:57:44+00:00",
- "data_hash": "2b1410d4a79c68b6",
+ "model_version": "v3",
+ "generated": "2026-10-26T04:51:39+00:00",
+ "data_hash": "964cda9a36c49026",
  "overall": {
   "model": {
-   "winner_logloss": 1.2672148950293378,
-   "winner_brier": 0.5878927172781064,
-   "top1_hit": 0.5621301775147929,
-   "winner_rank": 1.893491124260355,
-   "podium_brier": 0.067403737027151,
-   "top10_brier": 0.15420170056660346,
-   "spearman": 0.6605730595169074,
-   "kendall": 0.534688073959329,
-   "mae_pos": 3.2390451085756355,
-   "ece_win": 0.012656447831184055,
-   "ece_top3": 0.01456565064478311,
-   "ece_top10": 0.02038042203985934,
-   "n_races": 169,
+   "winner_logloss": 1.2041754012768924,
+   "winner_brier": 0.55835163,
+   "top1_hit": 0.5529411764705883,
+   "winner_rank": 1.911764705882353,
+   "podium_brier": 0.06588873403198704,
+   "top10_brier": 0.15417886690344076,
+   "spearman": 0.6623274065190877,
+   "kendall": 0.5359426194720313,
+   "mae_pos": 3.2158421134252744,
+   "ece_win": 0.006089691322073385,
+   "ece_top3": 0.012764735002912059,
+   "ece_top10": 0.023884799068142143,
+   "n_races": 170,
    "winner_logloss_ci": [
-    1.1334048956156546,
-    1.4063115525804453
+    1.0419285526067739,
+    1.381688232089581
    ],
    "spearman_ci": [
-    0.6298789660143295,
-    0.6928046720046369
+    0.63101290004248,
+    0.6919837373892765
    ]
   },
   "uniform": {
-   "winner_logloss": 3.0047126668551645,
-   "winner_brier": 0.9504260921264965,
+   "winner_logloss": 3.0052204891287126,
+   "winner_brier": 0.9504503236701376,
    "top1_hit": 0.0,
-   "winner_rank": 13.289940828402367,
-   "podium_brier": 0.1265857638671113,
-   "top10_brier": 0.2497839703639444,
-   "spearman": 0.04629153631089909,
-   "kendall": 0.0218427546362769,
-   "mae_pos": 5.0471815633758945,
-   "ece_win": 6.938893903907228e-18,
+   "winner_rank": 6.894117647058824,
+   "podium_brier": 0.1265338981681361,
+   "top10_brier": 0.24977308750473015,
+   "spearman": 0.04556418947857902,
+   "kendall": 0.021332296874092535,
+   "mae_pos": 5.04984520123839,
+   "ece_win": 0.0,
    "ece_top3": 2.7755575615628914e-17,
-   "ece_top10": 6.084751043520055e-18,
-   "n_races": 169,
+   "ece_top10": 1.280280482677816e-17,
+   "n_races": 170,
    "winner_logloss_ci": [
-    3.0004183416362973,
-    3.0092254677348036
+    3.000994227052137,
+    3.0097484764663913
    ],
    "spearman_ci": [
-    0.039782291287308,
-    0.052000806357873755
+    0.03909323413159729,
+    0.051252812337749726
    ]
   },
   "grid": {
-   "winner_logloss": 1.4453745466074217,
-   "winner_brier": 0.6366070692818134,
-   "top1_hit": 0.5562130177514792,
-   "winner_rank": 2.230769230769231,
-   "podium_brier": 0.06861456892979434,
-   "top10_brier": 0.1632742914740772,
-   "spearman": 0.6469071033408298,
-   "kendall": 0.5178075186172352,
-   "mae_pos": 3.4101879901475045,
-   "ece_win": 0.005564464137803216,
-   "ece_top3": 0.012050307246622304,
-   "ece_top10": 0.020688700821701638,
-   "n_races": 169,
+   "winner_logloss": 1.4406327735463886,
+   "winner_brier": 0.6345200715634937,
+   "top1_hit": 0.5588235294117647,
+   "winner_rank": 2.2470588235294118,
+   "podium_brier": 0.06844691116058847,
+   "top10_brier": 0.1627864234801027,
+   "spearman": 0.6484460395350151,
+   "kendall": 0.5193197789482619,
+   "mae_pos": 3.402427526034337,
+   "ece_win": 0.005803902143673842,
+   "ece_top3": 0.012671914533644862,
+   "ece_top10": 0.021550194468118577,
+   "n_races": 170,
    "winner_logloss_ci": [
-    1.279258245372392,
-    1.6211369102783555
+    1.27530574055294,
+    1.6289919927101575
    ],
    "spearman_ci": [
-    0.615894416854635,
-    0.6779021678022733
+    0.6168012662730996,
+    0.6792545335379836
    ]
   },
   "pole": {
-   "winner_logloss": 2.0009780910421084,
-   "winner_brier": 0.682810283065865,
-   "top1_hit": 0.5562130177514792,
-   "winner_rank": 7.994082840236686,
-   "podium_brier": 0.06861456892979434,
-   "top10_brier": 0.1632742914740772,
-   "spearman": 0.6469071033408298,
-   "kendall": 0.5178075186172352,
-   "mae_pos": 3.4101879901475045,
-   "ece_win": 0.005009998908635366,
-   "ece_top3": 0.012050307246622304,
-   "ece_top10": 0.020688700821701638,
-   "n_races": 169,
+   "winner_logloss": 1.99289876821444,
+   "winner_brier": 0.6801323785110444,
+   "top1_hit": 0.5588235294117647,
+   "winner_rank": 2.041176470588235,
+   "podium_brier": 0.06844691116058847,
+   "top10_brier": 0.1627864234801027,
+   "spearman": 0.6484460395350151,
+   "kendall": 0.5193197789482619,
+   "mae_pos": 3.402427526034337,
+   "ece_win": 0.005249347447119019,
+   "ece_top3": 0.012671914533644862,
+   "ece_top10": 0.021550194468118577,
+   "n_races": 170,
    "winner_logloss_ci": [
-    1.7721496927525617,
-    2.2133525823047555
+    1.7636195525733596,
+    2.2199533203179653
    ],
    "spearman_ci": [
-    0.615894416854635,
-    0.6779021678022733
+    0.6168012662730996,
+    0.6792545335379836
    ]
   }
  },
  "by_season": {
   "model": {
    "2019": {
-    "winner_logloss": 1.2949,
-    "podium_brier": 0.0589,
+    "winner_logloss": 1.2801,
+    "podium_brier": 0.0592,
     "top10_brier": 0.1683,
-    "spearman": 0.6454,
+    "spearman": 0.6459,
     "top1_hit": 0.381
    },
    "2020": {
-    "winner_logloss": 1.4684,
-    "podium_brier": 0.0712,
+    "winner_logloss": 1.5817,
+    "podium_brier": 0.0713,
     "top10_brier": 0.164,
-    "spearman": 0.6153,
+    "spearman": 0.6163,
     "top1_hit": 0.5882
    },
    "2021": {
-    "winner_logloss": 1.5023,
-    "podium_brier": 0.067,
+    "winner_logloss": 1.5169,
+    "podium_brier": 0.0671,
     "top10_brier": 0.1512,
-    "spearman": 0.6767,
+    "spearman": 0.6763,
     "top1_hit": 0.5
    },
    "2022": {
-    "winner_logloss": 1.2967,
-    "podium_brier": 0.0695,
+    "winner_logloss": 1.2158,
+    "podium_brier": 0.0696,
     "top10_brier": 0.161,
-    "spearman": 0.6149,
+    "spearman": 0.6148,
     "top1_hit": 0.3636
    },
    "2023": {
-    "winner_logloss": 0.649,
-    "podium_brier": 0.074,
-    "top10_brier": 0.148,
-    "spearman": 0.6541,
-    "top1_hit": 0.9091
+    "winner_logloss": 0.4658,
+    "podium_brier": 0.0661,
+    "top10_brier": 0.1472,
+    "spearman": 0.6675,
+    "top1_hit": 0.8636
    },
    "2024": {
-    "winner_logloss": 1.6006,
-    "podium_brier": 0.0736,
+    "winner_logloss": 1.6034,
+    "podium_brier": 0.0735,
     "top10_brier": 0.12,
-    "spearman": 0.7401,
-    "top1_hit": 0.5
+    "spearman": 0.7407,
+    "top1_hit": 0.5417
    },
    "2025": {
-    "winner_logloss": 1.0885,
-    "podium_brier": 0.0595,
-    "top10_brier": 0.167,
-    "spearman": 0.6489,
-    "top1_hit": 0.6667
+    "winner_logloss": 1.0458,
+    "podium_brier": 0.06,
+    "top10_brier": 0.1692,
+    "spearman": 0.6443,
+    "top1_hit": 0.5417
    },
    "2026": {
-    "winner_logloss": 1.271,
-    "podium_brier": 0.0659,
-    "top10_brier": 0.1603,
-    "spearman": 0.6753,
-    "top1_hit": 0.5882
+    "winner_logloss": 0.9438,
+    "podium_brier": 0.06,
+    "top10_brier": 0.1578,
+    "spearman": 0.6792,
+    "top1_hit": 0.6667
    }
   },
   "uniform": {
@@ -264,11 +264,11 @@
     "top1_hit": 0.6667
    },
    "2026": {
-    "winner_logloss": 1.1386,
-    "podium_brier": 0.0649,
-    "top10_brier": 0.1579,
-    "spearman": 0.6799,
-    "top1_hit": 0.7059
+    "winner_logloss": 1.1109,
+    "podium_brier": 0.0635,
+    "top10_brier": 0.1536,
+    "spearman": 0.6926,
+    "top1_hit": 0.7222
    }
   },
   "pole": {
@@ -322,11 +322,11 @@
     "top1_hit": 0.6667
    },
    "2026": {
-    "winner_logloss": 1.5685,
-    "podium_brier": 0.0649,
-    "top10_brier": 0.1579,
-    "spearman": 0.6799,
-    "top1_hit": 0.7059
+    "winner_logloss": 1.5162,
+    "podium_brier": 0.0635,
+    "top10_brier": 0.1536,
+    "spearman": 0.6926,
+    "top1_hit": 0.7222
    }
   }
  }

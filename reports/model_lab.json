@@ -1,6 +1,6 @@
 {
  "note": "Walk-forward on the frozen harness: each race predicted from earlier races only. Lower log-loss / Brier is better; higher Spearman / top-1 hit is better. ~20 races per season, so differences under ~3% are within noise.",
- "champion": "v2",
+ "champion": "v3",
  "windows": {
   "2023-2026": {
    "grid": {
@@ -19,45 +19,37 @@
     "top1_hit": 0.6363636363636364,
     "mae_pos": 3.277984993475424
    },
+   "champion": {
+    "winner_logloss": 1.0320159108082725,
+    "podium_brier": 0.06521967855042952,
+    "top10_brier": 0.14796566348391965,
+    "spearman": 0.6835118473510402,
+    "top1_hit": 0.6477272727272727,
+    "mae_pos": 3.1332814691170072
+   },
    "v1+practice": {
-    "winner_logloss": 1.1236767945111077,
-    "podium_brier": 0.06508364248319921,
-    "top10_brier": 0.14843646650462158,
-    "spearman": 0.6831080463465526,
-    "top1_hit": 0.6590909090909091,
-    "mae_pos": 3.126249867061766
+    "winner_logloss": 1.0903531228127903,
+    "podium_brier": 0.06500969408972651,
+    "top10_brier": 0.14843642091371248,
+    "spearman": 0.6831376973695468,
+    "top1_hit": 0.6363636363636364,
+    "mae_pos": 3.1249988587429316
    },
    "nn": {
-    "winner_logloss": 1.0840656773338433,
-    "podium_brier": 0.06520526663478686,
-    "top10_brier": 0.1476971164857139,
-    "spearman": 0.6853623346004248,
+    "winner_logloss": 1.0237022628247914,
+    "podium_brier": 0.06511004722905339,
+    "top10_brier": 0.14769675085172904,
+    "spearman": 0.6850244885479959,
     "top1_hit": 0.6704545454545454,
-    "mae_pos": 3.1308405972705518
+    "mae_pos": 3.128518750271858
    },
    "nn+practice": {
-    "winner_logloss": 1.1206294292638326,
-    "podium_brier": 0.06537470727728088,
-    "top10_brier": 0.14899207925191657,
-    "spearman": 0.6804080246429944,
-    "top1_hit": 0.6363636363636364,
-    "mae_pos": 3.1353684678120923
-   },
-   "nn (pytorch)": {
-    "winner_logloss": 1.0807705112147301,
-    "podium_brier": 0.06497959650663332,
-    "top10_brier": 0.14752994645938453,
-    "spearman": 0.6858189873714109,
-    "top1_hit": 0.6704545454545454,
-    "mae_pos": 3.1269141142888213
-   },
-   "champion": {
-    "winner_logloss": 1.0876681659297205,
-    "podium_brier": 0.06531332467522565,
-    "top10_brier": 0.14796759001960091,
-    "spearman": 0.6839479672951693,
-    "top1_hit": 0.6704545454545454,
-    "mae_pos": 3.1354908851674637
+    "winner_logloss": 1.071820125279457,
+    "podium_brier": 0.0653452590213272,
+    "top10_brier": 0.14902433105347435,
+    "spearman": 0.6809932777506108,
+    "top1_hit": 0.6818181818181818,
+    "mae_pos": 3.1327851873097
    }
   },
   "2026": {
@@ -77,49 +69,93 @@
     "top1_hit": 0.7222222222222222,
     "mae_pos": 3.313131313131313
    },
+   "champion": {
+    "winner_logloss": 0.9438485626483037,
+    "podium_brier": 0.06004915292929294,
+    "top10_brier": 0.15783139941919191,
+    "spearman": 0.6791517661082878,
+    "top1_hit": 0.6666666666666666,
+    "mae_pos": 3.393022474747475
+   },
    "v1+practice": {
-    "winner_logloss": 1.0411609942316842,
-    "podium_brier": 0.05929137993686868,
-    "top10_brier": 0.15785498744949494,
-    "spearman": 0.6867432084823389,
-    "top1_hit": 0.7222222222222222,
-    "mae_pos": 3.3593227272727275
+    "winner_logloss": 1.006178283822792,
+    "podium_brier": 0.059166871578282834,
+    "top10_brier": 0.1578587793939394,
+    "spearman": 0.6858021205847293,
+    "top1_hit": 0.6111111111111112,
+    "mae_pos": 3.3576623737373743
    },
    "nn": {
-    "winner_logloss": 1.0017553773842764,
-    "podium_brier": 0.05993423775252525,
-    "top10_brier": 0.1571370560858586,
-    "spearman": 0.6817240730284209,
-    "top1_hit": 0.7777777777777778,
-    "mae_pos": 3.392044191919192
+    "winner_logloss": 0.9059553371784129,
+    "podium_brier": 0.05976719036616161,
+    "top10_brier": 0.1571378150631313,
+    "spearman": 0.6804065499717674,
+    "top1_hit": 0.7222222222222222,
+    "mae_pos": 3.3887315656565655
    },
    "nn+practice": {
-    "winner_logloss": 1.0176956366009318,
-    "podium_brier": 0.05837608775252526,
-    "top10_brier": 0.1594939161489899,
-    "spearman": 0.6758265888700671,
-    "top1_hit": 0.6666666666666666,
-    "mae_pos": 3.403937626262626
-   },
-   "nn (pytorch)": {
-    "winner_logloss": 0.9911160157020126,
-    "podium_brier": 0.05950788242424242,
-    "top10_brier": 0.156919186729798,
-    "spearman": 0.6800301148127236,
-    "top1_hit": 0.7777777777777778,
-    "mae_pos": 3.38682297979798
-   },
-   "champion": {
-    "winner_logloss": 1.0187925335841213,
-    "podium_brier": 0.06019336244949495,
-    "top10_brier": 0.1578300233838384,
-    "spearman": 0.6805320283581153,
-    "top1_hit": 0.7777777777777778,
-    "mae_pos": 3.396
+    "winner_logloss": 0.9658141679128222,
+    "podium_brier": 0.05822834271464645,
+    "top10_brier": 0.15949387910353532,
+    "spearman": 0.6757638496768932,
+    "top1_hit": 0.7222222222222222,
+    "mae_pos": 3.4010292929292927
    }
   }
  },
  "specs": {
+  "champion": {
+   "name": "adaptive-win-temperature-24",
+   "strength": {
+    "features": [
+     "log_start",
+     "quali_gap",
+     "tm_quali_gap",
+     "sprint_delta",
+     "drv_form_pos",
+     "con_form_pos",
+     "drv_form_quali",
+     "drv_gain",
+     "drv_form_pos_early",
+     "con_form_pos_early",
+     "no_history"
+    ],
+    "l2": 1.0,
+    "depth": 3,
+    "season_half_life": 3.0,
+    "adaptive_win_temperature": 24
+   },
+   "dnf": {
+    "features": [
+     "con_dnf_rate",
+     "drv_dnf_rate",
+     "circuit_dnf_rate",
+     "log_start",
+     "early_era"
+    ],
+    "C": 1.0,
+    "season_half_life": 4.0
+   },
+   "form": {
+    "form_half_life": 6.0,
+    "dnf_half_life": 12.0
+   },
+   "n_sims": 10000,
+   "simulator": {
+    "w_quali": 0.6,
+    "lap_noise": 0.35,
+    "c0": -1.0,
+    "c1": 1.5,
+    "c2": 3.0,
+    "c3": 0.15,
+    "start_noise": 0.7,
+    "pit_jitter": 2.5,
+    "pace_unc": 0.3,
+    "team_share": 0.6,
+    "n_sims": 1000,
+    "weight": 0.5
+   }
+  },
   "v1+practice": {
    "name": "pl-dnf+practice",
    "strength": {
@@ -145,7 +181,8 @@
     ],
     "l2": 1.0,
     "depth": 3,
-    "season_half_life": 3.0
+    "season_half_life": 3.0,
+    "adaptive_win_temperature": 24
    },
    "dnf": {
     "features": [
@@ -198,6 +235,7 @@
     "l2": 1.0,
     "depth": 3,
     "season_half_life": 3.0,
+    "adaptive_win_temperature": 24,
     "hidden": 8,
     "l2_hidden": 4.0,
     "n_models": 3
@@ -259,6 +297,7 @@
     "l2": 1.0,
     "depth": 3,
     "season_half_life": 3.0,
+    "adaptive_win_temperature": 24,
     "hidden": 8,
     "l2_hidden": 4.0,
     "n_models": 3
@@ -278,112 +317,6 @@
     "form_half_life": 6.0,
     "dnf_half_life": 12.0,
     "openf1": true
-   },
-   "n_sims": 10000,
-   "simulator": {
-    "w_quali": 0.6,
-    "lap_noise": 0.35,
-    "c0": -1.0,
-    "c1": 1.5,
-    "c2": 3.0,
-    "c3": 0.15,
-    "start_noise": 0.7,
-    "pit_jitter": 2.5,
-    "pace_unc": 0.3,
-    "team_share": 0.6,
-    "n_sims": 1000,
-    "weight": 0.5
-   }
-  },
-  "nn (pytorch)": {
-   "name": "nn-pl-torch",
-   "strength": {
-    "features": [
-     "log_start",
-     "quali_gap",
-     "tm_quali_gap",
-     "sprint_delta",
-     "drv_form_pos",
-     "con_form_pos",
-     "drv_form_quali",
-     "drv_gain",
-     "drv_form_pos_early",
-     "con_form_pos_early",
-     "no_history"
-    ],
-    "l2": 1.0,
-    "depth": 3,
-    "season_half_life": 3.0,
-    "hidden": 8,
-    "l2_hidden": 4.0,
-    "n_models": 3,
-    "backend": "torch"
-   },
-   "dnf": {
-    "features": [
-     "con_dnf_rate",
-     "drv_dnf_rate",
-     "circuit_dnf_rate",
-     "log_start",
-     "early_era"
-    ],
-    "C": 1.0,
-    "season_half_life": 4.0
-   },
-   "form": {
-    "form_half_life": 6.0,
-    "dnf_half_life": 12.0
-   },
-   "n_sims": 10000,
-   "simulator": {
-    "w_quali": 0.6,
-    "lap_noise": 0.35,
-    "c0": -1.0,
-    "c1": 1.5,
-    "c2": 3.0,
-    "c3": 0.15,
-    "start_noise": 0.7,
-    "pit_jitter": 2.5,
-    "pace_unc": 0.3,
-    "team_share": 0.6,
-    "n_sims": 1000,
-    "weight": 0.5
-   }
-  },
-  "champion": {
-   "name": "simulator-blend-50",
-   "strength": {
-    "features": [
-     "log_start",
-     "quali_gap",
-     "tm_quali_gap",
-     "sprint_delta",
-     "drv_form_pos",
-     "con_form_pos",
-     "drv_form_quali",
-     "drv_gain",
-     "drv_form_pos_early",
-     "con_form_pos_early",
-     "no_history"
-    ],
-    "l2": 1.0,
-    "depth": 3,
-    "season_half_life": 3.0
-   },
-   "dnf": {
-    "features": [
-     "con_dnf_rate",
-     "drv_dnf_rate",
-     "circuit_dnf_rate",
-     "log_start",
-     "early_era"
-    ],
-    "C": 1.0,
-    "season_half_life": 4.0
-   },
-   "form": {
-    "form_half_life": 6.0,
-    "dnf_half_life": 12.0
    },
    "n_sims": 10000,
    "simulator": {

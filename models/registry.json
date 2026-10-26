@@ -1,9 +1,9 @@
 {
- "champion": "v2",
- "shadow": "v1",
+ "champion": "v3",
+ "shadow": "v2",
  "shadow_since": [
   2026,
-  18
+  19
  ],
  "versions": {
   "v1": {
@@ -129,6 +129,76 @@
     "kendall": 0.5348692692822248,
     "mae_pos": 3.2229411050083514
    }
+  },
+  "v3": {
+   "spec": {
+    "name": "adaptive-win-temperature-24",
+    "strength": {
+     "features": [
+      "log_start",
+      "quali_gap",
+      "tm_quali_gap",
+      "sprint_delta",
+      "drv_form_pos",
+      "con_form_pos",
+      "drv_form_quali",
+      "drv_gain",
+      "drv_form_pos_early",
+      "con_form_pos_early",
+      "no_history"
+     ],
+     "l2": 1.0,
+     "depth": 3,
+     "season_half_life": 3.0,
+     "adaptive_win_temperature": 24
+    },
+    "dnf": {
+     "features": [
+      "con_dnf_rate",
+      "drv_dnf_rate",
+      "circuit_dnf_rate",
+      "log_start",
+      "early_era"
+     ],
+     "C": 1.0,
+     "season_half_life": 4.0
+    },
+    "form": {
+     "form_half_life": 6.0,
+     "dnf_half_life": 12.0
+    },
+    "n_sims": 10000,
+    "simulator": {
+     "w_quali": 0.6,
+     "lap_noise": 0.35,
+     "c0": -1.0,
+     "c1": 1.5,
+     "c2": 3.0,
+     "c3": 0.15,
+     "start_noise": 0.7,
+     "pit_jitter": 2.5,
+     "pace_unc": 0.3,
+     "team_share": 0.6,
+     "n_sims": 1000,
+     "weight": 0.5
+    }
+   },
+   "created": "2026-10-26T04:51:01+00:00",
+   "git_commit": "c531b54",
+   "data_hash": "964cda9a36c49026",
+   "parent": "v2",
+   "note": "Winner sharpness differs by era (2023/2026 predictable, 2019-22 not). Let the model pick its own winner temperature from its last 24 training races. Offline vs v2: composite +1.34%, bootstrap 93%, 2026 winner log-loss 1.019 -> 0.944.",
+   "backtest": {
+    "winner_logloss": 1.2041754012768924,
+    "winner_brier": 0.55835163,
+    "top1_hit": 0.5529411764705883,
+    "winner_rank": 1.911764705882353,
+    "podium_brier": 0.06588873403198704,
+    "top10_brier": 0.15417886690344076,
+    "spearman": 0.6623274065190877,
+    "kendall": 0.5359426194720313,
+    "mae_pos": 3.2158421134252744
+   }
   }
  },
  "history": [
@@ -144,6 +214,14 @@
    "previous": "v1",
    "reason": "simulator-blend-50",
    "composite": 0.02309905869350841
+  },
+  {
+   "date": "2026-10-26T04:51:01+00:00",
+   "event": "promote",
+   "version": "v3",
+   "previous": "v2",
+   "reason": "adaptive-win-temperature-24",
+   "composite": 0.013404445929660985
   }
  ]
 }

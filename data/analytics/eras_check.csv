@@ -16,3 +16,4 @@ season,round,circuit_id,actual,model,last_visit,previous_era_only
 2026,15,baku,0.7647,0.6401,0.3137,0.5539
 2026,16,sepang,0.8727,0.5117,,
 2026,17,marina_bay,0.4355,0.4627,0.4355,0.4061
+2026,18,americas,0.7321,0.8157,0.6429,0.7991
