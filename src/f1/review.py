@@ -76,8 +76,10 @@ def pace_report(results: pd.DataFrame, season: int, rnd: int) -> str:
             race[c] = np.nan
 
     L = [f"# {season} R{rnd}: {name}, weekend pace summary", ""]
-    L += ["Practice data: unavailable (FastF1 live timing requires F1TV credentials); "
-          "pace below uses qualifying and race laps from Jolpica.", ""]
+    L += ["Pace below uses qualifying and race laps (Jolpica); practice long runs, real tyre compounds and "
+          "telemetry for this weekend are in the dashboard's Weekend lab and Race story (OpenF1).", ""]
+    # structured copy of everything below, for the dashboard (reports/<season>_<round>_pace.json)
+    J: dict = {"season": season, "round": rnd, "race_name": name}
 
     # ---- team table
     team = race.groupby("constructor_id").agg(quali_gap=("quali_gap", "min"), race_pace_gap=("race_pace_gap", "min"),
@@ -88,6 +90,8 @@ def pace_report(results: pd.DataFrame, season: int, rnd: int) -> str:
           "|---|---|---|---|---|---|"]
     for c, r in team.sort_values("quali_gap").iterrows():
         L.append(f"| {c} | {r.quali_gap:.3f} | {_f(r.race_pace_gap)} | {_f(r.race_minus_quali)} | P{int(r.best_finish)} | {r.points:g} |")
+    J["teams"] = team.reset_index().rename(columns={"constructor_id": "team"}).round(4).to_dict("records")
+    J["race_model"] = {k: race_info.get(k) for k in ("fuel", "deg", "neutral_laps", "median_stops")}
     if "fuel" in race_info and race_info["fuel"] is not None:
         L += ["", f"Race lap model: fuel effect {race_info['fuel']:+.3f} s/lap, tyre degradation {race_info['deg']:+.3f} s/lap "
               f"(field-wide fit on clean and traffic laps); {race_info['neutral_laps']} neutralised lap(s) detected."]
@@ -108,10 +112,15 @@ def pace_report(results: pd.DataFrame, season: int, rnd: int) -> str:
         L.append(f"| {r.code} | {r.constructor_id} | P{int(r.start_pos)} | {r.quali_gap:.3f} | {_f(r.race_pace_gap)} | "
                  f"{_i(r.n_clean)} / {_i(r.n_traffic)} | {_i(r.stops)} | {_f(r.exp_pos, 1)} | P{int(r.position)} | {r.status} |")
 
+    J["drivers"] = race.sort_values("position")[["code", "constructor_id", "start_pos", "quali_gap", "race_pace_gap",
+                                                    "n_clean", "n_traffic", "stops", "exp_pos", "p_win", "position",
+                                                    "status"]].round(4).to_dict("records")
     fin = race[race["classified"].astype(bool)]
     if pred is not None and len(fin):
         over = fin.nsmallest(3, "miss")
         under = race.nlargest(3, "miss")
+        J["over"] = [{"code": r.code, "expected": round(r.exp_pos, 1), "finish": int(r.position)} for _, r in over.iterrows()]
+        J["under"] = [{"code": r.code, "expected": round(r.exp_pos, 1), "finish": int(r.position)} for _, r in under.iterrows()]
         L += ["", "## Over / under-delivered vs forecast", "",
               "Over-delivered: " + ", ".join(f"{r.code} (exp {r.exp_pos:.1f} → P{int(r.position)})" for _, r in over.iterrows()),
               "", "Under-delivered: " + ", ".join(f"{r.code} (exp {r.exp_pos:.1f} → P{int(r.position)})" for _, r in under.iterrows())]
@@ -129,15 +138,23 @@ def pace_report(results: pd.DataFrame, season: int, rnd: int) -> str:
         L.append("")
         L.append("Top win probabilities: " + ", ".join(f"{r.code} {r.p_win:.0%}" for _, r in top.iterrows())
                  + f". Winner: **{winner.code}** (forecast {winner.p_win:.0%}).")
+        J["forecast"] = {"model_version": e["model_version"], "logged_at": e["logged_at"], "race_utc": e["race_utc"],
+                         "late": e["late"], "top": [{"code": r.code, "p_win": float(r.p_win)} for _, r in top.iterrows()],
+                         "winner": winner.code, "winner_p": float(winner.p_win)}
         sc = [s for s in predlog.read_scores() if s["season"] == season and s["round"] == rnd and s["role"] == "champion"]
         if sc:
             m, b = sc[-1]["metrics"], sc[-1]["baselines"]
             L += ["", "| Metric | Model | Grid baseline | Pole baseline | Uniform |", "|---|---|---|---|---|"]
             for k in ["winner_logloss", "podium_brier", "top10_brier", "spearman", "mae_pos"]:
                 L.append(f"| {k} | {m[k]:.3f} | {b['grid'][k]:.3f} | {b['pole'][k]:.3f} | {b['uniform'][k]:.3f} |")
+            J["scores"] = {k: {"model": m[k], "grid": b["grid"][k], "pole": b["pole"][k], "uniform": b["uniform"][k]}
+                           for k in ["winner_logloss", "podium_brier", "top10_brier", "spearman", "mae_pos"]}
         L += ["", "Biggest misses (explanations are hypotheses unless stated as recorded status):", ""]
+        J["misses"] = []
         for _, r in race.reindex(race["miss"].abs().sort_values(ascending=False).index).head(5).iterrows():
             L.append(f"- **{r.code}**: expected {r.exp_pos:.1f}, finished P{int(r.position)}. " + "; ".join(_hypotheses(r, race_info)))
+            J["misses"].append({"code": r.code, "expected": round(float(r.exp_pos), 1), "finish": int(r.position),
+                                "hypotheses": _hypotheses(r, race_info)})
 
     # ---- takeaways
     T = []
@@ -159,8 +176,19 @@ def pace_report(results: pd.DataFrame, season: int, rnd: int) -> str:
     L += ["", "## Takeaways for the model", ""] + [f"- {t}" for t in (T or ["Nothing unusual flagged."])]
     text = "\n".join(L) + "\n"
     REPORTS.mkdir(exist_ok=True)
-    (REPORTS / f"{season}_{rnd:02d}_pace.md").write_text(text)
+    (REPORTS / f"{season}_{rnd:02d}_pace.md").write_text(text)  # local, gitignored
+    J["takeaways"] = T or ["Nothing unusual flagged."]
+    import json
+    (REPORTS / f"{season}_{rnd:02d}_pace.json").write_text(json.dumps(J, indent=1, default=_jsonable))
     return text
+
+
+def _jsonable(o):
+    if isinstance(o, np.floating | np.integer):
+        return None if isinstance(o, np.floating) and np.isnan(o) else o.item()
+    if isinstance(o, float) and np.isnan(o):
+        return None
+    return str(o)
 
 
 def _f(x, d=3):

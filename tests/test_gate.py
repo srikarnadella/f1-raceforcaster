@@ -59,3 +59,16 @@ def test_generated_candidates_change_one_thing():
     assert cands[0]["slug"] not in picked                     # just tried: skipped
     picked_later = {c["slug"] for c in pick_candidates("v1", DEFAULT_SPEC, 273 + 6, log) if c.get("auto")}
     assert cands[0]["slug"] in picked_later                   # re-eligible after 6 more races
+
+
+def test_candidates_identical_to_the_champion_are_skipped(tmp_path, monkeypatch):
+    from f1 import improve
+    from f1.models import DEFAULT_SPEC
+    champ = improve.deep_merge(DEFAULT_SPEC, {"strength": {"adaptive_win_temperature": 24}})
+    q = tmp_path / "queue.json"
+    q.write_text(__import__("json").dumps([
+        {"slug": "already-in-champion", "patch": {"strength": {"adaptive_win_temperature": 24}}},
+        {"slug": "real-change", "patch": {"strength": {"l2": 3.0}}}]))
+    monkeypatch.setattr(improve, "EXP_QUEUE", q)
+    slugs = [c["slug"] for c in improve.pick_candidates("v3", champ, 270, [])]
+    assert "already-in-champion" not in slugs and slugs[0] == "real-change"

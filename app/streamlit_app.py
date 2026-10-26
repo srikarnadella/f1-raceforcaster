@@ -61,12 +61,67 @@ def next_race():
 
 
 def last_weekend():
-    reports = sorted((ROOT / "reports").glob("*_pace.md"))
+    reports = sorted((ROOT / "reports").glob("*_pace.json"), reverse=True)
     if not reports:
-        st.info("No post-race review yet.")
+        st.info("No post-race review yet. It is written automatically a few hours after each race.")
         return
-    pick = st.selectbox("Race", [r.stem for r in reversed(reports)])
-    st.markdown((ROOT / "reports" / f"{pick}.md").read_text())
+    head = st.container()
+    pick = st.selectbox("Race", reports, format_func=lambda p: (lambda d: f"{d['season']} R{d['round']} · {d['race_name']}")(
+        json.loads(p.read_text())), key="lw_pick")
+    d = json.loads(pick.read_text())
+    f = d.get("forecast")
+    finding = None
+    if f:
+        rank = [t["code"] for t in f["top"]].index(f["winner"]) + 1 if f["winner"] in [t["code"] for t in f["top"]] else None
+        finding = (f"{f['winner']} won; the forecast (model {f['model_version']}) gave them {f['winner_p']:.0%}"
+                   + (f", the {['', 'top', 'second', 'third', 'fourth', 'fifth'][rank]} pick." if rank else ".")
+                   + (" Logged after the start, so it does not count." if f["late"] else ""))
+    with head:
+        ui.title(d["race_name"], finding, scope=f"{d['season']} · round {d['round']} · post-race review")
+    sc = d.get("scores")
+    if sc:
+        def cell(k, label, better_low=True, fmt="{:.3f}"):
+            m, g = sc[k]["model"], sc[k]["grid"]
+            good = m < g if better_low else m > g
+            return (label, fmt.format(m), None, f"grid baseline {fmt.format(g)}", "pos" if good else "neg")
+        ui.kpis([cell("winner_logloss", "Winner log-loss"), cell("podium_brier", "Podium Brier"),
+                 cell("top10_brier", "Top-10 Brier"), cell("spearman", "Order (Spearman)", better_low=False),
+                 cell("mae_pos", "Position error", fmt="{:.2f}")])
+    elif not f:
+        st.info("No pre-race forecast was logged for this race, so there is nothing to score.")
+    left, right = st.columns([3, 2], gap="medium")
+    with left:
+        st.subheader("Team pace")
+        t = pd.DataFrame(d.get("teams", []))
+        if len(t):
+            long = t.melt(id_vars=["team"], value_vars=["quali_gap", "race_pace_gap"], var_name="measure", value_name="gap")
+            long["measure"] = long["measure"].map({"quali_gap": "qualifying", "race_pace_gap": "race pace"})
+            st.altair_chart(alt.Chart(long.dropna()).mark_bar().encode(
+                y=alt.Y("team:N", sort=list(t.sort_values("quali_gap")["team"]), title=None),
+                x=alt.X("gap:Q", title="% gap to the fastest (best driver)"), yOffset="measure:N",
+                color=alt.Color("measure:N", scale=alt.Scale(range=[ui.ACCENT, "#d9a441"]), title=None),
+                tooltip=["team", "measure", alt.Tooltip("gap:Q", format=".3f")]).properties(height=360), width="stretch")
+        rm = d.get("race_model", {})
+        if rm.get("fuel") is not None:
+            ui.note(f"Race lap model: fuel {rm['fuel']:+.3f} s/lap, tyre wear {rm['deg']:+.3f} s/lap, "
+                    f"{rm.get('neutral_laps', 0)} neutralised lap(s), median {rm.get('median_stops', 0):.0f} stop(s).")
+    with right:
+        st.subheader("Biggest misses")
+        for m in d.get("misses", []):
+            st.markdown(f"**{m['code']}**: expected P{m['expected']}, finished P{m['finish']}  \n"
+                        + "; ".join(m["hypotheses"]))
+        st.subheader("Takeaways for the model")
+        st.markdown("\n".join(f"- {x}" for x in d.get("takeaways", [])))
+    st.subheader("Drivers")
+    dr = pd.DataFrame(d.get("drivers", []))
+    if len(dr):
+        st.dataframe(dr.rename(columns={"code": "Driver", "constructor_id": "Team", "start_pos": "Quali", "quali_gap": "Quali gap %",
+                                        "race_pace_gap": "Race pace gap %", "n_clean": "Clean laps", "n_traffic": "Traffic laps",
+                                        "stops": "Stops", "exp_pos": "Predicted", "p_win": "P(win)", "position": "Finish",
+                                        "status": "Status"}).style.format(
+            {"Quali gap %": "{:.3f}", "Race pace gap %": "{:.3f}", "Predicted": "{:.1f}", "P(win)": "{:.1%}",
+             "Quali": "{:.0f}", "Clean laps": "{:.0f}", "Traffic laps": "{:.0f}", "Stops": "{:.0f}"}, na_rep="–"),
+            hide_index=True, width="stretch")
 
 
 def championship():

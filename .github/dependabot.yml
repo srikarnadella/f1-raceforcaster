@@ -4,6 +4,16 @@ updates:
     directory: "/"
     schedule: { interval: weekly }
     open-pull-requests-limit: 5
+    ignore:
+      # numpy 2.4+ breaks pandas 2.3 timedelta arithmetic (see requirements.txt); revisit with pandas 3
+      - dependency-name: numpy
+        versions: [">=2.4"]
+      # pandas 3 changes copy-on-write and dtype defaults; needs a planned migration, not an auto-bump
+      - dependency-name: pandas
+        versions: [">=3"]
+    groups:
+      dev-tools:
+        patterns: ["ruff", "mypy", "pytest*", "pre-commit"]
   - package-ecosystem: github-actions
     directory: "/"
     schedule: { interval: weekly }

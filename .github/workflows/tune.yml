@@ -1,0 +1,77 @@
+name: tune
+
+# Weekly model tuning. Proposes, never promotes: newly calibrated settings are queued in
+# experiments/queue.json and the post-race improvement cycle (race-weekend.yml) decides with the
+# promotion gate. Runs mid-week so it never overlaps a race weekend.
+
+on:
+  schedule:
+    - cron: "0 6 * * 3"          # Wednesday 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      trials:
+        description: "Optuna trials for the race simulator"
+        required: false
+        default: "30"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-writer
+  cancel-in-progress: false
+
+jobs:
+  tune:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: api-cache-${{ github.run_id }}
+          restore-keys: api-cache-
+
+      - name: Tests (leakage, gate, contracts)
+        run: python -m pytest -q
+
+      - name: Calibrate the race simulator (Optuna, last two completed seasons)
+        run: |
+          y=$(python -c "from f1 import ingest; print(int(ingest.load_results()['season'].max()) - 1)")
+          python scripts/race_sim_lab.py --calib $((y - 1))-$y --trials ${{ inputs.trials || '30' }}
+
+      - name: Queue the tuned settings for the next improvement cycle
+        run: python scripts/queue_tuned.py
+
+      - name: Refresh the labs (P1/podium, 2026 analysis, winner diagnosis, pace methods)
+        run: |
+          python scripts/podium_lab.py
+          python scripts/winner_analysis.py
+          python scripts/analysis_2026.py
+          python scripts/eval_methods.py
+
+      - name: Keep the MLflow tracking database
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mlflow-tune-${{ github.run_id }}
+          path: mlflow.db
+          if-no-files-found: ignore
+          retention-days: 30
+
+      - name: Commit reports and queue
+        run: |
+          git config user.name "f1-forecaster-bot"
+          git config user.email "f1-forecaster-bot@users.noreply.github.com"
+          git add reports experiments
+          if ! git diff --cached --quiet; then
+            git commit -m "Automated tuning: simulator calibration, labs, queued candidate"
+            git pull --rebase
+            git push
+          fi

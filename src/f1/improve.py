@@ -163,7 +163,8 @@ def pick_candidates(champ_v: str, champ_spec: dict, n_races: int, log: list[dict
     gen.sort(key=lambda c: hashlib.sha1(f"{c['slug']}|{champ_v}".encode()).hexdigest())
     for c in gen:
         c["auto"] = True
-    return queue + gen
+    # a candidate that changes nothing (e.g. already in the champion) would only re-test the champion
+    return [c for c in queue + gen if deep_merge(champ_spec, c["patch"]) != champ_spec]
 
 
 def run_cycle(next_race: tuple[int, int], dry_run: bool = False) -> dict:

@@ -24,7 +24,8 @@ def main():
     res = ingest.load_results()
     reg = registry.ensure_initialized()
     champ = registry.champion_spec(reg)
-    sim = json.loads((REPORTS / "race_sim_lab.json").read_text())["runs"]["2023-2024"]["params"]
+    runs = json.loads((REPORTS / "race_sim_lab.json").read_text())["runs"]
+    sim = runs[max(runs, key=lambda k: k.split("-")[-1])]["params"]  # latest calibration
     sim = {k: v for k, v in sim.items() if k != "n_sims"} | {"n_sims": 1000}
     cands = {
         "win-temperature-1.2": {"strength": {"win_temperature": 1.2}},
