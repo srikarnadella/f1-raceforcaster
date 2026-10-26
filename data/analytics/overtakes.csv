@@ -1,1434 +1,1434 @@
 season,round,circuit_id,race_name,format,driver_id,overtakes,conceded
-2023,1,bahrain,Bahrain Grand Prix,conventional,norris,1,0
-2023,1,bahrain,Bahrain Grand Prix,conventional,alonso,3,0
-2023,1,bahrain,Bahrain Grand Prix,conventional,perez,1,0
 2023,1,bahrain,Bahrain Grand Prix,conventional,bottas,1,4
-2023,1,bahrain,Bahrain Grand Prix,conventional,hamilton,0,1
+2023,1,bahrain,Bahrain Grand Prix,conventional,piastri,0,3
+2023,1,bahrain,Bahrain Grand Prix,conventional,stroll,2,0
+2023,1,bahrain,Bahrain Grand Prix,conventional,tsunoda,2,0
+2023,1,bahrain,Bahrain Grand Prix,conventional,sainz,0,1
+2023,1,bahrain,Bahrain Grand Prix,conventional,russell,1,0
+2023,1,bahrain,Bahrain Grand Prix,conventional,sargeant,2,0
+2023,1,bahrain,Bahrain Grand Prix,conventional,alonso,3,0
+2023,1,bahrain,Bahrain Grand Prix,conventional,norris,1,0
+2023,1,bahrain,Bahrain Grand Prix,conventional,gasly,1,0
 2023,1,bahrain,Bahrain Grand Prix,conventional,zhou,3,1
 2023,1,bahrain,Bahrain Grand Prix,conventional,ocon,0,1
+2023,1,bahrain,Bahrain Grand Prix,conventional,hulkenberg,0,2
 2023,1,bahrain,Bahrain Grand Prix,conventional,leclerc,0,1
+2023,1,bahrain,Bahrain Grand Prix,conventional,hamilton,0,1
 2023,1,bahrain,Bahrain Grand Prix,conventional,de_vries,1,3
 2023,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,1,2
-2023,1,bahrain,Bahrain Grand Prix,conventional,tsunoda,2,0
-2023,1,bahrain,Bahrain Grand Prix,conventional,hulkenberg,0,2
-2023,1,bahrain,Bahrain Grand Prix,conventional,gasly,1,0
-2023,1,bahrain,Bahrain Grand Prix,conventional,russell,1,0
-2023,1,bahrain,Bahrain Grand Prix,conventional,stroll,2,0
-2023,1,bahrain,Bahrain Grand Prix,conventional,sargeant,2,0
-2023,1,bahrain,Bahrain Grand Prix,conventional,piastri,0,3
-2023,1,bahrain,Bahrain Grand Prix,conventional,sainz,0,1
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,2,1
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,alonso,0,2
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,1,0
+2023,1,bahrain,Bahrain Grand Prix,conventional,perez,1,0
 2023,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,0,1
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,1,2
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,1,1
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,1,2
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,3,0
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,de_vries,2,0
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,kevin_magnussen,1,1
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,0,3
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,1,0
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,gasly,1,2
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,0,1
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,1,1
 2023,2,jeddah,Saudi Arabian Grand Prix,conventional,piastri,2,2
-2023,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,7,0
 2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sainz,0,1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,0,3
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,0,1
 2023,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,0,4
-2023,3,albert_park,Australian Grand Prix,conventional,norris,3,2
-2023,3,albert_park,Australian Grand Prix,conventional,perez,10,0
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,alonso,0,2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,2,1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,7,0
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,gasly,1,2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,1,2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,1,1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,1,1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,3,0
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,1,0
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,de_vries,2,0
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,1,2
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,kevin_magnussen,1,1
+2023,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,1,0
 2023,3,albert_park,Australian Grand Prix,conventional,bottas,1,0
-2023,3,albert_park,Australian Grand Prix,conventional,hamilton,0,1
-2023,3,albert_park,Australian Grand Prix,conventional,zhou,2,4
-2023,3,albert_park,Australian Grand Prix,conventional,ocon,4,1
-2023,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,3,1
-2023,3,albert_park,Australian Grand Prix,conventional,de_vries,0,1
-2023,3,albert_park,Australian Grand Prix,conventional,tsunoda,1,7
-2023,3,albert_park,Australian Grand Prix,conventional,gasly,1,2
-2023,3,albert_park,Australian Grand Prix,conventional,russell,1,11
-2023,3,albert_park,Australian Grand Prix,conventional,stroll,1,1
-2023,3,albert_park,Australian Grand Prix,conventional,hulkenberg,1,3
 2023,3,albert_park,Australian Grand Prix,conventional,piastri,2,2
-2023,3,albert_park,Australian Grand Prix,conventional,max_verstappen,1,0
+2023,3,albert_park,Australian Grand Prix,conventional,stroll,1,1
 2023,3,albert_park,Australian Grand Prix,conventional,sainz,6,0
+2023,3,albert_park,Australian Grand Prix,conventional,tsunoda,1,7
+2023,3,albert_park,Australian Grand Prix,conventional,russell,1,11
 2023,3,albert_park,Australian Grand Prix,conventional,sargeant,0,1
-2023,4,baku,Azerbaijan Grand Prix,sprint,norris,2,1
-2023,4,baku,Azerbaijan Grand Prix,sprint,albon,1,0
-2023,4,baku,Azerbaijan Grand Prix,sprint,gasly,3,0
-2023,4,baku,Azerbaijan Grand Prix,sprint,perez,1,0
+2023,3,albert_park,Australian Grand Prix,conventional,norris,3,2
+2023,3,albert_park,Australian Grand Prix,conventional,max_verstappen,1,0
+2023,3,albert_park,Australian Grand Prix,conventional,gasly,1,2
+2023,3,albert_park,Australian Grand Prix,conventional,ocon,4,1
+2023,3,albert_park,Australian Grand Prix,conventional,zhou,2,4
+2023,3,albert_park,Australian Grand Prix,conventional,hulkenberg,1,3
+2023,3,albert_park,Australian Grand Prix,conventional,hamilton,0,1
+2023,3,albert_park,Australian Grand Prix,conventional,de_vries,0,1
+2023,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,3,1
+2023,3,albert_park,Australian Grand Prix,conventional,perez,10,0
 2023,4,baku,Azerbaijan Grand Prix,sprint,bottas,0,1
-2023,4,baku,Azerbaijan Grand Prix,sprint,hamilton,1,0
-2023,4,baku,Azerbaijan Grand Prix,sprint,russell,0,1
-2023,4,baku,Azerbaijan Grand Prix,sprint,zhou,0,3
-2023,4,baku,Azerbaijan Grand Prix,sprint,leclerc,0,2
-2023,4,baku,Azerbaijan Grand Prix,sprint,sargeant,1,1
-2023,4,baku,Azerbaijan Grand Prix,sprint,kevin_magnussen,1,0
 2023,4,baku,Azerbaijan Grand Prix,sprint,piastri,1,0
 2023,4,baku,Azerbaijan Grand Prix,sprint,max_verstappen,1,0
+2023,4,baku,Azerbaijan Grand Prix,sprint,gasly,3,0
 2023,4,baku,Azerbaijan Grand Prix,sprint,tsunoda,1,0
+2023,4,baku,Azerbaijan Grand Prix,sprint,zhou,0,3
+2023,4,baku,Azerbaijan Grand Prix,sprint,russell,0,1
 2023,4,baku,Azerbaijan Grand Prix,sprint,hulkenberg,1,5
-2023,5,miami,Miami Grand Prix,conventional,norris,1,2
-2023,5,miami,Miami Grand Prix,conventional,alonso,2,1
-2023,5,miami,Miami Grand Prix,conventional,perez,0,1
+2023,4,baku,Azerbaijan Grand Prix,sprint,hamilton,1,0
+2023,4,baku,Azerbaijan Grand Prix,sprint,albon,1,0
+2023,4,baku,Azerbaijan Grand Prix,sprint,leclerc,0,2
+2023,4,baku,Azerbaijan Grand Prix,sprint,kevin_magnussen,1,0
+2023,4,baku,Azerbaijan Grand Prix,sprint,sargeant,1,1
+2023,4,baku,Azerbaijan Grand Prix,sprint,norris,2,1
+2023,4,baku,Azerbaijan Grand Prix,sprint,perez,1,0
 2023,5,miami,Miami Grand Prix,conventional,bottas,0,2
-2023,5,miami,Miami Grand Prix,conventional,ocon,1,3
-2023,5,miami,Miami Grand Prix,conventional,kevin_magnussen,3,4
-2023,5,miami,Miami Grand Prix,conventional,tsunoda,3,1
-2023,5,miami,Miami Grand Prix,conventional,gasly,2,4
+2023,5,miami,Miami Grand Prix,conventional,piastri,0,2
 2023,5,miami,Miami Grand Prix,conventional,stroll,4,2
-2023,5,miami,Miami Grand Prix,conventional,max_verstappen,7,0
+2023,5,miami,Miami Grand Prix,conventional,russell,8,1
+2023,5,miami,Miami Grand Prix,conventional,alonso,2,1
+2023,5,miami,Miami Grand Prix,conventional,ocon,1,3
+2023,5,miami,Miami Grand Prix,conventional,hulkenberg,1,4
 2023,5,miami,Miami Grand Prix,conventional,hamilton,5,1
+2023,5,miami,Miami Grand Prix,conventional,tsunoda,3,1
+2023,5,miami,Miami Grand Prix,conventional,sainz,2,3
+2023,5,miami,Miami Grand Prix,conventional,norris,1,2
+2023,5,miami,Miami Grand Prix,conventional,max_verstappen,7,0
+2023,5,miami,Miami Grand Prix,conventional,gasly,2,4
 2023,5,miami,Miami Grand Prix,conventional,zhou,1,5
 2023,5,miami,Miami Grand Prix,conventional,leclerc,3,4
-2023,5,miami,Miami Grand Prix,conventional,de_vries,1,0
 2023,5,miami,Miami Grand Prix,conventional,albon,0,4
-2023,5,miami,Miami Grand Prix,conventional,russell,8,1
-2023,5,miami,Miami Grand Prix,conventional,hulkenberg,1,4
-2023,5,miami,Miami Grand Prix,conventional,piastri,0,2
-2023,5,miami,Miami Grand Prix,conventional,sainz,2,3
+2023,5,miami,Miami Grand Prix,conventional,de_vries,1,0
+2023,5,miami,Miami Grand Prix,conventional,kevin_magnussen,3,4
+2023,5,miami,Miami Grand Prix,conventional,perez,0,1
 2023,6,monaco,Monaco Grand Prix,conventional,kevin_magnussen,1,0
+2023,6,monaco,Monaco Grand Prix,conventional,sargeant,0,3
 2023,6,monaco,Monaco Grand Prix,conventional,stroll,1,0
 2023,6,monaco,Monaco Grand Prix,conventional,perez,1,0
-2023,6,monaco,Monaco Grand Prix,conventional,sargeant,0,3
-2023,7,catalunya,Spanish Grand Prix,conventional,norris,3,0
-2023,7,catalunya,Spanish Grand Prix,conventional,alonso,3,2
-2023,7,catalunya,Spanish Grand Prix,conventional,perez,5,0
 2023,7,catalunya,Spanish Grand Prix,conventional,bottas,1,5
-2023,7,catalunya,Spanish Grand Prix,conventional,hamilton,2,0
+2023,7,catalunya,Spanish Grand Prix,conventional,piastri,1,3
+2023,7,catalunya,Spanish Grand Prix,conventional,stroll,0,2
+2023,7,catalunya,Spanish Grand Prix,conventional,tsunoda,4,3
+2023,7,catalunya,Spanish Grand Prix,conventional,sainz,0,3
+2023,7,catalunya,Spanish Grand Prix,conventional,russell,4,0
+2023,7,catalunya,Spanish Grand Prix,conventional,sargeant,0,7
+2023,7,catalunya,Spanish Grand Prix,conventional,alonso,3,2
+2023,7,catalunya,Spanish Grand Prix,conventional,norris,3,0
+2023,7,catalunya,Spanish Grand Prix,conventional,gasly,2,0
 2023,7,catalunya,Spanish Grand Prix,conventional,zhou,2,2
 2023,7,catalunya,Spanish Grand Prix,conventional,ocon,2,3
 2023,7,catalunya,Spanish Grand Prix,conventional,leclerc,5,0
-2023,7,catalunya,Spanish Grand Prix,conventional,de_vries,1,2
-2023,7,catalunya,Spanish Grand Prix,conventional,kevin_magnussen,3,1
-2023,7,catalunya,Spanish Grand Prix,conventional,tsunoda,4,3
-2023,7,catalunya,Spanish Grand Prix,conventional,albon,0,2
-2023,7,catalunya,Spanish Grand Prix,conventional,gasly,2,0
-2023,7,catalunya,Spanish Grand Prix,conventional,russell,4,0
-2023,7,catalunya,Spanish Grand Prix,conventional,stroll,0,2
+2023,7,catalunya,Spanish Grand Prix,conventional,hamilton,2,0
 2023,7,catalunya,Spanish Grand Prix,conventional,hulkenberg,3,6
-2023,7,catalunya,Spanish Grand Prix,conventional,piastri,1,3
-2023,7,catalunya,Spanish Grand Prix,conventional,sainz,0,3
-2023,7,catalunya,Spanish Grand Prix,conventional,sargeant,0,7
-2023,8,villeneuve,Canadian Grand Prix,conventional,norris,2,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,alonso,1,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,albon,1,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,gasly,1,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,de_vries,0,5
+2023,7,catalunya,Spanish Grand Prix,conventional,de_vries,1,2
+2023,7,catalunya,Spanish Grand Prix,conventional,albon,0,2
+2023,7,catalunya,Spanish Grand Prix,conventional,kevin_magnussen,3,1
+2023,7,catalunya,Spanish Grand Prix,conventional,perez,5,0
 2023,8,villeneuve,Canadian Grand Prix,conventional,bottas,1,3
-2023,8,villeneuve,Canadian Grand Prix,conventional,russell,1,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,zhou,1,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,hamilton,0,1
-2023,8,villeneuve,Canadian Grand Prix,conventional,stroll,2,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,ocon,2,0
-2023,8,villeneuve,Canadian Grand Prix,conventional,hulkenberg,1,3
-2023,8,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,1,5
 2023,8,villeneuve,Canadian Grand Prix,conventional,piastri,2,0
+2023,8,villeneuve,Canadian Grand Prix,conventional,stroll,2,0
+2023,8,villeneuve,Canadian Grand Prix,conventional,gasly,1,0
 2023,8,villeneuve,Canadian Grand Prix,conventional,tsunoda,1,0
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,norris,0,1
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,alonso,0,1
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,perez,6,1
+2023,8,villeneuve,Canadian Grand Prix,conventional,ocon,2,0
+2023,8,villeneuve,Canadian Grand Prix,conventional,zhou,1,0
+2023,8,villeneuve,Canadian Grand Prix,conventional,russell,1,0
+2023,8,villeneuve,Canadian Grand Prix,conventional,hulkenberg,1,3
+2023,8,villeneuve,Canadian Grand Prix,conventional,hamilton,0,1
+2023,8,villeneuve,Canadian Grand Prix,conventional,albon,1,0
+2023,8,villeneuve,Canadian Grand Prix,conventional,de_vries,0,5
+2023,8,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,1,5
+2023,8,villeneuve,Canadian Grand Prix,conventional,alonso,1,0
+2023,8,villeneuve,Canadian Grand Prix,conventional,norris,2,0
 2023,9,red_bull_ring,Austrian Grand Prix,sprint,bottas,2,5
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,hamilton,0,1
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,zhou,1,0
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,piastri,2,1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,stroll,4,0
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,sainz,2,0
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,tsunoda,1,3
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,russell,3,2
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,sargeant,1,0
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,alonso,0,1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,norris,0,1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,max_verstappen,1,0
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,gasly,2,1
 2023,9,red_bull_ring,Austrian Grand Prix,sprint,ocon,3,1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,zhou,1,0
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,0,1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,hamilton,0,1
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,albon,1,1
 2023,9,red_bull_ring,Austrian Grand Prix,sprint,leclerc,0,1
 2023,9,red_bull_ring,Austrian Grand Prix,sprint,kevin_magnussen,0,9
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,tsunoda,1,3
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,0,1
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,albon,1,1
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,gasly,2,1
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,russell,3,2
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,stroll,4,0
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,sargeant,1,0
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,piastri,2,1
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,max_verstappen,1,0
-2023,9,red_bull_ring,Austrian Grand Prix,sprint,sainz,2,0
-2023,10,silverstone,British Grand Prix,conventional,norris,0,1
-2023,10,silverstone,British Grand Prix,conventional,alonso,0,2
-2023,10,silverstone,British Grand Prix,conventional,perez,5,0
+2023,9,red_bull_ring,Austrian Grand Prix,sprint,perez,6,1
 2023,10,silverstone,British Grand Prix,conventional,bottas,1,0
-2023,10,silverstone,British Grand Prix,conventional,hamilton,1,0
+2023,10,silverstone,British Grand Prix,conventional,stroll,1,3
+2023,10,silverstone,British Grand Prix,conventional,sainz,1,3
+2023,10,silverstone,British Grand Prix,conventional,tsunoda,1,3
+2023,10,silverstone,British Grand Prix,conventional,russell,1,0
+2023,10,silverstone,British Grand Prix,conventional,sargeant,2,0
+2023,10,silverstone,British Grand Prix,conventional,alonso,0,2
+2023,10,silverstone,British Grand Prix,conventional,norris,0,1
+2023,10,silverstone,British Grand Prix,conventional,max_verstappen,1,0
+2023,10,silverstone,British Grand Prix,conventional,gasly,1,7
 2023,10,silverstone,British Grand Prix,conventional,zhou,3,0
 2023,10,silverstone,British Grand Prix,conventional,leclerc,2,1
-2023,10,silverstone,British Grand Prix,conventional,de_vries,1,1
-2023,10,silverstone,British Grand Prix,conventional,tsunoda,1,3
+2023,10,silverstone,British Grand Prix,conventional,hamilton,1,0
 2023,10,silverstone,British Grand Prix,conventional,hulkenberg,2,2
+2023,10,silverstone,British Grand Prix,conventional,de_vries,1,1
 2023,10,silverstone,British Grand Prix,conventional,albon,1,1
-2023,10,silverstone,British Grand Prix,conventional,gasly,1,7
-2023,10,silverstone,British Grand Prix,conventional,russell,1,0
-2023,10,silverstone,British Grand Prix,conventional,stroll,1,3
-2023,10,silverstone,British Grand Prix,conventional,sargeant,2,0
-2023,10,silverstone,British Grand Prix,conventional,max_verstappen,1,0
-2023,10,silverstone,British Grand Prix,conventional,sainz,1,3
-2023,11,hungaroring,Hungarian Grand Prix,conventional,alonso,1,1
-2023,11,hungaroring,Hungarian Grand Prix,conventional,perez,1,0
+2023,10,silverstone,British Grand Prix,conventional,perez,5,0
 2023,11,hungaroring,Hungarian Grand Prix,conventional,bottas,0,1
-2023,11,hungaroring,Hungarian Grand Prix,conventional,hamilton,2,0
-2023,11,hungaroring,Hungarian Grand Prix,conventional,zhou,1,0
-2023,11,hungaroring,Hungarian Grand Prix,conventional,leclerc,1,0
-2023,11,hungaroring,Hungarian Grand Prix,conventional,ricciardo,1,0
-2023,11,hungaroring,Hungarian Grand Prix,conventional,kevin_magnussen,0,2
-2023,11,hungaroring,Hungarian Grand Prix,conventional,tsunoda,1,2
-2023,11,hungaroring,Hungarian Grand Prix,conventional,albon,1,0
-2023,11,hungaroring,Hungarian Grand Prix,conventional,russell,3,1
-2023,11,hungaroring,Hungarian Grand Prix,conventional,stroll,1,2
-2023,11,hungaroring,Hungarian Grand Prix,conventional,sargeant,0,2
 2023,11,hungaroring,Hungarian Grand Prix,conventional,piastri,0,1
+2023,11,hungaroring,Hungarian Grand Prix,conventional,stroll,1,2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,tsunoda,1,2
 2023,11,hungaroring,Hungarian Grand Prix,conventional,sainz,0,1
-2023,12,spa,Belgian Grand Prix,sprint,norris,2,7
-2023,12,spa,Belgian Grand Prix,sprint,alonso,4,0
-2023,12,spa,Belgian Grand Prix,sprint,perez,0,1
+2023,11,hungaroring,Hungarian Grand Prix,conventional,russell,3,1
+2023,11,hungaroring,Hungarian Grand Prix,conventional,sargeant,0,2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,alonso,1,1
+2023,11,hungaroring,Hungarian Grand Prix,conventional,zhou,1,0
+2023,11,hungaroring,Hungarian Grand Prix,conventional,ricciardo,1,0
+2023,11,hungaroring,Hungarian Grand Prix,conventional,leclerc,1,0
+2023,11,hungaroring,Hungarian Grand Prix,conventional,hamilton,2,0
+2023,11,hungaroring,Hungarian Grand Prix,conventional,albon,1,0
+2023,11,hungaroring,Hungarian Grand Prix,conventional,kevin_magnussen,0,2
+2023,11,hungaroring,Hungarian Grand Prix,conventional,perez,1,0
 2023,12,spa,Belgian Grand Prix,sprint,bottas,1,2
-2023,12,spa,Belgian Grand Prix,sprint,hamilton,0,1
-2023,12,spa,Belgian Grand Prix,sprint,zhou,4,4
-2023,12,spa,Belgian Grand Prix,sprint,ocon,7,1
-2023,12,spa,Belgian Grand Prix,sprint,leclerc,0,1
-2023,12,spa,Belgian Grand Prix,sprint,ricciardo,2,2
-2023,12,spa,Belgian Grand Prix,sprint,kevin_magnussen,0,3
-2023,12,spa,Belgian Grand Prix,sprint,tsunoda,2,1
-2023,12,spa,Belgian Grand Prix,sprint,hulkenberg,3,4
-2023,12,spa,Belgian Grand Prix,sprint,albon,6,3
-2023,12,spa,Belgian Grand Prix,sprint,gasly,3,2
-2023,12,spa,Belgian Grand Prix,sprint,russell,3,1
 2023,12,spa,Belgian Grand Prix,sprint,stroll,2,4
-2023,12,spa,Belgian Grand Prix,sprint,sargeant,4,2
-2023,12,spa,Belgian Grand Prix,sprint,max_verstappen,3,0
+2023,12,spa,Belgian Grand Prix,sprint,tsunoda,2,1
 2023,12,spa,Belgian Grand Prix,sprint,sainz,0,7
-2023,13,zandvoort,Dutch Grand Prix,conventional,norris,5,1
-2023,13,zandvoort,Dutch Grand Prix,conventional,alonso,2,0
+2023,12,spa,Belgian Grand Prix,sprint,russell,3,1
+2023,12,spa,Belgian Grand Prix,sprint,sargeant,4,2
+2023,12,spa,Belgian Grand Prix,sprint,alonso,4,0
+2023,12,spa,Belgian Grand Prix,sprint,norris,2,7
+2023,12,spa,Belgian Grand Prix,sprint,max_verstappen,3,0
+2023,12,spa,Belgian Grand Prix,sprint,gasly,3,2
+2023,12,spa,Belgian Grand Prix,sprint,ocon,7,1
+2023,12,spa,Belgian Grand Prix,sprint,zhou,4,4
+2023,12,spa,Belgian Grand Prix,sprint,ricciardo,2,2
+2023,12,spa,Belgian Grand Prix,sprint,hulkenberg,3,4
+2023,12,spa,Belgian Grand Prix,sprint,leclerc,0,1
+2023,12,spa,Belgian Grand Prix,sprint,albon,6,3
+2023,12,spa,Belgian Grand Prix,sprint,hamilton,0,1
+2023,12,spa,Belgian Grand Prix,sprint,kevin_magnussen,0,3
+2023,12,spa,Belgian Grand Prix,sprint,perez,0,1
 2023,13,zandvoort,Dutch Grand Prix,conventional,bottas,1,5
-2023,13,zandvoort,Dutch Grand Prix,conventional,hamilton,7,0
-2023,13,zandvoort,Dutch Grand Prix,conventional,zhou,2,7
+2023,13,zandvoort,Dutch Grand Prix,conventional,piastri,6,0
+2023,13,zandvoort,Dutch Grand Prix,conventional,lawson,1,3
+2023,13,zandvoort,Dutch Grand Prix,conventional,stroll,2,0
+2023,13,zandvoort,Dutch Grand Prix,conventional,sainz,2,2
+2023,13,zandvoort,Dutch Grand Prix,conventional,tsunoda,2,10
+2023,13,zandvoort,Dutch Grand Prix,conventional,russell,4,2
+2023,13,zandvoort,Dutch Grand Prix,conventional,alonso,2,0
+2023,13,zandvoort,Dutch Grand Prix,conventional,norris,5,1
+2023,13,zandvoort,Dutch Grand Prix,conventional,max_verstappen,1,0
+2023,13,zandvoort,Dutch Grand Prix,conventional,gasly,2,0
 2023,13,zandvoort,Dutch Grand Prix,conventional,ocon,5,1
+2023,13,zandvoort,Dutch Grand Prix,conventional,zhou,2,7
+2023,13,zandvoort,Dutch Grand Prix,conventional,hulkenberg,3,2
+2023,13,zandvoort,Dutch Grand Prix,conventional,hamilton,7,0
+2023,13,zandvoort,Dutch Grand Prix,conventional,albon,5,1
 2023,13,zandvoort,Dutch Grand Prix,conventional,leclerc,0,9
 2023,13,zandvoort,Dutch Grand Prix,conventional,kevin_magnussen,1,8
-2023,13,zandvoort,Dutch Grand Prix,conventional,tsunoda,2,10
-2023,13,zandvoort,Dutch Grand Prix,conventional,albon,5,1
-2023,13,zandvoort,Dutch Grand Prix,conventional,gasly,2,0
-2023,13,zandvoort,Dutch Grand Prix,conventional,russell,4,2
-2023,13,zandvoort,Dutch Grand Prix,conventional,stroll,2,0
-2023,13,zandvoort,Dutch Grand Prix,conventional,lawson,1,3
-2023,13,zandvoort,Dutch Grand Prix,conventional,hulkenberg,3,2
-2023,13,zandvoort,Dutch Grand Prix,conventional,piastri,6,0
-2023,13,zandvoort,Dutch Grand Prix,conventional,max_verstappen,1,0
-2023,13,zandvoort,Dutch Grand Prix,conventional,sainz,2,2
-2023,14,monza,Italian Grand Prix,conventional,norris,6,1
-2023,14,monza,Italian Grand Prix,conventional,alonso,6,0
-2023,14,monza,Italian Grand Prix,conventional,perez,2,1
 2023,14,monza,Italian Grand Prix,conventional,bottas,1,7
-2023,14,monza,Italian Grand Prix,conventional,hamilton,4,4
+2023,14,monza,Italian Grand Prix,conventional,piastri,2,6
+2023,14,monza,Italian Grand Prix,conventional,lawson,5,6
+2023,14,monza,Italian Grand Prix,conventional,stroll,5,3
+2023,14,monza,Italian Grand Prix,conventional,sainz,0,6
+2023,14,monza,Italian Grand Prix,conventional,russell,0,5
+2023,14,monza,Italian Grand Prix,conventional,sargeant,1,0
+2023,14,monza,Italian Grand Prix,conventional,alonso,6,0
+2023,14,monza,Italian Grand Prix,conventional,norris,6,1
+2023,14,monza,Italian Grand Prix,conventional,max_verstappen,2,0
+2023,14,monza,Italian Grand Prix,conventional,gasly,6,0
 2023,14,monza,Italian Grand Prix,conventional,zhou,4,2
 2023,14,monza,Italian Grand Prix,conventional,ocon,0,4
+2023,14,monza,Italian Grand Prix,conventional,hulkenberg,3,5
+2023,14,monza,Italian Grand Prix,conventional,hamilton,4,4
+2023,14,monza,Italian Grand Prix,conventional,albon,4,3
 2023,14,monza,Italian Grand Prix,conventional,leclerc,1,3
 2023,14,monza,Italian Grand Prix,conventional,kevin_magnussen,5,1
-2023,14,monza,Italian Grand Prix,conventional,albon,4,3
-2023,14,monza,Italian Grand Prix,conventional,gasly,6,0
-2023,14,monza,Italian Grand Prix,conventional,russell,0,5
-2023,14,monza,Italian Grand Prix,conventional,stroll,5,3
-2023,14,monza,Italian Grand Prix,conventional,lawson,5,6
-2023,14,monza,Italian Grand Prix,conventional,hulkenberg,3,5
-2023,14,monza,Italian Grand Prix,conventional,piastri,2,6
-2023,14,monza,Italian Grand Prix,conventional,max_verstappen,2,0
-2023,14,monza,Italian Grand Prix,conventional,sainz,0,6
-2023,14,monza,Italian Grand Prix,conventional,sargeant,1,0
-2023,15,marina_bay,Singapore Grand Prix,conventional,norris,2,0
-2023,15,marina_bay,Singapore Grand Prix,conventional,alonso,0,1
-2023,15,marina_bay,Singapore Grand Prix,conventional,perez,2,1
+2023,14,monza,Italian Grand Prix,conventional,perez,2,1
 2023,15,marina_bay,Singapore Grand Prix,conventional,bottas,0,4
-2023,15,marina_bay,Singapore Grand Prix,conventional,hamilton,2,1
+2023,15,marina_bay,Singapore Grand Prix,conventional,piastri,0,1
+2023,15,marina_bay,Singapore Grand Prix,conventional,lawson,1,1
+2023,15,marina_bay,Singapore Grand Prix,conventional,russell,1,0
+2023,15,marina_bay,Singapore Grand Prix,conventional,alonso,0,1
+2023,15,marina_bay,Singapore Grand Prix,conventional,norris,2,0
+2023,15,marina_bay,Singapore Grand Prix,conventional,max_verstappen,6,3
+2023,15,marina_bay,Singapore Grand Prix,conventional,gasly,1,2
 2023,15,marina_bay,Singapore Grand Prix,conventional,zhou,3,5
 2023,15,marina_bay,Singapore Grand Prix,conventional,ocon,1,0
-2023,15,marina_bay,Singapore Grand Prix,conventional,leclerc,2,2
-2023,15,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,4,2
-2023,15,marina_bay,Singapore Grand Prix,conventional,albon,4,4
-2023,15,marina_bay,Singapore Grand Prix,conventional,gasly,1,2
-2023,15,marina_bay,Singapore Grand Prix,conventional,russell,1,0
-2023,15,marina_bay,Singapore Grand Prix,conventional,lawson,1,1
 2023,15,marina_bay,Singapore Grand Prix,conventional,hulkenberg,2,4
-2023,15,marina_bay,Singapore Grand Prix,conventional,piastri,0,1
-2023,15,marina_bay,Singapore Grand Prix,conventional,max_verstappen,6,3
-2023,16,suzuka,Japanese Grand Prix,conventional,norris,1,0
-2023,16,suzuka,Japanese Grand Prix,conventional,alonso,1,1
-2023,16,suzuka,Japanese Grand Prix,conventional,perez,1,0
-2023,16,suzuka,Japanese Grand Prix,conventional,hamilton,4,0
-2023,16,suzuka,Japanese Grand Prix,conventional,zhou,0,1
-2023,16,suzuka,Japanese Grand Prix,conventional,ocon,1,3
-2023,16,suzuka,Japanese Grand Prix,conventional,kevin_magnussen,0,2
-2023,16,suzuka,Japanese Grand Prix,conventional,tsunoda,0,2
-2023,16,suzuka,Japanese Grand Prix,conventional,gasly,3,1
-2023,16,suzuka,Japanese Grand Prix,conventional,russell,0,5
-2023,16,suzuka,Japanese Grand Prix,conventional,stroll,1,0
-2023,16,suzuka,Japanese Grand Prix,conventional,lawson,1,1
-2023,16,suzuka,Japanese Grand Prix,conventional,hulkenberg,1,1
+2023,15,marina_bay,Singapore Grand Prix,conventional,leclerc,2,2
+2023,15,marina_bay,Singapore Grand Prix,conventional,albon,4,4
+2023,15,marina_bay,Singapore Grand Prix,conventional,hamilton,2,1
+2023,15,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,4,2
+2023,15,marina_bay,Singapore Grand Prix,conventional,perez,2,1
 2023,16,suzuka,Japanese Grand Prix,conventional,piastri,1,1
-2023,16,suzuka,Japanese Grand Prix,conventional,max_verstappen,1,0
+2023,16,suzuka,Japanese Grand Prix,conventional,lawson,1,1
+2023,16,suzuka,Japanese Grand Prix,conventional,stroll,1,0
 2023,16,suzuka,Japanese Grand Prix,conventional,sainz,2,0
-2023,17,losail,Qatar Grand Prix,sprint,norris,2,0
-2023,17,losail,Qatar Grand Prix,sprint,alonso,5,0
-2023,17,losail,Qatar Grand Prix,sprint,perez,1,1
+2023,16,suzuka,Japanese Grand Prix,conventional,tsunoda,0,2
+2023,16,suzuka,Japanese Grand Prix,conventional,russell,0,5
+2023,16,suzuka,Japanese Grand Prix,conventional,alonso,1,1
+2023,16,suzuka,Japanese Grand Prix,conventional,norris,1,0
+2023,16,suzuka,Japanese Grand Prix,conventional,max_verstappen,1,0
+2023,16,suzuka,Japanese Grand Prix,conventional,gasly,3,1
+2023,16,suzuka,Japanese Grand Prix,conventional,ocon,1,3
+2023,16,suzuka,Japanese Grand Prix,conventional,zhou,0,1
+2023,16,suzuka,Japanese Grand Prix,conventional,hulkenberg,1,1
+2023,16,suzuka,Japanese Grand Prix,conventional,hamilton,4,0
+2023,16,suzuka,Japanese Grand Prix,conventional,kevin_magnussen,0,2
+2023,16,suzuka,Japanese Grand Prix,conventional,perez,1,0
 2023,17,losail,Qatar Grand Prix,sprint,bottas,0,4
-2023,17,losail,Qatar Grand Prix,sprint,zhou,1,1
-2023,17,losail,Qatar Grand Prix,sprint,ocon,3,0
-2023,17,losail,Qatar Grand Prix,sprint,leclerc,4,0
-2023,17,losail,Qatar Grand Prix,sprint,kevin_magnussen,0,8
-2023,17,losail,Qatar Grand Prix,sprint,tsunoda,0,4
-2023,17,losail,Qatar Grand Prix,sprint,albon,1,1
-2023,17,losail,Qatar Grand Prix,sprint,gasly,2,1
-2023,17,losail,Qatar Grand Prix,sprint,russell,4,0
-2023,17,losail,Qatar Grand Prix,sprint,stroll,1,2
-2023,17,losail,Qatar Grand Prix,sprint,lawson,0,7
-2023,17,losail,Qatar Grand Prix,sprint,hulkenberg,2,0
 2023,17,losail,Qatar Grand Prix,sprint,piastri,3,0
-2023,18,americas,United States Grand Prix,sprint,norris,1,2
-2023,18,americas,United States Grand Prix,sprint,alonso,6,2
-2023,18,americas,United States Grand Prix,sprint,perez,3,0
+2023,17,losail,Qatar Grand Prix,sprint,lawson,0,7
+2023,17,losail,Qatar Grand Prix,sprint,stroll,1,2
+2023,17,losail,Qatar Grand Prix,sprint,tsunoda,0,4
+2023,17,losail,Qatar Grand Prix,sprint,russell,4,0
+2023,17,losail,Qatar Grand Prix,sprint,alonso,5,0
+2023,17,losail,Qatar Grand Prix,sprint,norris,2,0
+2023,17,losail,Qatar Grand Prix,sprint,gasly,2,1
+2023,17,losail,Qatar Grand Prix,sprint,ocon,3,0
+2023,17,losail,Qatar Grand Prix,sprint,zhou,1,1
+2023,17,losail,Qatar Grand Prix,sprint,hulkenberg,2,0
+2023,17,losail,Qatar Grand Prix,sprint,leclerc,4,0
+2023,17,losail,Qatar Grand Prix,sprint,albon,1,1
+2023,17,losail,Qatar Grand Prix,sprint,kevin_magnussen,0,8
+2023,17,losail,Qatar Grand Prix,sprint,perez,1,1
 2023,18,americas,United States Grand Prix,sprint,bottas,1,3
-2023,18,americas,United States Grand Prix,sprint,hamilton,3,0
+2023,18,americas,United States Grand Prix,sprint,piastri,0,9
+2023,18,americas,United States Grand Prix,sprint,stroll,4,0
+2023,18,americas,United States Grand Prix,sprint,tsunoda,2,1
+2023,18,americas,United States Grand Prix,sprint,sainz,2,2
+2023,18,americas,United States Grand Prix,sprint,russell,2,1
+2023,18,americas,United States Grand Prix,sprint,sargeant,5,2
+2023,18,americas,United States Grand Prix,sprint,alonso,6,2
+2023,18,americas,United States Grand Prix,sprint,norris,1,2
+2023,18,americas,United States Grand Prix,sprint,max_verstappen,3,0
+2023,18,americas,United States Grand Prix,sprint,gasly,2,0
 2023,18,americas,United States Grand Prix,sprint,zhou,1,2
 2023,18,americas,United States Grand Prix,sprint,ocon,0,10
-2023,18,americas,United States Grand Prix,sprint,leclerc,0,3
 2023,18,americas,United States Grand Prix,sprint,ricciardo,2,7
-2023,18,americas,United States Grand Prix,sprint,kevin_magnussen,1,1
-2023,18,americas,United States Grand Prix,sprint,tsunoda,2,1
 2023,18,americas,United States Grand Prix,sprint,hulkenberg,6,1
+2023,18,americas,United States Grand Prix,sprint,hamilton,3,0
 2023,18,americas,United States Grand Prix,sprint,albon,3,1
-2023,18,americas,United States Grand Prix,sprint,gasly,2,0
-2023,18,americas,United States Grand Prix,sprint,russell,2,1
-2023,18,americas,United States Grand Prix,sprint,stroll,4,0
-2023,18,americas,United States Grand Prix,sprint,sargeant,5,2
-2023,18,americas,United States Grand Prix,sprint,piastri,0,9
-2023,18,americas,United States Grand Prix,sprint,max_verstappen,3,0
-2023,18,americas,United States Grand Prix,sprint,sainz,2,2
-2023,19,rodriguez,Mexico City Grand Prix,conventional,norris,14,0
-2023,19,rodriguez,Mexico City Grand Prix,conventional,alonso,1,7
+2023,18,americas,United States Grand Prix,sprint,leclerc,0,3
+2023,18,americas,United States Grand Prix,sprint,kevin_magnussen,1,1
+2023,18,americas,United States Grand Prix,sprint,perez,3,0
 2023,19,rodriguez,Mexico City Grand Prix,conventional,bottas,0,4
-2023,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,2,0
+2023,19,rodriguez,Mexico City Grand Prix,conventional,piastri,1,2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,stroll,2,3
+2023,19,rodriguez,Mexico City Grand Prix,conventional,tsunoda,5,0
+2023,19,rodriguez,Mexico City Grand Prix,conventional,russell,1,2
+2023,19,rodriguez,Mexico City Grand Prix,conventional,sargeant,5,1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,alonso,1,7
+2023,19,rodriguez,Mexico City Grand Prix,conventional,norris,14,0
+2023,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,3,0
+2023,19,rodriguez,Mexico City Grand Prix,conventional,gasly,2,1
 2023,19,rodriguez,Mexico City Grand Prix,conventional,zhou,3,3
 2023,19,rodriguez,Mexico City Grand Prix,conventional,ocon,1,7
-2023,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,0,1
 2023,19,rodriguez,Mexico City Grand Prix,conventional,ricciardo,0,3
-2023,19,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,1,0
-2023,19,rodriguez,Mexico City Grand Prix,conventional,tsunoda,5,0
 2023,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,1,5
+2023,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,2,0
 2023,19,rodriguez,Mexico City Grand Prix,conventional,albon,1,4
-2023,19,rodriguez,Mexico City Grand Prix,conventional,gasly,2,1
-2023,19,rodriguez,Mexico City Grand Prix,conventional,russell,1,2
-2023,19,rodriguez,Mexico City Grand Prix,conventional,stroll,2,3
-2023,19,rodriguez,Mexico City Grand Prix,conventional,sargeant,5,1
-2023,19,rodriguez,Mexico City Grand Prix,conventional,piastri,1,2
-2023,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,3,0
-2023,20,interlagos,São Paulo Grand Prix,sprint,alonso,0,1
-2023,20,interlagos,São Paulo Grand Prix,sprint,perez,3,0
+2023,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,0,1
+2023,19,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,1,0
 2023,20,interlagos,São Paulo Grand Prix,sprint,bottas,3,3
-2023,20,interlagos,São Paulo Grand Prix,sprint,hamilton,0,4
+2023,20,interlagos,São Paulo Grand Prix,sprint,piastri,0,1
+2023,20,interlagos,São Paulo Grand Prix,sprint,stroll,1,0
+2023,20,interlagos,São Paulo Grand Prix,sprint,tsunoda,3,1
+2023,20,interlagos,São Paulo Grand Prix,sprint,sainz,2,0
+2023,20,interlagos,São Paulo Grand Prix,sprint,russell,0,5
+2023,20,interlagos,São Paulo Grand Prix,sprint,sargeant,4,3
+2023,20,interlagos,São Paulo Grand Prix,sprint,alonso,0,1
+2023,20,interlagos,São Paulo Grand Prix,sprint,gasly,4,0
 2023,20,interlagos,São Paulo Grand Prix,sprint,zhou,1,2
 2023,20,interlagos,São Paulo Grand Prix,sprint,ocon,3,1
 2023,20,interlagos,São Paulo Grand Prix,sprint,ricciardo,1,0
-2023,20,interlagos,São Paulo Grand Prix,sprint,tsunoda,3,1
 2023,20,interlagos,São Paulo Grand Prix,sprint,hulkenberg,0,4
-2023,20,interlagos,São Paulo Grand Prix,sprint,gasly,4,0
-2023,20,interlagos,São Paulo Grand Prix,sprint,russell,0,5
-2023,20,interlagos,São Paulo Grand Prix,sprint,stroll,1,0
-2023,20,interlagos,São Paulo Grand Prix,sprint,sargeant,4,3
-2023,20,interlagos,São Paulo Grand Prix,sprint,piastri,0,1
-2023,20,interlagos,São Paulo Grand Prix,sprint,sainz,2,0
-2023,21,vegas,Las Vegas Grand Prix,conventional,alonso,3,4
-2023,21,vegas,Las Vegas Grand Prix,conventional,perez,5,3
+2023,20,interlagos,São Paulo Grand Prix,sprint,hamilton,0,4
+2023,20,interlagos,São Paulo Grand Prix,sprint,perez,3,0
 2023,21,vegas,Las Vegas Grand Prix,conventional,bottas,0,5
-2023,21,vegas,Las Vegas Grand Prix,conventional,hamilton,11,0
+2023,21,vegas,Las Vegas Grand Prix,conventional,piastri,7,1
+2023,21,vegas,Las Vegas Grand Prix,conventional,stroll,4,3
+2023,21,vegas,Las Vegas Grand Prix,conventional,sainz,4,2
+2023,21,vegas,Las Vegas Grand Prix,conventional,tsunoda,1,1
+2023,21,vegas,Las Vegas Grand Prix,conventional,russell,7,1
+2023,21,vegas,Las Vegas Grand Prix,conventional,sargeant,1,6
+2023,21,vegas,Las Vegas Grand Prix,conventional,alonso,3,4
+2023,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,8,0
+2023,21,vegas,Las Vegas Grand Prix,conventional,gasly,1,8
 2023,21,vegas,Las Vegas Grand Prix,conventional,zhou,1,12
 2023,21,vegas,Las Vegas Grand Prix,conventional,ocon,4,2
-2023,21,vegas,Las Vegas Grand Prix,conventional,leclerc,3,2
 2023,21,vegas,Las Vegas Grand Prix,conventional,ricciardo,2,5
-2023,21,vegas,Las Vegas Grand Prix,conventional,kevin_magnussen,2,3
-2023,21,vegas,Las Vegas Grand Prix,conventional,tsunoda,1,1
 2023,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,2,4
+2023,21,vegas,Las Vegas Grand Prix,conventional,hamilton,11,0
+2023,21,vegas,Las Vegas Grand Prix,conventional,leclerc,3,2
 2023,21,vegas,Las Vegas Grand Prix,conventional,albon,0,4
-2023,21,vegas,Las Vegas Grand Prix,conventional,gasly,1,8
-2023,21,vegas,Las Vegas Grand Prix,conventional,russell,7,1
-2023,21,vegas,Las Vegas Grand Prix,conventional,stroll,4,3
-2023,21,vegas,Las Vegas Grand Prix,conventional,sargeant,1,6
-2023,21,vegas,Las Vegas Grand Prix,conventional,piastri,7,1
-2023,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,8,0
-2023,21,vegas,Las Vegas Grand Prix,conventional,sainz,4,2
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,norris,4,0
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,4,1
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,perez,7,0
+2023,21,vegas,Las Vegas Grand Prix,conventional,kevin_magnussen,2,3
+2023,21,vegas,Las Vegas Grand Prix,conventional,perez,5,3
 2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,bottas,0,13
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,4,1
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,zhou,2,2
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,ocon,1,7
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,2,1
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,ricciardo,3,4
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,0,3
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,1,5
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,albon,2,0
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,2,1
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,russell,4,0
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,4,2
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,1,2
 2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,4,3
-2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,2,0
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,4,2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,1,5
 2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,3,6
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,russell,4,0
 2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,sargeant,3,2
-2024,1,bahrain,Bahrain Grand Prix,conventional,norris,1,0
-2024,1,bahrain,Bahrain Grand Prix,conventional,alonso,2,6
-2024,1,bahrain,Bahrain Grand Prix,conventional,perez,1,0
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,4,1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,norris,4,0
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,2,0
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,2,1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,ocon,1,7
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,zhou,2,2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,ricciardo,3,4
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,1,2
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,2,1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,4,1
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,albon,2,0
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,0,3
+2023,22,yas_marina,Abu Dhabi Grand Prix,conventional,perez,7,0
 2024,1,bahrain,Bahrain Grand Prix,conventional,bottas,0,1
-2024,1,bahrain,Bahrain Grand Prix,conventional,hamilton,2,0
-2024,1,bahrain,Bahrain Grand Prix,conventional,zhou,0,2
-2024,1,bahrain,Bahrain Grand Prix,conventional,ocon,0,2
-2024,1,bahrain,Bahrain Grand Prix,conventional,leclerc,0,3
-2024,1,bahrain,Bahrain Grand Prix,conventional,ricciardo,1,0
-2024,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,1,0
+2024,1,bahrain,Bahrain Grand Prix,conventional,piastri,2,0
+2024,1,bahrain,Bahrain Grand Prix,conventional,stroll,2,2
+2024,1,bahrain,Bahrain Grand Prix,conventional,sainz,2,0
 2024,1,bahrain,Bahrain Grand Prix,conventional,tsunoda,2,0
 2024,1,bahrain,Bahrain Grand Prix,conventional,russell,2,1
-2024,1,bahrain,Bahrain Grand Prix,conventional,stroll,2,2
+2024,1,bahrain,Bahrain Grand Prix,conventional,alonso,2,6
+2024,1,bahrain,Bahrain Grand Prix,conventional,norris,1,0
+2024,1,bahrain,Bahrain Grand Prix,conventional,ocon,0,2
+2024,1,bahrain,Bahrain Grand Prix,conventional,zhou,0,2
+2024,1,bahrain,Bahrain Grand Prix,conventional,ricciardo,1,0
 2024,1,bahrain,Bahrain Grand Prix,conventional,hulkenberg,1,2
-2024,1,bahrain,Bahrain Grand Prix,conventional,piastri,2,0
-2024,1,bahrain,Bahrain Grand Prix,conventional,sainz,2,0
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,2,0
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,0,2
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,2,0
+2024,1,bahrain,Bahrain Grand Prix,conventional,hamilton,2,0
+2024,1,bahrain,Bahrain Grand Prix,conventional,leclerc,0,3
+2024,1,bahrain,Bahrain Grand Prix,conventional,kevin_magnussen,1,0
+2024,1,bahrain,Bahrain Grand Prix,conventional,perez,1,0
 2024,2,jeddah,Saudi Arabian Grand Prix,conventional,bottas,0,1
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,1,0
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,0,2
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,bearman,3,1
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,0,1
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,0,1
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,2,1
-2024,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,1,0
 2024,2,jeddah,Saudi Arabian Grand Prix,conventional,max_verstappen,1,0
 2024,2,jeddah,Saudi Arabian Grand Prix,conventional,tsunoda,0,1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,zhou,0,1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,ocon,0,1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,russell,1,0
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,2,1
 2024,2,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,1,3
-2024,3,albert_park,Australian Grand Prix,conventional,norris,1,0
-2024,3,albert_park,Australian Grand Prix,conventional,albon,0,1
-2024,3,albert_park,Australian Grand Prix,conventional,alonso,0,1
-2024,3,albert_park,Australian Grand Prix,conventional,perez,2,0
-2024,3,albert_park,Australian Grand Prix,conventional,russell,0,1
-2024,3,albert_park,Australian Grand Prix,conventional,ocon,0,1
-2024,3,albert_park,Australian Grand Prix,conventional,ricciardo,1,0
-2024,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,1,1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,bearman,3,1
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,albon,2,0
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,0,2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,sargeant,1,0
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,norris,0,2
+2024,2,jeddah,Saudi Arabian Grand Prix,conventional,perez,2,0
 2024,3,albert_park,Australian Grand Prix,conventional,piastri,1,1
+2024,3,albert_park,Australian Grand Prix,conventional,ocon,0,1
+2024,3,albert_park,Australian Grand Prix,conventional,russell,0,1
+2024,3,albert_park,Australian Grand Prix,conventional,ricciardo,1,0
 2024,3,albert_park,Australian Grand Prix,conventional,hulkenberg,1,1
-2024,4,suzuka,Japanese Grand Prix,conventional,norris,2,1
-2024,4,suzuka,Japanese Grand Prix,conventional,alonso,1,0
-2024,4,suzuka,Japanese Grand Prix,conventional,perez,2,0
+2024,3,albert_park,Australian Grand Prix,conventional,albon,0,1
+2024,3,albert_park,Australian Grand Prix,conventional,kevin_magnussen,1,1
+2024,3,albert_park,Australian Grand Prix,conventional,alonso,0,1
+2024,3,albert_park,Australian Grand Prix,conventional,norris,1,0
+2024,3,albert_park,Australian Grand Prix,conventional,perez,2,0
 2024,4,suzuka,Japanese Grand Prix,conventional,bottas,5,2
-2024,4,suzuka,Japanese Grand Prix,conventional,hamilton,0,4
+2024,4,suzuka,Japanese Grand Prix,conventional,piastri,0,1
+2024,4,suzuka,Japanese Grand Prix,conventional,stroll,5,1
+2024,4,suzuka,Japanese Grand Prix,conventional,tsunoda,2,1
+2024,4,suzuka,Japanese Grand Prix,conventional,sainz,4,0
+2024,4,suzuka,Japanese Grand Prix,conventional,russell,3,3
+2024,4,suzuka,Japanese Grand Prix,conventional,sargeant,2,1
+2024,4,suzuka,Japanese Grand Prix,conventional,alonso,1,0
+2024,4,suzuka,Japanese Grand Prix,conventional,norris,2,1
+2024,4,suzuka,Japanese Grand Prix,conventional,max_verstappen,1,0
+2024,4,suzuka,Japanese Grand Prix,conventional,gasly,0,4
 2024,4,suzuka,Japanese Grand Prix,conventional,ocon,0,10
+2024,4,suzuka,Japanese Grand Prix,conventional,hulkenberg,5,1
+2024,4,suzuka,Japanese Grand Prix,conventional,hamilton,0,4
 2024,4,suzuka,Japanese Grand Prix,conventional,leclerc,0,3
 2024,4,suzuka,Japanese Grand Prix,conventional,kevin_magnussen,2,2
-2024,4,suzuka,Japanese Grand Prix,conventional,tsunoda,2,1
-2024,4,suzuka,Japanese Grand Prix,conventional,gasly,0,4
-2024,4,suzuka,Japanese Grand Prix,conventional,russell,3,3
-2024,4,suzuka,Japanese Grand Prix,conventional,stroll,5,1
-2024,4,suzuka,Japanese Grand Prix,conventional,hulkenberg,5,1
-2024,4,suzuka,Japanese Grand Prix,conventional,piastri,0,1
-2024,4,suzuka,Japanese Grand Prix,conventional,max_verstappen,1,0
-2024,4,suzuka,Japanese Grand Prix,conventional,sainz,4,0
-2024,4,suzuka,Japanese Grand Prix,conventional,sargeant,2,1
-2024,5,shanghai,Chinese Grand Prix,sprint,norris,1,1
-2024,5,shanghai,Chinese Grand Prix,sprint,alonso,4,2
-2024,5,shanghai,Chinese Grand Prix,sprint,perez,2,0
+2024,4,suzuka,Japanese Grand Prix,conventional,perez,2,0
 2024,5,shanghai,Chinese Grand Prix,sprint,bottas,1,0
-2024,5,shanghai,Chinese Grand Prix,sprint,hamilton,4,1
+2024,5,shanghai,Chinese Grand Prix,sprint,piastri,0,2
+2024,5,shanghai,Chinese Grand Prix,sprint,stroll,4,0
+2024,5,shanghai,Chinese Grand Prix,sprint,tsunoda,0,2
+2024,5,shanghai,Chinese Grand Prix,sprint,russell,0,1
+2024,5,shanghai,Chinese Grand Prix,sprint,sargeant,1,5
+2024,5,shanghai,Chinese Grand Prix,sprint,alonso,4,2
+2024,5,shanghai,Chinese Grand Prix,sprint,norris,1,1
+2024,5,shanghai,Chinese Grand Prix,sprint,max_verstappen,2,0
+2024,5,shanghai,Chinese Grand Prix,sprint,gasly,4,0
 2024,5,shanghai,Chinese Grand Prix,sprint,zhou,4,2
 2024,5,shanghai,Chinese Grand Prix,sprint,ocon,0,1
-2024,5,shanghai,Chinese Grand Prix,sprint,leclerc,2,2
 2024,5,shanghai,Chinese Grand Prix,sprint,ricciardo,2,6
-2024,5,shanghai,Chinese Grand Prix,sprint,kevin_magnussen,2,5
-2024,5,shanghai,Chinese Grand Prix,sprint,tsunoda,0,2
-2024,5,shanghai,Chinese Grand Prix,sprint,hulkenberg,0,3
+2024,5,shanghai,Chinese Grand Prix,sprint,leclerc,2,2
+2024,5,shanghai,Chinese Grand Prix,sprint,hamilton,4,1
 2024,5,shanghai,Chinese Grand Prix,sprint,albon,1,1
-2024,5,shanghai,Chinese Grand Prix,sprint,gasly,4,0
-2024,5,shanghai,Chinese Grand Prix,sprint,russell,0,1
-2024,5,shanghai,Chinese Grand Prix,sprint,stroll,4,0
-2024,5,shanghai,Chinese Grand Prix,sprint,sargeant,1,5
-2024,5,shanghai,Chinese Grand Prix,sprint,piastri,0,2
-2024,5,shanghai,Chinese Grand Prix,sprint,max_verstappen,2,0
-2024,6,miami,Miami Grand Prix,sprint,alonso,1,1
+2024,5,shanghai,Chinese Grand Prix,sprint,hulkenberg,0,3
+2024,5,shanghai,Chinese Grand Prix,sprint,kevin_magnussen,2,5
+2024,5,shanghai,Chinese Grand Prix,sprint,perez,2,0
 2024,6,miami,Miami Grand Prix,sprint,bottas,0,1
-2024,6,miami,Miami Grand Prix,sprint,hamilton,2,0
-2024,6,miami,Miami Grand Prix,sprint,zhou,1,2
-2024,6,miami,Miami Grand Prix,sprint,ocon,1,1
-2024,6,miami,Miami Grand Prix,sprint,leclerc,0,1
-2024,6,miami,Miami Grand Prix,sprint,ricciardo,0,4
-2024,6,miami,Miami Grand Prix,sprint,kevin_magnussen,0,1
-2024,6,miami,Miami Grand Prix,sprint,tsunoda,0,1
-2024,6,miami,Miami Grand Prix,sprint,albon,0,2
-2024,6,miami,Miami Grand Prix,sprint,gasly,0,1
-2024,6,miami,Miami Grand Prix,sprint,russell,1,0
-2024,6,miami,Miami Grand Prix,sprint,stroll,2,0
-2024,6,miami,Miami Grand Prix,sprint,hulkenberg,3,1
 2024,6,miami,Miami Grand Prix,sprint,piastri,5,1
+2024,6,miami,Miami Grand Prix,sprint,stroll,2,0
 2024,6,miami,Miami Grand Prix,sprint,sainz,1,0
-2024,7,imola,Emilia Romagna Grand Prix,conventional,alonso,1,1
-2024,7,imola,Emilia Romagna Grand Prix,conventional,perez,2,3
+2024,6,miami,Miami Grand Prix,sprint,tsunoda,0,1
+2024,6,miami,Miami Grand Prix,sprint,russell,1,0
+2024,6,miami,Miami Grand Prix,sprint,alonso,1,1
+2024,6,miami,Miami Grand Prix,sprint,gasly,0,1
+2024,6,miami,Miami Grand Prix,sprint,ocon,1,1
+2024,6,miami,Miami Grand Prix,sprint,zhou,1,2
+2024,6,miami,Miami Grand Prix,sprint,ricciardo,0,4
+2024,6,miami,Miami Grand Prix,sprint,hulkenberg,3,1
+2024,6,miami,Miami Grand Prix,sprint,hamilton,2,0
+2024,6,miami,Miami Grand Prix,sprint,leclerc,0,1
+2024,6,miami,Miami Grand Prix,sprint,albon,0,2
+2024,6,miami,Miami Grand Prix,sprint,kevin_magnussen,0,1
 2024,7,imola,Emilia Romagna Grand Prix,conventional,bottas,0,4
-2024,7,imola,Emilia Romagna Grand Prix,conventional,hamilton,1,0
-2024,7,imola,Emilia Romagna Grand Prix,conventional,zhou,1,1
-2024,7,imola,Emilia Romagna Grand Prix,conventional,ocon,2,2
-2024,7,imola,Emilia Romagna Grand Prix,conventional,ricciardo,0,2
-2024,7,imola,Emilia Romagna Grand Prix,conventional,kevin_magnussen,4,0
-2024,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,1,2
-2024,7,imola,Emilia Romagna Grand Prix,conventional,russell,2,0
-2024,7,imola,Emilia Romagna Grand Prix,conventional,stroll,5,2
-2024,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,1,2
 2024,7,imola,Emilia Romagna Grand Prix,conventional,piastri,1,0
+2024,7,imola,Emilia Romagna Grand Prix,conventional,stroll,5,2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,1,2
 2024,7,imola,Emilia Romagna Grand Prix,conventional,sainz,1,0
+2024,7,imola,Emilia Romagna Grand Prix,conventional,russell,2,0
 2024,7,imola,Emilia Romagna Grand Prix,conventional,sargeant,0,3
+2024,7,imola,Emilia Romagna Grand Prix,conventional,alonso,1,1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ocon,2,2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,zhou,1,1
+2024,7,imola,Emilia Romagna Grand Prix,conventional,ricciardo,0,2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,1,2
+2024,7,imola,Emilia Romagna Grand Prix,conventional,hamilton,1,0
+2024,7,imola,Emilia Romagna Grand Prix,conventional,kevin_magnussen,4,0
+2024,7,imola,Emilia Romagna Grand Prix,conventional,perez,2,3
 2024,8,monaco,Monaco Grand Prix,conventional,bottas,2,0
+2024,8,monaco,Monaco Grand Prix,conventional,stroll,1,0
 2024,8,monaco,Monaco Grand Prix,conventional,sargeant,1,1
 2024,8,monaco,Monaco Grand Prix,conventional,zhou,0,3
-2024,8,monaco,Monaco Grand Prix,conventional,stroll,1,0
-2024,9,villeneuve,Canadian Grand Prix,conventional,norris,1,0
-2024,9,villeneuve,Canadian Grand Prix,conventional,perez,1,0
 2024,9,villeneuve,Canadian Grand Prix,conventional,bottas,0,1
-2024,9,villeneuve,Canadian Grand Prix,conventional,hamilton,1,1
-2024,9,villeneuve,Canadian Grand Prix,conventional,zhou,0,2
-2024,9,villeneuve,Canadian Grand Prix,conventional,ocon,1,2
-2024,9,villeneuve,Canadian Grand Prix,conventional,leclerc,0,2
-2024,9,villeneuve,Canadian Grand Prix,conventional,ricciardo,1,1
-2024,9,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,1,2
-2024,9,villeneuve,Canadian Grand Prix,conventional,tsunoda,1,3
-2024,9,villeneuve,Canadian Grand Prix,conventional,albon,2,1
-2024,9,villeneuve,Canadian Grand Prix,conventional,gasly,3,0
-2024,9,villeneuve,Canadian Grand Prix,conventional,russell,2,0
-2024,9,villeneuve,Canadian Grand Prix,conventional,stroll,1,0
-2024,9,villeneuve,Canadian Grand Prix,conventional,hulkenberg,2,1
 2024,9,villeneuve,Canadian Grand Prix,conventional,piastri,0,2
-2024,9,villeneuve,Canadian Grand Prix,conventional,max_verstappen,0,1
+2024,9,villeneuve,Canadian Grand Prix,conventional,stroll,1,0
+2024,9,villeneuve,Canadian Grand Prix,conventional,tsunoda,1,3
 2024,9,villeneuve,Canadian Grand Prix,conventional,sainz,2,0
-2024,10,catalunya,Spanish Grand Prix,conventional,norris,3,0
-2024,10,catalunya,Spanish Grand Prix,conventional,alonso,3,3
-2024,10,catalunya,Spanish Grand Prix,conventional,perez,6,1
+2024,9,villeneuve,Canadian Grand Prix,conventional,russell,2,0
+2024,9,villeneuve,Canadian Grand Prix,conventional,norris,1,0
+2024,9,villeneuve,Canadian Grand Prix,conventional,max_verstappen,0,1
+2024,9,villeneuve,Canadian Grand Prix,conventional,gasly,3,0
+2024,9,villeneuve,Canadian Grand Prix,conventional,ocon,1,2
+2024,9,villeneuve,Canadian Grand Prix,conventional,zhou,0,2
+2024,9,villeneuve,Canadian Grand Prix,conventional,ricciardo,1,1
+2024,9,villeneuve,Canadian Grand Prix,conventional,hulkenberg,2,1
+2024,9,villeneuve,Canadian Grand Prix,conventional,hamilton,1,1
+2024,9,villeneuve,Canadian Grand Prix,conventional,albon,2,1
+2024,9,villeneuve,Canadian Grand Prix,conventional,leclerc,0,2
+2024,9,villeneuve,Canadian Grand Prix,conventional,kevin_magnussen,1,2
+2024,9,villeneuve,Canadian Grand Prix,conventional,perez,1,0
 2024,10,catalunya,Spanish Grand Prix,conventional,bottas,3,5
-2024,10,catalunya,Spanish Grand Prix,conventional,hamilton,2,1
-2024,10,catalunya,Spanish Grand Prix,conventional,zhou,2,3
-2024,10,catalunya,Spanish Grand Prix,conventional,ocon,2,3
-2024,10,catalunya,Spanish Grand Prix,conventional,leclerc,2,0
-2024,10,catalunya,Spanish Grand Prix,conventional,ricciardo,3,1
-2024,10,catalunya,Spanish Grand Prix,conventional,kevin_magnussen,2,3
-2024,10,catalunya,Spanish Grand Prix,conventional,tsunoda,1,3
-2024,10,catalunya,Spanish Grand Prix,conventional,albon,2,2
-2024,10,catalunya,Spanish Grand Prix,conventional,gasly,1,3
-2024,10,catalunya,Spanish Grand Prix,conventional,russell,0,3
-2024,10,catalunya,Spanish Grand Prix,conventional,stroll,4,2
-2024,10,catalunya,Spanish Grand Prix,conventional,sargeant,0,4
 2024,10,catalunya,Spanish Grand Prix,conventional,piastri,3,0
-2024,10,catalunya,Spanish Grand Prix,conventional,max_verstappen,1,0
+2024,10,catalunya,Spanish Grand Prix,conventional,stroll,4,2
+2024,10,catalunya,Spanish Grand Prix,conventional,tsunoda,1,3
 2024,10,catalunya,Spanish Grand Prix,conventional,sainz,0,3
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,alonso,0,2
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,perez,3,1
+2024,10,catalunya,Spanish Grand Prix,conventional,russell,0,3
+2024,10,catalunya,Spanish Grand Prix,conventional,sargeant,0,4
+2024,10,catalunya,Spanish Grand Prix,conventional,alonso,3,3
+2024,10,catalunya,Spanish Grand Prix,conventional,norris,3,0
+2024,10,catalunya,Spanish Grand Prix,conventional,max_verstappen,1,0
+2024,10,catalunya,Spanish Grand Prix,conventional,gasly,1,3
+2024,10,catalunya,Spanish Grand Prix,conventional,ocon,2,3
+2024,10,catalunya,Spanish Grand Prix,conventional,zhou,2,3
+2024,10,catalunya,Spanish Grand Prix,conventional,ricciardo,3,1
+2024,10,catalunya,Spanish Grand Prix,conventional,leclerc,2,0
+2024,10,catalunya,Spanish Grand Prix,conventional,hamilton,2,1
+2024,10,catalunya,Spanish Grand Prix,conventional,albon,2,2
+2024,10,catalunya,Spanish Grand Prix,conventional,kevin_magnussen,2,3
+2024,10,catalunya,Spanish Grand Prix,conventional,perez,6,1
 2024,11,red_bull_ring,Austrian Grand Prix,sprint,bottas,2,1
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,hamilton,0,2
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,zhou,0,5
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,ocon,1,2
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,leclerc,6,1
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,kevin_magnussen,1,2
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,tsunoda,1,1
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,albon,0,4
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,gasly,3,0
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,stroll,2,1
-2024,11,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,1,1
 2024,11,red_bull_ring,Austrian Grand Prix,sprint,piastri,2,0
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,stroll,2,1
 2024,11,red_bull_ring,Austrian Grand Prix,sprint,sainz,1,0
-2024,12,silverstone,British Grand Prix,conventional,norris,1,1
-2024,12,silverstone,British Grand Prix,conventional,alonso,1,0
-2024,12,silverstone,British Grand Prix,conventional,perez,4,0
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,tsunoda,1,1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,alonso,0,2
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,gasly,3,0
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,ocon,1,2
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,zhou,0,5
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,hulkenberg,1,1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,leclerc,6,1
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,hamilton,0,2
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,albon,0,4
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,kevin_magnussen,1,2
+2024,11,red_bull_ring,Austrian Grand Prix,sprint,perez,3,1
 2024,12,silverstone,British Grand Prix,conventional,bottas,2,2
-2024,12,silverstone,British Grand Prix,conventional,hamilton,1,0
-2024,12,silverstone,British Grand Prix,conventional,zhou,0,5
-2024,12,silverstone,British Grand Prix,conventional,ocon,1,3
-2024,12,silverstone,British Grand Prix,conventional,leclerc,2,0
-2024,12,silverstone,British Grand Prix,conventional,ricciardo,1,2
-2024,12,silverstone,British Grand Prix,conventional,kevin_magnussen,4,1
+2024,12,silverstone,British Grand Prix,conventional,piastri,1,0
+2024,12,silverstone,British Grand Prix,conventional,stroll,0,3
 2024,12,silverstone,British Grand Prix,conventional,tsunoda,0,1
+2024,12,silverstone,British Grand Prix,conventional,russell,0,1
+2024,12,silverstone,British Grand Prix,conventional,sargeant,1,1
+2024,12,silverstone,British Grand Prix,conventional,alonso,1,0
+2024,12,silverstone,British Grand Prix,conventional,norris,1,1
+2024,12,silverstone,British Grand Prix,conventional,max_verstappen,1,2
+2024,12,silverstone,British Grand Prix,conventional,ocon,1,3
+2024,12,silverstone,British Grand Prix,conventional,zhou,0,5
+2024,12,silverstone,British Grand Prix,conventional,ricciardo,1,2
+2024,12,silverstone,British Grand Prix,conventional,leclerc,2,0
+2024,12,silverstone,British Grand Prix,conventional,hamilton,1,0
 2024,12,silverstone,British Grand Prix,conventional,hulkenberg,1,0
 2024,12,silverstone,British Grand Prix,conventional,albon,1,0
-2024,12,silverstone,British Grand Prix,conventional,russell,0,1
-2024,12,silverstone,British Grand Prix,conventional,stroll,0,3
-2024,12,silverstone,British Grand Prix,conventional,sargeant,1,1
-2024,12,silverstone,British Grand Prix,conventional,piastri,1,0
-2024,12,silverstone,British Grand Prix,conventional,max_verstappen,1,2
-2024,13,hungaroring,Hungarian Grand Prix,conventional,norris,1,1
-2024,13,hungaroring,Hungarian Grand Prix,conventional,alonso,2,2
-2024,13,hungaroring,Hungarian Grand Prix,conventional,perez,2,1
+2024,12,silverstone,British Grand Prix,conventional,kevin_magnussen,4,1
+2024,12,silverstone,British Grand Prix,conventional,perez,4,0
 2024,13,hungaroring,Hungarian Grand Prix,conventional,bottas,2,2
-2024,13,hungaroring,Hungarian Grand Prix,conventional,zhou,0,6
-2024,13,hungaroring,Hungarian Grand Prix,conventional,ocon,1,1
-2024,13,hungaroring,Hungarian Grand Prix,conventional,leclerc,1,1
-2024,13,hungaroring,Hungarian Grand Prix,conventional,ricciardo,2,1
-2024,13,hungaroring,Hungarian Grand Prix,conventional,kevin_magnussen,0,1
-2024,13,hungaroring,Hungarian Grand Prix,conventional,tsunoda,0,2
-2024,13,hungaroring,Hungarian Grand Prix,conventional,albon,1,1
-2024,13,hungaroring,Hungarian Grand Prix,conventional,gasly,1,0
-2024,13,hungaroring,Hungarian Grand Prix,conventional,russell,2,1
-2024,13,hungaroring,Hungarian Grand Prix,conventional,stroll,5,2
-2024,13,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,1,3
 2024,13,hungaroring,Hungarian Grand Prix,conventional,piastri,1,0
-2024,13,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,1,2
+2024,13,hungaroring,Hungarian Grand Prix,conventional,stroll,5,2
 2024,13,hungaroring,Hungarian Grand Prix,conventional,sainz,4,0
+2024,13,hungaroring,Hungarian Grand Prix,conventional,tsunoda,0,2
+2024,13,hungaroring,Hungarian Grand Prix,conventional,russell,2,1
 2024,13,hungaroring,Hungarian Grand Prix,conventional,sargeant,1,1
-2024,14,spa,Belgian Grand Prix,conventional,alonso,0,1
-2024,14,spa,Belgian Grand Prix,conventional,perez,0,1
+2024,13,hungaroring,Hungarian Grand Prix,conventional,alonso,2,2
+2024,13,hungaroring,Hungarian Grand Prix,conventional,norris,1,1
+2024,13,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,1,2
+2024,13,hungaroring,Hungarian Grand Prix,conventional,gasly,1,0
+2024,13,hungaroring,Hungarian Grand Prix,conventional,ocon,1,1
+2024,13,hungaroring,Hungarian Grand Prix,conventional,zhou,0,6
+2024,13,hungaroring,Hungarian Grand Prix,conventional,ricciardo,2,1
+2024,13,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,1,3
+2024,13,hungaroring,Hungarian Grand Prix,conventional,leclerc,1,1
+2024,13,hungaroring,Hungarian Grand Prix,conventional,albon,1,1
+2024,13,hungaroring,Hungarian Grand Prix,conventional,kevin_magnussen,0,1
+2024,13,hungaroring,Hungarian Grand Prix,conventional,perez,2,1
 2024,14,spa,Belgian Grand Prix,conventional,bottas,1,0
-2024,14,spa,Belgian Grand Prix,conventional,hamilton,1,0
-2024,14,spa,Belgian Grand Prix,conventional,zhou,0,2
-2024,14,spa,Belgian Grand Prix,conventional,ocon,5,0
-2024,14,spa,Belgian Grand Prix,conventional,leclerc,0,2
-2024,14,spa,Belgian Grand Prix,conventional,ricciardo,2,1
-2024,14,spa,Belgian Grand Prix,conventional,kevin_magnussen,1,3
-2024,14,spa,Belgian Grand Prix,conventional,tsunoda,1,0
-2024,14,spa,Belgian Grand Prix,conventional,hulkenberg,0,4
-2024,14,spa,Belgian Grand Prix,conventional,albon,1,0
-2024,14,spa,Belgian Grand Prix,conventional,gasly,2,1
-2024,14,spa,Belgian Grand Prix,conventional,stroll,0,2
-2024,14,spa,Belgian Grand Prix,conventional,sargeant,2,1
 2024,14,spa,Belgian Grand Prix,conventional,piastri,1,0
+2024,14,spa,Belgian Grand Prix,conventional,stroll,0,2
+2024,14,spa,Belgian Grand Prix,conventional,tsunoda,1,0
 2024,14,spa,Belgian Grand Prix,conventional,sainz,1,0
-2024,15,zandvoort,Dutch Grand Prix,conventional,norris,1,0
-2024,15,zandvoort,Dutch Grand Prix,conventional,alonso,3,2
-2024,15,zandvoort,Dutch Grand Prix,conventional,perez,0,1
+2024,14,spa,Belgian Grand Prix,conventional,sargeant,2,1
+2024,14,spa,Belgian Grand Prix,conventional,alonso,0,1
+2024,14,spa,Belgian Grand Prix,conventional,gasly,2,1
+2024,14,spa,Belgian Grand Prix,conventional,ocon,5,0
+2024,14,spa,Belgian Grand Prix,conventional,zhou,0,2
+2024,14,spa,Belgian Grand Prix,conventional,ricciardo,2,1
+2024,14,spa,Belgian Grand Prix,conventional,leclerc,0,2
+2024,14,spa,Belgian Grand Prix,conventional,hamilton,1,0
+2024,14,spa,Belgian Grand Prix,conventional,albon,1,0
+2024,14,spa,Belgian Grand Prix,conventional,hulkenberg,0,4
+2024,14,spa,Belgian Grand Prix,conventional,kevin_magnussen,1,3
+2024,14,spa,Belgian Grand Prix,conventional,perez,0,1
 2024,15,zandvoort,Dutch Grand Prix,conventional,bottas,0,2
-2024,15,zandvoort,Dutch Grand Prix,conventional,hamilton,6,0
-2024,15,zandvoort,Dutch Grand Prix,conventional,zhou,0,1
-2024,15,zandvoort,Dutch Grand Prix,conventional,ocon,1,4
-2024,15,zandvoort,Dutch Grand Prix,conventional,leclerc,1,0
-2024,15,zandvoort,Dutch Grand Prix,conventional,ricciardo,2,0
-2024,15,zandvoort,Dutch Grand Prix,conventional,kevin_magnussen,3,6
-2024,15,zandvoort,Dutch Grand Prix,conventional,tsunoda,0,1
-2024,15,zandvoort,Dutch Grand Prix,conventional,albon,5,4
-2024,15,zandvoort,Dutch Grand Prix,conventional,gasly,3,3
-2024,15,zandvoort,Dutch Grand Prix,conventional,russell,1,1
-2024,15,zandvoort,Dutch Grand Prix,conventional,stroll,2,1
-2024,15,zandvoort,Dutch Grand Prix,conventional,hulkenberg,2,4
 2024,15,zandvoort,Dutch Grand Prix,conventional,piastri,1,0
-2024,15,zandvoort,Dutch Grand Prix,conventional,max_verstappen,0,1
+2024,15,zandvoort,Dutch Grand Prix,conventional,stroll,2,1
 2024,15,zandvoort,Dutch Grand Prix,conventional,sainz,3,0
+2024,15,zandvoort,Dutch Grand Prix,conventional,tsunoda,0,1
+2024,15,zandvoort,Dutch Grand Prix,conventional,russell,1,1
 2024,15,zandvoort,Dutch Grand Prix,conventional,sargeant,0,3
-2024,16,monza,Italian Grand Prix,conventional,norris,1,0
-2024,16,monza,Italian Grand Prix,conventional,alonso,4,0
-2024,16,monza,Italian Grand Prix,conventional,perez,1,1
+2024,15,zandvoort,Dutch Grand Prix,conventional,alonso,3,2
+2024,15,zandvoort,Dutch Grand Prix,conventional,norris,1,0
+2024,15,zandvoort,Dutch Grand Prix,conventional,max_verstappen,0,1
+2024,15,zandvoort,Dutch Grand Prix,conventional,gasly,3,3
+2024,15,zandvoort,Dutch Grand Prix,conventional,ocon,1,4
+2024,15,zandvoort,Dutch Grand Prix,conventional,zhou,0,1
+2024,15,zandvoort,Dutch Grand Prix,conventional,ricciardo,2,0
+2024,15,zandvoort,Dutch Grand Prix,conventional,hulkenberg,2,4
+2024,15,zandvoort,Dutch Grand Prix,conventional,hamilton,6,0
+2024,15,zandvoort,Dutch Grand Prix,conventional,leclerc,1,0
+2024,15,zandvoort,Dutch Grand Prix,conventional,albon,5,4
+2024,15,zandvoort,Dutch Grand Prix,conventional,kevin_magnussen,3,6
+2024,15,zandvoort,Dutch Grand Prix,conventional,perez,0,1
 2024,16,monza,Italian Grand Prix,conventional,bottas,1,7
-2024,16,monza,Italian Grand Prix,conventional,hamilton,2,0
-2024,16,monza,Italian Grand Prix,conventional,zhou,0,3
-2024,16,monza,Italian Grand Prix,conventional,ocon,1,3
-2024,16,monza,Italian Grand Prix,conventional,sainz,0,2
-2024,16,monza,Italian Grand Prix,conventional,ricciardo,1,1
-2024,16,monza,Italian Grand Prix,conventional,kevin_magnussen,2,2
-2024,16,monza,Italian Grand Prix,conventional,albon,1,0
-2024,16,monza,Italian Grand Prix,conventional,gasly,1,2
-2024,16,monza,Italian Grand Prix,conventional,russell,4,0
-2024,16,monza,Italian Grand Prix,conventional,stroll,2,1
-2024,16,monza,Italian Grand Prix,conventional,hulkenberg,1,0
 2024,16,monza,Italian Grand Prix,conventional,piastri,1,0
+2024,16,monza,Italian Grand Prix,conventional,stroll,2,1
+2024,16,monza,Italian Grand Prix,conventional,sainz,0,2
+2024,16,monza,Italian Grand Prix,conventional,russell,4,0
+2024,16,monza,Italian Grand Prix,conventional,alonso,4,0
+2024,16,monza,Italian Grand Prix,conventional,norris,1,0
+2024,16,monza,Italian Grand Prix,conventional,gasly,1,2
 2024,16,monza,Italian Grand Prix,conventional,colapinto,1,2
-2024,17,baku,Azerbaijan Grand Prix,conventional,norris,2,1
-2024,17,baku,Azerbaijan Grand Prix,conventional,alonso,2,0
-2024,17,baku,Azerbaijan Grand Prix,conventional,perez,2,1
+2024,16,monza,Italian Grand Prix,conventional,ocon,1,3
+2024,16,monza,Italian Grand Prix,conventional,zhou,0,3
+2024,16,monza,Italian Grand Prix,conventional,ricciardo,1,1
+2024,16,monza,Italian Grand Prix,conventional,hulkenberg,1,0
+2024,16,monza,Italian Grand Prix,conventional,hamilton,2,0
+2024,16,monza,Italian Grand Prix,conventional,albon,1,0
+2024,16,monza,Italian Grand Prix,conventional,kevin_magnussen,2,2
+2024,16,monza,Italian Grand Prix,conventional,perez,1,1
 2024,17,baku,Azerbaijan Grand Prix,conventional,bottas,1,4
-2024,17,baku,Azerbaijan Grand Prix,conventional,hamilton,7,0
-2024,17,baku,Azerbaijan Grand Prix,conventional,zhou,5,2
-2024,17,baku,Azerbaijan Grand Prix,conventional,bearman,3,3
-2024,17,baku,Azerbaijan Grand Prix,conventional,ocon,1,2
-2024,17,baku,Azerbaijan Grand Prix,conventional,sainz,2,0
-2024,17,baku,Azerbaijan Grand Prix,conventional,leclerc,1,2
-2024,17,baku,Azerbaijan Grand Prix,conventional,ricciardo,1,6
-2024,17,baku,Azerbaijan Grand Prix,conventional,tsunoda,0,6
-2024,17,baku,Azerbaijan Grand Prix,conventional,albon,2,2
-2024,17,baku,Azerbaijan Grand Prix,conventional,gasly,2,6
-2024,17,baku,Azerbaijan Grand Prix,conventional,russell,2,0
-2024,17,baku,Azerbaijan Grand Prix,conventional,stroll,1,3
-2024,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,5,2
 2024,17,baku,Azerbaijan Grand Prix,conventional,piastri,1,0
+2024,17,baku,Azerbaijan Grand Prix,conventional,stroll,1,3
+2024,17,baku,Azerbaijan Grand Prix,conventional,sainz,2,0
+2024,17,baku,Azerbaijan Grand Prix,conventional,tsunoda,0,6
+2024,17,baku,Azerbaijan Grand Prix,conventional,russell,2,0
+2024,17,baku,Azerbaijan Grand Prix,conventional,alonso,2,0
+2024,17,baku,Azerbaijan Grand Prix,conventional,norris,2,1
 2024,17,baku,Azerbaijan Grand Prix,conventional,max_verstappen,0,1
+2024,17,baku,Azerbaijan Grand Prix,conventional,gasly,2,6
 2024,17,baku,Azerbaijan Grand Prix,conventional,colapinto,3,2
-2024,18,marina_bay,Singapore Grand Prix,conventional,alonso,0,1
+2024,17,baku,Azerbaijan Grand Prix,conventional,ocon,1,2
+2024,17,baku,Azerbaijan Grand Prix,conventional,zhou,5,2
+2024,17,baku,Azerbaijan Grand Prix,conventional,ricciardo,1,6
+2024,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,5,2
+2024,17,baku,Azerbaijan Grand Prix,conventional,hamilton,7,0
+2024,17,baku,Azerbaijan Grand Prix,conventional,bearman,3,3
+2024,17,baku,Azerbaijan Grand Prix,conventional,albon,2,2
+2024,17,baku,Azerbaijan Grand Prix,conventional,leclerc,1,2
+2024,17,baku,Azerbaijan Grand Prix,conventional,perez,2,1
 2024,18,marina_bay,Singapore Grand Prix,conventional,bottas,0,3
-2024,18,marina_bay,Singapore Grand Prix,conventional,hamilton,2,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,piastri,1,0
+2024,18,marina_bay,Singapore Grand Prix,conventional,stroll,0,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,sainz,5,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,tsunoda,1,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,russell,0,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,alonso,0,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,gasly,0,2
 2024,18,marina_bay,Singapore Grand Prix,conventional,zhou,1,2
 2024,18,marina_bay,Singapore Grand Prix,conventional,ocon,1,1
-2024,18,marina_bay,Singapore Grand Prix,conventional,leclerc,4,0
 2024,18,marina_bay,Singapore Grand Prix,conventional,ricciardo,4,3
-2024,18,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,1,1
-2024,18,marina_bay,Singapore Grand Prix,conventional,tsunoda,1,1
-2024,18,marina_bay,Singapore Grand Prix,conventional,albon,0,1
-2024,18,marina_bay,Singapore Grand Prix,conventional,gasly,0,2
-2024,18,marina_bay,Singapore Grand Prix,conventional,russell,0,1
-2024,18,marina_bay,Singapore Grand Prix,conventional,stroll,0,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,leclerc,4,0
+2024,18,marina_bay,Singapore Grand Prix,conventional,hamilton,2,1
 2024,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,0,1
-2024,18,marina_bay,Singapore Grand Prix,conventional,piastri,1,0
-2024,18,marina_bay,Singapore Grand Prix,conventional,sainz,5,1
-2024,19,americas,United States Grand Prix,sprint,alonso,1,2
-2024,19,americas,United States Grand Prix,sprint,perez,2,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,albon,0,1
+2024,18,marina_bay,Singapore Grand Prix,conventional,kevin_magnussen,1,1
 2024,19,americas,United States Grand Prix,sprint,bottas,1,4
-2024,19,americas,United States Grand Prix,sprint,zhou,0,6
-2024,19,americas,United States Grand Prix,sprint,ocon,2,1
-2024,19,americas,United States Grand Prix,sprint,leclerc,1,0
-2024,19,americas,United States Grand Prix,sprint,kevin_magnussen,2,0
-2024,19,americas,United States Grand Prix,sprint,tsunoda,0,1
-2024,19,americas,United States Grand Prix,sprint,albon,3,0
-2024,19,americas,United States Grand Prix,sprint,gasly,0,2
-2024,19,americas,United States Grand Prix,sprint,russell,4,0
-2024,19,americas,United States Grand Prix,sprint,stroll,2,1
-2024,19,americas,United States Grand Prix,sprint,lawson,0,1
-2024,19,americas,United States Grand Prix,sprint,hulkenberg,1,1
 2024,19,americas,United States Grand Prix,sprint,piastri,0,1
+2024,19,americas,United States Grand Prix,sprint,lawson,0,1
+2024,19,americas,United States Grand Prix,sprint,stroll,2,1
+2024,19,americas,United States Grand Prix,sprint,tsunoda,0,1
+2024,19,americas,United States Grand Prix,sprint,russell,4,0
+2024,19,americas,United States Grand Prix,sprint,alonso,1,2
+2024,19,americas,United States Grand Prix,sprint,gasly,0,2
 2024,19,americas,United States Grand Prix,sprint,colapinto,3,1
-2024,20,rodriguez,Mexico City Grand Prix,conventional,alonso,0,5
-2024,20,rodriguez,Mexico City Grand Prix,conventional,perez,3,1
+2024,19,americas,United States Grand Prix,sprint,ocon,2,1
+2024,19,americas,United States Grand Prix,sprint,zhou,0,6
+2024,19,americas,United States Grand Prix,sprint,hulkenberg,1,1
+2024,19,americas,United States Grand Prix,sprint,leclerc,1,0
+2024,19,americas,United States Grand Prix,sprint,albon,3,0
+2024,19,americas,United States Grand Prix,sprint,kevin_magnussen,2,0
+2024,19,americas,United States Grand Prix,sprint,perez,2,1
 2024,20,rodriguez,Mexico City Grand Prix,conventional,bottas,1,7
-2024,20,rodriguez,Mexico City Grand Prix,conventional,hamilton,3,1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,piastri,9,1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,lawson,0,3
+2024,20,rodriguez,Mexico City Grand Prix,conventional,stroll,2,2
+2024,20,rodriguez,Mexico City Grand Prix,conventional,sainz,1,0
+2024,20,rodriguez,Mexico City Grand Prix,conventional,russell,1,0
+2024,20,rodriguez,Mexico City Grand Prix,conventional,alonso,0,5
+2024,20,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,5,1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,gasly,3,1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,1,5
 2024,20,rodriguez,Mexico City Grand Prix,conventional,zhou,1,6
 2024,20,rodriguez,Mexico City Grand Prix,conventional,ocon,2,4
-2024,20,rodriguez,Mexico City Grand Prix,conventional,sainz,1,0
-2024,20,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,3,0
-2024,20,rodriguez,Mexico City Grand Prix,conventional,gasly,3,1
-2024,20,rodriguez,Mexico City Grand Prix,conventional,russell,1,0
-2024,20,rodriguez,Mexico City Grand Prix,conventional,stroll,2,2
-2024,20,rodriguez,Mexico City Grand Prix,conventional,lawson,0,3
 2024,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,3,1
-2024,20,rodriguez,Mexico City Grand Prix,conventional,piastri,9,1
-2024,20,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,5,1
-2024,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,1,5
-2024,21,interlagos,São Paulo Grand Prix,sprint,norris,1,0
-2024,21,interlagos,São Paulo Grand Prix,sprint,alonso,1,1
-2024,21,interlagos,São Paulo Grand Prix,sprint,perez,1,1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,hamilton,3,1
+2024,20,rodriguez,Mexico City Grand Prix,conventional,kevin_magnussen,3,0
+2024,20,rodriguez,Mexico City Grand Prix,conventional,perez,3,1
 2024,21,interlagos,São Paulo Grand Prix,sprint,bottas,1,3
-2024,21,interlagos,São Paulo Grand Prix,sprint,hamilton,1,1
-2024,21,interlagos,São Paulo Grand Prix,sprint,zhou,1,2
-2024,21,interlagos,São Paulo Grand Prix,sprint,bearman,1,4
-2024,21,interlagos,São Paulo Grand Prix,sprint,gasly,1,1
-2024,21,interlagos,São Paulo Grand Prix,sprint,lawson,0,1
-2024,21,interlagos,São Paulo Grand Prix,sprint,hulkenberg,1,0
 2024,21,interlagos,São Paulo Grand Prix,sprint,piastri,0,3
-2024,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,4,0
+2024,21,interlagos,São Paulo Grand Prix,sprint,lawson,0,1
 2024,21,interlagos,São Paulo Grand Prix,sprint,sainz,4,0
-2024,22,vegas,Las Vegas Grand Prix,conventional,norris,4,1
-2024,22,vegas,Las Vegas Grand Prix,conventional,alonso,3,5
-2024,22,vegas,Las Vegas Grand Prix,conventional,perez,10,2
+2024,21,interlagos,São Paulo Grand Prix,sprint,alonso,1,1
+2024,21,interlagos,São Paulo Grand Prix,sprint,norris,1,0
+2024,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,4,0
+2024,21,interlagos,São Paulo Grand Prix,sprint,gasly,1,1
+2024,21,interlagos,São Paulo Grand Prix,sprint,zhou,1,2
+2024,21,interlagos,São Paulo Grand Prix,sprint,hulkenberg,1,0
+2024,21,interlagos,São Paulo Grand Prix,sprint,hamilton,1,1
+2024,21,interlagos,São Paulo Grand Prix,sprint,bearman,1,4
+2024,21,interlagos,São Paulo Grand Prix,sprint,perez,1,1
 2024,22,vegas,Las Vegas Grand Prix,conventional,bottas,0,6
-2024,22,vegas,Las Vegas Grand Prix,conventional,hamilton,5,0
+2024,22,vegas,Las Vegas Grand Prix,conventional,piastri,7,1
+2024,22,vegas,Las Vegas Grand Prix,conventional,lawson,2,8
+2024,22,vegas,Las Vegas Grand Prix,conventional,sainz,5,0
+2024,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,5,2
+2024,22,vegas,Las Vegas Grand Prix,conventional,alonso,3,5
+2024,22,vegas,Las Vegas Grand Prix,conventional,norris,4,1
+2024,22,vegas,Las Vegas Grand Prix,conventional,max_verstappen,3,3
+2024,22,vegas,Las Vegas Grand Prix,conventional,gasly,0,7
+2024,22,vegas,Las Vegas Grand Prix,conventional,colapinto,2,4
 2024,22,vegas,Las Vegas Grand Prix,conventional,zhou,5,2
 2024,22,vegas,Las Vegas Grand Prix,conventional,ocon,2,8
 2024,22,vegas,Las Vegas Grand Prix,conventional,leclerc,4,2
-2024,22,vegas,Las Vegas Grand Prix,conventional,colapinto,2,4
-2024,22,vegas,Las Vegas Grand Prix,conventional,kevin_magnussen,1,6
-2024,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,5,2
+2024,22,vegas,Las Vegas Grand Prix,conventional,hamilton,5,0
 2024,22,vegas,Las Vegas Grand Prix,conventional,albon,2,5
-2024,22,vegas,Las Vegas Grand Prix,conventional,gasly,0,7
-2024,22,vegas,Las Vegas Grand Prix,conventional,lawson,2,8
 2024,22,vegas,Las Vegas Grand Prix,conventional,hulkenberg,5,3
-2024,22,vegas,Las Vegas Grand Prix,conventional,piastri,7,1
-2024,22,vegas,Las Vegas Grand Prix,conventional,max_verstappen,3,3
-2024,22,vegas,Las Vegas Grand Prix,conventional,sainz,5,0
-2024,23,losail,Qatar Grand Prix,sprint,norris,3,0
-2024,23,losail,Qatar Grand Prix,sprint,alonso,1,1
-2024,23,losail,Qatar Grand Prix,sprint,albon,0,2
-2024,23,losail,Qatar Grand Prix,sprint,gasly,1,0
+2024,22,vegas,Las Vegas Grand Prix,conventional,kevin_magnussen,1,6
+2024,22,vegas,Las Vegas Grand Prix,conventional,perez,10,2
 2024,23,losail,Qatar Grand Prix,sprint,bottas,1,2
-2024,23,losail,Qatar Grand Prix,sprint,russell,1,0
-2024,23,losail,Qatar Grand Prix,sprint,zhou,1,0
-2024,23,losail,Qatar Grand Prix,sprint,hamilton,4,0
 2024,23,losail,Qatar Grand Prix,sprint,lawson,0,1
-2024,23,losail,Qatar Grand Prix,sprint,kevin_magnussen,1,0
+2024,23,losail,Qatar Grand Prix,sprint,gasly,1,0
 2024,23,losail,Qatar Grand Prix,sprint,tsunoda,0,7
+2024,23,losail,Qatar Grand Prix,sprint,zhou,1,0
+2024,23,losail,Qatar Grand Prix,sprint,russell,1,0
+2024,23,losail,Qatar Grand Prix,sprint,hamilton,4,0
+2024,23,losail,Qatar Grand Prix,sprint,albon,0,2
+2024,23,losail,Qatar Grand Prix,sprint,kevin_magnussen,1,0
+2024,23,losail,Qatar Grand Prix,sprint,alonso,1,1
+2024,23,losail,Qatar Grand Prix,sprint,norris,3,0
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,4,0
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,lawson,0,1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,2,2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,0,5
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,0,1
 2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,2,2
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,4,0
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,5,0
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,1,3
 2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,zhou,1,0
 2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,doohan,0,4
 2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,3,0
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,0,1
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,0,5
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,albon,0,2
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,1,3
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,0,1
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,2,2
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,lawson,0,1
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,4,0
 2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,2,3
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,piastri,4,0
-2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,max_verstappen,5,0
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,albon,0,2
+2024,24,yas_marina,Abu Dhabi Grand Prix,conventional,kevin_magnussen,0,1
+2025,1,albert_park,Australian Grand Prix,conventional,piastri,3,0
+2025,1,albert_park,Australian Grand Prix,conventional,lawson,1,0
+2025,1,albert_park,Australian Grand Prix,conventional,max_verstappen,0,1
+2025,1,albert_park,Australian Grand Prix,conventional,gasly,1,0
+2025,1,albert_park,Australian Grand Prix,conventional,stroll,0,1
+2025,1,albert_park,Australian Grand Prix,conventional,tsunoda,1,1
+2025,1,albert_park,Australian Grand Prix,conventional,ocon,0,1
+2025,1,albert_park,Australian Grand Prix,conventional,hulkenberg,0,1
+2025,1,albert_park,Australian Grand Prix,conventional,hamilton,1,1
+2025,1,albert_park,Australian Grand Prix,conventional,leclerc,0,3
 2025,1,albert_park,Australian Grand Prix,conventional,albon,0,1
 2025,1,albert_park,Australian Grand Prix,conventional,antonelli,3,0
-2025,1,albert_park,Australian Grand Prix,conventional,gasly,1,0
-2025,1,albert_park,Australian Grand Prix,conventional,hamilton,1,1
-2025,1,albert_park,Australian Grand Prix,conventional,stroll,0,1
-2025,1,albert_park,Australian Grand Prix,conventional,ocon,0,1
-2025,1,albert_park,Australian Grand Prix,conventional,lawson,1,0
-2025,1,albert_park,Australian Grand Prix,conventional,leclerc,0,3
-2025,1,albert_park,Australian Grand Prix,conventional,hulkenberg,0,1
-2025,1,albert_park,Australian Grand Prix,conventional,piastri,3,0
-2025,1,albert_park,Australian Grand Prix,conventional,max_verstappen,0,1
-2025,1,albert_park,Australian Grand Prix,conventional,tsunoda,1,1
+2025,2,shanghai,Chinese Grand Prix,sprint,hadjar,1,0
+2025,2,shanghai,Chinese Grand Prix,sprint,piastri,1,0
+2025,2,shanghai,Chinese Grand Prix,sprint,lawson,1,1
+2025,2,shanghai,Chinese Grand Prix,sprint,stroll,3,3
+2025,2,shanghai,Chinese Grand Prix,sprint,sainz,2,2
+2025,2,shanghai,Chinese Grand Prix,sprint,tsunoda,1,0
+2025,2,shanghai,Chinese Grand Prix,sprint,bortoleto,2,0
+2025,2,shanghai,Chinese Grand Prix,sprint,russell,0,1
+2025,2,shanghai,Chinese Grand Prix,sprint,alonso,0,8
 2025,2,shanghai,Chinese Grand Prix,sprint,norris,2,0
 2025,2,shanghai,Chinese Grand Prix,sprint,antonelli,1,0
-2025,2,shanghai,Chinese Grand Prix,sprint,alonso,0,8
+2025,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,4,0
+2025,2,shanghai,Chinese Grand Prix,sprint,gasly,2,1
+2025,2,shanghai,Chinese Grand Prix,sprint,ocon,1,0
 2025,2,shanghai,Chinese Grand Prix,sprint,doohan,2,4
+2025,2,shanghai,Chinese Grand Prix,sprint,hulkenberg,1,6
 2025,2,shanghai,Chinese Grand Prix,sprint,hamilton,2,1
 2025,2,shanghai,Chinese Grand Prix,sprint,bearman,4,2
-2025,2,shanghai,Chinese Grand Prix,sprint,ocon,1,0
 2025,2,shanghai,Chinese Grand Prix,sprint,leclerc,2,1
-2025,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,4,0
-2025,2,shanghai,Chinese Grand Prix,sprint,tsunoda,1,0
 2025,2,shanghai,Chinese Grand Prix,sprint,albon,0,2
-2025,2,shanghai,Chinese Grand Prix,sprint,gasly,2,1
-2025,2,shanghai,Chinese Grand Prix,sprint,russell,0,1
-2025,2,shanghai,Chinese Grand Prix,sprint,stroll,3,3
-2025,2,shanghai,Chinese Grand Prix,sprint,hadjar,1,0
-2025,2,shanghai,Chinese Grand Prix,sprint,lawson,1,1
-2025,2,shanghai,Chinese Grand Prix,sprint,hulkenberg,1,6
-2025,2,shanghai,Chinese Grand Prix,sprint,piastri,1,0
-2025,2,shanghai,Chinese Grand Prix,sprint,bortoleto,2,0
-2025,2,shanghai,Chinese Grand Prix,sprint,sainz,2,2
-2025,3,suzuka,Japanese Grand Prix,conventional,albon,4,0
-2025,3,suzuka,Japanese Grand Prix,conventional,gasly,1,1
-2025,3,suzuka,Japanese Grand Prix,conventional,russell,1,0
-2025,3,suzuka,Japanese Grand Prix,conventional,hamilton,1,0
-2025,3,suzuka,Japanese Grand Prix,conventional,doohan,0,2
-2025,3,suzuka,Japanese Grand Prix,conventional,ocon,0,1
 2025,3,suzuka,Japanese Grand Prix,conventional,hadjar,2,1
 2025,3,suzuka,Japanese Grand Prix,conventional,lawson,0,3
-2025,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,0,1
-2025,3,suzuka,Japanese Grand Prix,conventional,bortoleto,0,1
+2025,3,suzuka,Japanese Grand Prix,conventional,gasly,1,1
 2025,3,suzuka,Japanese Grand Prix,conventional,sainz,3,2
-2025,4,bahrain,Bahrain Grand Prix,conventional,norris,7,6
-2025,4,bahrain,Bahrain Grand Prix,conventional,alonso,2,6
-2025,4,bahrain,Bahrain Grand Prix,conventional,doohan,1,7
-2025,4,bahrain,Bahrain Grand Prix,conventional,ocon,2,3
-2025,4,bahrain,Bahrain Grand Prix,conventional,tsunoda,3,2
-2025,4,bahrain,Bahrain Grand Prix,conventional,gasly,1,2
-2025,4,bahrain,Bahrain Grand Prix,conventional,stroll,1,3
+2025,3,suzuka,Japanese Grand Prix,conventional,ocon,0,1
+2025,3,suzuka,Japanese Grand Prix,conventional,bortoleto,0,1
+2025,3,suzuka,Japanese Grand Prix,conventional,russell,1,0
+2025,3,suzuka,Japanese Grand Prix,conventional,doohan,0,2
+2025,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,0,1
+2025,3,suzuka,Japanese Grand Prix,conventional,hamilton,1,0
+2025,3,suzuka,Japanese Grand Prix,conventional,albon,4,0
 2025,4,bahrain,Bahrain Grand Prix,conventional,hadjar,1,5
-2025,4,bahrain,Bahrain Grand Prix,conventional,lawson,4,1
-2025,4,bahrain,Bahrain Grand Prix,conventional,bortoleto,1,1
-2025,4,bahrain,Bahrain Grand Prix,conventional,max_verstappen,5,3
+2025,4,bahrain,Bahrain Grand Prix,conventional,stroll,1,3
+2025,4,bahrain,Bahrain Grand Prix,conventional,russell,23,19
+2025,4,bahrain,Bahrain Grand Prix,conventional,alonso,2,6
 2025,4,bahrain,Bahrain Grand Prix,conventional,antonelli,6,2
+2025,4,bahrain,Bahrain Grand Prix,conventional,ocon,2,3
+2025,4,bahrain,Bahrain Grand Prix,conventional,hulkenberg,1,5
 2025,4,bahrain,Bahrain Grand Prix,conventional,hamilton,6,2
 2025,4,bahrain,Bahrain Grand Prix,conventional,bearman,5,2
+2025,4,bahrain,Bahrain Grand Prix,conventional,lawson,4,1
+2025,4,bahrain,Bahrain Grand Prix,conventional,tsunoda,3,2
+2025,4,bahrain,Bahrain Grand Prix,conventional,sainz,2,7
+2025,4,bahrain,Bahrain Grand Prix,conventional,bortoleto,1,1
+2025,4,bahrain,Bahrain Grand Prix,conventional,norris,7,6
+2025,4,bahrain,Bahrain Grand Prix,conventional,max_verstappen,5,3
+2025,4,bahrain,Bahrain Grand Prix,conventional,gasly,1,2
+2025,4,bahrain,Bahrain Grand Prix,conventional,doohan,1,7
 2025,4,bahrain,Bahrain Grand Prix,conventional,leclerc,4,3
 2025,4,bahrain,Bahrain Grand Prix,conventional,albon,6,2
-2025,4,bahrain,Bahrain Grand Prix,conventional,russell,23,19
-2025,4,bahrain,Bahrain Grand Prix,conventional,hulkenberg,1,5
-2025,4,bahrain,Bahrain Grand Prix,conventional,sainz,2,7
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,norris,4,1
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,alonso,2,1
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,antonelli,1,0
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,1,2
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,doohan,1,5
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,bearman,3,0
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,ocon,1,5
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,1,0
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,albon,4,0
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,russell,0,2
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,stroll,1,3
 2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hadjar,0,1
 2025,5,jeddah,Saudi Arabian Grand Prix,conventional,lawson,4,0
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,1,2
-2025,5,jeddah,Saudi Arabian Grand Prix,conventional,bortoleto,0,5
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,stroll,1,3
 2025,5,jeddah,Saudi Arabian Grand Prix,conventional,sainz,4,1
-2025,6,miami,Miami Grand Prix,sprint,albon,1,0
-2025,6,miami,Miami Grand Prix,sprint,antonelli,0,1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,bortoleto,0,5
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,russell,0,2
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,alonso,2,1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,norris,4,1
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,antonelli,1,0
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,ocon,1,5
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,doohan,1,5
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,leclerc,1,0
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hamilton,1,2
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,albon,4,0
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,bearman,3,0
+2025,5,jeddah,Saudi Arabian Grand Prix,conventional,hulkenberg,1,2
 2025,6,miami,Miami Grand Prix,sprint,gasly,1,0
-2025,6,miami,Miami Grand Prix,sprint,hamilton,1,1
-2025,6,miami,Miami Grand Prix,sprint,bearman,0,1
 2025,6,miami,Miami Grand Prix,sprint,leclerc,1,1
-2025,7,imola,Emilia Romagna Grand Prix,conventional,norris,1,0
+2025,6,miami,Miami Grand Prix,sprint,hamilton,1,1
+2025,6,miami,Miami Grand Prix,sprint,albon,1,0
+2025,6,miami,Miami Grand Prix,sprint,bearman,0,1
+2025,6,miami,Miami Grand Prix,sprint,antonelli,0,1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,hadjar,0,3
+2025,7,imola,Emilia Romagna Grand Prix,conventional,piastri,8,1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,lawson,1,1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,stroll,0,5
+2025,7,imola,Emilia Romagna Grand Prix,conventional,sainz,4,0
+2025,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,2,4
+2025,7,imola,Emilia Romagna Grand Prix,conventional,bortoleto,1,1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,russell,4,1
 2025,7,imola,Emilia Romagna Grand Prix,conventional,alonso,3,5
+2025,7,imola,Emilia Romagna Grand Prix,conventional,norris,1,0
 2025,7,imola,Emilia Romagna Grand Prix,conventional,antonelli,0,3
-2025,7,imola,Emilia Romagna Grand Prix,conventional,hamilton,4,1
-2025,7,imola,Emilia Romagna Grand Prix,conventional,bearman,1,2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,gasly,2,1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,colapinto,0,2
 2025,7,imola,Emilia Romagna Grand Prix,conventional,ocon,0,3
 2025,7,imola,Emilia Romagna Grand Prix,conventional,leclerc,7,2
-2025,7,imola,Emilia Romagna Grand Prix,conventional,colapinto,0,2
-2025,7,imola,Emilia Romagna Grand Prix,conventional,tsunoda,2,4
-2025,7,imola,Emilia Romagna Grand Prix,conventional,albon,1,1
-2025,7,imola,Emilia Romagna Grand Prix,conventional,gasly,2,1
-2025,7,imola,Emilia Romagna Grand Prix,conventional,russell,4,1
-2025,7,imola,Emilia Romagna Grand Prix,conventional,stroll,0,5
-2025,7,imola,Emilia Romagna Grand Prix,conventional,hadjar,0,3
-2025,7,imola,Emilia Romagna Grand Prix,conventional,lawson,1,1
+2025,7,imola,Emilia Romagna Grand Prix,conventional,hamilton,4,1
 2025,7,imola,Emilia Romagna Grand Prix,conventional,hulkenberg,2,5
-2025,7,imola,Emilia Romagna Grand Prix,conventional,piastri,8,1
-2025,7,imola,Emilia Romagna Grand Prix,conventional,bortoleto,1,1
-2025,7,imola,Emilia Romagna Grand Prix,conventional,sainz,4,0
-2025,8,monaco,Monaco Grand Prix,conventional,albon,1,0
-2025,8,monaco,Monaco Grand Prix,conventional,stroll,1,0
+2025,7,imola,Emilia Romagna Grand Prix,conventional,bearman,1,2
+2025,7,imola,Emilia Romagna Grand Prix,conventional,albon,1,1
 2025,8,monaco,Monaco Grand Prix,conventional,sainz,0,1
+2025,8,monaco,Monaco Grand Prix,conventional,stroll,1,0
+2025,8,monaco,Monaco Grand Prix,conventional,albon,1,0
 2025,8,monaco,Monaco Grand Prix,conventional,hulkenberg,0,1
-2025,9,catalunya,Spanish Grand Prix,conventional,alonso,4,0
-2025,9,catalunya,Spanish Grand Prix,conventional,antonelli,1,2
-2025,9,catalunya,Spanish Grand Prix,conventional,hamilton,0,2
-2025,9,catalunya,Spanish Grand Prix,conventional,bearman,1,0
-2025,9,catalunya,Spanish Grand Prix,conventional,ocon,1,7
-2025,9,catalunya,Spanish Grand Prix,conventional,leclerc,1,1
-2025,9,catalunya,Spanish Grand Prix,conventional,sainz,2,1
-2025,9,catalunya,Spanish Grand Prix,conventional,max_verstappen,3,1
-2025,9,catalunya,Spanish Grand Prix,conventional,tsunoda,4,0
-2025,9,catalunya,Spanish Grand Prix,conventional,gasly,1,3
-2025,9,catalunya,Spanish Grand Prix,conventional,russell,2,1
 2025,9,catalunya,Spanish Grand Prix,conventional,hadjar,2,0
 2025,9,catalunya,Spanish Grand Prix,conventional,lawson,1,1
-2025,9,catalunya,Spanish Grand Prix,conventional,hulkenberg,2,1
+2025,9,catalunya,Spanish Grand Prix,conventional,tsunoda,4,0
+2025,9,catalunya,Spanish Grand Prix,conventional,sainz,2,1
 2025,9,catalunya,Spanish Grand Prix,conventional,bortoleto,1,2
+2025,9,catalunya,Spanish Grand Prix,conventional,russell,2,1
+2025,9,catalunya,Spanish Grand Prix,conventional,alonso,4,0
+2025,9,catalunya,Spanish Grand Prix,conventional,antonelli,1,2
+2025,9,catalunya,Spanish Grand Prix,conventional,max_verstappen,3,1
+2025,9,catalunya,Spanish Grand Prix,conventional,gasly,1,3
 2025,9,catalunya,Spanish Grand Prix,conventional,colapinto,1,5
-2025,10,villeneuve,Canadian Grand Prix,conventional,norris,1,0
-2025,10,villeneuve,Canadian Grand Prix,conventional,antonelli,1,0
-2025,10,villeneuve,Canadian Grand Prix,conventional,alonso,9,2
-2025,10,villeneuve,Canadian Grand Prix,conventional,hamilton,2,0
-2025,10,villeneuve,Canadian Grand Prix,conventional,bearman,2,1
-2025,10,villeneuve,Canadian Grand Prix,conventional,ocon,2,2
-2025,10,villeneuve,Canadian Grand Prix,conventional,leclerc,1,1
-2025,10,villeneuve,Canadian Grand Prix,conventional,colapinto,1,2
-2025,10,villeneuve,Canadian Grand Prix,conventional,tsunoda,4,3
-2025,10,villeneuve,Canadian Grand Prix,conventional,albon,0,5
-2025,10,villeneuve,Canadian Grand Prix,conventional,bortoleto,1,4
-2025,10,villeneuve,Canadian Grand Prix,conventional,gasly,1,5
-2025,10,villeneuve,Canadian Grand Prix,conventional,russell,1,0
-2025,10,villeneuve,Canadian Grand Prix,conventional,stroll,0,1
+2025,9,catalunya,Spanish Grand Prix,conventional,ocon,1,7
+2025,9,catalunya,Spanish Grand Prix,conventional,leclerc,1,1
+2025,9,catalunya,Spanish Grand Prix,conventional,hulkenberg,2,1
+2025,9,catalunya,Spanish Grand Prix,conventional,bearman,1,0
+2025,9,catalunya,Spanish Grand Prix,conventional,hamilton,0,2
 2025,10,villeneuve,Canadian Grand Prix,conventional,hadjar,1,2
 2025,10,villeneuve,Canadian Grand Prix,conventional,lawson,0,2
-2025,10,villeneuve,Canadian Grand Prix,conventional,hulkenberg,4,3
-2025,10,villeneuve,Canadian Grand Prix,conventional,max_verstappen,1,0
+2025,10,villeneuve,Canadian Grand Prix,conventional,stroll,0,1
 2025,10,villeneuve,Canadian Grand Prix,conventional,sainz,2,1
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,alonso,0,1
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,hamilton,1,0
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,bearman,3,2
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,ocon,3,0
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,leclerc,1,0
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,tsunoda,0,1
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,albon,1,0
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,gasly,1,5
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,russell,4,0
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,stroll,1,4
+2025,10,villeneuve,Canadian Grand Prix,conventional,tsunoda,4,3
+2025,10,villeneuve,Canadian Grand Prix,conventional,bortoleto,1,4
+2025,10,villeneuve,Canadian Grand Prix,conventional,russell,1,0
+2025,10,villeneuve,Canadian Grand Prix,conventional,alonso,9,2
+2025,10,villeneuve,Canadian Grand Prix,conventional,norris,1,0
+2025,10,villeneuve,Canadian Grand Prix,conventional,antonelli,1,0
+2025,10,villeneuve,Canadian Grand Prix,conventional,max_verstappen,1,0
+2025,10,villeneuve,Canadian Grand Prix,conventional,gasly,1,5
+2025,10,villeneuve,Canadian Grand Prix,conventional,colapinto,1,2
+2025,10,villeneuve,Canadian Grand Prix,conventional,ocon,2,2
+2025,10,villeneuve,Canadian Grand Prix,conventional,leclerc,1,1
+2025,10,villeneuve,Canadian Grand Prix,conventional,hamilton,2,0
+2025,10,villeneuve,Canadian Grand Prix,conventional,hulkenberg,4,3
+2025,10,villeneuve,Canadian Grand Prix,conventional,bearman,2,1
+2025,10,villeneuve,Canadian Grand Prix,conventional,albon,0,5
 2025,11,red_bull_ring,Austrian Grand Prix,conventional,hadjar,2,5
 2025,11,red_bull_ring,Austrian Grand Prix,conventional,lawson,0,3
-2025,11,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,3,1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,stroll,1,4
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,tsunoda,0,1
 2025,11,red_bull_ring,Austrian Grand Prix,conventional,bortoleto,3,0
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,russell,4,0
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,alonso,0,1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,gasly,1,5
 2025,11,red_bull_ring,Austrian Grand Prix,conventional,colapinto,1,2
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,ocon,3,0
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,3,1
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,leclerc,1,0
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,albon,1,0
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,hamilton,1,0
+2025,11,red_bull_ring,Austrian Grand Prix,conventional,bearman,3,2
+2025,12,silverstone,British Grand Prix,conventional,stroll,1,4
+2025,12,silverstone,British Grand Prix,conventional,tsunoda,0,1
+2025,12,silverstone,British Grand Prix,conventional,sainz,0,2
+2025,12,silverstone,British Grand Prix,conventional,russell,1,2
 2025,12,silverstone,British Grand Prix,conventional,alonso,1,1
 2025,12,silverstone,British Grand Prix,conventional,antonelli,0,1
+2025,12,silverstone,British Grand Prix,conventional,max_verstappen,2,0
+2025,12,silverstone,British Grand Prix,conventional,gasly,1,1
+2025,12,silverstone,British Grand Prix,conventional,ocon,0,3
+2025,12,silverstone,British Grand Prix,conventional,hulkenberg,2,0
 2025,12,silverstone,British Grand Prix,conventional,hamilton,3,0
 2025,12,silverstone,British Grand Prix,conventional,bearman,2,0
-2025,12,silverstone,British Grand Prix,conventional,ocon,0,3
 2025,12,silverstone,British Grand Prix,conventional,leclerc,2,0
-2025,12,silverstone,British Grand Prix,conventional,tsunoda,0,1
 2025,12,silverstone,British Grand Prix,conventional,albon,1,1
-2025,12,silverstone,British Grand Prix,conventional,gasly,1,1
-2025,12,silverstone,British Grand Prix,conventional,russell,1,2
-2025,12,silverstone,British Grand Prix,conventional,stroll,1,4
-2025,12,silverstone,British Grand Prix,conventional,hulkenberg,2,0
-2025,12,silverstone,British Grand Prix,conventional,max_verstappen,2,0
-2025,12,silverstone,British Grand Prix,conventional,sainz,0,2
-2025,13,spa,Belgian Grand Prix,sprint,albon,0,1
-2025,13,spa,Belgian Grand Prix,sprint,antonelli,3,0
-2025,13,spa,Belgian Grand Prix,sprint,alonso,0,2
+2025,13,spa,Belgian Grand Prix,sprint,hadjar,0,3
+2025,13,spa,Belgian Grand Prix,sprint,stroll,2,2
+2025,13,spa,Belgian Grand Prix,sprint,sainz,1,1
+2025,13,spa,Belgian Grand Prix,sprint,tsunoda,0,1
+2025,13,spa,Belgian Grand Prix,sprint,colapinto,0,2
+2025,13,spa,Belgian Grand Prix,sprint,bortoleto,1,0
 2025,13,spa,Belgian Grand Prix,sprint,russell,1,0
+2025,13,spa,Belgian Grand Prix,sprint,hulkenberg,1,2
 2025,13,spa,Belgian Grand Prix,sprint,hamilton,3,0
 2025,13,spa,Belgian Grand Prix,sprint,bearman,2,0
-2025,13,spa,Belgian Grand Prix,sprint,stroll,2,2
-2025,13,spa,Belgian Grand Prix,sprint,hadjar,0,3
-2025,13,spa,Belgian Grand Prix,sprint,colapinto,0,2
-2025,13,spa,Belgian Grand Prix,sprint,hulkenberg,1,2
-2025,13,spa,Belgian Grand Prix,sprint,bortoleto,1,0
-2025,13,spa,Belgian Grand Prix,sprint,tsunoda,0,1
-2025,13,spa,Belgian Grand Prix,sprint,sainz,1,1
+2025,13,spa,Belgian Grand Prix,sprint,albon,0,1
+2025,13,spa,Belgian Grand Prix,sprint,alonso,0,2
+2025,13,spa,Belgian Grand Prix,sprint,antonelli,3,0
+2025,14,hungaroring,Hungarian Grand Prix,conventional,hadjar,3,1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,piastri,2,0
+2025,14,hungaroring,Hungarian Grand Prix,conventional,lawson,1,0
+2025,14,hungaroring,Hungarian Grand Prix,conventional,stroll,1,1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,tsunoda,1,0
+2025,14,hungaroring,Hungarian Grand Prix,conventional,sainz,4,4
+2025,14,hungaroring,Hungarian Grand Prix,conventional,russell,2,0
+2025,14,hungaroring,Hungarian Grand Prix,conventional,alonso,0,3
 2025,14,hungaroring,Hungarian Grand Prix,conventional,norris,1,0
 2025,14,hungaroring,Hungarian Grand Prix,conventional,antonelli,2,0
-2025,14,hungaroring,Hungarian Grand Prix,conventional,alonso,0,3
-2025,14,hungaroring,Hungarian Grand Prix,conventional,hamilton,3,0
-2025,14,hungaroring,Hungarian Grand Prix,conventional,bearman,0,6
-2025,14,hungaroring,Hungarian Grand Prix,conventional,ocon,0,6
-2025,14,hungaroring,Hungarian Grand Prix,conventional,leclerc,0,2
-2025,14,hungaroring,Hungarian Grand Prix,conventional,colapinto,0,1
-2025,14,hungaroring,Hungarian Grand Prix,conventional,tsunoda,1,0
-2025,14,hungaroring,Hungarian Grand Prix,conventional,albon,2,2
-2025,14,hungaroring,Hungarian Grand Prix,conventional,gasly,2,4
-2025,14,hungaroring,Hungarian Grand Prix,conventional,russell,2,0
-2025,14,hungaroring,Hungarian Grand Prix,conventional,stroll,1,1
-2025,14,hungaroring,Hungarian Grand Prix,conventional,hadjar,3,1
-2025,14,hungaroring,Hungarian Grand Prix,conventional,lawson,1,0
-2025,14,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,4,1
-2025,14,hungaroring,Hungarian Grand Prix,conventional,piastri,2,0
 2025,14,hungaroring,Hungarian Grand Prix,conventional,max_verstappen,3,0
-2025,14,hungaroring,Hungarian Grand Prix,conventional,sainz,4,4
+2025,14,hungaroring,Hungarian Grand Prix,conventional,gasly,2,4
+2025,14,hungaroring,Hungarian Grand Prix,conventional,colapinto,0,1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,ocon,0,6
+2025,14,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,4,1
+2025,14,hungaroring,Hungarian Grand Prix,conventional,hamilton,3,0
+2025,14,hungaroring,Hungarian Grand Prix,conventional,albon,2,2
+2025,14,hungaroring,Hungarian Grand Prix,conventional,leclerc,0,2
+2025,14,hungaroring,Hungarian Grand Prix,conventional,bearman,0,6
+2025,15,zandvoort,Dutch Grand Prix,conventional,lawson,1,0
+2025,15,zandvoort,Dutch Grand Prix,conventional,stroll,4,0
+2025,15,zandvoort,Dutch Grand Prix,conventional,tsunoda,1,0
+2025,15,zandvoort,Dutch Grand Prix,conventional,sainz,2,0
+2025,15,zandvoort,Dutch Grand Prix,conventional,bortoleto,1,4
+2025,15,zandvoort,Dutch Grand Prix,conventional,russell,0,1
+2025,15,zandvoort,Dutch Grand Prix,conventional,alonso,3,2
 2025,15,zandvoort,Dutch Grand Prix,conventional,norris,1,0
 2025,15,zandvoort,Dutch Grand Prix,conventional,antonelli,2,0
-2025,15,zandvoort,Dutch Grand Prix,conventional,alonso,3,2
-2025,15,zandvoort,Dutch Grand Prix,conventional,bearman,2,0
-2025,15,zandvoort,Dutch Grand Prix,conventional,ocon,0,2
-2025,15,zandvoort,Dutch Grand Prix,conventional,colapinto,2,2
-2025,15,zandvoort,Dutch Grand Prix,conventional,tsunoda,1,0
 2025,15,zandvoort,Dutch Grand Prix,conventional,max_verstappen,0,1
-2025,15,zandvoort,Dutch Grand Prix,conventional,albon,0,1
 2025,15,zandvoort,Dutch Grand Prix,conventional,gasly,1,8
-2025,15,zandvoort,Dutch Grand Prix,conventional,russell,0,1
-2025,15,zandvoort,Dutch Grand Prix,conventional,stroll,4,0
-2025,15,zandvoort,Dutch Grand Prix,conventional,lawson,1,0
+2025,15,zandvoort,Dutch Grand Prix,conventional,colapinto,2,2
+2025,15,zandvoort,Dutch Grand Prix,conventional,ocon,0,2
 2025,15,zandvoort,Dutch Grand Prix,conventional,hulkenberg,3,2
-2025,15,zandvoort,Dutch Grand Prix,conventional,bortoleto,1,4
-2025,15,zandvoort,Dutch Grand Prix,conventional,sainz,2,0
+2025,15,zandvoort,Dutch Grand Prix,conventional,bearman,2,0
+2025,15,zandvoort,Dutch Grand Prix,conventional,albon,0,1
+2025,16,monza,Italian Grand Prix,conventional,hadjar,1,0
+2025,16,monza,Italian Grand Prix,conventional,piastri,1,1
+2025,16,monza,Italian Grand Prix,conventional,lawson,1,1
+2025,16,monza,Italian Grand Prix,conventional,stroll,0,2
+2025,16,monza,Italian Grand Prix,conventional,tsunoda,1,1
+2025,16,monza,Italian Grand Prix,conventional,sainz,0,1
+2025,16,monza,Italian Grand Prix,conventional,bortoleto,2,1
+2025,16,monza,Italian Grand Prix,conventional,russell,2,0
+2025,16,monza,Italian Grand Prix,conventional,alonso,0,5
 2025,16,monza,Italian Grand Prix,conventional,norris,1,1
 2025,16,monza,Italian Grand Prix,conventional,antonelli,2,1
-2025,16,monza,Italian Grand Prix,conventional,alonso,0,5
-2025,16,monza,Italian Grand Prix,conventional,hamilton,4,0
-2025,16,monza,Italian Grand Prix,conventional,bearman,2,0
+2025,16,monza,Italian Grand Prix,conventional,max_verstappen,1,0
+2025,16,monza,Italian Grand Prix,conventional,gasly,0,2
+2025,16,monza,Italian Grand Prix,conventional,colapinto,0,1
 2025,16,monza,Italian Grand Prix,conventional,ocon,0,2
 2025,16,monza,Italian Grand Prix,conventional,leclerc,0,1
-2025,16,monza,Italian Grand Prix,conventional,colapinto,0,1
-2025,16,monza,Italian Grand Prix,conventional,max_verstappen,1,0
-2025,16,monza,Italian Grand Prix,conventional,tsunoda,1,1
+2025,16,monza,Italian Grand Prix,conventional,hamilton,4,0
+2025,16,monza,Italian Grand Prix,conventional,bearman,2,0
 2025,16,monza,Italian Grand Prix,conventional,albon,2,0
-2025,16,monza,Italian Grand Prix,conventional,gasly,0,2
-2025,16,monza,Italian Grand Prix,conventional,russell,2,0
-2025,16,monza,Italian Grand Prix,conventional,stroll,0,2
-2025,16,monza,Italian Grand Prix,conventional,hadjar,1,0
-2025,16,monza,Italian Grand Prix,conventional,lawson,1,1
-2025,16,monza,Italian Grand Prix,conventional,piastri,1,1
-2025,16,monza,Italian Grand Prix,conventional,bortoleto,2,1
-2025,16,monza,Italian Grand Prix,conventional,sainz,0,1
-2025,17,baku,Azerbaijan Grand Prix,conventional,albon,3,0
-2025,17,baku,Azerbaijan Grand Prix,conventional,antonelli,1,0
-2025,17,baku,Azerbaijan Grand Prix,conventional,norris,1,0
-2025,17,baku,Azerbaijan Grand Prix,conventional,gasly,1,3
-2025,17,baku,Azerbaijan Grand Prix,conventional,alonso,0,1
-2025,17,baku,Azerbaijan Grand Prix,conventional,hamilton,2,0
-2025,17,baku,Azerbaijan Grand Prix,conventional,russell,1,0
-2025,17,baku,Azerbaijan Grand Prix,conventional,bearman,3,0
-2025,17,baku,Azerbaijan Grand Prix,conventional,ocon,2,4
 2025,17,baku,Azerbaijan Grand Prix,conventional,hadjar,0,1
-2025,17,baku,Azerbaijan Grand Prix,conventional,leclerc,0,2
-2025,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,0,1
-2025,17,baku,Azerbaijan Grand Prix,conventional,bortoleto,3,3
+2025,17,baku,Azerbaijan Grand Prix,conventional,gasly,1,3
 2025,17,baku,Azerbaijan Grand Prix,conventional,tsunoda,0,1
 2025,17,baku,Azerbaijan Grand Prix,conventional,colapinto,0,1
-2025,18,marina_bay,Singapore Grand Prix,conventional,alonso,4,0
-2025,18,marina_bay,Singapore Grand Prix,conventional,antonelli,1,0
-2025,18,marina_bay,Singapore Grand Prix,conventional,hamilton,1,0
-2025,18,marina_bay,Singapore Grand Prix,conventional,bearman,1,0
-2025,18,marina_bay,Singapore Grand Prix,conventional,leclerc,0,2
-2025,18,marina_bay,Singapore Grand Prix,conventional,colapinto,0,4
-2025,18,marina_bay,Singapore Grand Prix,conventional,tsunoda,0,1
-2025,18,marina_bay,Singapore Grand Prix,conventional,albon,3,1
-2025,18,marina_bay,Singapore Grand Prix,conventional,gasly,1,0
-2025,18,marina_bay,Singapore Grand Prix,conventional,stroll,2,1
+2025,17,baku,Azerbaijan Grand Prix,conventional,ocon,2,4
+2025,17,baku,Azerbaijan Grand Prix,conventional,bortoleto,3,3
+2025,17,baku,Azerbaijan Grand Prix,conventional,russell,1,0
+2025,17,baku,Azerbaijan Grand Prix,conventional,hulkenberg,0,1
+2025,17,baku,Azerbaijan Grand Prix,conventional,hamilton,2,0
+2025,17,baku,Azerbaijan Grand Prix,conventional,bearman,3,0
+2025,17,baku,Azerbaijan Grand Prix,conventional,albon,3,0
+2025,17,baku,Azerbaijan Grand Prix,conventional,leclerc,0,2
+2025,17,baku,Azerbaijan Grand Prix,conventional,alonso,0,1
+2025,17,baku,Azerbaijan Grand Prix,conventional,norris,1,0
+2025,17,baku,Azerbaijan Grand Prix,conventional,antonelli,1,0
 2025,18,marina_bay,Singapore Grand Prix,conventional,hadjar,0,3
 2025,18,marina_bay,Singapore Grand Prix,conventional,lawson,2,1
-2025,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,0,1
-2025,18,marina_bay,Singapore Grand Prix,conventional,bortoleto,0,3
+2025,18,marina_bay,Singapore Grand Prix,conventional,stroll,2,1
 2025,18,marina_bay,Singapore Grand Prix,conventional,sainz,3,1
-2025,19,americas,United States Grand Prix,sprint,norris,1,0
-2025,19,americas,United States Grand Prix,sprint,alonso,2,0
-2025,19,americas,United States Grand Prix,sprint,antonelli,4,10
-2025,19,americas,United States Grand Prix,sprint,bearman,1,2
-2025,19,americas,United States Grand Prix,sprint,ocon,1,2
-2025,19,americas,United States Grand Prix,sprint,leclerc,2,1
-2025,19,americas,United States Grand Prix,sprint,tsunoda,2,0
-2025,19,americas,United States Grand Prix,sprint,albon,5,0
-2025,19,americas,United States Grand Prix,sprint,gasly,1,4
-2025,19,americas,United States Grand Prix,sprint,stroll,3,0
+2025,18,marina_bay,Singapore Grand Prix,conventional,tsunoda,0,1
+2025,18,marina_bay,Singapore Grand Prix,conventional,bortoleto,0,3
+2025,18,marina_bay,Singapore Grand Prix,conventional,alonso,4,0
+2025,18,marina_bay,Singapore Grand Prix,conventional,antonelli,1,0
+2025,18,marina_bay,Singapore Grand Prix,conventional,gasly,1,0
+2025,18,marina_bay,Singapore Grand Prix,conventional,colapinto,0,4
+2025,18,marina_bay,Singapore Grand Prix,conventional,leclerc,0,2
+2025,18,marina_bay,Singapore Grand Prix,conventional,hamilton,1,0
+2025,18,marina_bay,Singapore Grand Prix,conventional,bearman,1,0
+2025,18,marina_bay,Singapore Grand Prix,conventional,albon,3,1
+2025,18,marina_bay,Singapore Grand Prix,conventional,hulkenberg,0,1
 2025,19,americas,United States Grand Prix,sprint,hadjar,2,2
 2025,19,americas,United States Grand Prix,sprint,lawson,2,0
-2025,19,americas,United States Grand Prix,sprint,hulkenberg,1,1
+2025,19,americas,United States Grand Prix,sprint,stroll,3,0
+2025,19,americas,United States Grand Prix,sprint,tsunoda,2,0
 2025,19,americas,United States Grand Prix,sprint,bortoleto,1,3
+2025,19,americas,United States Grand Prix,sprint,alonso,2,0
+2025,19,americas,United States Grand Prix,sprint,norris,1,0
+2025,19,americas,United States Grand Prix,sprint,antonelli,4,10
+2025,19,americas,United States Grand Prix,sprint,gasly,1,4
 2025,19,americas,United States Grand Prix,sprint,colapinto,0,3
-2025,20,rodriguez,Mexico City Grand Prix,conventional,antonelli,4,1
-2025,20,rodriguez,Mexico City Grand Prix,conventional,alonso,2,1
-2025,20,rodriguez,Mexico City Grand Prix,conventional,hamilton,5,0
-2025,20,rodriguez,Mexico City Grand Prix,conventional,bearman,2,0
-2025,20,rodriguez,Mexico City Grand Prix,conventional,ocon,1,1
-2025,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,0,2
-2025,20,rodriguez,Mexico City Grand Prix,conventional,tsunoda,1,6
-2025,20,rodriguez,Mexico City Grand Prix,conventional,albon,3,6
-2025,20,rodriguez,Mexico City Grand Prix,conventional,gasly,1,7
-2025,20,rodriguez,Mexico City Grand Prix,conventional,russell,4,1
-2025,20,rodriguez,Mexico City Grand Prix,conventional,stroll,6,1
+2025,19,americas,United States Grand Prix,sprint,ocon,1,2
+2025,19,americas,United States Grand Prix,sprint,hulkenberg,1,1
+2025,19,americas,United States Grand Prix,sprint,leclerc,2,1
+2025,19,americas,United States Grand Prix,sprint,albon,5,0
+2025,19,americas,United States Grand Prix,sprint,bearman,1,2
 2025,20,rodriguez,Mexico City Grand Prix,conventional,hadjar,0,8
-2025,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,2,4
 2025,20,rodriguez,Mexico City Grand Prix,conventional,piastri,5,0
-2025,20,rodriguez,Mexico City Grand Prix,conventional,bortoleto,2,5
+2025,20,rodriguez,Mexico City Grand Prix,conventional,stroll,6,1
 2025,20,rodriguez,Mexico City Grand Prix,conventional,sainz,6,1
-2025,21,interlagos,São Paulo Grand Prix,sprint,antonelli,4,0
+2025,20,rodriguez,Mexico City Grand Prix,conventional,tsunoda,1,6
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bortoleto,2,5
+2025,20,rodriguez,Mexico City Grand Prix,conventional,russell,4,1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,alonso,2,1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,antonelli,4,1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,gasly,1,7
+2025,20,rodriguez,Mexico City Grand Prix,conventional,colapinto,0,2
+2025,20,rodriguez,Mexico City Grand Prix,conventional,ocon,1,1
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,2,4
+2025,20,rodriguez,Mexico City Grand Prix,conventional,hamilton,5,0
+2025,20,rodriguez,Mexico City Grand Prix,conventional,albon,3,6
+2025,20,rodriguez,Mexico City Grand Prix,conventional,bearman,2,0
+2025,21,interlagos,São Paulo Grand Prix,sprint,hadjar,3,1
+2025,21,interlagos,São Paulo Grand Prix,sprint,piastri,1,0
+2025,21,interlagos,São Paulo Grand Prix,sprint,lawson,1,5
+2025,21,interlagos,São Paulo Grand Prix,sprint,stroll,1,3
+2025,21,interlagos,São Paulo Grand Prix,sprint,sainz,3,2
+2025,21,interlagos,São Paulo Grand Prix,sprint,tsunoda,0,2
+2025,21,interlagos,São Paulo Grand Prix,sprint,russell,3,1
 2025,21,interlagos,São Paulo Grand Prix,sprint,alonso,0,7
+2025,21,interlagos,São Paulo Grand Prix,sprint,antonelli,4,0
+2025,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,8,0
+2025,21,interlagos,São Paulo Grand Prix,sprint,gasly,2,1
+2025,21,interlagos,São Paulo Grand Prix,sprint,colapinto,1,6
+2025,21,interlagos,São Paulo Grand Prix,sprint,ocon,1,5
+2025,21,interlagos,São Paulo Grand Prix,sprint,hulkenberg,3,4
 2025,21,interlagos,São Paulo Grand Prix,sprint,hamilton,1,3
 2025,21,interlagos,São Paulo Grand Prix,sprint,bearman,7,1
-2025,21,interlagos,São Paulo Grand Prix,sprint,ocon,1,5
-2025,21,interlagos,São Paulo Grand Prix,sprint,colapinto,1,6
-2025,21,interlagos,São Paulo Grand Prix,sprint,tsunoda,0,2
 2025,21,interlagos,São Paulo Grand Prix,sprint,albon,6,4
-2025,21,interlagos,São Paulo Grand Prix,sprint,gasly,2,1
-2025,21,interlagos,São Paulo Grand Prix,sprint,russell,3,1
-2025,21,interlagos,São Paulo Grand Prix,sprint,stroll,1,3
-2025,21,interlagos,São Paulo Grand Prix,sprint,hadjar,3,1
-2025,21,interlagos,São Paulo Grand Prix,sprint,lawson,1,5
-2025,21,interlagos,São Paulo Grand Prix,sprint,hulkenberg,3,4
-2025,21,interlagos,São Paulo Grand Prix,sprint,piastri,1,0
-2025,21,interlagos,São Paulo Grand Prix,sprint,max_verstappen,8,0
-2025,21,interlagos,São Paulo Grand Prix,sprint,sainz,3,2
+2025,22,vegas,Las Vegas Grand Prix,conventional,hadjar,0,1
+2025,22,vegas,Las Vegas Grand Prix,conventional,piastri,0,1
+2025,22,vegas,Las Vegas Grand Prix,conventional,lawson,1,0
+2025,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,1,2
+2025,22,vegas,Las Vegas Grand Prix,conventional,russell,0,1
+2025,22,vegas,Las Vegas Grand Prix,conventional,alonso,2,2
 2025,22,vegas,Las Vegas Grand Prix,conventional,norris,1,0
 2025,22,vegas,Las Vegas Grand Prix,conventional,antonelli,2,0
-2025,22,vegas,Las Vegas Grand Prix,conventional,alonso,2,2
-2025,22,vegas,Las Vegas Grand Prix,conventional,hamilton,1,0
-2025,22,vegas,Las Vegas Grand Prix,conventional,bearman,3,2
+2025,22,vegas,Las Vegas Grand Prix,conventional,gasly,0,1
+2025,22,vegas,Las Vegas Grand Prix,conventional,colapinto,0,5
 2025,22,vegas,Las Vegas Grand Prix,conventional,ocon,2,2
 2025,22,vegas,Las Vegas Grand Prix,conventional,leclerc,3,0
-2025,22,vegas,Las Vegas Grand Prix,conventional,tsunoda,1,2
+2025,22,vegas,Las Vegas Grand Prix,conventional,hamilton,1,0
+2025,22,vegas,Las Vegas Grand Prix,conventional,bearman,3,2
 2025,22,vegas,Las Vegas Grand Prix,conventional,albon,1,0
-2025,22,vegas,Las Vegas Grand Prix,conventional,gasly,0,1
-2025,22,vegas,Las Vegas Grand Prix,conventional,russell,0,1
-2025,22,vegas,Las Vegas Grand Prix,conventional,hadjar,0,1
-2025,22,vegas,Las Vegas Grand Prix,conventional,lawson,1,0
-2025,22,vegas,Las Vegas Grand Prix,conventional,piastri,0,1
-2025,22,vegas,Las Vegas Grand Prix,conventional,colapinto,0,5
+2025,23,losail,Qatar Grand Prix,sprint,hadjar,1,12
+2025,23,losail,Qatar Grand Prix,sprint,piastri,1,0
+2025,23,losail,Qatar Grand Prix,sprint,lawson,1,0
+2025,23,losail,Qatar Grand Prix,sprint,stroll,1,0
+2025,23,losail,Qatar Grand Prix,sprint,gasly,1,0
+2025,23,losail,Qatar Grand Prix,sprint,tsunoda,1,0
+2025,23,losail,Qatar Grand Prix,sprint,colapinto,1,0
+2025,23,losail,Qatar Grand Prix,sprint,ocon,1,0
+2025,23,losail,Qatar Grand Prix,sprint,bortoleto,1,0
+2025,23,losail,Qatar Grand Prix,sprint,russell,2,0
+2025,23,losail,Qatar Grand Prix,sprint,leclerc,1,0
+2025,23,losail,Qatar Grand Prix,sprint,hamilton,1,0
 2025,23,losail,Qatar Grand Prix,sprint,albon,1,0
 2025,23,losail,Qatar Grand Prix,sprint,alonso,1,2
 2025,23,losail,Qatar Grand Prix,sprint,antonelli,0,1
-2025,23,losail,Qatar Grand Prix,sprint,gasly,1,0
-2025,23,losail,Qatar Grand Prix,sprint,russell,2,0
-2025,23,losail,Qatar Grand Prix,sprint,hamilton,1,0
-2025,23,losail,Qatar Grand Prix,sprint,stroll,1,0
-2025,23,losail,Qatar Grand Prix,sprint,ocon,1,0
-2025,23,losail,Qatar Grand Prix,sprint,hadjar,1,12
-2025,23,losail,Qatar Grand Prix,sprint,lawson,1,0
-2025,23,losail,Qatar Grand Prix,sprint,leclerc,1,0
-2025,23,losail,Qatar Grand Prix,sprint,piastri,1,0
-2025,23,losail,Qatar Grand Prix,sprint,bortoleto,1,0
-2025,23,losail,Qatar Grand Prix,sprint,tsunoda,1,0
-2025,23,losail,Qatar Grand Prix,sprint,colapinto,1,0
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,norris,3,0
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,antonelli,3,4
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,0,1
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,7,0
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bearman,4,3
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,ocon,4,0
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,4,0
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,colapinto,0,4
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,3,5
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,albon,1,4
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,0,2
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,3,1
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,8,3
 2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hadjar,0,7
 2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,lawson,1,5
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,7,3
-2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bortoleto,2,5
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,stroll,8,3
 2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,sainz,1,4
-2026,1,albert_park,Australian Grand Prix,conventional,norris,2,0
-2026,1,albert_park,Australian Grand Prix,conventional,antonelli,3,0
-2026,1,albert_park,Australian Grand Prix,conventional,alonso,0,5
-2026,1,albert_park,Australian Grand Prix,conventional,perez,0,1
-2026,1,albert_park,Australian Grand Prix,conventional,arvid_lindblad,0,4
-2026,1,albert_park,Australian Grand Prix,conventional,bearman,2,2
-2026,1,albert_park,Australian Grand Prix,conventional,ocon,1,3
-2026,1,albert_park,Australian Grand Prix,conventional,colapinto,1,1
-2026,1,albert_park,Australian Grand Prix,conventional,max_verstappen,5,0
-2026,1,albert_park,Australian Grand Prix,conventional,albon,2,2
-2026,1,albert_park,Australian Grand Prix,conventional,gasly,2,3
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,tsunoda,3,5
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bortoleto,2,5
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,russell,3,1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,alonso,0,1
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,norris,3,0
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,antonelli,3,4
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,gasly,0,2
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,colapinto,0,4
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,ocon,4,0
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,leclerc,4,0
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hamilton,7,0
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,bearman,4,3
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,albon,1,4
+2025,24,yas_marina,Abu Dhabi Grand Prix,conventional,hulkenberg,7,3
 2026,1,albert_park,Australian Grand Prix,conventional,hadjar,0,1
 2026,1,albert_park,Australian Grand Prix,conventional,lawson,3,0
-2026,1,albert_park,Australian Grand Prix,conventional,bortoleto,2,2
 2026,1,albert_park,Australian Grand Prix,conventional,sainz,2,1
-2026,2,shanghai,Chinese Grand Prix,sprint,alonso,1,4
-2026,2,shanghai,Chinese Grand Prix,sprint,perez,3,4
-2026,2,shanghai,Chinese Grand Prix,sprint,arvid_lindblad,0,5
+2026,1,albert_park,Australian Grand Prix,conventional,arvid_lindblad,0,4
+2026,1,albert_park,Australian Grand Prix,conventional,bortoleto,2,2
+2026,1,albert_park,Australian Grand Prix,conventional,alonso,0,5
+2026,1,albert_park,Australian Grand Prix,conventional,norris,2,0
+2026,1,albert_park,Australian Grand Prix,conventional,antonelli,3,0
+2026,1,albert_park,Australian Grand Prix,conventional,max_verstappen,5,0
+2026,1,albert_park,Australian Grand Prix,conventional,gasly,2,3
+2026,1,albert_park,Australian Grand Prix,conventional,colapinto,1,1
+2026,1,albert_park,Australian Grand Prix,conventional,ocon,1,3
+2026,1,albert_park,Australian Grand Prix,conventional,albon,2,2
+2026,1,albert_park,Australian Grand Prix,conventional,bearman,2,2
+2026,1,albert_park,Australian Grand Prix,conventional,perez,0,1
 2026,2,shanghai,Chinese Grand Prix,sprint,bottas,2,3
-2026,2,shanghai,Chinese Grand Prix,sprint,hamilton,4,5
-2026,2,shanghai,Chinese Grand Prix,sprint,bearman,3,0
-2026,2,shanghai,Chinese Grand Prix,sprint,ocon,6,7
-2026,2,shanghai,Chinese Grand Prix,sprint,leclerc,6,5
-2026,2,shanghai,Chinese Grand Prix,sprint,colapinto,2,7
-2026,2,shanghai,Chinese Grand Prix,sprint,gasly,5,2
-2026,2,shanghai,Chinese Grand Prix,sprint,russell,6,1
 2026,2,shanghai,Chinese Grand Prix,sprint,hadjar,3,0
 2026,2,shanghai,Chinese Grand Prix,sprint,lawson,1,1
-2026,2,shanghai,Chinese Grand Prix,sprint,hulkenberg,9,3
-2026,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,5,7
 2026,2,shanghai,Chinese Grand Prix,sprint,sainz,1,3
-2026,3,suzuka,Japanese Grand Prix,conventional,norris,2,3
-2026,3,suzuka,Japanese Grand Prix,conventional,alonso,2,2
-2026,3,suzuka,Japanese Grand Prix,conventional,perez,3,5
+2026,2,shanghai,Chinese Grand Prix,sprint,arvid_lindblad,0,5
+2026,2,shanghai,Chinese Grand Prix,sprint,russell,6,1
+2026,2,shanghai,Chinese Grand Prix,sprint,alonso,1,4
+2026,2,shanghai,Chinese Grand Prix,sprint,max_verstappen,5,7
+2026,2,shanghai,Chinese Grand Prix,sprint,gasly,5,2
+2026,2,shanghai,Chinese Grand Prix,sprint,colapinto,2,7
+2026,2,shanghai,Chinese Grand Prix,sprint,ocon,6,7
+2026,2,shanghai,Chinese Grand Prix,sprint,hulkenberg,9,3
+2026,2,shanghai,Chinese Grand Prix,sprint,hamilton,4,5
+2026,2,shanghai,Chinese Grand Prix,sprint,bearman,3,0
+2026,2,shanghai,Chinese Grand Prix,sprint,leclerc,6,5
+2026,2,shanghai,Chinese Grand Prix,sprint,perez,3,4
 2026,3,suzuka,Japanese Grand Prix,conventional,bottas,1,1
-2026,3,suzuka,Japanese Grand Prix,conventional,ocon,5,2
-2026,3,suzuka,Japanese Grand Prix,conventional,gasly,1,1
-2026,3,suzuka,Japanese Grand Prix,conventional,stroll,2,2
+2026,3,suzuka,Japanese Grand Prix,conventional,piastri,2,1
 2026,3,suzuka,Japanese Grand Prix,conventional,hadjar,4,4
-2026,3,suzuka,Japanese Grand Prix,conventional,lawson,31,32
-2026,3,suzuka,Japanese Grand Prix,conventional,bortoleto,5,9
-2026,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,2,2
-2026,3,suzuka,Japanese Grand Prix,conventional,colapinto,5,3
+2026,3,suzuka,Japanese Grand Prix,conventional,stroll,2,2
+2026,3,suzuka,Japanese Grand Prix,conventional,russell,5,3
+2026,3,suzuka,Japanese Grand Prix,conventional,alonso,2,2
 2026,3,suzuka,Japanese Grand Prix,conventional,antonelli,2,1
-2026,3,suzuka,Japanese Grand Prix,conventional,arvid_lindblad,2,4
+2026,3,suzuka,Japanese Grand Prix,conventional,colapinto,5,3
+2026,3,suzuka,Japanese Grand Prix,conventional,ocon,5,2
+2026,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,9,5
 2026,3,suzuka,Japanese Grand Prix,conventional,hamilton,1,4
 2026,3,suzuka,Japanese Grand Prix,conventional,bearman,3,2
+2026,3,suzuka,Japanese Grand Prix,conventional,lawson,31,32
+2026,3,suzuka,Japanese Grand Prix,conventional,sainz,4,5
+2026,3,suzuka,Japanese Grand Prix,conventional,arvid_lindblad,2,4
+2026,3,suzuka,Japanese Grand Prix,conventional,bortoleto,5,9
+2026,3,suzuka,Japanese Grand Prix,conventional,norris,2,3
+2026,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,2,2
+2026,3,suzuka,Japanese Grand Prix,conventional,gasly,1,1
 2026,3,suzuka,Japanese Grand Prix,conventional,leclerc,4,3
 2026,3,suzuka,Japanese Grand Prix,conventional,albon,3,4
-2026,3,suzuka,Japanese Grand Prix,conventional,russell,5,3
-2026,3,suzuka,Japanese Grand Prix,conventional,hulkenberg,9,5
-2026,3,suzuka,Japanese Grand Prix,conventional,piastri,2,1
-2026,3,suzuka,Japanese Grand Prix,conventional,sainz,4,5
+2026,3,suzuka,Japanese Grand Prix,conventional,perez,3,5
+2026,4,miami,Miami Grand Prix,sprint,hadjar,2,0
+2026,4,miami,Miami Grand Prix,sprint,bottas,2,1
+2026,4,miami,Miami Grand Prix,sprint,piastri,3,1
+2026,4,miami,Miami Grand Prix,sprint,stroll,1,3
+2026,4,miami,Miami Grand Prix,sprint,lawson,0,10
+2026,4,miami,Miami Grand Prix,sprint,sainz,2,3
+2026,4,miami,Miami Grand Prix,sprint,arvid_lindblad,2,2
+2026,4,miami,Miami Grand Prix,sprint,bortoleto,4,0
+2026,4,miami,Miami Grand Prix,sprint,russell,5,2
+2026,4,miami,Miami Grand Prix,sprint,alonso,3,2
 2026,4,miami,Miami Grand Prix,sprint,norris,1,0
 2026,4,miami,Miami Grand Prix,sprint,antonelli,3,1
-2026,4,miami,Miami Grand Prix,sprint,alonso,3,2
-2026,4,miami,Miami Grand Prix,sprint,perez,2,2
-2026,4,miami,Miami Grand Prix,sprint,arvid_lindblad,2,2
-2026,4,miami,Miami Grand Prix,sprint,bottas,2,1
-2026,4,miami,Miami Grand Prix,sprint,hamilton,0,1
-2026,4,miami,Miami Grand Prix,sprint,bearman,1,2
+2026,4,miami,Miami Grand Prix,sprint,max_verstappen,7,4
+2026,4,miami,Miami Grand Prix,sprint,colapinto,0,1
 2026,4,miami,Miami Grand Prix,sprint,ocon,1,2
 2026,4,miami,Miami Grand Prix,sprint,leclerc,5,4
-2026,4,miami,Miami Grand Prix,sprint,colapinto,0,1
-2026,4,miami,Miami Grand Prix,sprint,max_verstappen,7,4
+2026,4,miami,Miami Grand Prix,sprint,hamilton,0,1
 2026,4,miami,Miami Grand Prix,sprint,albon,1,4
-2026,4,miami,Miami Grand Prix,sprint,russell,5,2
-2026,4,miami,Miami Grand Prix,sprint,stroll,1,3
-2026,4,miami,Miami Grand Prix,sprint,hadjar,2,0
-2026,4,miami,Miami Grand Prix,sprint,lawson,0,10
-2026,4,miami,Miami Grand Prix,sprint,piastri,3,1
-2026,4,miami,Miami Grand Prix,sprint,bortoleto,4,0
-2026,4,miami,Miami Grand Prix,sprint,sainz,2,3
+2026,4,miami,Miami Grand Prix,sprint,bearman,1,2
+2026,4,miami,Miami Grand Prix,sprint,perez,2,2
+2026,5,villeneuve,Canadian Grand Prix,sprint,hadjar,0,1
+2026,5,villeneuve,Canadian Grand Prix,sprint,piastri,4,0
+2026,5,villeneuve,Canadian Grand Prix,sprint,stroll,0,2
+2026,5,villeneuve,Canadian Grand Prix,sprint,sainz,1,0
+2026,5,villeneuve,Canadian Grand Prix,sprint,bortoleto,2,1
+2026,5,villeneuve,Canadian Grand Prix,sprint,russell,0,1
+2026,5,villeneuve,Canadian Grand Prix,sprint,alonso,0,6
 2026,5,villeneuve,Canadian Grand Prix,sprint,norris,5,0
 2026,5,villeneuve,Canadian Grand Prix,sprint,antonelli,1,0
-2026,5,villeneuve,Canadian Grand Prix,sprint,alonso,0,6
-2026,5,villeneuve,Canadian Grand Prix,sprint,perez,1,1
+2026,5,villeneuve,Canadian Grand Prix,sprint,max_verstappen,1,1
+2026,5,villeneuve,Canadian Grand Prix,sprint,gasly,2,2
+2026,5,villeneuve,Canadian Grand Prix,sprint,ocon,1,3
+2026,5,villeneuve,Canadian Grand Prix,sprint,hulkenberg,1,1
+2026,5,villeneuve,Canadian Grand Prix,sprint,leclerc,1,0
+2026,5,villeneuve,Canadian Grand Prix,sprint,albon,2,1
 2026,5,villeneuve,Canadian Grand Prix,sprint,hamilton,1,1
 2026,5,villeneuve,Canadian Grand Prix,sprint,bearman,0,2
-2026,5,villeneuve,Canadian Grand Prix,sprint,ocon,1,3
-2026,5,villeneuve,Canadian Grand Prix,sprint,leclerc,1,0
-2026,5,villeneuve,Canadian Grand Prix,sprint,max_verstappen,1,1
-2026,5,villeneuve,Canadian Grand Prix,sprint,albon,2,1
-2026,5,villeneuve,Canadian Grand Prix,sprint,gasly,2,2
-2026,5,villeneuve,Canadian Grand Prix,sprint,russell,0,1
-2026,5,villeneuve,Canadian Grand Prix,sprint,stroll,0,2
-2026,5,villeneuve,Canadian Grand Prix,sprint,hadjar,0,1
-2026,5,villeneuve,Canadian Grand Prix,sprint,hulkenberg,1,1
-2026,5,villeneuve,Canadian Grand Prix,sprint,piastri,4,0
-2026,5,villeneuve,Canadian Grand Prix,sprint,bortoleto,2,1
-2026,5,villeneuve,Canadian Grand Prix,sprint,sainz,1,0
-2026,6,monaco,Monaco Grand Prix,conventional,albon,1,0
+2026,5,villeneuve,Canadian Grand Prix,sprint,perez,1,1
 2026,6,monaco,Monaco Grand Prix,conventional,sainz,0,1
+2026,6,monaco,Monaco Grand Prix,conventional,albon,1,0
+2026,7,catalunya,Barcelona Grand Prix,conventional,hadjar,5,0
+2026,7,catalunya,Barcelona Grand Prix,conventional,bottas,0,1
+2026,7,catalunya,Barcelona Grand Prix,conventional,piastri,0,1
+2026,7,catalunya,Barcelona Grand Prix,conventional,stroll,0,1
+2026,7,catalunya,Barcelona Grand Prix,conventional,sainz,1,2
+2026,7,catalunya,Barcelona Grand Prix,conventional,arvid_lindblad,3,2
+2026,7,catalunya,Barcelona Grand Prix,conventional,bortoleto,4,2
+2026,7,catalunya,Barcelona Grand Prix,conventional,russell,0,1
 2026,7,catalunya,Barcelona Grand Prix,conventional,alonso,2,4
 2026,7,catalunya,Barcelona Grand Prix,conventional,antonelli,1,0
-2026,7,catalunya,Barcelona Grand Prix,conventional,perez,1,0
-2026,7,catalunya,Barcelona Grand Prix,conventional,arvid_lindblad,3,2
-2026,7,catalunya,Barcelona Grand Prix,conventional,bottas,0,1
-2026,7,catalunya,Barcelona Grand Prix,conventional,hamilton,1,0
-2026,7,catalunya,Barcelona Grand Prix,conventional,bearman,3,2
+2026,7,catalunya,Barcelona Grand Prix,conventional,gasly,2,1
+2026,7,catalunya,Barcelona Grand Prix,conventional,colapinto,1,2
 2026,7,catalunya,Barcelona Grand Prix,conventional,ocon,1,4
 2026,7,catalunya,Barcelona Grand Prix,conventional,leclerc,1,1
-2026,7,catalunya,Barcelona Grand Prix,conventional,colapinto,1,2
+2026,7,catalunya,Barcelona Grand Prix,conventional,hamilton,1,0
 2026,7,catalunya,Barcelona Grand Prix,conventional,albon,1,1
-2026,7,catalunya,Barcelona Grand Prix,conventional,gasly,2,1
-2026,7,catalunya,Barcelona Grand Prix,conventional,russell,0,1
-2026,7,catalunya,Barcelona Grand Prix,conventional,stroll,0,1
-2026,7,catalunya,Barcelona Grand Prix,conventional,hadjar,5,0
+2026,7,catalunya,Barcelona Grand Prix,conventional,bearman,3,2
 2026,7,catalunya,Barcelona Grand Prix,conventional,hulkenberg,0,2
-2026,7,catalunya,Barcelona Grand Prix,conventional,piastri,0,1
-2026,7,catalunya,Barcelona Grand Prix,conventional,bortoleto,4,2
-2026,7,catalunya,Barcelona Grand Prix,conventional,sainz,1,2
+2026,7,catalunya,Barcelona Grand Prix,conventional,perez,1,0
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hadjar,2,1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,piastri,1,0
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,lawson,0,2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,stroll,2,3
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,sainz,2,0
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,arvid_lindblad,0,1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bortoleto,2,0
 2026,8,red_bull_ring,Austrian Grand Prix,conventional,alonso,2,6
 2026,8,red_bull_ring,Austrian Grand Prix,conventional,antonelli,2,0
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,perez,0,3
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,arvid_lindblad,0,1
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,hamilton,4,1
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,bearman,0,3
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,ocon,1,3
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,leclerc,0,5
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,colapinto,5,0
 2026,8,red_bull_ring,Austrian Grand Prix,conventional,max_verstappen,1,0
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,albon,1,2
 2026,8,red_bull_ring,Austrian Grand Prix,conventional,gasly,4,0
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,stroll,2,3
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,hadjar,2,1
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,lawson,0,2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,colapinto,5,0
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,ocon,1,3
 2026,8,red_bull_ring,Austrian Grand Prix,conventional,hulkenberg,1,0
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,piastri,1,0
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,bortoleto,2,0
-2026,8,red_bull_ring,Austrian Grand Prix,conventional,sainz,2,0
-2026,9,silverstone,British Grand Prix,sprint,antonelli,1,0
-2026,9,silverstone,British Grand Prix,sprint,alonso,0,1
-2026,9,silverstone,British Grand Prix,sprint,perez,1,2
-2026,9,silverstone,British Grand Prix,sprint,arvid_lindblad,0,1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,hamilton,4,1
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,albon,1,2
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,leclerc,0,5
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,bearman,0,3
+2026,8,red_bull_ring,Austrian Grand Prix,conventional,perez,0,3
+2026,9,silverstone,British Grand Prix,sprint,hadjar,2,1
+2026,9,silverstone,British Grand Prix,sprint,piastri,7,0
 2026,9,silverstone,British Grand Prix,sprint,bottas,0,6
-2026,9,silverstone,British Grand Prix,sprint,hamilton,0,1
-2026,9,silverstone,British Grand Prix,sprint,bearman,2,4
-2026,9,silverstone,British Grand Prix,sprint,ocon,2,4
-2026,9,silverstone,British Grand Prix,sprint,colapinto,1,0
+2026,9,silverstone,British Grand Prix,sprint,lawson,0,1
+2026,9,silverstone,British Grand Prix,sprint,stroll,0,2
+2026,9,silverstone,British Grand Prix,sprint,sainz,1,4
+2026,9,silverstone,British Grand Prix,sprint,arvid_lindblad,0,1
+2026,9,silverstone,British Grand Prix,sprint,bortoleto,1,0
+2026,9,silverstone,British Grand Prix,sprint,alonso,0,1
+2026,9,silverstone,British Grand Prix,sprint,antonelli,1,0
 2026,9,silverstone,British Grand Prix,sprint,max_verstappen,1,0
 2026,9,silverstone,British Grand Prix,sprint,gasly,3,0
-2026,9,silverstone,British Grand Prix,sprint,stroll,0,2
-2026,9,silverstone,British Grand Prix,sprint,hadjar,2,1
-2026,9,silverstone,British Grand Prix,sprint,lawson,0,1
+2026,9,silverstone,British Grand Prix,sprint,colapinto,1,0
+2026,9,silverstone,British Grand Prix,sprint,ocon,2,4
 2026,9,silverstone,British Grand Prix,sprint,hulkenberg,5,0
-2026,9,silverstone,British Grand Prix,sprint,piastri,7,0
-2026,9,silverstone,British Grand Prix,sprint,bortoleto,1,0
-2026,9,silverstone,British Grand Prix,sprint,sainz,1,4
-2026,10,spa,Belgian Grand Prix,conventional,norris,4,3
-2026,10,spa,Belgian Grand Prix,conventional,alonso,1,3
-2026,10,spa,Belgian Grand Prix,conventional,antonelli,2,0
-2026,10,spa,Belgian Grand Prix,conventional,perez,2,1
-2026,10,spa,Belgian Grand Prix,conventional,arvid_lindblad,1,1
+2026,9,silverstone,British Grand Prix,sprint,hamilton,0,1
+2026,9,silverstone,British Grand Prix,sprint,bearman,2,4
+2026,9,silverstone,British Grand Prix,sprint,perez,1,2
 2026,10,spa,Belgian Grand Prix,conventional,bottas,2,0
+2026,10,spa,Belgian Grand Prix,conventional,hadjar,5,0
+2026,10,spa,Belgian Grand Prix,conventional,piastri,0,3
+2026,10,spa,Belgian Grand Prix,conventional,lawson,0,4
+2026,10,spa,Belgian Grand Prix,conventional,stroll,0,4
+2026,10,spa,Belgian Grand Prix,conventional,sainz,1,2
+2026,10,spa,Belgian Grand Prix,conventional,arvid_lindblad,1,1
+2026,10,spa,Belgian Grand Prix,conventional,bortoleto,0,2
+2026,10,spa,Belgian Grand Prix,conventional,alonso,1,3
+2026,10,spa,Belgian Grand Prix,conventional,norris,4,3
+2026,10,spa,Belgian Grand Prix,conventional,antonelli,2,0
+2026,10,spa,Belgian Grand Prix,conventional,max_verstappen,2,0
+2026,10,spa,Belgian Grand Prix,conventional,gasly,4,1
+2026,10,spa,Belgian Grand Prix,conventional,colapinto,3,2
+2026,10,spa,Belgian Grand Prix,conventional,ocon,3,1
+2026,10,spa,Belgian Grand Prix,conventional,hulkenberg,1,3
 2026,10,spa,Belgian Grand Prix,conventional,hamilton,2,0
 2026,10,spa,Belgian Grand Prix,conventional,bearman,2,1
-2026,10,spa,Belgian Grand Prix,conventional,ocon,3,1
 2026,10,spa,Belgian Grand Prix,conventional,leclerc,1,2
-2026,10,spa,Belgian Grand Prix,conventional,colapinto,3,2
 2026,10,spa,Belgian Grand Prix,conventional,albon,0,3
-2026,10,spa,Belgian Grand Prix,conventional,bortoleto,0,2
-2026,10,spa,Belgian Grand Prix,conventional,gasly,4,1
-2026,10,spa,Belgian Grand Prix,conventional,stroll,0,4
-2026,10,spa,Belgian Grand Prix,conventional,hadjar,5,0
-2026,10,spa,Belgian Grand Prix,conventional,lawson,0,4
-2026,10,spa,Belgian Grand Prix,conventional,hulkenberg,1,3
-2026,10,spa,Belgian Grand Prix,conventional,piastri,0,3
-2026,10,spa,Belgian Grand Prix,conventional,max_verstappen,2,0
-2026,10,spa,Belgian Grand Prix,conventional,sainz,1,2
-2026,11,hungaroring,Hungarian Grand Prix,conventional,norris,1,0
-2026,11,hungaroring,Hungarian Grand Prix,conventional,alonso,2,4
-2026,11,hungaroring,Hungarian Grand Prix,conventional,antonelli,0,1
-2026,11,hungaroring,Hungarian Grand Prix,conventional,perez,0,1
-2026,11,hungaroring,Hungarian Grand Prix,conventional,arvid_lindblad,1,2
+2026,10,spa,Belgian Grand Prix,conventional,perez,2,1
 2026,11,hungaroring,Hungarian Grand Prix,conventional,bottas,0,1
-2026,11,hungaroring,Hungarian Grand Prix,conventional,bearman,0,2
-2026,11,hungaroring,Hungarian Grand Prix,conventional,ocon,2,2
-2026,11,hungaroring,Hungarian Grand Prix,conventional,sainz,0,3
-2026,11,hungaroring,Hungarian Grand Prix,conventional,albon,0,4
-2026,11,hungaroring,Hungarian Grand Prix,conventional,gasly,2,1
-2026,11,hungaroring,Hungarian Grand Prix,conventional,russell,8,0
-2026,11,hungaroring,Hungarian Grand Prix,conventional,stroll,4,1
 2026,11,hungaroring,Hungarian Grand Prix,conventional,lawson,3,0
-2026,11,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,2,1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,stroll,4,1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,sainz,0,3
+2026,11,hungaroring,Hungarian Grand Prix,conventional,arvid_lindblad,1,2
 2026,11,hungaroring,Hungarian Grand Prix,conventional,bortoleto,2,3
+2026,11,hungaroring,Hungarian Grand Prix,conventional,russell,8,0
+2026,11,hungaroring,Hungarian Grand Prix,conventional,alonso,2,4
+2026,11,hungaroring,Hungarian Grand Prix,conventional,norris,1,0
+2026,11,hungaroring,Hungarian Grand Prix,conventional,antonelli,0,1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,gasly,2,1
 2026,11,hungaroring,Hungarian Grand Prix,conventional,colapinto,1,2
-2026,12,zandvoort,Dutch Grand Prix,sprint,norris,0,5
-2026,12,zandvoort,Dutch Grand Prix,sprint,alonso,3,2
-2026,12,zandvoort,Dutch Grand Prix,sprint,antonelli,2,0
-2026,12,zandvoort,Dutch Grand Prix,sprint,perez,3,5
-2026,12,zandvoort,Dutch Grand Prix,sprint,arvid_lindblad,6,3
+2026,11,hungaroring,Hungarian Grand Prix,conventional,ocon,2,2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,hulkenberg,2,1
+2026,11,hungaroring,Hungarian Grand Prix,conventional,bearman,0,2
+2026,11,hungaroring,Hungarian Grand Prix,conventional,albon,0,4
+2026,11,hungaroring,Hungarian Grand Prix,conventional,perez,0,1
 2026,12,zandvoort,Dutch Grand Prix,sprint,bottas,2,4
-2026,12,zandvoort,Dutch Grand Prix,sprint,hamilton,2,0
-2026,12,zandvoort,Dutch Grand Prix,sprint,ocon,6,0
-2026,12,zandvoort,Dutch Grand Prix,sprint,leclerc,1,0
-2026,12,zandvoort,Dutch Grand Prix,sprint,sainz,2,2
-2026,12,zandvoort,Dutch Grand Prix,sprint,tsunoda,2,11
-2026,12,zandvoort,Dutch Grand Prix,sprint,albon,2,3
-2026,12,zandvoort,Dutch Grand Prix,sprint,gasly,3,2
-2026,12,zandvoort,Dutch Grand Prix,sprint,russell,1,1
-2026,12,zandvoort,Dutch Grand Prix,sprint,stroll,4,1
-2026,12,zandvoort,Dutch Grand Prix,sprint,lawson,2,0
-2026,12,zandvoort,Dutch Grand Prix,sprint,hulkenberg,3,11
 2026,12,zandvoort,Dutch Grand Prix,sprint,piastri,1,2
+2026,12,zandvoort,Dutch Grand Prix,sprint,lawson,2,0
+2026,12,zandvoort,Dutch Grand Prix,sprint,stroll,4,1
+2026,12,zandvoort,Dutch Grand Prix,sprint,tsunoda,2,11
+2026,12,zandvoort,Dutch Grand Prix,sprint,arvid_lindblad,6,3
+2026,12,zandvoort,Dutch Grand Prix,sprint,sainz,2,2
 2026,12,zandvoort,Dutch Grand Prix,sprint,bortoleto,7,0
+2026,12,zandvoort,Dutch Grand Prix,sprint,russell,1,1
+2026,12,zandvoort,Dutch Grand Prix,sprint,alonso,3,2
+2026,12,zandvoort,Dutch Grand Prix,sprint,norris,0,5
+2026,12,zandvoort,Dutch Grand Prix,sprint,antonelli,2,0
+2026,12,zandvoort,Dutch Grand Prix,sprint,gasly,3,2
 2026,12,zandvoort,Dutch Grand Prix,sprint,colapinto,3,3
+2026,12,zandvoort,Dutch Grand Prix,sprint,ocon,6,0
+2026,12,zandvoort,Dutch Grand Prix,sprint,hulkenberg,3,11
+2026,12,zandvoort,Dutch Grand Prix,sprint,leclerc,1,0
+2026,12,zandvoort,Dutch Grand Prix,sprint,hamilton,2,0
+2026,12,zandvoort,Dutch Grand Prix,sprint,albon,2,3
+2026,12,zandvoort,Dutch Grand Prix,sprint,perez,3,5
+2026,13,monza,Italian Grand Prix,conventional,bottas,2,1
+2026,13,monza,Italian Grand Prix,conventional,piastri,6,6
+2026,13,monza,Italian Grand Prix,conventional,lawson,7,0
+2026,13,monza,Italian Grand Prix,conventional,stroll,0,2
+2026,13,monza,Italian Grand Prix,conventional,tsunoda,1,1
+2026,13,monza,Italian Grand Prix,conventional,sainz,2,3
+2026,13,monza,Italian Grand Prix,conventional,bortoleto,5,1
+2026,13,monza,Italian Grand Prix,conventional,russell,2,2
+2026,13,monza,Italian Grand Prix,conventional,alonso,2,4
 2026,13,monza,Italian Grand Prix,conventional,norris,2,3
 2026,13,monza,Italian Grand Prix,conventional,antonelli,7,1
-2026,13,monza,Italian Grand Prix,conventional,alonso,2,4
-2026,13,monza,Italian Grand Prix,conventional,perez,2,4
-2026,13,monza,Italian Grand Prix,conventional,bottas,2,1
-2026,13,monza,Italian Grand Prix,conventional,hamilton,3,6
-2026,13,monza,Italian Grand Prix,conventional,bearman,0,5
-2026,13,monza,Italian Grand Prix,conventional,ocon,1,4
-2026,13,monza,Italian Grand Prix,conventional,colapinto,3,0
-2026,13,monza,Italian Grand Prix,conventional,tsunoda,1,1
 2026,13,monza,Italian Grand Prix,conventional,max_verstappen,5,3
-2026,13,monza,Italian Grand Prix,conventional,albon,1,0
 2026,13,monza,Italian Grand Prix,conventional,gasly,0,4
-2026,13,monza,Italian Grand Prix,conventional,russell,2,2
-2026,13,monza,Italian Grand Prix,conventional,stroll,0,2
-2026,13,monza,Italian Grand Prix,conventional,lawson,7,0
+2026,13,monza,Italian Grand Prix,conventional,colapinto,3,0
+2026,13,monza,Italian Grand Prix,conventional,ocon,1,4
 2026,13,monza,Italian Grand Prix,conventional,hulkenberg,2,3
-2026,13,monza,Italian Grand Prix,conventional,piastri,6,6
-2026,13,monza,Italian Grand Prix,conventional,bortoleto,5,1
-2026,13,monza,Italian Grand Prix,conventional,sainz,2,3
-2026,14,madring,Spanish Grand Prix,conventional,alonso,3,0
-2026,14,madring,Spanish Grand Prix,conventional,antonelli,1,0
-2026,14,madring,Spanish Grand Prix,conventional,gasly,0,1
-2026,14,madring,Spanish Grand Prix,conventional,perez,0,1
+2026,13,monza,Italian Grand Prix,conventional,hamilton,3,6
+2026,13,monza,Italian Grand Prix,conventional,albon,1,0
+2026,13,monza,Italian Grand Prix,conventional,bearman,0,5
+2026,13,monza,Italian Grand Prix,conventional,perez,2,4
 2026,14,madring,Spanish Grand Prix,conventional,bottas,0,1
-2026,14,madring,Spanish Grand Prix,conventional,russell,1,0
-2026,14,madring,Spanish Grand Prix,conventional,bearman,1,0
-2026,14,madring,Spanish Grand Prix,conventional,stroll,0,2
 2026,14,madring,Spanish Grand Prix,conventional,lawson,2,1
 2026,14,madring,Spanish Grand Prix,conventional,max_verstappen,0,1
+2026,14,madring,Spanish Grand Prix,conventional,stroll,0,2
+2026,14,madring,Spanish Grand Prix,conventional,gasly,0,1
 2026,14,madring,Spanish Grand Prix,conventional,colapinto,0,1
-2026,15,baku,Azerbaijan Grand Prix,conventional,norris,0,2
-2026,15,baku,Azerbaijan Grand Prix,conventional,antonelli,9,0
-2026,15,baku,Azerbaijan Grand Prix,conventional,alonso,1,2
-2026,15,baku,Azerbaijan Grand Prix,conventional,perez,0,3
-2026,15,baku,Azerbaijan Grand Prix,conventional,arvid_lindblad,1,1
+2026,14,madring,Spanish Grand Prix,conventional,russell,1,0
+2026,14,madring,Spanish Grand Prix,conventional,bearman,1,0
+2026,14,madring,Spanish Grand Prix,conventional,perez,0,1
+2026,14,madring,Spanish Grand Prix,conventional,alonso,3,0
+2026,14,madring,Spanish Grand Prix,conventional,antonelli,1,0
 2026,15,baku,Azerbaijan Grand Prix,conventional,bottas,2,1
-2026,15,baku,Azerbaijan Grand Prix,conventional,hamilton,1,1
-2026,15,baku,Azerbaijan Grand Prix,conventional,bearman,1,2
-2026,15,baku,Azerbaijan Grand Prix,conventional,ocon,0,1
-2026,15,baku,Azerbaijan Grand Prix,conventional,leclerc,0,2
-2026,15,baku,Azerbaijan Grand Prix,conventional,colapinto,0,1
-2026,15,baku,Azerbaijan Grand Prix,conventional,max_verstappen,4,0
-2026,15,baku,Azerbaijan Grand Prix,conventional,albon,0,1
-2026,15,baku,Azerbaijan Grand Prix,conventional,russell,0,1
 2026,15,baku,Azerbaijan Grand Prix,conventional,hadjar,1,1
 2026,15,baku,Azerbaijan Grand Prix,conventional,lawson,1,2
-2026,15,baku,Azerbaijan Grand Prix,conventional,hulkenberg,1,3
 2026,15,baku,Azerbaijan Grand Prix,conventional,piastri,1,0
-2026,15,baku,Azerbaijan Grand Prix,conventional,bortoleto,4,1
 2026,15,baku,Azerbaijan Grand Prix,conventional,sainz,2,4
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,norris,7,1
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,alonso,5,1
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,antonelli,1,0
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,perez,0,2
+2026,15,baku,Azerbaijan Grand Prix,conventional,arvid_lindblad,1,1
+2026,15,baku,Azerbaijan Grand Prix,conventional,bortoleto,4,1
+2026,15,baku,Azerbaijan Grand Prix,conventional,russell,0,1
+2026,15,baku,Azerbaijan Grand Prix,conventional,alonso,1,2
+2026,15,baku,Azerbaijan Grand Prix,conventional,norris,0,2
+2026,15,baku,Azerbaijan Grand Prix,conventional,antonelli,9,0
+2026,15,baku,Azerbaijan Grand Prix,conventional,max_verstappen,4,0
+2026,15,baku,Azerbaijan Grand Prix,conventional,colapinto,0,1
+2026,15,baku,Azerbaijan Grand Prix,conventional,ocon,0,1
+2026,15,baku,Azerbaijan Grand Prix,conventional,hulkenberg,1,3
+2026,15,baku,Azerbaijan Grand Prix,conventional,hamilton,1,1
+2026,15,baku,Azerbaijan Grand Prix,conventional,bearman,1,2
+2026,15,baku,Azerbaijan Grand Prix,conventional,leclerc,0,2
+2026,15,baku,Azerbaijan Grand Prix,conventional,albon,0,1
+2026,15,baku,Azerbaijan Grand Prix,conventional,perez,0,3
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hadjar,1,2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,piastri,3,1
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,lawson,0,3
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,stroll,0,5
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,sainz,1,2
 2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,arvid_lindblad,3,7
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hamilton,7,1
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,bearman,1,1
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,bortoleto,1,4
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,russell,0,2
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,alonso,5,1
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,norris,7,1
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,antonelli,1,0
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,max_verstappen,1,0
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,gasly,1,1
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,colapinto,1,0
 2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,ocon,2,6
 2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,leclerc,10,0
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,colapinto,1,0
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,albon,0,4
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,bortoleto,1,4
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,gasly,1,1
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,russell,0,2
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,stroll,0,5
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hadjar,1,2
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,lawson,0,3
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hamilton,7,1
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,bearman,1,1
 2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,hulkenberg,3,5
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,piastri,3,1
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,max_verstappen,1,0
-2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,sainz,1,2
-2026,17,marina_bay,Singapore Grand Prix,sprint,alonso,1,1
-2026,17,marina_bay,Singapore Grand Prix,sprint,perez,1,1
-2026,17,marina_bay,Singapore Grand Prix,sprint,arvid_lindblad,0,1
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,albon,0,4
+2026,16,sepang,Bahrain Grand Prix in Malaysia,conventional,perez,0,2
+2026,17,marina_bay,Singapore Grand Prix,sprint,hadjar,8,0
 2026,17,marina_bay,Singapore Grand Prix,sprint,bottas,0,1
-2026,17,marina_bay,Singapore Grand Prix,sprint,hamilton,0,1
-2026,17,marina_bay,Singapore Grand Prix,sprint,bearman,1,1
+2026,17,marina_bay,Singapore Grand Prix,sprint,stroll,1,0
+2026,17,marina_bay,Singapore Grand Prix,sprint,sainz,0,2
+2026,17,marina_bay,Singapore Grand Prix,sprint,arvid_lindblad,0,1
+2026,17,marina_bay,Singapore Grand Prix,sprint,bortoleto,0,4
+2026,17,marina_bay,Singapore Grand Prix,sprint,russell,5,0
+2026,17,marina_bay,Singapore Grand Prix,sprint,alonso,1,1
+2026,17,marina_bay,Singapore Grand Prix,sprint,gasly,0,2
+2026,17,marina_bay,Singapore Grand Prix,sprint,colapinto,0,1
 2026,17,marina_bay,Singapore Grand Prix,sprint,ocon,1,2
 2026,17,marina_bay,Singapore Grand Prix,sprint,leclerc,1,0
-2026,17,marina_bay,Singapore Grand Prix,sprint,sainz,0,2
+2026,17,marina_bay,Singapore Grand Prix,sprint,hamilton,0,1
+2026,17,marina_bay,Singapore Grand Prix,sprint,bearman,1,1
 2026,17,marina_bay,Singapore Grand Prix,sprint,albon,0,2
-2026,17,marina_bay,Singapore Grand Prix,sprint,gasly,0,2
-2026,17,marina_bay,Singapore Grand Prix,sprint,russell,5,0
-2026,17,marina_bay,Singapore Grand Prix,sprint,stroll,1,0
-2026,17,marina_bay,Singapore Grand Prix,sprint,hadjar,8,0
-2026,17,marina_bay,Singapore Grand Prix,sprint,bortoleto,0,4
-2026,17,marina_bay,Singapore Grand Prix,sprint,colapinto,0,1
-2026,18,americas,United States Grand Prix,conventional,norris,2,2
-2026,18,americas,United States Grand Prix,conventional,alonso,2,0
-2026,18,americas,United States Grand Prix,conventional,antonelli,1,0
-2026,18,americas,United States Grand Prix,conventional,perez,0,3
-2026,18,americas,United States Grand Prix,conventional,arvid_lindblad,2,0
+2026,17,marina_bay,Singapore Grand Prix,sprint,perez,1,1
 2026,18,americas,United States Grand Prix,conventional,bottas,0,4
-2026,18,americas,United States Grand Prix,conventional,hamilton,1,0
-2026,18,americas,United States Grand Prix,conventional,bearman,1,1
-2026,18,americas,United States Grand Prix,conventional,ocon,2,5
-2026,18,americas,United States Grand Prix,conventional,leclerc,3,1
-2026,18,americas,United States Grand Prix,conventional,sainz,1,3
-2026,18,americas,United States Grand Prix,conventional,max_verstappen,3,1
-2026,18,americas,United States Grand Prix,conventional,albon,1,4
-2026,18,americas,United States Grand Prix,conventional,gasly,0,2
-2026,18,americas,United States Grand Prix,conventional,russell,0,2
-2026,18,americas,United States Grand Prix,conventional,stroll,3,0
-2026,18,americas,United States Grand Prix,conventional,hadjar,0,2
-2026,18,americas,United States Grand Prix,conventional,lawson,0,2
-2026,18,americas,United States Grand Prix,conventional,hulkenberg,3,0
 2026,18,americas,United States Grand Prix,conventional,piastri,3,0
+2026,18,americas,United States Grand Prix,conventional,hadjar,0,2
+2026,18,americas,United States Grand Prix,conventional,stroll,3,0
+2026,18,americas,United States Grand Prix,conventional,lawson,0,2
+2026,18,americas,United States Grand Prix,conventional,sainz,1,3
+2026,18,americas,United States Grand Prix,conventional,arvid_lindblad,2,0
 2026,18,americas,United States Grand Prix,conventional,bortoleto,5,0
+2026,18,americas,United States Grand Prix,conventional,russell,0,2
+2026,18,americas,United States Grand Prix,conventional,alonso,2,0
+2026,18,americas,United States Grand Prix,conventional,norris,2,2
+2026,18,americas,United States Grand Prix,conventional,antonelli,1,0
+2026,18,americas,United States Grand Prix,conventional,max_verstappen,3,1
+2026,18,americas,United States Grand Prix,conventional,gasly,0,2
 2026,18,americas,United States Grand Prix,conventional,colapinto,1,2
+2026,18,americas,United States Grand Prix,conventional,ocon,2,5
+2026,18,americas,United States Grand Prix,conventional,hulkenberg,3,0
+2026,18,americas,United States Grand Prix,conventional,leclerc,3,1
+2026,18,americas,United States Grand Prix,conventional,bearman,1,1
+2026,18,americas,United States Grand Prix,conventional,albon,1,4
+2026,18,americas,United States Grand Prix,conventional,hamilton,1,0
+2026,18,americas,United States Grand Prix,conventional,perez,0,3
