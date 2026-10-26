@@ -17,6 +17,9 @@ from .models import DEFAULT_SPEC
 
 SHADOW_RACES = 6
 ROLLBACK_MARGIN = 0.02
+# owner decisions (2026-10-26): no automatic rollback on fewer than 3 live races, and the shadow is
+# always a version with a live (pre-race, scored) record
+ROLLBACK_MIN_RACES = 3
 
 
 def now() -> str:
@@ -85,13 +88,23 @@ def champion_spec(reg: dict | None = None) -> dict:
     return reg["versions"][reg["champion"]]["spec"]
 
 
+def live_races(version: str) -> int:
+    """Pre-race (not late) forecasts of `version` that have been scored."""
+    from . import predlog
+    return len({(s["season"], s["round"]) for s in predlog.read_scores()
+                if s["model_version"] == version and not s["late"]})
+
+
 def promote(reg: dict, version: str, season_round: tuple[int, int], reason: str):
     old = reg["champion"]
     reg["champion"] = version
-    reg["shadow"] = old
+    # the fallback must have a live record: if the outgoing champion was never scored live (promoted
+    # and replaced between races), keep the existing shadow instead
+    keep = reg.get("shadow") if reg.get("shadow") and live_races(old) == 0 else None
+    reg["shadow"] = keep or old
     reg["shadow_since"] = list(season_round)   # first live race the new champion forecasts
     reg["history"].append({"date": now(), "event": "promote", "version": version, "previous": old,
-                           "reason": reason})
+                           "shadow": reg["shadow"], "reason": reason})
 
 
 def rollback(reg: dict, reason: str):

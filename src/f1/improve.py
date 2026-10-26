@@ -254,7 +254,7 @@ def check_rollback(reg: dict) -> str | None:
     cm = {m: np.mean([champ[k][m] for k in both]) for m in COMPOSITE}
     sm = {m: np.mean([shadow[k][m] for k in both]) for m in COMPOSITE}
     comp, _ = gate.composite(cm, sm)
-    if comp < -registry.ROLLBACK_MARGIN:
+    if comp < -registry.ROLLBACK_MARGIN and len(both) >= registry.ROLLBACK_MIN_RACES:
         bad = registry.rollback(reg, f"live composite {comp:+.2%} vs shadow over {len(both)} races")
         registry.save(reg)
         changelog([f"## {datetime.now(UTC):%Y-%m-%d} — ROLLBACK {bad} → {reg['champion']}",

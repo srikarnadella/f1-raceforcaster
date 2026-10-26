@@ -1,6 +1,6 @@
 {
  "champion": "v3",
- "shadow": "v2",
+ "shadow": "v1",
  "shadow_since": [
   2026,
   19
@@ -222,6 +222,13 @@
    "previous": "v2",
    "reason": "adaptive-win-temperature-24",
    "composite": 0.013404445929660985
+  },
+  {
+   "date": "2026-10-26T19:00:09+00:00",
+   "event": "shadow_reassigned",
+   "version": "v1",
+   "from": "v2",
+   "reason": "owner rule 2026-10-26: the shadow must have a live record; v2 was never scored live, v1 was"
   }
  ]
 }

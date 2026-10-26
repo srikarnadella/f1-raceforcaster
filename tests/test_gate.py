@@ -72,3 +72,32 @@ def test_candidates_identical_to_the_champion_are_skipped(tmp_path, monkeypatch)
     monkeypatch.setattr(improve, "EXP_QUEUE", q)
     slugs = [c["slug"] for c in improve.pick_candidates("v3", champ, 270, [])]
     assert "already-in-champion" not in slugs and slugs[0] == "real-change"
+
+
+def _scores(rows):
+    return [{"season": 2026, "round": r, "model_version": v, "late": False, "role": "x",
+             "metrics": {"winner_logloss": ll, "podium_brier": 0.06}} for r, v, ll in rows]
+
+
+def test_no_rollback_before_three_live_races(monkeypatch):
+    from f1 import improve, predlog, registry
+    reg = {"champion": "v3", "shadow": "v1", "shadow_since": [2026, 19], "history": [], "versions": {}}
+    bad = [(19, "v3", 2.0), (19, "v1", 0.5), (20, "v3", 2.0), (20, "v1", 0.5)]   # much worse, but only 2 races
+    monkeypatch.setattr(predlog, "read_scores", lambda: _scores(bad))
+    monkeypatch.setattr(registry, "save", lambda reg: None)
+    assert improve.check_rollback(reg) is None and reg["champion"] == "v3"
+    bad += [(21, "v3", 2.0), (21, "v1", 0.5)]                                     # third race: roll back
+    monkeypatch.setattr(predlog, "read_scores", lambda: _scores(bad))
+    monkeypatch.setattr(improve, "changelog", lambda lines: None)
+    monkeypatch.setattr(improve, "append_jsonl", lambda *a: None)
+    assert improve.check_rollback(reg) == "v3" and reg["champion"] == "v1"
+
+
+def test_shadow_keeps_a_live_record(monkeypatch):
+    from f1 import predlog, registry
+    monkeypatch.setattr(predlog, "read_scores", lambda: _scores([(18, "v1", 0.7)]))
+    reg = {"champion": "v1", "shadow": None, "history": []}
+    registry.promote(reg, "v2", (2026, 19), "a")
+    assert reg["shadow"] == "v1"            # v1 has a live race
+    registry.promote(reg, "v3", (2026, 19), "b")
+    assert reg["champion"] == "v3" and reg["shadow"] == "v1"   # v2 was never live: keep v1
