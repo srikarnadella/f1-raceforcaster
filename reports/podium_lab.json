@@ -1,30 +1,30 @@
 {
  "objective": "winner log-loss 60% + podium Brier 40% (owner, 2026-10-25)",
- "champion": "v1",
+ "champion": "v3",
  "champion_metrics": {
   "2019-2026": {
-   "winner_logloss": 1.2672148950293378,
-   "winner_brier": 0.5878927172781064,
-   "top1_hit": 0.5621301775147929,
-   "podium_brier": 0.067403737027151,
-   "top10_brier": 0.15420170056660346,
-   "spearman": 0.6605730595169074
+   "winner_logloss": 1.2040110996911186,
+   "winner_brier": 0.5582649594117647,
+   "top1_hit": 0.5529411764705883,
+   "podium_brier": 0.0658924504248241,
+   "top10_brier": 0.15418777303206443,
+   "spearman": 0.6625507153142097
   },
   "2025-2026": {
-   "winner_logloss": 1.1641749638100212,
-   "winner_brier": 0.5644590326829267,
-   "top1_hit": 0.6341463414634146,
-   "podium_brier": 0.062141726204341226,
-   "top10_brier": 0.16422505371548604,
-   "spearman": 0.6598509674359426
+   "winner_logloss": 1.0017998208527639,
+   "winner_brier": 0.5100024057142857,
+   "top1_hit": 0.5952380952380952,
+   "podium_brier": 0.0600318074936489,
+   "top10_brier": 0.16438142581869444,
+   "spearman": 0.659465032805994
   },
   "2026": {
-   "winner_logloss": 1.2709926146270427,
-   "winner_brier": 0.5965903352941175,
-   "top1_hit": 0.5882352941176471,
-   "podium_brier": 0.06591206042780749,
-   "top10_brier": 0.1603304161497326,
-   "spearman": 0.6752914604577009
+   "winner_logloss": 0.9439414834276258,
+   "winner_brier": 0.4683881033333333,
+   "top1_hit": 0.6666666666666666,
+   "podium_brier": 0.060079604570707074,
+   "top10_brier": 0.15783252126262629,
+   "spearman": 0.6788380701424179
   }
  },
  "candidates": {
@@ -34,45 +34,45 @@
      "win_temperature": 1.2
     }
    },
-   "gate_pass": true,
+   "gate_pass": false,
    "checks": {
-    "composite": true,
+    "composite": false,
     "no_target_regression": true,
-    "bootstrap": true,
+    "bootstrap": false,
     "calibration": true,
     "leakage": true
    },
-   "composite": 0.013556537395395512,
+   "composite": 0.0,
    "relative": {
-    "winner_logloss": 0.02339246715854198,
-    "podium_brier": -0.0011973572493241857
+    "winner_logloss": 0.0,
+    "podium_brier": 0.0
    },
-   "bootstrap": 0.979,
-   "composite_2025_2026": 0.03678824317079058,
+   "bootstrap": 0.0,
+   "composite_2025_2026": 0.0,
    "metrics": {
     "2019-2026": {
-     "winner_logloss": 1.2375716122145488,
-     "winner_brier": 0.5778291591715977,
-     "top1_hit": 0.5621301775147929,
-     "podium_brier": 0.067484443380312,
-     "top10_brier": 0.15420288240468843,
-     "spearman": 0.6607999405394229
+     "winner_logloss": 1.2040110996911186,
+     "winner_brier": 0.5582649594117647,
+     "top1_hit": 0.5529411764705883,
+     "podium_brier": 0.0658924504248241,
+     "top10_brier": 0.15418777303206443,
+     "spearman": 0.6625507153142097
     },
     "2025-2026": {
-     "winner_logloss": 1.0937423007646438,
-     "winner_brier": 0.5416371575609755,
-     "top1_hit": 0.6341463414634146,
-     "podium_brier": 0.06206588174477769,
-     "top10_brier": 0.16423520371817016,
-     "spearman": 0.6606394517093852
+     "winner_logloss": 1.0017998208527639,
+     "winner_brier": 0.5100024057142857,
+     "top1_hit": 0.5952380952380952,
+     "podium_brier": 0.0600318074936489,
+     "top10_brier": 0.16438142581869444,
+     "spearman": 0.659465032805994
     },
     "2026": {
-     "winner_logloss": 1.2107800222881564,
-     "winner_brier": 0.5765581082352941,
-     "top1_hit": 0.5882352941176471,
-     "podium_brier": 0.06593931042780748,
-     "top10_brier": 0.1603453428342246,
-     "spearman": 0.6751586009898031
+     "winner_logloss": 0.9439414834276258,
+     "winner_brier": 0.4683881033333333,
+     "top1_hit": 0.6666666666666666,
+     "podium_brier": 0.060079604570707074,
+     "top10_brier": 0.15783252126262629,
+     "spearman": 0.6788380701424179
     }
    }
   },
@@ -82,45 +82,45 @@
      "win_temperature": 1.3
     }
    },
-   "gate_pass": true,
+   "gate_pass": false,
    "checks": {
-    "composite": true,
+    "composite": false,
     "no_target_regression": true,
-    "bootstrap": true,
+    "bootstrap": false,
     "calibration": true,
     "leakage": true
    },
-   "composite": 0.013772566479691864,
+   "composite": 0.0,
    "relative": {
-    "winner_logloss": 0.02436420300233121,
-    "podium_brier": -0.00211488830426715
+    "winner_logloss": 0.0,
+    "podium_brier": 0.0
    },
-   "bootstrap": 0.9295,
-   "composite_2025_2026": 0.047227212306145475,
+   "bootstrap": 0.0,
+   "composite_2025_2026": 0.0,
    "metrics": {
     "2019-2026": {
-     "winner_logloss": 1.2363402140792652,
-     "winner_brier": 0.5772609334911243,
-     "top1_hit": 0.5621301775147929,
-     "podium_brier": 0.06754628840225362,
-     "top10_brier": 0.15420296843942696,
-     "spearman": 0.6607554506163905
+     "winner_logloss": 1.2040110996911186,
+     "winner_brier": 0.5582649594117647,
+     "top1_hit": 0.5529411764705883,
+     "podium_brier": 0.0658924504248241,
+     "top10_brier": 0.15418777303206443,
+     "spearman": 0.6625507153142097
     },
     "2025-2026": {
-     "winner_logloss": 1.0735478759504369,
-     "winner_brier": 0.5366889941463414,
-     "top1_hit": 0.6341463414634146,
-     "podium_brier": 0.0620610601291866,
-     "top10_brier": 0.16422534153401797,
-     "spearman": 0.6606761287678852
+     "winner_logloss": 1.0017998208527639,
+     "winner_brier": 0.5100024057142857,
+     "top1_hit": 0.5952380952380952,
+     "podium_brier": 0.0600318074936489,
+     "top10_brier": 0.16438142581869444,
+     "spearman": 0.659465032805994
     },
     "2026": {
-     "winner_logloss": 1.195492110605523,
-     "winner_brier": 0.5735385023529411,
-     "top1_hit": 0.5882352941176471,
-     "podium_brier": 0.06595480796791445,
-     "top10_brier": 0.16033327941176467,
-     "spearman": 0.6751586009898031
+     "winner_logloss": 0.9439414834276258,
+     "winner_brier": 0.4683881033333333,
+     "top1_hit": 0.6666666666666666,
+     "podium_brier": 0.060079604570707074,
+     "top10_brier": 0.15783252126262629,
+     "spearman": 0.6788380701424179
     }
    }
   },
@@ -130,45 +130,45 @@
      "win_temperature": 1.4
     }
    },
-   "gate_pass": true,
+   "gate_pass": false,
    "checks": {
-    "composite": true,
+    "composite": false,
     "no_target_regression": true,
-    "bootstrap": true,
+    "bootstrap": false,
     "calibration": true,
     "leakage": true
    },
-   "composite": 0.011801181640019733,
+   "composite": 0.0,
    "relative": {
-    "winner_logloss": 0.021508875718648693,
-    "podium_brier": -0.002760359477923704
+    "winner_logloss": 0.0,
+    "podium_brier": 0.0
    },
-   "bootstrap": 0.8375,
-   "composite_2025_2026": 0.05413137916655614,
+   "bootstrap": 0.0,
+   "composite_2025_2026": 0.0,
    "metrics": {
     "2019-2026": {
-     "winner_logloss": 1.2399585273433313,
-     "winner_brier": 0.57828995147929,
-     "top1_hit": 0.5621301775147929,
-     "podium_brier": 0.06758979557150137,
-     "top10_brier": 0.15420029093185358,
-     "spearman": 0.6606908083408699
+     "winner_logloss": 1.2040110996911186,
+     "winner_brier": 0.5582649594117647,
+     "top1_hit": 0.5529411764705883,
+     "podium_brier": 0.0658924504248241,
+     "top10_brier": 0.15418777303206443,
+     "spearman": 0.6625507153142097
     },
     "2025-2026": {
-     "winner_logloss": 1.0600136429192903,
-     "winner_brier": 0.5341490839024391,
-     "top1_hit": 0.6341463414634146,
-     "podium_brier": 0.06207212033644532,
-     "top10_brier": 0.16422304229291634,
-     "spearman": 0.6602629682274712
+     "winner_logloss": 1.0017998208527639,
+     "winner_brier": 0.5100024057142857,
+     "top1_hit": 0.5952380952380952,
+     "podium_brier": 0.0600318074936489,
+     "top10_brier": 0.16438142581869444,
+     "spearman": 0.659465032805994
     },
     "2026": {
-     "winner_logloss": 1.1864530646124207,
-     "winner_brier": 0.5737999329411765,
-     "top1_hit": 0.5882352941176471,
-     "podium_brier": 0.06597954962566845,
-     "top10_brier": 0.160335307486631,
-     "spearman": 0.6741621549805694
+     "winner_logloss": 0.9439414834276258,
+     "winner_brier": 0.4683881033333333,
+     "top1_hit": 0.6666666666666666,
+     "podium_brier": 0.060079604570707074,
+     "top10_brier": 0.15783252126262629,
+     "spearman": 0.6788380701424179
     }
    }
   },
@@ -181,42 +181,42 @@
    "gate_pass": false,
    "checks": {
     "composite": false,
-    "no_target_regression": false,
+    "no_target_regression": true,
     "bootstrap": false,
     "calibration": true,
     "leakage": true
    },
-   "composite": -0.008403387875307911,
+   "composite": -0.00761342393999939,
    "relative": {
-    "winner_logloss": 0.0008305508066074051,
-    "podium_brier": -0.022254295898180884
+    "winner_logloss": -0.005233102932328432,
+    "podium_brier": -0.011183905451505828
    },
-   "bootstrap": 0.2375,
-   "composite_2025_2026": 0.01856030897074412,
+   "bootstrap": 0.203,
+   "composite_2025_2026": 0.007282829410203068,
    "metrics": {
     "2019-2026": {
-     "winner_logloss": 1.2661624086761263,
-     "winner_brier": 0.5787661159763313,
-     "top1_hit": 0.5680473372781065,
-     "podium_brier": 0.06890375973559638,
-     "top10_brier": 0.15657433810673538,
-     "spearman": 0.6544322426385443
+     "winner_logloss": 1.2103118137074682,
+     "winner_brier": 0.5564676513529413,
+     "top1_hit": 0.5705882352941176,
+     "podium_brier": 0.06662938536034337,
+     "top10_brier": 0.15537655149745988,
+     "spearman": 0.6589417801653633
     },
     "2025-2026": {
-     "winner_logloss": 1.1219603394448647,
-     "winner_brier": 0.5508646453658536,
-     "top1_hit": 0.6585365853658537,
-     "podium_brier": 0.06263832192169447,
-     "top10_brier": 0.1662423811832186,
-     "spearman": 0.6531524270040763
+     "winner_logloss": 0.9906501839289528,
+     "winner_brier": 0.5058167776190475,
+     "top1_hit": 0.6428571428571429,
+     "podium_brier": 0.05994099947451015,
+     "top10_brier": 0.16520750033871612,
+     "spearman": 0.6577706736255282
     },
     "2026": {
-     "winner_logloss": 1.2023651509051252,
-     "winner_brier": 0.5663076858823528,
-     "top1_hit": 0.6470588235294118,
-     "podium_brier": 0.06776442647058822,
-     "top10_brier": 0.16018209582887702,
-     "spearman": 0.6717706845584084
+     "winner_logloss": 0.9068734161816369,
+     "winner_brier": 0.4525168672222222,
+     "top1_hit": 0.7222222222222222,
+     "podium_brier": 0.060499946464646466,
+     "top10_brier": 0.15805902301767674,
+     "spearman": 0.6794654620741578
     }
    }
   },
@@ -234,155 +234,155 @@
     "calibration": true,
     "leakage": true
    },
-   "composite": 0.008806257882360183,
+   "composite": 0.004506883139894034,
    "relative": {
-    "winner_logloss": 0.01857101289577584,
-    "podium_brier": -0.005840874637763301
+    "winner_logloss": 0.008546724454750148,
+    "podium_brier": -0.0015528788323901364
    },
-   "bootstrap": 0.94,
-   "composite_2025_2026": 0.024237781549658124,
+   "bootstrap": 0.8385,
+   "composite_2025_2026": 0.011580645083330067,
    "metrics": {
     "2019-2026": {
-     "winner_logloss": 1.2436814308720288,
-     "winner_brier": 0.5769358321893491,
-     "top1_hit": 0.5680473372781065,
-     "podium_brier": 0.06779743380524335,
-     "top10_brier": 0.1554933066030973,
-     "spearman": 0.6584232056156013
+     "winner_logloss": 1.193720748581598,
+     "winner_brier": 0.5531871446470589,
+     "top1_hit": 0.5705882352941176,
+     "podium_brier": 0.06599477341630312,
+     "top10_brier": 0.15523362173764424,
+     "spearman": 0.6600096789287797
     },
     "2025-2026": {
-     "winner_logloss": 1.116504841950085,
-     "winner_brier": 0.5434261346341464,
-     "top1_hit": 0.6585365853658537,
-     "podium_brier": 0.06219311014972576,
-     "top10_brier": 0.16488816185564242,
-     "spearman": 0.6615523673736544
+     "winner_logloss": 0.9847843148627488,
+     "winner_brier": 0.5013202941666666,
+     "top1_hit": 0.6428571428571429,
+     "podium_brier": 0.05982324447858283,
+     "top10_brier": 0.16510595061477554,
+     "spearman": 0.660249225548343
     },
     "2026": {
-     "winner_logloss": 1.1965442785981673,
-     "winner_brier": 0.5624885235294117,
-     "top1_hit": 0.6470588235294118,
-     "podium_brier": 0.0660050626737968,
-     "top10_brier": 0.15959926598930482,
-     "spearman": 0.6790115255588403
+     "winner_logloss": 0.9043212080215953,
+     "winner_brier": 0.4494270744444444,
+     "top1_hit": 0.7222222222222222,
+     "podium_brier": 0.05990433160353535,
+     "top10_brier": 0.15804153297979798,
+     "spearman": 0.6832298136645965
     }
    }
   },
   "simulator blend 30%": {
    "patch": {
     "simulator": {
-     "w_quali": 0.6,
-     "lap_noise": 0.35,
+     "w_quali": 0.6482571136030112,
+     "lap_noise": 0.32076082372353626,
      "c0": -1.0,
-     "c1": 1.5,
-     "c2": 3.0,
+     "c1": 2.958372354941139,
+     "c2": 3.3115693666092616,
      "c3": 0.15,
-     "start_noise": 0.7,
+     "start_noise": 1.158635381284233,
      "pit_jitter": 2.5,
-     "pace_unc": 0.3,
+     "pace_unc": 0.28013556586030675,
      "team_share": 0.6,
      "n_sims": 1000,
      "weight": 0.3
     }
    },
-   "gate_pass": true,
+   "gate_pass": false,
    "checks": {
-    "composite": true,
+    "composite": false,
     "no_target_regression": true,
-    "bootstrap": true,
+    "bootstrap": false,
     "calibration": true,
     "leakage": true
    },
-   "composite": 0.021379623398845554,
+   "composite": 0.0016305101718220713,
    "relative": {
-    "winner_logloss": 0.022653578098933737,
-    "podium_brier": 0.01946869134871328
+    "winner_logloss": 0.002874088758608671,
+    "podium_brier": -0.00023485770835782828
    },
-   "bootstrap": 0.9975,
-   "composite_2025_2026": 0.05351692066781484,
+   "bootstrap": 0.6155,
+   "composite_2025_2026": 0.0017649074273055287,
    "metrics": {
     "2019-2026": {
-     "winner_logloss": 1.2385079434366586,
-     "winner_brier": 0.5764229915798816,
-     "top1_hit": 0.5680473372781065,
-     "podium_brier": 0.06609147447521956,
-     "top10_brier": 0.15362874795702783,
-     "spearman": 0.6616353897818428
+     "winner_logloss": 1.2005506649242563,
+     "winner_brier": 0.5579955986141176,
+     "top1_hit": 0.5764705882352941,
+     "podium_brier": 0.06590792577472895,
+     "top10_brier": 0.15304095994898534,
+     "spearman": 0.6635652138950026
     },
     "2025-2026": {
-     "winner_logloss": 1.0821917916185417,
-     "winner_brier": 0.5383137742585367,
-     "top1_hit": 0.6585365853658537,
-     "podium_brier": 0.0603918299969833,
-     "top10_brier": 0.16408427396374373,
-     "spearman": 0.6578052428864507
+     "winner_logloss": 1.00350171894444,
+     "winner_brier": 0.5107071196761904,
+     "top1_hit": 0.6666666666666666,
+     "podium_brier": 0.05961395433907838,
+     "top10_brier": 0.1616804132203167,
+     "spearman": 0.6635235981917903
     },
     "2026": {
-     "winner_logloss": 1.0890764389817917,
-     "winner_brier": 0.5306333028823529,
-     "top1_hit": 0.7058823529411765,
-     "podium_brier": 0.06244852476470588,
-     "top10_brier": 0.16039036766203207,
-     "spearman": 0.6734978576410802
+     "winner_logloss": 0.9599308537739684,
+     "winner_brier": 0.48527517931111114,
+     "top1_hit": 0.6666666666666666,
+     "podium_brier": 0.06061795966565658,
+     "top10_brier": 0.15494136163939393,
+     "spearman": 0.6855511638120333
     }
    }
   },
   "simulator blend 50%": {
    "patch": {
     "simulator": {
-     "w_quali": 0.6,
-     "lap_noise": 0.35,
+     "w_quali": 0.6482571136030112,
+     "lap_noise": 0.32076082372353626,
      "c0": -1.0,
-     "c1": 1.5,
-     "c2": 3.0,
+     "c1": 2.958372354941139,
+     "c2": 3.3115693666092616,
      "c3": 0.15,
-     "start_noise": 0.7,
+     "start_noise": 1.158635381284233,
      "pit_jitter": 2.5,
-     "pace_unc": 0.3,
+     "pace_unc": 0.28013556586030675,
      "team_share": 0.6,
      "n_sims": 1000,
      "weight": 0.5
     }
    },
-   "gate_pass": true,
+   "gate_pass": false,
    "checks": {
-    "composite": true,
+    "composite": false,
     "no_target_regression": true,
     "bootstrap": true,
     "calibration": true,
     "leakage": true
    },
-   "composite": 0.02309905869350841,
+   "composite": 0.0009729670753691484,
    "relative": {
-    "winner_logloss": 0.02513854013507596,
-    "podium_brier": 0.020039836531157075
+    "winner_logloss": 0.0016016716708658508,
+    "podium_brier": 2.991018212409475e-05
    },
-   "bootstrap": 0.97,
-   "composite_2025_2026": 0.05890366385575011,
+   "bootstrap": 0.824,
+   "composite_2025_2026": 0.0024353441567210327,
    "metrics": {
     "2019-2026": {
-     "winner_logloss": 1.2353589625308767,
-     "winner_brier": 0.5748685819230769,
-     "top1_hit": 0.5562130177514792,
-     "podium_brier": 0.06605297715553779,
-     "top10_brier": 0.1546852753443136,
-     "spearman": 0.6616586957019979
+     "winner_logloss": 1.2020826692213353,
+     "winner_brier": 0.5574745726470588,
+     "top1_hit": 0.5529411764705883,
+     "podium_brier": 0.06589047956963129,
+     "top10_brier": 0.15422130621402336,
+     "spearman": 0.66224160727324
     },
     "2025-2026": {
-     "winner_logloss": 1.0668637770054343,
-     "winner_brier": 0.5348174520731708,
-     "top1_hit": 0.6341463414634146,
-     "podium_brier": 0.060782252143044696,
-     "top10_brier": 0.16665346619523866,
-     "spearman": 0.6566298373911256
+     "winner_logloss": 0.9973123645471913,
+     "winner_brier": 0.5065324652380953,
+     "top1_hit": 0.5952380952380952,
+     "podium_brier": 0.0600696714099738,
+     "top10_brier": 0.1645190675890294,
+     "spearman": 0.6608633620565625
     },
     "2026": {
-     "winner_logloss": 1.0399618756312174,
-     "winner_brier": 0.5064932544117646,
-     "top1_hit": 0.7058823529411765,
-     "podium_brier": 0.0617487736631016,
-     "top10_brier": 0.16297359080213905,
-     "spearman": 0.6703092304115323
+     "winner_logloss": 0.9273740924173547,
+     "winner_brier": 0.4599317338888888,
+     "top1_hit": 0.6666666666666666,
+     "podium_brier": 0.06001065507575757,
+     "top10_brier": 0.15780848148989898,
+     "spearman": 0.6823514649601607
     }
    }
   }

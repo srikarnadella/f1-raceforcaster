@@ -1,23 +1,23 @@
 [
  {
-  "slug": "simulator-tuned-2026-10-26",
+  "slug": "simulator-tuned-2026-10-28",
   "patch": {
    "simulator": {
-    "w_quali": 0.7461635386292644,
-    "lap_noise": 0.24563517027959714,
+    "w_quali": 0.6482571136030112,
+    "lap_noise": 0.32076082372353626,
     "c0": -1.0,
-    "c1": 2.4435718703442797,
-    "c2": 1.0878233973928328,
+    "c1": 2.958372354941139,
+    "c2": 3.3115693666092616,
     "c3": 0.15,
-    "start_noise": 0.9033727719074526,
+    "start_noise": 1.158635381284233,
     "pit_jitter": 2.5,
-    "pace_unc": 0.21114146597167538,
+    "pace_unc": 0.28013556586030675,
     "team_share": 0.6,
     "n_sims": 1000,
     "weight": 0.5
    }
   },
-  "hypothesis": "Scheduled Optuna re-calibration of the race simulator on 2023-2024 (reports/race_sim_lab.json); settings {\"w_quali\": 0.746, \"pace_unc\": 0.211, \"c1\": 2.444, \"c2\": 1.088, \"start_noise\": 0.903, \"lap_noise\": 0.246}."
+  "hypothesis": "Scheduled Optuna re-calibration of the race simulator on 2024-2025 (reports/race_sim_lab.json); settings {\"w_quali\": 0.648, \"pace_unc\": 0.28, \"c1\": 2.958, \"c2\": 3.312, \"start_noise\": 1.159, \"lap_noise\": 0.321}."
  },
  {
   "slug": "adaptive-win-temperature-24",
