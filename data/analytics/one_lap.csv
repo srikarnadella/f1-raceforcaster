@@ -8815,3 +8815,47 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,18,americas,United States Grand Prix,conventional,R,russell,RUS,mercedes,Mercedes,#00D7B6,99.928,26.45,39.28,33.847,349,50,HARD,99.577,1.9923,1.7972
 2026,18,americas,United States Grand Prix,conventional,R,sainz,SAI,williams,Williams,#1868DB,100.35,26.7,39.434,34.027,341,49,SOFT,100.16,2.4261,2.3942
 2026,18,americas,United States Grand Prix,conventional,R,stroll,STR,aston_martin,Aston Martin,#229971,100.19,26.731,39.325,33.938,343,49,SOFT,99.994,2.2587,2.2235
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,alonso,ALO,aston_martin,Aston Martin,#229971,79.357,27.654,31.451,20.153,341,22,MEDIUM,79.258,1.5731,1.4996
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,antonelli,ANT,mercedes,Mercedes,#00D7B6,78.787,27.41,30.996,20.381,346,21,SOFT,78.787,0.84349,0.89644
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,79.478,27.309,31.652,20.517,348,18,SOFT,79.478,1.7279,1.7813
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,bearman,BEA,haas,Haas F1 Team,#9C9FA2,79.412,27.507,31.458,20.403,349,19,MEDIUM,79.368,1.6435,1.6405
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,bro,BRO,williams,Williams,#1868DB,80.869,27.676,32.283,20.802,350,27,MEDIUM,80.761,3.5083,3.4244
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,cra,CRA,aston_martin,Aston Martin,#229971,80.803,28.238,31.895,20.643,331,8,MEDIUM,80.776,3.4239,3.4436
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,for,FOR,mclaren,McLaren,#F47600,80.235,27.899,31.586,20.64,346,19,SOFT,80.125,2.6969,2.6099
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,gasly,GAS,alpine,Alpine,#00A1E8,79.21,27.434,31.416,20.36,350,26,SOFT,79.21,1.3849,1.4381
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,79.545,27.266,31.424,20.855,350,14,SOFT,79.545,1.8137,1.8671
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,hamilton,HAM,ferrari,Ferrari,#ED1131,78.866,27.284,31.046,20.183,345,18,SOFT,78.513,0.9446,0.54555
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,her,HER,cadillac,Cadillac,#909090,81.365,27.84,32.429,20.784,347,22,MEDIUM,81.053,4.1432,3.7983
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,hir,HIR,haas,Haas F1 Team,#9C9FA2,79.982,27.697,31.759,20.526,349,23,MEDIUM,79.982,2.373,2.4268
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,hulkenberg,HUL,audi,Audi,#F50537,79.608,27.635,31.526,20.353,349,20,MEDIUM,79.514,1.8943,1.8274
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,iwa,IWA,red_bull,Red Bull Racing,#4781D7,79.113,27.331,31.462,20.32,349,16,MEDIUM,79.113,1.2608,1.3139
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,leclerc,LEC,ferrari,Ferrari,#ED1131,78.128,27.065,30.895,20.127,350,20,SOFT,78.087,0,0
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,min,MIN,alpine,Alpine,#00A1E8,79.946,27.745,31.551,20.65,351,13,SOFT,79.946,2.327,2.3807
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,perez,PER,cadillac,Cadillac,#909090,80.395,27.776,31.826,20.75,347,20,MEDIUM,80.352,2.9016,2.9006
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,piastri,PIA,mclaren,McLaren,#F47600,79.376,27.43,31.457,20.446,354,24,SOFT,79.333,1.5974,1.5957
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,sainz,SAI,williams,Williams,#1868DB,80.72,27.325,32.11,20.831,350,24,MEDIUM,80.266,3.3176,2.7905
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,sla,SLA,audi,Audi,#F50537,80.945,27.749,32.395,20.739,349,5,HARD,80.883,3.6056,3.5806
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,tso,TSO,rb,Racing Bulls,#6C98FF,79.604,27.411,31.67,20.432,350,20,SOFT,79.513,1.8892,1.8262
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,ves,VES,mercedes,Mercedes,#00D7B6,78.861,27.081,31.272,20.485,347,12,SOFT,78.838,0.9382,0.96175
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,albon,ALB,williams,Williams,#1868DB,79.578,27.545,31.589,20.358,346,23,SOFT,79.492,2.2499,2.1919
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,alonso,ALO,aston_martin,Aston Martin,#229971,78.596,27.455,31.005,20.136,352,22,SOFT,78.596,0.98809,1.04
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,antonelli,ANT,mercedes,Mercedes,#00D7B6,78.044,27.251,30.69,20.052,345,21,SOFT,77.993,0.27882,0.26483
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,78.389,27.333,30.976,20.029,355,23,SOFT,78.338,0.72211,0.70834
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,bearman,BEA,haas,Haas F1 Team,#9C9FA2,78.849,27.299,31.227,20.115,349,24,SOFT,78.641,1.3132,1.0979
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,bortoleto,BOR,audi,Audi,#F50537,80.174,27.557,31.865,20.596,351,7,SOFT,80.018,3.0157,2.8681
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,bottas,BOT,cadillac,Cadillac,#909090,80.165,27.479,32.048,20.518,349,24,SOFT,80.045,3.0041,2.9028
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,colapinto,COL,alpine,Alpine,#00A1E8,79.132,27.453,31.1,20.372,350,23,SOFT,78.925,1.6768,1.463
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,gasly,GAS,alpine,Alpine,#00A1E8,78.407,27.257,30.968,20.107,351,20,SOFT,78.332,0.74524,0.70063
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,78.237,27.125,30.918,20.194,350,18,SOFT,78.237,0.52681,0.5785
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,hamilton,HAM,ferrari,Ferrari,#ED1131,78.512,27.198,30.632,20.084,347,7,SOFT,77.914,0.88016,0.16327
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,hulkenberg,HUL,audi,Audi,#F50537,79.023,27.495,31.195,20.158,353,23,SOFT,78.848,1.5367,1.364
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,lawson,LAW,rb,Racing Bulls,#6C98FF,78.455,27.146,31.02,20.214,350,25,SOFT,78.38,0.80692,0.76234
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,leclerc,LEC,ferrari,Ferrari,#ED1131,77.827,27.122,30.701,19.964,349,24,SOFT,77.787,0,0
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,78.138,27.229,30.767,20.142,351,16,SOFT,78.138,0.3996,0.45123
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,norris,NOR,mclaren,McLaren,#F47600,77.93,27.112,30.774,20.044,354,26,SOFT,77.93,0.13234,0.18384
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,ocon,OCO,haas,Haas F1 Team,#9C9FA2,78.774,27.333,31.237,20.204,349,22,SOFT,78.774,1.2168,1.2688
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,perez,PER,cadillac,Cadillac,#909090,79.406,27.381,31.61,20.274,348,28,SOFT,79.265,2.0289,1.9001
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,piastri,PIA,mclaren,McLaren,#F47600,78.469,27.257,30.898,20.014,349,20,SOFT,78.169,0.82491,0.49108
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,russell,RUS,mercedes,Mercedes,#00D7B6,77.933,27.148,30.697,20.088,347,25,SOFT,77.933,0.1362,0.18769
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,sainz,SAI,williams,Williams,#1868DB,79.248,27.369,31.587,20.29,350,19,SOFT,79.246,1.8258,1.8756
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,stroll,STR,aston_martin,Aston Martin,#229971,79.631,27.909,31.383,20.339,342,17,SOFT,79.631,2.318,2.3706

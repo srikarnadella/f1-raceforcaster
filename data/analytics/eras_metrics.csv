@@ -68,7 +68,7 @@ miami,1.443,1,1,1.667,1.886,,"1 race(s) under these rules, shrunk toward the sca
 monaco,1.189,2,1,0.3333,0.3771,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 monza,0.5,1,1,0,0,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 red_bull_ring,0.7542,0,1,1.333,1.508,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
-rodriguez,1.508,,0,1.333,1.508,,previous era × era factor,sc_rate
+rodriguez,0.7542,0,1,1.333,1.508,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 sepang,2,2,1,,,,1 race(s) under these rules,sc_rate
 shanghai,1.348,1,1,1.5,1.697,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 silverstone,2.131,2,1,2,2.263,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate

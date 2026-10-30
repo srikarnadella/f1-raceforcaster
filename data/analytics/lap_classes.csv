@@ -1665,3 +1665,11 @@ season,round,circuit_id,race_name,format,session,category,laps
 2026,18,americas,United States Grand Prix,conventional,R,lap1,21
 2026,18,americas,United States Grand Prix,conventional,R,neutral,37
 2026,18,americas,United States Grand Prix,conventional,R,traffic,252
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,cool,223
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,invalid,178
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,long,117
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,push,71
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,cool,209
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,invalid,199
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,long,171
+2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,push,77
