@@ -59,12 +59,12 @@ stops,plan,pace_time_s,time_s,delta_s,pace_only_delta_s,circuit_id,race_name
 2,M16 → H20 → H21,95.86,105.3,26.03,21.33,losail,Qatar Grand Prix
 2,M17 → M18 → H22,98.17,107.6,28.34,23.64,losail,Qatar Grand Prix
 2,S6 → H25 → H26,98.37,107.8,28.54,23.83,losail,Qatar Grand Prix
-1,S15 → H42,61.06,65.42,0,0,madring,Spanish Grand Prix
-1,M16 → H41,61.95,66.32,0.8982,0.8982,madring,Spanish Grand Prix
-2,S8 → H24 → H25,72.74,81.47,16.05,11.69,madring,Spanish Grand Prix
-2,M8 → H24 → H25,73.76,82.49,17.07,12.71,madring,Spanish Grand Prix
-2,S12 → S12 → H33,80.44,89.16,23.75,19.38,madring,Spanish Grand Prix
-1,S26 → M31,90.25,94.61,29.19,29.19,madring,Spanish Grand Prix
+1,S15 → H42,61.06,65.29,0,0,madring,Spanish Grand Prix
+1,M16 → H41,61.95,66.19,0.8982,0.8982,madring,Spanish Grand Prix
+2,S8 → H24 → H25,72.74,81.22,15.92,11.69,madring,Spanish Grand Prix
+2,M8 → H24 → H25,73.76,82.24,16.95,12.71,madring,Spanish Grand Prix
+2,S12 → S12 → H33,80.44,88.92,23.62,19.38,madring,Spanish Grand Prix
+1,S26 → M31,90.25,94.49,29.19,29.19,madring,Spanish Grand Prix
 1,S34 → M28,79.31,84.76,0,0,marina_bay,Singapore Grand Prix
 1,S36 → H26,85.11,90.55,5.796,5.796,marina_bay,Singapore Grand Prix
 1,M33 → H29,91.58,97.02,12.27,12.27,marina_bay,Singapore Grand Prix
@@ -101,12 +101,12 @@ stops,plan,pace_time_s,time_s,delta_s,pace_only_delta_s,circuit_id,race_name
 2,S14 → M28 → H29,137.1,141.9,11.9,9.489,rodriguez,Mexico City Grand Prix
 1,S20 → H51,142.8,145.2,15.22,15.22,rodriguez,Mexico City Grand Prix
 1,S23 → M48,143.3,145.7,15.67,15.67,rodriguez,Mexico City Grand Prix
-1,S25 → M30,88.9,90.37,0,0,sepang,Bahrain Grand Prix in Malaysia
-1,M28 → H27,94.69,96.16,5.791,5.791,sepang,Bahrain Grand Prix in Malaysia
-1,S25 → H30,94.8,96.27,5.897,5.897,sepang,Bahrain Grand Prix in Malaysia
-2,S17 → S18 → M20,97.96,100.9,10.52,9.055,sepang,Bahrain Grand Prix in Malaysia
-2,S17 → M19 → M19,99.81,102.7,12.38,10.91,sepang,Bahrain Grand Prix in Malaysia
-2,S18 → S19 → H18,102.7,105.6,15.27,13.8,sepang,Bahrain Grand Prix in Malaysia
+1,S25 → M30,88.9,90.36,0,0,sepang,Bahrain Grand Prix in Malaysia
+1,M28 → H27,94.69,96.15,5.791,5.791,sepang,Bahrain Grand Prix in Malaysia
+1,S25 → H30,94.8,96.25,5.897,5.897,sepang,Bahrain Grand Prix in Malaysia
+2,S17 → S18 → M20,97.96,100.9,10.51,9.055,sepang,Bahrain Grand Prix in Malaysia
+2,S17 → M19 → M19,99.81,102.7,12.37,10.91,sepang,Bahrain Grand Prix in Malaysia
+2,S18 → S19 → H18,102.7,105.6,15.26,13.8,sepang,Bahrain Grand Prix in Malaysia
 1,S20 → H36,106.9,106.9,0,0,shanghai,Chinese Grand Prix
 1,M20 → H36,109.2,109.2,2.257,2.257,shanghai,Chinese Grand Prix
 2,S14 → H21 → H21,116.9,116.9,10,10,shanghai,Chinese Grand Prix
