@@ -1680,3 +1680,7 @@ season,round,circuit_id,race_name,format,session,category,laps
 2026,19,rodriguez,Mexico City Grand Prix,conventional,Q,cool,70
 2026,19,rodriguez,Mexico City Grand Prix,conventional,Q,invalid,208
 2026,19,rodriguez,Mexico City Grand Prix,conventional,Q,push,88
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,clean,591
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,invalid,146
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,neutral,128
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,traffic,495

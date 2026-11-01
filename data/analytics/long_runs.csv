@@ -1627,7 +1627,7 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,19,rodriguez,Mexico City Grand Prix,conventional,for,FOR,mclaren,McLaren,#F47600,12,HARD,82.105,82.57,2.3256,FP1
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,14,SOFT,82.88,82.318,2.0143,FP1
 2026,19,rodriguez,Mexico City Grand Prix,conventional,her,HER,cadillac,Cadillac,#909090,13,MEDIUM,84.814,84.535,4.7607,FP1
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,haas,Haas F1 Team,#9C9FA2,12,MEDIUM,82.498,82.74,2.5366,FP1
+2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,,,#888888,12,MEDIUM,82.498,82.74,2.5366,FP1
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,7,MEDIUM,82.433,82.825,2.6414,FP1
 2026,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,9,SOFT,81.578,81.056,0.44932,FP1
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,5,MEDIUM,83.928,83.818,3.8725,FP1

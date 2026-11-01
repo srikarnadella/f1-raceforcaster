@@ -1,44 +1,44 @@
-driver_id,medium-speed technical,power / long straights,twisty / technical,track_group,code
-albon,-0.08143,-0.02389,0.0142,strongest at medium-speed technical (2),ALB
-alonso,-0.213,0.03565,-0.07093,strongest at medium-speed technical,ALO
-antonelli,-0.1053,0.03538,-0.06319,strongest at medium-speed technical,ANT
-bearman,0.03228,-0.005866,-0.009926,even across track types,BEA
-bortoleto,-0.06373,-0.09725,0.2659,strongest at medium-speed technical (2),BOR
-bottas,-0.07438,0.01485,-0.0475,strongest at medium-speed technical,BOT
-button,0.1775,-0.05864,0.06425,even across track types,BUT
-colapinto,0.1988,0.007258,-0.0587,strongest at twisty / technical,COL
-ericsson,-0.04367,-0.03367,0.02519,strongest at medium-speed technical (2),ERI
-gasly,0.104,-0.02954,0.02411,even across track types,GAS
-giovinazzi,-0.01759,0.0199,0.06781,strongest at medium-speed technical (2),GIO
-grosjean,0.05868,0.007697,-0.05198,even across track types,GRO
-gutierrez,0.01133,0.02468,0.005582,even across track types,GUT
-hadjar,-0.1096,0.01652,-0.001582,strongest at medium-speed technical,HAD
-hamilton,0.00422,-0.02076,0.08128,strongest at medium-speed technical (2),HAM
-hulkenberg,0.147,0.0141,-0.1347,strongest at twisty / technical,HUL
-jolyon_palmer,-0.2537,0.04205,0.0475,strongest at medium-speed technical,PAL
-kevin_magnussen,-0.03919,0.03298,0.03194,strongest at medium-speed technical (2),MAG
-kvyat,0.1664,-0.03103,0.06205,even across track types,KVY
-latifi,-0.1442,-0.01074,-0.02699,strongest at medium-speed technical,LAT
-lawson,0.04245,0.03445,-0.06962,even across track types,LAW
-leclerc,-0.1156,-0.003219,0.06025,strongest at medium-speed technical (2),LEC
-maldonado,-0.08076,-0.03374,-0.05959,strongest at medium-speed technical,MAL
-massa,0.1934,0.002904,-0.1121,strongest at twisty / technical,MAS
-max_verstappen,0.09623,-0.01669,0.0299,even across track types,VER
-mick_schumacher,-0.0196,-0.03762,0.11,strongest at medium-speed technical (2),MSC
-nasr,0.002537,0.00884,0.1294,strongest at medium-speed technical (2),NAS
-norris,0.1667,0.01578,-0.1098,strongest at twisty / technical,NOR
-ocon,-0.2038,0.005393,-0.05177,strongest at medium-speed technical,OCO
-perez,0.06373,0.04061,-0.04871,even across track types,PER
-piastri,-0.1237,-0.03521,0.1343,strongest at medium-speed technical (2),PIA
-raikkonen,0.1076,-0.03372,0.0402,even across track types,RAI
-ricciardo,0.00099,-0.002659,0.005248,even across track types,RIC
-rosberg,-0.1151,0.05487,-0.06067,strongest at medium-speed technical,ROS
-russell,0.3582,0.008999,-0.001274,strongest at twisty / technical,RUS
-sainz,-0.05314,0.02833,-0.05105,strongest at medium-speed technical,SAI
-sargeant,-0.07324,0.002642,-0.003031,strongest at medium-speed technical,SAR
-stroll,0.1452,-0.03745,0.1167,even across track types,STR
-tsunoda,-0.103,-0.03308,0.1269,strongest at medium-speed technical (2),TSU
-vandoorne,-0.08472,-0.0184,0.02977,strongest at medium-speed technical (2),VAN
-vettel,-0.1439,0.03764,-0.1681,strongest at medium-speed technical,VET
-wehrlein,0.2507,-0.043,0.03013,strongest at twisty / technical,WEH
-zhou,0.0311,-0.004249,0.03028,even across track types,ZHO
+driver_id,hot track,medium-speed technical,overtaking-friendly,power / long straights,safety-car prone,twisty / technical,track_group,code
+albon,0.02051,-0.08143,0.1369,0.008294,-0.07273,-0.2261,strongest at twisty / technical,ALB
+alonso,-0.008781,-0.213,0.02679,0.1294,-0.0628,-0.06392,strongest at twisty / technical,ALO
+antonelli,0.01531,-0.1053,-0.04801,0.05045,0.02541,-0.06438,strongest at twisty / technical,ANT
+bearman,-0.1002,0.03228,0.08919,-0.008864,-0.0207,0.08223,strongest at power / long straights,BEA
+bortoleto,-0.008261,-0.06373,0.05939,-0.09945,-0.09793,0.4208,strongest at overtaking-friendly (2),BOR
+bottas,-0.0819,-0.07438,-0.1374,0.09854,0.0644,0.04595,strongest at overtaking-friendly (2),BOT
+button,0.00777,0.1775,-0.122,-0.09954,0.05816,0.01845,strongest at overtaking-friendly,BUT
+colapinto,-0.0275,0.1988,0.04973,-0.0002321,-0.06278,0.0374,strongest at overtaking-friendly,COL
+ericsson,0.0581,-0.04367,-0.1465,-0.0205,-0.1075,0.2811,strongest at overtaking-friendly (2),ERI
+gasly,-0.00926,0.104,0.02482,0.04478,-0.1026,-0.01915,strongest at overtaking-friendly,GAS
+giovinazzi,0.1432,-0.01759,0.01145,-0.01574,-0.02819,-0.04796,strongest at twisty / technical,GIO
+grosjean,0.01053,0.05868,-0.0003747,0.02762,-0.02861,-0.0926,strongest at twisty / technical,GRO
+gutierrez,0.128,0.01133,-0.03968,-0.0156,0.08732,-0.1873,strongest at twisty / technical,GUT
+hadjar,0.04757,-0.1096,-0.008396,0.03958,-0.02744,0.02971,strongest at twisty / technical,HAD
+hamilton,0.001531,0.00422,0.008509,0.04745,-0.06465,0.103,strongest at overtaking-friendly (2),HAM
+hulkenberg,-0.03648,0.147,-0.2069,0.1278,0.04117,-0.135,strongest at overtaking-friendly,HUL
+jolyon_palmer,0.003463,-0.2537,0.2201,-0.2329,0.002246,0.1868,strongest at power / long straights,PAL
+kevin_magnussen,0.1217,-0.03919,-0.1029,0.103,0.01843,-0.05336,strongest at twisty / technical,MAG
+kvyat,0.08839,0.1664,0.002618,-0.06422,-0.104,0.0821,strongest at overtaking-friendly,KVY
+latifi,0.02151,-0.1442,0.001653,-0.08403,0.006453,0.06604,strongest at power / long straights,LAT
+lawson,-0.0744,0.04245,0.07088,0.1393,-0.02838,-0.1786,strongest at twisty / technical,LAW
+leclerc,0.06482,-0.1156,0.04229,-0.119,0.05658,0.04633,strongest at power / long straights,LEC
+maldonado,-0.2484,-0.08076,0.1845,-0.144,-0.06041,0.108,strongest at power / long straights,MAL
+massa,0.07818,0.1934,0.0145,0.007141,-0.08348,-0.2393,strongest at overtaking-friendly,MAS
+max_verstappen,-0.04913,0.09623,0.01347,-0.08841,0.07427,0.06368,strongest at power / long straights,VER
+mick_schumacher,0.03003,-0.0196,0.06465,-0.1081,0.01002,0.1265,strongest at power / long straights,MSC
+nasr,-0.02518,0.002537,0.2043,-0.1031,0.08009,-0.05381,strongest at power / long straights,NAS
+norris,-0.1402,0.1667,0.04619,0.09783,-0.002895,-0.1287,strongest at overtaking-friendly,NOR
+ocon,-0.02669,-0.2038,-0.01433,-0.06758,0.1004,-0.1089,strongest at twisty / technical,OCO
+perez,0.1943,0.06373,0.04696,0.06121,-0.0385,-0.3809,strongest at twisty / technical,PER
+piastri,0.1611,-0.1237,0.07273,-0.1761,-0.01331,0.05169,strongest at power / long straights,PIA
+raikkonen,-0.1107,0.1076,0.05282,-0.08248,0.03308,0.1265,strongest at power / long straights,RAI
+ricciardo,-0.05809,0.00099,-0.191,0.001159,0.1025,0.2226,strongest at overtaking-friendly (2),RIC
+rosberg,-0.01694,-0.1151,0.06884,0.02787,0.07401,-0.09255,strongest at twisty / technical,ROS
+russell,-0.03727,0.3582,-0.005602,-0.007913,0.03203,0.09873,strongest at overtaking-friendly,RUS
+sainz,-0.09062,-0.05314,-0.08989,0.0594,0.085,0.08288,strongest at overtaking-friendly (2),SAI
+sargeant,-0.09387,-0.07324,-0.07207,0.07419,0.02979,0.1483,strongest at overtaking-friendly (2),SAR
+stroll,-0.1394,0.1452,0.04651,-0.05774,0.007722,0.4058,strongest at overtaking-friendly (2),STR
+tsunoda,0.1367,-0.103,0.151,-0.0336,-0.0882,-0.07772,strongest at twisty / technical,TSU
+vandoorne,0.1279,-0.08472,-0.05496,-0.1183,0.009992,-0.03858,strongest at twisty / technical,VAN
+vettel,0.04289,-0.1439,0.00362,0.1007,-0.07925,-0.2619,strongest at twisty / technical,VET
+wehrlein,0.01518,0.2507,-0.1753,0.0704,-0.004244,-0.01073,strongest at overtaking-friendly,WEH
+zhou,-0.02644,0.0311,0.09262,-0.1594,0.07484,0.04765,strongest at power / long straights,ZHO

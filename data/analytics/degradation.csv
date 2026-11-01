@@ -2817,7 +2817,6 @@ season,round,circuit_id,race_name,format,session,constructor_id,team_name,team_c
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,alpine,Alpine,#00A1E8,SOFT,0.0421,9,False
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,cadillac,Cadillac,#909090,MEDIUM,0.0787,12,False
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,ferrari,Ferrari,#ED1131,SOFT,0.0387,9,False
-2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,haas,Haas F1 Team,#9C9FA2,HARD,-0.1721,11,False
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,mclaren,McLaren,#F47600,SOFT,0.1421,14,False
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP1,williams,Williams,#1868DB,MEDIUM,0.2008,8,False
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP2,alpine,Alpine,#00A1E8,SOFT,-0.0236,9,False
@@ -2836,3 +2835,20 @@ season,round,circuit_id,race_name,format,session,constructor_id,team_name,team_c
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP3,cadillac,Cadillac,#909090,SOFT,0.1189,8,False
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP3,mercedes,Mercedes,#00D7B6,MEDIUM,0.2858,10,False
 2026,19,rodriguez,Mexico City Grand Prix,conventional,FP3,rb,Racing Bulls,#6C98FF,MEDIUM,-0.052,12,False
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,alpine,Alpine,#00A1E8,MEDIUM,0.0385,53,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,alpine,Alpine,#00A1E8,SOFT,0.0357,58,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,audi,Audi,#F50537,MEDIUM,0.0263,59,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,audi,Audi,#F50537,SOFT,0.0251,54,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,cadillac,Cadillac,#909090,MEDIUM,0.0346,22,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,cadillac,Cadillac,#909090,SOFT,0.0404,72,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,ferrari,Ferrari,#ED1131,MEDIUM,0.0693,29,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,ferrari,Ferrari,#ED1131,SOFT,0.0357,85,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,haas,Haas F1 Team,#9C9FA2,SOFT,0.0225,36,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,mclaren,McLaren,#F47600,MEDIUM,0.032,19,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,mclaren,McLaren,#F47600,SOFT,0.0294,92,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,mercedes,Mercedes,#00D7B6,MEDIUM,0.1103,9,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,mercedes,Mercedes,#00D7B6,SOFT,0.0244,106,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,rb,Racing Bulls,#6C98FF,SOFT,0.0259,97,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,MEDIUM,0.0356,54,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,SOFT,0.0174,60,True
+2026,19,rodriguez,Mexico City Grand Prix,conventional,R,williams,Williams,#1868DB,SOFT,0.0345,106,True

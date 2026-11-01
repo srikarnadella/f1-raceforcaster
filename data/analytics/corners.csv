@@ -14530,14 +14530,14 @@ season,round,circuit_id,race_name,format,code,driver_id,constructor_id,team_name
 2026,19,rodriguez,Mexico City Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,6,medium,3.7863,136,0,0
 2026,19,rodriguez,Mexico City Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,7,slow,6.6046,63.729,0,0
 2026,19,rodriguez,Mexico City Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,8,slow,3.8969,103,0,0
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,1,slow,9.2922,98.294,0.36634,1.9339
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,2,slow,8.9554,64.321,0.29513,-7.1807
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,3,slow,4.745,74,0.1391,-6.0221
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,4,medium,2.8327,159.8,0.22027,-17.828
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,5,medium,6.6795,156.32,0.46841,-17.703
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,6,medium,4.054,121,0.26766,-15
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,7,slow,6.805,62.422,0.20039,-1.3074
-2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,haas,Haas F1 Team,#9C9FA2,8,slow,4.0167,96.396,0.11981,-6.6041
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,1,slow,9.2922,98.294,0.36634,1.9339
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,2,slow,8.9554,64.321,0.29513,-7.1807
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,3,slow,4.745,74,0.1391,-6.0221
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,4,medium,2.8327,159.8,0.22027,-17.828
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,5,medium,6.6795,156.32,0.46841,-17.703
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,6,medium,4.054,121,0.26766,-15
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,7,slow,6.805,62.422,0.20039,-1.3074
+2026,19,rodriguez,Mexico City Grand Prix,conventional,HIR,hir,,,#888888,8,slow,4.0167,96.396,0.11981,-6.6041
 2026,19,rodriguez,Mexico City Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,1,slow,9.3314,95.329,0.40557,-1.0315
 2026,19,rodriguez,Mexico City Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,2,slow,8.8392,68.077,0.17888,-3.4241
 2026,19,rodriguez,Mexico City Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,3,slow,4.7417,80.028,0.13589,0.0063666

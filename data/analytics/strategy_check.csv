@@ -48,3 +48,4 @@ season,round,circuit_id,actual_stops,pred_stops,last_visit_stops,plan,actual_rou
 2026,15,baku,2,1,1,S40 → M11,2
 2026,17,marina_bay,1,1,1,S36 → M26,1
 2026,18,americas,1,1,1,M30 → H26,1
+2026,19,rodriguez,2.5,1,1,M32 → H39,2
