@@ -2225,6 +2225,6 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,57,39,83.049,82.822,3.0137,R
 2026,19,rodriguez,Mexico City Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,56,31,81.601,81.397,1.2416,R
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,57,35,81.5,80.804,0.50407,R
-2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,haas,,#888888,55,14,83.282,82.47,2.576,R
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,haas,Haas F1 Team,#9C9FA2,55,14,83.282,82.47,2.576,R
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,58,22,83.108,82.3,2.364,R
 2026,19,rodriguez,Mexico City Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,1,,,,,R
