@@ -97894,7 +97894,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,1,15,7.801,93.283,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,1,16,8.245,93.727,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,1,17,9.013,94.495,SOFT,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,1,18,9.71,95.192,MEDIUM,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,1,18,9.71,95.192,MEDIUM,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,#229971,1,19,9.983,95.465,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,stroll,STR,#229971,1,20,10.475,95.957,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,1,21,12.279,97.761,MEDIUM,invalid
@@ -97916,7 +97916,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,2,15,10.308,83.655,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,2,16,10.97,83.808,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,2,17,11.621,83.77,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,2,18,11.929,83.596,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,2,18,11.929,83.596,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,#229971,2,19,12.487,83.544,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,stroll,STR,#229971,2,20,13.167,83.696,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,2,21,13.511,82.376,SOFT,clean
@@ -97938,7 +97938,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,3,15,12.774,83.478,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,3,16,13.583,83.624,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,3,17,14.28,83.633,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,3,18,14.605,83.558,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,3,18,14.605,83.558,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,3,19,15.457,83.039,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,3,20,16.723,83.046,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,#229971,3,21,18.067,86.643,SOFT,invalid
@@ -97951,7 +97951,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,4,6,3.24,83.338,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,4,7,4.049,83.365,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,4,8,5.296,84.018,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,4,9,5.66,84.024,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,4,9,5.66,84.024,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,4,10,6.171,83.617,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,4,11,6.426,82.694,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,alonso,ALO,#229971,4,12,29.033,103.81,SOFT,invalid
@@ -97972,7 +97972,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,5,5,2.903,83.145,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,5,6,3.828,83.467,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,5,7,4.673,83.479,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,5,8,5.676,82.882,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,5,8,5.676,82.882,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,5,9,6.231,82.996,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,5,10,8.654,86.214,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,5,11,8.922,85.231,SOFT,traffic
@@ -97994,7 +97994,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,6,14,19.037,83.133,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,6,15,20.111,83.328,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,6,16,20.701,83.15,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,6,17,21.667,83.032,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,6,17,21.667,83.032,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,6,18,22.21,82.91,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,6,19,24.037,82.241,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,6,20,26.833,85.227,SOFT,clean
@@ -98014,7 +98014,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,7,14,26.287,111.32,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,7,15,26.55,110.48,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,7,16,27.085,110.42,SOFT,neutral
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,7,17,28.836,111.06,SOFT,neutral
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,7,17,28.836,111.06,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,7,18,29.537,111.47,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,7,19,32.757,112.8,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,7,20,35.401,112.59,SOFT,neutral
@@ -98034,7 +98034,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,8,14,22.391,102.35,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,8,15,23.531,103.31,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,8,16,24.453,103.5,SOFT,neutral
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,8,17,25.669,103.2,SOFT,neutral
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,8,17,25.669,103.2,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,8,18,26.313,102.97,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,8,19,28.713,99.707,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,8,20,38.82,112.19,MEDIUM,invalid
@@ -98054,7 +98054,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,9,14,23.784,82.395,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,9,15,25.323,82.634,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,9,16,26.011,82.615,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,9,17,27.144,82.425,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,9,17,27.144,82.425,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,9,18,28.394,82.972,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,9,19,31.576,83.575,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,9,20,39.043,81.198,MEDIUM,clean
@@ -98074,7 +98074,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,10,14,26.013,82.868,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,10,15,27.341,82.698,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,10,16,28.469,83.009,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,10,17,29.185,82.742,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,10,17,29.185,82.742,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,10,18,30.244,82.441,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,10,19,34.472,83.525,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,10,20,39.757,81.317,MEDIUM,clean
@@ -98094,7 +98094,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,11,14,27.916,82.969,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,11,15,28.945,82.924,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,11,16,29.914,82.873,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,11,17,30.74,82.866,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,11,17,30.74,82.866,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,11,18,34.614,85.881,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,11,19,36.883,83.841,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,11,20,39.724,81.436,MEDIUM,clean
@@ -98114,7 +98114,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,12,14,29.664,83.011,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,12,15,30.899,83.095,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,12,16,31.93,83.218,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,12,17,32.602,82.994,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,12,17,32.602,82.994,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,12,18,39.666,83.988,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,12,19,40.316,81.66,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,12,20,54.836,101.28,SOFT,invalid
@@ -98134,7 +98134,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,13,14,31.698,83.185,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,13,15,32.974,83.076,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,13,16,34.358,83.319,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,13,17,35.029,83.367,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,13,17,35.029,83.367,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,13,18,41.526,82.184,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,13,19,44.258,85.434,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,13,20,55.211,81.322,SOFT,clean
@@ -98154,7 +98154,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,14,14,33.835,83.049,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,14,15,35.21,83.164,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,14,16,36.348,83.066,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,14,17,37.696,83.604,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,14,17,37.696,83.604,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,14,18,42.038,81.485,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,14,19,47.431,84.208,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,14,20,55.492,81.337,SOFT,clean
@@ -98174,7 +98174,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,15,14,36.05,83.246,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,15,15,37.227,83.165,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,15,16,38.902,83.457,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,15,17,39.864,83.379,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,15,17,39.864,83.379,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,15,18,42.847,81.844,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,15,19,50.342,83.889,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,15,20,55.99,81.542,SOFT,clean
@@ -98194,7 +98194,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,16,14,37.97,83.03,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,16,15,39.288,83.146,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,16,16,40.892,83.109,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,16,17,42.264,83.299,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,16,17,42.264,83.299,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,16,18,43.751,82.046,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,16,19,52.856,83.678,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,16,20,56.397,81.436,SOFT,clean
@@ -98214,7 +98214,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,17,14,39.978,83.124,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,17,15,41.416,83.253,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,17,16,43.006,83.24,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,17,17,44.289,83.274,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,17,17,44.289,83.274,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,17,18,45.106,82.366,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,17,19,55.505,83.699,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,17,20,57.177,81.842,SOFT,clean
@@ -98233,7 +98233,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,18,13,41.807,83.137,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,18,14,44.657,83.107,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,18,15,46.409,86.361,SOFT,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,18,16,46.831,83.769,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,18,16,46.831,83.769,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,18,17,47.373,83.601,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,18,18,56.062,101.72,MEDIUM,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,18,19,58.459,82.619,SOFT,clean
@@ -98253,7 +98253,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,19,13,44.397,83.58,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,19,14,47.095,83.201,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,19,15,48.813,82.47,MEDIUM,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,19,16,50.433,84.542,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,19,16,50.433,84.542,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,19,17,56.279,81.283,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,19,18,59.202,81.737,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,19,19,62.053,83.911,SOFT,traffic
@@ -98273,7 +98273,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,20,13,46.505,83.416,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,20,14,48.937,83.214,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,20,15,50.557,83.035,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,20,16,52.391,83.314,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,20,16,52.391,83.314,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,20,17,56.217,81.328,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,20,18,59.58,81.683,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,20,19,65.056,84.318,SOFT,clean
@@ -98293,7 +98293,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,21,13,48.505,83.179,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,21,14,50.705,83.033,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,21,15,51.882,82.55,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,21,16,54.387,83.25,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,21,16,54.387,83.25,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,21,17,56.611,81.541,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,21,18,60.13,81.848,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,21,19,67.778,83.868,SOFT,clean
@@ -98313,7 +98313,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,22,13,50.259,83.423,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,22,14,52.289,83.153,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,22,15,53.21,82.95,MEDIUM,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,22,16,56.365,83.462,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,22,16,56.365,83.462,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,22,17,56.729,81.805,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,22,18,60.573,82.03,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,22,19,70.363,83.349,SOFT,traffic
@@ -98334,7 +98334,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,23,14,54.059,83.22,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,23,15,54.744,82.94,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,23,16,56.756,81.482,MEDIUM,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,23,17,58.783,84.044,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,23,17,58.783,84.044,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,23,18,61.203,82.015,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,23,19,71.457,82.452,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,23,20,73.633,83.821,SOFT,traffic
@@ -98354,7 +98354,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,24,14,56.305,83.4,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,24,15,56.803,83.26,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,24,16,58.036,82.473,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,24,17,61.111,83.481,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,24,17,61.111,83.481,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,24,18,62.293,82.419,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,24,19,72.702,82.575,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,24,20,77.099,84.773,SOFT,clean
@@ -98375,7 +98375,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,25,15,58.535,83.626,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,25,16,59.104,82.868,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,25,17,63.301,82.872,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,25,18,64.345,85.108,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,25,18,64.345,85.108,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,25,19,73.573,82.626,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,25,20,79.462,84.195,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,#ED1131,26,1,0,81.837,SOFT,clean
@@ -98395,7 +98395,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,26,15,61.149,84.732,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,26,16,61.524,84.105,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,26,17,63.964,82.295,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,26,18,66.602,83.753,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,26,18,66.602,83.753,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,26,19,74.417,82.559,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,26,20,82.965,85.095,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,LEC,#ED1131,27,1,0,84.987,SOFT,invalid
@@ -98415,7 +98415,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,27,15,58.667,82.299,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,27,16,60.109,84.134,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,27,17,61.17,82.272,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,27,18,64.92,83.438,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,27,18,64.92,83.438,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,27,19,71.894,82.612,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,27,20,81.443,83.512,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,28,1,0,81.487,SOFT,clean
@@ -98435,7 +98435,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,28,15,53.631,83.068,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,28,16,55.183,83.226,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,28,17,55.831,82.757,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,28,18,60.07,83.234,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,28,18,60.07,83.234,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,28,19,66.861,82.666,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,28,20,77.508,84.201,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,29,1,0,81.31,SOFT,clean
@@ -98455,7 +98455,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,29,15,56.935,85.287,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,29,16,57.598,83.734,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,29,17,58.258,83.638,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,29,18,61.681,83.079,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,29,18,61.681,83.079,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,29,19,68.034,82.809,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,29,20,79.992,83.859,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,30,1,0,81.299,SOFT,clean
@@ -98475,7 +98475,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,30,15,60.61,83.667,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,30,16,60.985,84.567,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,30,17,63.149,87.165,SOFT,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,30,18,63.943,83.248,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,30,18,63.943,83.248,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,30,19,69.66,82.904,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,30,20,88.058,89.263,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,31,1,0,81.315,SOFT,clean
@@ -98494,7 +98494,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,31,14,56.453,82.346,MEDIUM,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,31,15,61.641,82.286,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,31,16,62.982,83.406,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,31,17,65.623,83.238,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,31,17,65.623,83.238,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,31,18,70.912,82.675,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,31,19,90.337,108.73,MEDIUM,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,31,20,113.91,107.16,MEDIUM,invalid
@@ -98514,7 +98514,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,32,14,62.131,100.67,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,32,15,63.507,83.196,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,32,16,65.351,83.625,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,32,17,67.925,83.509,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,32,17,67.925,83.509,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,32,18,72.612,82.843,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,32,19,91.6,82.56,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,32,20,115.28,82.674,MEDIUM,clean
@@ -98534,7 +98534,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,33,14,63.07,82.044,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,33,15,64.769,82.333,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,33,16,67.519,83.272,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,33,17,69.811,83.145,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,33,17,69.811,83.145,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,33,18,74.275,82.737,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,33,19,92.504,82.005,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,33,20,116.63,82.487,MEDIUM,clean
@@ -98554,7 +98554,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,34,14,63.942,82.128,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,34,15,65.643,82.19,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,34,16,69.303,83.053,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,34,17,72.644,83.912,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,34,17,72.644,83.912,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,34,18,75.728,82.779,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,34,19,96.3,85.101,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,34,20,118.18,82.724,MEDIUM,clean
@@ -98575,7 +98575,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,35,15,66.88,82.34,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,35,16,71.509,83.256,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,35,17,77.461,82.733,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,35,18,78.319,86.707,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,35,18,78.319,86.707,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,35,19,99.777,84.592,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,35,20,119.8,82.83,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,36,1,0,81.16,SOFT,clean
@@ -98595,7 +98595,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,36,15,67.863,82.179,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,36,16,76.667,86.209,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,36,17,78.994,82.777,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,36,18,98.978,101.93,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,36,18,98.978,101.93,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,36,19,101.37,82.706,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,36,20,123.59,84.902,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,37,1,0,81.315,SOFT,clean
@@ -98615,7 +98615,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,37,15,68.909,82.37,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,37,16,80.458,82.787,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,37,17,98.56,103.31,MEDIUM,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,37,18,99.434,81.885,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,37,18,99.434,81.885,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,37,19,102.72,82.747,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,37,20,125.15,82.882,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,38,1,0,81.857,SOFT,clean
@@ -98635,7 +98635,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,38,15,69.292,82.268,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,38,16,82.877,84.412,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,38,17,98.132,81.572,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,38,18,98.969,81.283,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,38,18,98.969,81.283,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,38,19,103.58,82.76,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,38,20,128.16,84.953,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,39,1,0,81.853,SOFT,clean
@@ -98655,7 +98655,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,39,15,78.478,100.75,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,39,16,84.088,82.852,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,39,17,97.903,81.438,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,39,18,98.841,81.715,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,39,18,98.841,81.715,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,39,19,104.55,82.725,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,39,20,129.48,83.053,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,40,1,0,81.418,SOFT,clean
@@ -98675,7 +98675,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,40,15,77.826,80.877,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,40,16,85.65,83.167,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,40,17,98.057,81.733,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,40,18,98.975,81.615,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,40,18,98.975,81.615,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,40,19,105.59,82.575,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,40,20,131.28,83.343,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,41,1,0,81.481,SOFT,clean
@@ -98695,7 +98695,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,41,15,77.751,81.42,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,41,16,90.277,86.178,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,41,17,98.587,81.976,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,41,18,99.258,81.773,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,41,18,99.258,81.773,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,41,19,106.79,82.676,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,41,20,133.21,83.392,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,42,1,0,81.541,SOFT,clean
@@ -98714,7 +98714,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,42,14,78.019,81.756,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,42,15,85.271,100.58,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,42,16,98.999,82.024,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,42,17,100.02,82.21,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,42,17,100.02,82.21,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,42,18,108.12,82.854,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,42,19,115.15,106.27,MEDIUM,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bottas,BOT,#909090,42,20,135.19,83.398,MEDIUM,clean
@@ -98734,7 +98734,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,43,14,79.956,80.244,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,43,15,100.19,108.77,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,43,16,103.08,89.286,MEDIUM,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,43,17,106.53,92.025,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,43,17,106.53,92.025,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,43,18,119.33,96.492,MEDIUM,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,43,19,124.25,94.541,MEDIUM,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,44,1,0,83.997,SOFT,neutral
@@ -98753,7 +98753,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,44,14,105.97,113.88,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,44,15,143.96,131.88,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,44,16,145.51,130.46,MEDIUM,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,44,17,159.81,141.2,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,44,17,159.81,141.2,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,44,18,163.1,126.93,MEDIUM,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,44,19,168.37,137.02,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,45,1,0,139.55,SOFT,invalid
@@ -98772,7 +98772,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,45,14,87.709,121.32,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,45,15,2294.2,2289.8,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,45,16,2301,2295.2,SOFT,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,45,17,2303.2,2283.1,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,45,17,2303.2,2283.1,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,45,18,2307.3,2278.7,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,45,19,2310.2,2286.7,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,46,1,0,2433.4,SOFT,invalid
@@ -98791,7 +98791,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,46,14,32.009,2377.9,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,#6C98FF,46,15,34.838,173.99,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,46,16,36.687,169.17,SOFT,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,46,17,38.6,168.56,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,46,17,38.6,168.56,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,46,18,40.471,166.55,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,46,19,42.325,165.59,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,47,1,0,150.02,SOFT,neutral
@@ -98811,7 +98811,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,47,15,8.374,131.5,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,47,16,8.781,122.24,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,47,17,9.308,127.34,SOFT,neutral
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,47,18,9.712,121.53,SOFT,neutral
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,47,18,9.712,121.53,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bearman,BEA,#9C9FA2,47,19,23.952,146.16,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,48,1,0,80.078,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,48,2,0.469,79.849,SOFT,traffic
@@ -98830,7 +98830,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,48,15,10.353,82.023,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,48,16,11.439,82.139,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,48,17,12.047,83.329,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,48,18,12.46,82.777,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,48,18,12.46,82.777,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,49,1,0,79.727,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,49,2,0.895,79.862,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,49,3,1.984,79.567,SOFT,traffic
@@ -98848,7 +98848,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,49,15,12.807,81.959,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,49,16,13.094,81.235,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,49,17,14.313,81.743,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,49,18,15.07,82.068,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,49,18,15.07,82.068,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,50,1,0,79.328,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,50,2,0.666,79.268,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,50,3,2.01,79.525,SOFT,traffic
@@ -98866,7 +98866,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,50,15,14.569,80.926,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,50,16,15.391,82.173,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,50,17,16.597,81.733,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,50,18,16.999,81.461,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,50,18,16.999,81.461,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,51,1,0,79.544,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,51,2,1.185,79.943,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,51,3,2.553,79.975,SOFT,traffic
@@ -98884,7 +98884,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,51,15,16.079,81.046,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,51,16,16.939,81.036,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,51,17,18.489,81.339,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,51,18,19.031,81.474,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,51,18,19.031,81.474,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,52,1,0,79.799,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,52,2,1.315,79.919,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,52,3,2.728,79.932,SOFT,traffic
@@ -98902,7 +98902,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,52,15,17.795,81.41,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,52,16,19.829,82.636,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,52,17,20.897,82.23,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,52,18,21.573,82.266,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,52,18,21.573,82.266,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,53,1,0,79.689,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,53,2,1.263,79.755,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,53,3,2.857,79.962,SOFT,traffic
@@ -98920,7 +98920,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,53,15,21.004,82.966,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,53,16,21.832,81.826,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,53,17,23.239,82.062,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,53,18,23.508,81.889,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,53,18,23.508,81.889,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,54,1,0,79.871,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,54,2,1.217,79.76,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,54,3,2.961,79.859,SOFT,clean
@@ -98938,7 +98938,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,54,15,24.947,84.235,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,54,16,25.307,83.24,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,54,17,26.121,82.757,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,54,18,26.338,82.585,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,54,18,26.338,82.585,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,55,1,0,79.809,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,55,2,1.231,79.843,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,55,3,3.09,80,SOFT,clean
@@ -98956,7 +98956,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,55,15,27.811,82.395,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,55,16,29.43,84.302,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,55,17,29.936,83.73,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,55,18,30.147,83.717,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,55,18,30.147,83.717,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,56,1,0,80.087,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,56,2,1.245,80.046,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,56,3,3.412,80.427,SOFT,clean
@@ -98974,7 +98974,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,56,15,29.046,81.23,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,56,16,31.212,81.927,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,56,17,32.36,82.437,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,56,18,32.96,82.698,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,56,18,32.96,82.698,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,57,1,0,79.97,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,57,2,1.234,80.04,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,57,3,3.876,80.396,SOFT,clean
@@ -98992,7 +98992,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,57,15,30.365,81.333,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,57,16,33.609,82.317,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,57,17,34.608,82.228,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,57,18,35.173,82.184,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,57,18,35.173,82.184,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,58,1,0,79.968,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,58,2,1.251,79.922,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,58,3,4.112,80.215,SOFT,clean
@@ -99010,7 +99010,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,58,15,31.52,81.109,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,58,16,35.304,81.741,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,58,17,36.757,82.187,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,58,18,37.367,82.304,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,58,18,37.367,82.304,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,59,1,0,93.45,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,59,2,2.993,95.269,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,59,3,6.081,95.446,SOFT,neutral
@@ -99027,7 +99027,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,59,14,47.995,110.04,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,59,15,52.273,108.79,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,59,16,53.181,111.4,SOFT,invalid
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,59,17,55.112,111.32,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,59,17,55.112,111.32,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,60,1,0,126.47,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,HAM,#ED1131,60,2,1.189,124.77,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,antonelli,ANT,#00D7B6,60,3,2.248,122.83,SOFT,neutral
@@ -99042,7 +99042,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,60,12,25.369,112.52,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,60,13,27.049,112.35,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,60,14,37.346,111.91,SOFT,neutral
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,60,15,57.323,128.74,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,60,15,57.323,128.74,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,60,16,64.234,142.79,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,60,17,65.916,139.29,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,61,1,0,122.35,SOFT,neutral
@@ -99059,7 +99059,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,61,12,14.445,111.44,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,61,13,15.882,111.18,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,61,14,17.074,101.95,SOFT,neutral
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,61,15,29.736,94.764,SOFT,neutral
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,61,15,29.736,94.764,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,61,16,35.723,93.823,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,61,17,37.717,94.056,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,62,1,0,120.79,SOFT,neutral
@@ -99076,7 +99076,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,62,12,6.208,112.43,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,62,13,6.614,111.19,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,62,14,7.133,110.59,SOFT,neutral
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,62,15,7.684,98.333,SOFT,neutral
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,62,15,7.684,98.333,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,62,16,8.096,92.842,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,62,17,8.866,91.718,SOFT,neutral
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,63,1,0,79.738,SOFT,clean
@@ -99093,7 +99093,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,63,12,8.617,82.128,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,63,13,9.338,82.903,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,63,14,9.998,82.695,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,63,15,10.321,82.53,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,63,15,10.321,82.53,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,63,16,10.712,82.615,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,63,17,11.311,82.342,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,64,1,0,79.513,SOFT,clean
@@ -99110,7 +99110,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,64,12,10.718,81.497,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,64,13,11.585,81.751,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,64,14,12.089,81.765,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,64,15,12.299,81.714,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,64,15,12.299,81.714,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,64,16,13.003,81.842,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,64,17,13.836,82.086,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,65,1,0,79.605,SOFT,clean
@@ -99127,7 +99127,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,65,12,12.791,81.601,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,65,13,13.795,81.762,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,65,14,14.942,82.294,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,65,15,15.62,82.64,SOFT,invalid
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,65,15,15.62,82.64,SOFT,invalid
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,65,16,16.248,82.66,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,65,17,16.856,82.604,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,66,1,0,79.737,SOFT,clean
@@ -99144,7 +99144,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,66,12,14.762,81.749,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,66,13,15.743,81.784,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,66,14,16.877,81.76,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,66,15,17.213,81.523,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,66,15,17.213,81.523,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,66,16,18.187,81.647,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,66,17,18.843,81.644,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,max_verstappen,VER,#4781D7,67,1,0,79.611,SOFT,clean
@@ -99160,7 +99160,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,67,11,15.583,81.049,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,67,12,16.191,81.047,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,67,13,17.717,81.539,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,67,14,18.767,81.145,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,67,14,18.767,81.145,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,67,15,20.159,83.032,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,67,16,21.708,83.241,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,67,17,22.442,83.28,SOFT,traffic
@@ -99177,7 +99177,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,68,11,17.373,81.456,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,68,12,17.869,81.322,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,68,13,19.622,81.643,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,68,14,20.19,81.085,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,68,14,20.19,81.085,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,68,15,22.392,81.751,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,68,16,22.835,80.847,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,68,17,24.478,81.714,SOFT,traffic
@@ -99194,7 +99194,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,69,11,18.932,81.051,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,69,12,19.495,81.085,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,69,13,21.781,81.729,SOFT,clean
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,69,14,22.203,81.514,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,69,14,22.203,81.514,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,69,15,24.522,81.646,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,69,16,26.005,82.771,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,PER,#909090,69,17,26.96,82.079,SOFT,clean
@@ -99210,7 +99210,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,70,10,19.856,81.155,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,70,11,20.482,81.092,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,70,12,20.918,81.062,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,70,13,24.093,81.32,SOFT,traffic
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,70,13,24.093,81.32,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,70,14,25.42,83.064,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,70,15,26.607,81.66,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,70,16,27.337,80.732,SOFT,traffic
@@ -99227,7 +99227,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,GAS,#00A1E8,71,10,21.441,81.248,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,bortoleto,BOR,#F50537,71,11,22.073,81.254,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,HAD,#4781D7,71,12,22.453,81.198,SOFT,traffic
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,HIR,#888888,71,13,25.414,80.984,SOFT,clean
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,#888888,71,13,25.414,80.984,SOFT,clean
 2026,19,rodriguez,Mexico City Grand Prix,conventional,albon,ALB,#1868DB,71,14,27.554,81.797,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,#1868DB,71,15,28.605,81.661,SOFT,traffic
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,#F50537,71,16,29.972,82.298,SOFT,traffic

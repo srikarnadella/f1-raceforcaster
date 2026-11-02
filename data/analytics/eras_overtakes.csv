@@ -1,28 +1,28 @@
 circuit_id,estimate,current_era_mean,current_era_races,previous_era_mean,scaled_previous,profile_model,method
-albert_park,0.4915,0.5345,1,0.4151,0.4486,0.5321,"1 race(s) under these rules, shrunk toward the scaled prior"
-americas,0.7979,0.7321,1,0.7991,0.8636,0.7153,"1 race(s) under these rules, shrunk toward the scaled prior"
-bahrain,0.6399,,0,0.5921,0.6399,0.5323,previous era × era factor
-baku,0.6817,0.7647,1,0.5539,0.5986,0.6885,"1 race(s) under these rules, shrunk toward the scaled prior"
-catalunya,0.5505,0.4091,1,0.6402,0.6918,0.7279,"1 race(s) under these rules, shrunk toward the scaled prior"
-hungaroring,0.4602,0.4571,1,0.4286,0.4632,0.5568,"1 race(s) under these rules, shrunk toward the scaled prior"
-imola,0.4689,,0,0.4339,0.4689,0.6279,previous era × era factor
-interlagos,0.5822,,0,0.5387,0.5822,0.6778,previous era × era factor
-jeddah,0.6052,,0,0.56,0.6052,0.8355,previous era × era factor
-losail,0.4866,,0,0.4503,0.4866,0.6149,previous era × era factor
-madring,0.5174,0.4912,1,,,0.5436,"1 race(s) under these rules, shrunk toward the scaled prior"
-marina_bay,0.4372,0.4355,1,0.4061,0.4389,0.4431,"1 race(s) under these rules, shrunk toward the scaled prior"
-miami,0.7721,0.8947,1,0.6009,0.6494,0.7475,"1 race(s) under these rules, shrunk toward the scaled prior"
-monaco,0.07062,0.05128,1,0.08323,0.08995,0.2958,"1 race(s) under these rules, shrunk toward the scaled prior"
-monza,0.883,1.17,1,0.5516,0.5961,0.8301,"1 race(s) under these rules, shrunk toward the scaled prior"
-red_bull_ring,0.4988,0.4366,1,0.5191,0.561,0.6074,"1 race(s) under these rules, shrunk toward the scaled prior"
-ricard,0.469,,0,0.434,0.469,,previous era × era factor
-rodriguez,0.6393,,0,0.5915,0.6393,0.8577,previous era × era factor
-sepang,0.7029,0.8727,1,,,0.5331,"1 race(s) under these rules, shrunk toward the scaled prior"
-shanghai,0.8638,1.071,1,0.6071,0.6561,0.6719,"1 race(s) under these rules, shrunk toward the scaled prior"
-silverstone,0.556,0.5769,1,0.4952,0.5352,0.4952,"1 race(s) under these rules, shrunk toward the scaled prior"
-spa,0.7744,0.8182,1,0.6761,0.7307,0.8283,"1 race(s) under these rules, shrunk toward the scaled prior"
-suzuka,0.5947,0.6981,1,0.4547,0.4914,0.4398,"1 race(s) under these rules, shrunk toward the scaled prior"
-vegas,1.117,,0,1.033,1.117,0.6395,previous era × era factor
-villeneuve,0.4897,0.4853,1,0.4571,0.494,0.712,"1 race(s) under these rules, shrunk toward the scaled prior"
-yas_marina,0.899,,0,0.8319,0.899,0.7354,previous era × era factor
-zandvoort,0.4447,0.4167,1,0.4375,0.4728,0.4615,"1 race(s) under these rules, shrunk toward the scaled prior"
+albert_park,0.4866,0.5345,1,0.4151,0.4388,0.521,"1 race(s) under these rules, shrunk toward the scaled prior"
+americas,0.7884,0.7321,1,0.7991,0.8447,0.6743,"1 race(s) under these rules, shrunk toward the scaled prior"
+bahrain,0.6259,,0,0.5921,0.6259,0.5118,previous era × era factor
+baku,0.6751,0.7647,1,0.5539,0.5856,0.655,"1 race(s) under these rules, shrunk toward the scaled prior"
+catalunya,0.5429,0.4091,1,0.6402,0.6767,0.6883,"1 race(s) under these rules, shrunk toward the scaled prior"
+hungaroring,0.4551,0.4571,1,0.4286,0.453,0.5269,"1 race(s) under these rules, shrunk toward the scaled prior"
+imola,0.4586,,0,0.4339,0.4586,0.6075,previous era × era factor
+interlagos,0.5694,,0,0.5387,0.5694,0.6479,previous era × era factor
+jeddah,0.592,,0,0.56,0.592,0.8033,previous era × era factor
+losail,0.476,,0,0.4503,0.476,0.5987,previous era × era factor
+madring,0.5082,0.4912,1,,,0.5251,"1 race(s) under these rules, shrunk toward the scaled prior"
+marina_bay,0.4324,0.4355,1,0.4061,0.4293,0.4218,"1 race(s) under these rules, shrunk toward the scaled prior"
+miami,0.765,0.8947,1,0.6009,0.6352,0.6982,"1 race(s) under these rules, shrunk toward the scaled prior"
+monaco,0.06963,0.05128,1,0.08323,0.08799,0.287,"1 race(s) under these rules, shrunk toward the scaled prior"
+monza,0.8765,1.17,1,0.5516,0.5831,0.8033,"1 race(s) under these rules, shrunk toward the scaled prior"
+red_bull_ring,0.4927,0.4366,1,0.5191,0.5487,0.5828,"1 race(s) under these rules, shrunk toward the scaled prior"
+ricard,0.4587,,0,0.434,0.4587,,previous era × era factor
+rodriguez,0.4887,0.3521,1,0.5915,0.6253,0.7791,"1 race(s) under these rules, shrunk toward the scaled prior"
+sepang,0.6923,0.8727,1,,,0.5118,"1 race(s) under these rules, shrunk toward the scaled prior"
+shanghai,0.8566,1.071,1,0.6071,0.6418,0.6365,"1 race(s) under these rules, shrunk toward the scaled prior"
+silverstone,0.5502,0.5769,1,0.4952,0.5235,0.4876,"1 race(s) under these rules, shrunk toward the scaled prior"
+spa,0.7665,0.8182,1,0.6761,0.7147,0.7811,"1 race(s) under these rules, shrunk toward the scaled prior"
+suzuka,0.5894,0.6981,1,0.4547,0.4806,0.4204,"1 race(s) under these rules, shrunk toward the scaled prior"
+vegas,1.092,,0,1.033,1.092,0.5981,previous era × era factor
+villeneuve,0.4843,0.4853,1,0.4571,0.4832,0.6726,"1 race(s) under these rules, shrunk toward the scaled prior"
+yas_marina,0.8794,,0,0.8319,0.8794,0.6995,previous era × era factor
+zandvoort,0.4396,0.4167,1,0.4375,0.4625,0.4466,"1 race(s) under these rules, shrunk toward the scaled prior"

@@ -1171,7 +1171,6 @@ season,round,driver_id,code,constructor_id,quali_gap_pct,race_pace_gap_pct,pred
 2026,19,gasly,GAS,alpine,0.8351,1.568,1.228
 2026,19,hadjar,HAD,red_bull,0.5045,0.8988,0.4861
 2026,19,hamilton,HAM,ferrari,0,0.3452,0.0254
-2026,19,hir,HIR,,3.194,2.576,1.288
 2026,19,hulkenberg,HUL,audi,1.035,1.87,1.575
 2026,19,lawson,LAW,rb,0.6731,1.079,1.436
 2026,19,leclerc,LEC,ferrari,0.1555,0.3226,0
@@ -1180,4 +1179,5 @@ season,round,driver_id,code,constructor_id,quali_gap_pct,race_pace_gap_pct,pred
 2026,19,perez,PER,cadillac,3.386,3.014,3.097
 2026,19,piastri,PIA,mclaren,1.479,1.242,1.056
 2026,19,russell,RUS,mercedes,0.01176,0.5041,0.0275
+2026,19,ryo_hirakawa,HIR,haas,3.194,2.576,2.342
 2026,19,sainz,SAI,williams,2.856,2.364,2.656

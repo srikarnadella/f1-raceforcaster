@@ -8694,9 +8694,6 @@ rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,hamilton,HAM,4,4,1.034
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,her,HER,1,6,1.0273,0.022415,1,HARD,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,her,HER,2,2,1.0022,0.00076477,2,MEDIUM,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,her,HER,4,7,1.0426,0.0055841,10,MEDIUM,race sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,hir,HIR,1,5,1.027,0.020712,1,HARD,race sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,hir,HIR,2,2,1.0044,0.0062151,2,MEDIUM,quali sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,hir,HIR,3,8,1.0329,0.0051079,9,MEDIUM,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,hulkenberg,HUL,1,4,1.0161,0.016322,1,HARD,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,hulkenberg,HUL,2,2,1.0027,0.0038016,1,MEDIUM,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,hulkenberg,HUL,3,8,1.042,0.017068,6,MEDIUM,race sim
@@ -8714,6 +8711,9 @@ rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,perez,PER,5,6,1.0464,0
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,piastri,PIA,1,2,1.0391,0.014351,1,MEDIUM,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,piastri,PIA,2,2,1.016,0.0010334,8,MEDIUM,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,piastri,PIA,3,9,1.0229,0.011525,2,SOFT,race sim
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,ryo_hirakawa,HIR,1,5,1.027,0.020712,1,HARD,race sim
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,ryo_hirakawa,HIR,2,2,1.0044,0.0062151,2,MEDIUM,quali sim
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,ryo_hirakawa,HIR,3,8,1.0329,0.0051079,9,MEDIUM,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,sainz,SAI,1,3,1.0295,0.018068,2,HARD,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,sainz,SAI,2,5,1.0165,0.02437,8,HARD,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP1,sainz,SAI,3,3,1.0089,0.045337,6,MEDIUM,short / setup runs
@@ -8762,9 +8762,9 @@ rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,max_verstappen,VER,5,8
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,norris,NOR,1,2,1.0283,0.016042,1,MEDIUM,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,norris,NOR,2,3,1.003,0.049982,2,SOFT,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,norris,NOR,3,11,1.0437,0.0052799,12,SOFT,race sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,ocon,OCO,2,2,1.0245,0.0096137,2,MEDIUM,quali sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,ocon,OCO,3,2,1.0155,0.0001885,8,MEDIUM,quali sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,ocon,OCO,6,8,1.0506,0.014828,13,MEDIUM,race sim
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,oco,OCO,2,2,1.0245,0.0096137,2,MEDIUM,quali sim
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,oco,OCO,3,2,1.0155,0.0001885,8,MEDIUM,quali sim
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,oco,OCO,6,8,1.0506,0.014828,13,MEDIUM,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,perez,PER,1,3,1.0172,0.027099,1,MEDIUM,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,perez,PER,2,2,1.0006,0.00080145,1,SOFT,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP2,perez,PER,3,14,1.0478,0.0091099,9,SOFT,race sim
@@ -8795,8 +8795,6 @@ rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,bottas,BOT,3,8,1.0367,
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,colapinto,COL,2,4,1.0094,0.0020251,10,MEDIUM,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,gasly,GAS,2,6,1.0372,0.009283,12,MEDIUM,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,hamilton,HAM,1,2,1.0073,0.0066844,1,MEDIUM,quali sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,hir,HIR,5,2,1.0021,0.00048027,5,SOFT,quali sim
-rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,hir,HIR,6,2,1.001,0.0014497,1,SOFT,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,hulkenberg,HUL,2,10,1.0347,0.013432,11,SOFT,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,hulkenberg,HUL,3,3,1.002,0.032531,1,SOFT,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,lawson,LAW,3,7,1.0356,0.019859,12,MEDIUM,race sim
@@ -8806,5 +8804,7 @@ rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,norris,NOR,3,4,1.0028,
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,piastri,PIA,1,2,1.0132,0.0045174,2,MEDIUM,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,russell,RUS,2,6,1.0237,0.028157,5,MEDIUM,race sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,russell,RUS,4,2,1.0721,0.031351,5,SOFT,short / setup runs
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,ryo_hirakawa,HIR,5,2,1.0021,0.00048027,5,SOFT,quali sim
+rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,ryo_hirakawa,HIR,6,2,1.001,0.0014497,1,SOFT,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,sainz,SAI,1,3,1.0707,0.035257,2,MEDIUM,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,sainz,SAI,2,2,1.0438,0.047811,8,MEDIUM,short / setup runs

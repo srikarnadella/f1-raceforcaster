@@ -1714,7 +1714,6 @@ season,round,circuit_id,race_name,format,driver_id,deg_s_per_lap,consistency_s,s
 2026,19,rodriguez,Mexico City Grand Prix,conventional,gasly,0.034863,0.42926,54
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hadjar,0.027163,0.62435,52
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,0.040026,0.19991,57
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,-0.0046458,0.58719,55
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,0.00069638,0.4698,57
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,0.028405,0.51671,56
 2026,19,rodriguez,Mexico City Grand Prix,conventional,leclerc,0.049531,0.28296,57
@@ -1723,4 +1722,5 @@ season,round,circuit_id,race_name,format,driver_id,deg_s_per_lap,consistency_s,s
 2026,19,rodriguez,Mexico City Grand Prix,conventional,perez,0.032433,0.66401,57
 2026,19,rodriguez,Mexico City Grand Prix,conventional,piastri,0.028092,0.38631,56
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,0.042288,0.2845,57
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,-0.0046458,0.58719,55
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,0.022368,0.49481,52

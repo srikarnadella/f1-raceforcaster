@@ -5053,12 +5053,6 @@ season,round,circuit_id,race_name,format,driver_id,stint,code,team_colour,compou
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,2,HAM,#ED1131,MEDIUM,29,44,0,80.889
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,3,HAM,#ED1131,SOFT,45,45,3,140.92
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hamilton,4,HAM,#ED1131,SOFT,46,71,3,79.856
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,1,HIR,#888888,MEDIUM,1,1,1,95.192
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,2,HIR,#888888,SOFT,2,43,0,83.34
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,3,HIR,#888888,SOFT,44,44,3,141.2
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,4,HIR,#888888,SOFT,45,45,3,2283.1
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,5,HIR,#888888,SOFT,46,59,4,82.445
-2026,19,rodriguez,Mexico City Grand Prix,conventional,hir,6,HIR,#888888,SOFT,60,71,8,81.618
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,1,HUL,#F50537,MEDIUM,1,31,0,82.816
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,2,HUL,#F50537,SOFT,32,45,0,82.275
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,3,HUL,#F50537,SOFT,46,59,3,82.098
@@ -5091,6 +5085,12 @@ season,round,circuit_id,race_name,format,driver_id,stint,code,team_colour,compou
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,2,RUS,#00D7B6,MEDIUM,34,44,0,80.913
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,3,RUS,#00D7B6,SOFT,45,45,3,133.28
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,4,RUS,#00D7B6,SOFT,46,71,4,80.557
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,1,HIR,#888888,MEDIUM,1,1,1,95.192
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,2,HIR,#888888,SOFT,2,43,0,83.34
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,3,HIR,#888888,SOFT,44,44,3,141.2
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,4,HIR,#888888,SOFT,45,45,3,2283.1
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,5,HIR,#888888,SOFT,46,59,4,82.445
+2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,6,HIR,#888888,SOFT,60,71,8,81.618
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,1,SAI,#1868DB,SOFT,1,36,0,83.296
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,2,SAI,#1868DB,MEDIUM,37,44,0,82
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,3,SAI,#1868DB,SOFT,45,45,0,2295.2
