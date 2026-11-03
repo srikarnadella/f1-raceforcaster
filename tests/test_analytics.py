@@ -196,3 +196,13 @@ def test_practice_features_attach_to_model_rows(results):
     f = build_features(results[results.season >= 2023], openf1=True)
     assert set(OF1_FEATURES) <= set(f.columns)
     assert f.loc[f.season >= 2024, "has_of1"].mean() > 0.9
+
+
+def test_identities_survive_blank_team_in_one_session():
+    """OpenF1 left HIR's race-session team fields blank (2026 R19); that blanked Haas's name on the dashboard."""
+    from f1.analytics.weekend import identities
+    drv = pd.DataFrame({"session": ["Q", "R"], "driver_number": [50, 50], "name_acronym": ["HIR", "HIR"],
+                        "full_name": ["Ryo HIRAKAWA"] * 2, "team_name": ["Haas F1 Team", None],
+                        "team_colour": ["9C9FA2", None]})
+    row = identities(2026, 19, drv).iloc[0]
+    assert row["team_name"] == "Haas F1 Team" and row["team_colour"] == "#9C9FA2"

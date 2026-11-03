@@ -36,7 +36,8 @@ def identities(season: int, rnd: int, drivers: pd.DataFrame) -> pd.DataFrame:
     """driver_number -> code, driver_id, constructor_id, team_name, team_colour.
     Race entrants come from the result store; practice-only drivers (FP1 rookies)
     get their team's constructor_id via team_name."""
-    d = drivers.sort_values("session").drop_duplicates("driver_number", keep="last")
+    # last non-blank value per driver: OpenF1 sometimes leaves a session's team fields empty
+    d = drivers.sort_values("session").groupby("driver_number", as_index=False).last()
     d = d.rename(columns={"name_acronym": "code"})[["driver_number", "code", "full_name", "team_name", "team_colour"]]
     try:
         res = ingest.load_results([season])
@@ -55,6 +56,7 @@ def identities(season: int, rnd: int, drivers: pd.DataFrame) -> pd.DataFrame:
     d["constructor_id"] = d["constructor_id"].fillna(d["team_name"].map(team_map))
     d["constructor_id"] = d["constructor_id"].fillna(d["team_name"].str.lower().str.replace(" ", "_"))
     d["driver_id"] = d["driver_id"].fillna(d["code"].str.lower())
+    d["team_name"] = d["team_name"].fillna(d["constructor_id"])
     d["team_colour"] = "#" + d["team_colour"].fillna("888888").astype(str).str.lstrip("#")
     return d
 
