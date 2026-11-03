@@ -61,7 +61,7 @@ def build_weekend(season: int, rnd: int, cal: pd.DataFrame) -> dict[str, pd.Data
     ov = W.overtakes(out["race_story"], laps) if has_race and len(out["race_story"]) else {}
     drivers_seen = set(ov.get("by_driver", {})) | set(ov.get("conceded", {}))
     out["overtakes"] = pd.DataFrame([{"driver_id": d, "overtakes": ov["by_driver"].get(d, 0),
-                                      "conceded": ov["conceded"].get(d, 0)} for d in drivers_seen])
+                                      "conceded": ov["conceded"].get(d, 0)} for d in sorted(drivers_seen)])
     out["driver_traits"] = W.driver_race_traits(laps, fuel) if has_race else pd.DataFrame()
     from .ml import run_programs
     out["run_programmes"] = run_programs(laps)
