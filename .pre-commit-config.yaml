@@ -13,7 +13,7 @@ repos:
         args: ["--maxkb=15000"]
       - id: detect-private-key
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.8.4
+    rev: v0.17.3
     hooks:
       - id: ruff
   - repo: local

@@ -22,7 +22,7 @@ src = ["src", "app", "scripts", "eval", "tests"]
 # pyflakes, bugbear, syntax/runtime errors, pyupgrade, simplify
 select = ["F", "B", "E9", "PLE", "UP", "SIM"]
 # zip(strict=) everywhere is noise for this codebase's paired arrays; module-level ranges as defaults are fine
-ignore = ["B905", "B008", "B007", "B028", "UP038", "SIM108", "SIM117"]
+ignore = ["B905", "B008", "B007", "B028", "SIM108", "SIM117"]
 
 [tool.mypy]
 python_version = "3.12"
