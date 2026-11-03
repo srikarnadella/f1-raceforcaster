@@ -6,7 +6,7 @@ import sys
 
 import pandas as pd
 
-from f1 import ingest, state
+from f1 import championship, ingest, review, state
 
 
 def main():
@@ -15,6 +15,12 @@ def main():
         ingest.update(seasons=[year], current=year)  # refresh calendar and current season
     except Exception as ex:
         print(f"refresh failed ({ex}); using committed calendar", file=sys.stderr)
+    results = ingest.load_results()
+    redone = championship.refresh_stale(results, ingest.load_calendar(), year)
+    for rnd in redone:  # the weekend review's over/under and misses must use the corrected result too
+        review.pace_report(results, year, rnd)
+    if redone:
+        print(f"championship re-simulated after result corrections: rounds {redone}", file=sys.stderr)
     due = state.due_jobs(ingest.load_calendar())
     out = {"forecast": state.key(*due["forecast"]) if due["forecast"] else "",
            "review": state.key(*due["review"]) if due["review"] else "",

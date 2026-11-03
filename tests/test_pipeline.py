@@ -39,6 +39,19 @@ def test_championship_final_round_is_certain(results):
     assert sim["drivers"].iloc[0]["p_title"] == 1.0
 
 
+def test_championship_refresh_after_correction(results, tmp_path, monkeypatch):
+    import json
+    from f1 import config
+    monkeypatch.setattr(config, "CHAMP_DIR", tmp_path)
+    cal = ingest.load_calendar()
+    snap = championship.to_json(championship.simulate(results, cal, 2025, 24, {"strength": {"features": []},
+                                                                                 "dnf": {"features": []}}, n_sims=100))
+    snap["drivers"][0]["points"] += 6  # result changed after the snapshot was taken
+    (tmp_path / "2025.json").write_text(json.dumps({"24": {**snap, "model_version": "v1"}}, default=float))
+    assert championship.refresh_stale(results, cal, 2025) == [24]
+    assert championship.refresh_stale(results, cal, 2025) == []  # idempotent
+
+
 def test_lap_categories():
     rows = []
     for d, base in [("a", 90.0), ("b", 90.5)]:

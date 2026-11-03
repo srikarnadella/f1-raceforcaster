@@ -6,9 +6,13 @@ __pycache__/
 .pytest_cache/
 .DS_Store
 
-# Markdown stays local, except the README
+# Markdown stays local, except the README and what the automated runs must keep
+# (CLAUDE.md section 9: every promotion/rejection is logged; proposals reach a human)
 *.md
 !README.md
+!CHANGELOG_MODELS.md
+!proposals/*.md
+!reports/*.md
 
 coverage.xml
 .coverage

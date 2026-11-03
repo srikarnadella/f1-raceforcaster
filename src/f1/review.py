@@ -49,8 +49,8 @@ def _hypotheses(row, race_info) -> list[str]:
     if race_info.get("neutral_laps", 0) and abs(row["miss"]) >= 4:
         h.append(f"hypothesis: {race_info['neutral_laps']} neutralised lap(s) (SC/VSC) may have reshuffled strategy")
     if not np.isnan(row.get("stops", np.nan)) and race_info.get("median_stops") is not None \
-            and row["stops"] != race_info["median_stops"]:
-        h.append(f"hypothesis: different strategy ({int(row['stops'])} stops vs field median {race_info['median_stops']:.0f})")
+            and abs(row["stops"] - race_info["median_stops"]) >= 1:  # a .5 median would flag everyone
+        h.append(f"hypothesis: different strategy ({int(row['stops'])} stops vs field median {race_info['median_stops']:g})")
     if not np.isnan(row.get("race_pace_rank", np.nan)) and abs(row["race_pace_rank"] - row["start_pos"]) >= 5:
         h.append(f"race pace rank P{int(row['race_pace_rank'])} vs qualified P{int(row['start_pos'])}: one-lap and race pace disagreed")
     return h or ["no clear evidence in available data (hypothesis: race incident or strategy)"]

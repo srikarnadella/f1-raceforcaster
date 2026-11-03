@@ -107,3 +107,30 @@ def to_json(sim: dict) -> dict:
         d["rank_dist"] = d["rank_dist"].map(lambda a: [round(float(x), 4) for x in a])
         return d.round(4).to_dict("records")
     return {k: (rows(v) if isinstance(v, pd.DataFrame) else v) for k, v in sim.items()}
+
+
+def refresh_stale(results: pd.DataFrame, calendar: pd.DataFrame, season: int) -> list[int]:
+    """Re-simulate stored rounds whose points no longer match the results (a stewards'
+    correction landed after the review). Uses the model version the snapshot was made with."""
+    import json
+
+    from . import registry
+    from .config import CHAMP_DIR
+    path = CHAMP_DIR / f"{season}.json"
+    if not path.exists():
+        return []
+    hist = json.loads(path.read_text())
+    reg = registry.load()
+    redone = []
+    for rnd, snap in hist.items():
+        drv, _ = standings(results, season, int(rnd))
+        if all(abs(d["points"] - drv.get(d["driver_id"], 0.0)) < 1e-9 for d in snap["drivers"]):
+            continue
+        v = snap.get("model_version")
+        v = v if v in reg["versions"] else reg["champion"]
+        sim = simulate(results, calendar, season, int(rnd), reg["versions"][v]["spec"])
+        hist[rnd] = {**to_json(sim), "model_version": v}
+        redone.append(int(rnd))
+    if redone:
+        path.write_text(json.dumps(hist, indent=1, default=float))
+    return redone
