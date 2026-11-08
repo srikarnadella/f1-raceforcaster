@@ -84,6 +84,10 @@ def season_results(season: int, ttl_hours: float | None = None) -> pd.DataFrame:
     rows = []
     for race in races:
         rnd = int(race["round"])
+        # Jolpica can publish a provisional result with grid/position null; treat the race as not yet
+        # available so the next cron tick retries (CLAUDE.md §3) instead of storing/scoring partial data.
+        if any(res.get(k) is None for res in race["Results"] for k in ("grid", "position")):
+            continue
         for res in race["Results"]:
             did = res["Driver"]["driverId"]
             q = quali.get((rnd, did), {})

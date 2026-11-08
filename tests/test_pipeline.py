@@ -128,3 +128,22 @@ def test_calendar_keeps_jolpica_times_when_openf1_fails(monkeypatch):
     monkeypatch.setattr(openf1, "_get", boom)
     out = ingest.reconcile_times(cal)
     assert out["race_utc"].iat[0] == pd.Timestamp("2026-11-01 20:00", tz="UTC") and out["times_source"].iat[0] == "jolpica"
+
+
+def test_season_results_skips_provisional_race_with_null_grid(monkeypatch):
+    """Jolpica can publish a race with grid=None (2026 R20); it must be treated as not yet available."""
+
+    def res(did, grid):
+        return {"Driver": {"driverId": did, "code": did[:3].upper()}, "Constructor": {"constructorId": "x"},
+                "number": "1", "grid": grid, "position": "1", "positionText": "1", "status": "Finished",
+                "points": "25", "laps": "50"}
+
+    def race(rnd, grid):
+        return {"round": str(rnd), "raceName": "GP", "date": "2026-01-01", "Circuit": {"circuitId": "c"},
+                "Results": [res("a", grid)]}
+
+    monkeypatch.setattr(ingest.jolpica, "fetch_races",
+                        lambda path, key, ttl=None: [race(1, "2"), race(2, None)] if key == "Results" else [])
+    monkeypatch.setattr(ingest, "calendar_rows", lambda s, t=None: [])
+    df = ingest.season_results(2026)
+    assert df["round"].tolist() == [1]
