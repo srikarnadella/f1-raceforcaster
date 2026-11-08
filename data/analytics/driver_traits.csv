@@ -1724,3 +1724,24 @@ season,round,circuit_id,race_name,format,driver_id,deg_s_per_lap,consistency_s,s
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,0.042288,0.2845,57
 2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,-0.0046458,0.58719,55
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,0.022368,0.49481,52
+2026,20,interlagos,Brazilian Grand Prix,conventional,albon,0.15628,0.72792,56
+2026,20,interlagos,Brazilian Grand Prix,conventional,alonso,0.061101,0.88607,59
+2026,20,interlagos,Brazilian Grand Prix,conventional,antonelli,0.16752,0.59485,58
+2026,20,interlagos,Brazilian Grand Prix,conventional,arvid_lindblad,0.018463,0.75906,59
+2026,20,interlagos,Brazilian Grand Prix,conventional,bearman,0.14826,0.75169,57
+2026,20,interlagos,Brazilian Grand Prix,conventional,bortoleto,0.053127,0.87857,57
+2026,20,interlagos,Brazilian Grand Prix,conventional,cam,0.092377,1.0236,52
+2026,20,interlagos,Brazilian Grand Prix,conventional,colapinto,0.14239,0.7608,59
+2026,20,interlagos,Brazilian Grand Prix,conventional,gasly,0.14472,0.79469,58
+2026,20,interlagos,Brazilian Grand Prix,conventional,hadjar,0.13997,0.70473,62
+2026,20,interlagos,Brazilian Grand Prix,conventional,hamilton,0.1162,0.69557,57
+2026,20,interlagos,Brazilian Grand Prix,conventional,hulkenberg,0.071742,0.7853,60
+2026,20,interlagos,Brazilian Grand Prix,conventional,lawson,0.15184,0.76602,61
+2026,20,interlagos,Brazilian Grand Prix,conventional,leclerc,0.098727,1.2606,62
+2026,20,interlagos,Brazilian Grand Prix,conventional,max_verstappen,0.1083,0.59427,61
+2026,20,interlagos,Brazilian Grand Prix,conventional,norris,0.10678,0.67966,61
+2026,20,interlagos,Brazilian Grand Prix,conventional,perez,0.039107,1.2941,59
+2026,20,interlagos,Brazilian Grand Prix,conventional,piastri,0.11194,0.75781,59
+2026,20,interlagos,Brazilian Grand Prix,conventional,russell,0.09568,1.0977,61
+2026,20,interlagos,Brazilian Grand Prix,conventional,sainz,0.17107,0.78667,56
+2026,20,interlagos,Brazilian Grand Prix,conventional,stroll,-0.32095,0.90473,18

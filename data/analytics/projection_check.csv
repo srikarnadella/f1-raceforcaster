@@ -597,3 +597,14 @@ season,round,circuit_id,constructor_id,team_name,team_colour,actual,proj_gap,ble
 2026,19,rodriguez,rb,Racing Bulls,#6C98FF,0.6731,1.344,1.312,1.279,0.973
 2026,19,rodriguez,red_bull,Red Bull Racing,#4781D7,0.2326,0.3864,0.3498,0.3131,0.1904
 2026,19,rodriguez,williams,Williams,#1868DB,2.766,2.427,2.517,2.607,2.908
+2026,20,interlagos,alpine,Alpine,#00A1E8,7.588,1.04,1.148,1.257,0.8351
+2026,20,interlagos,aston_martin,Aston Martin,#229971,2.683,3.363,3.395,3.427,3.129
+2026,20,interlagos,audi,Audi,#F50537,1.863,1.569,1.533,1.498,1.035
+2026,20,interlagos,cadillac,Cadillac,#909090,8.103,3.467,3.637,3.807,3.386
+2026,20,interlagos,ferrari,Ferrari,#ED1131,1.541,0.3059,0.2644,0.2229,0
+2026,20,interlagos,haas,Haas F1 Team,#9C9FA2,2.749,1.894,1.957,2.02,1.742
+2026,20,interlagos,mclaren,McLaren,#F47600,0.8358,0.3016,0.3235,0.3455,0.2797
+2026,20,interlagos,mercedes,Mercedes,#00D7B6,0,0,0,0,0.01176
+2026,20,interlagos,rb,Racing Bulls,#6C98FF,0.3505,0.9033,1.051,1.198,0.6731
+2026,20,interlagos,red_bull,Red Bull Racing,#4781D7,0.5453,0.2931,0.297,0.301,0.2326
+2026,20,interlagos,williams,Williams,#1868DB,2.505,2.256,2.44,2.623,2.766

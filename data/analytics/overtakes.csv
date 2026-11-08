@@ -1452,3 +1452,24 @@ season,round,circuit_id,race_name,format,driver_id,overtakes,conceded
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,0,10
 2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,12,2
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,9,4
+2026,20,interlagos,Brazilian Grand Prix,conventional,albon,0,8
+2026,20,interlagos,Brazilian Grand Prix,conventional,alonso,2,2
+2026,20,interlagos,Brazilian Grand Prix,conventional,antonelli,1,0
+2026,20,interlagos,Brazilian Grand Prix,conventional,arvid_lindblad,3,2
+2026,20,interlagos,Brazilian Grand Prix,conventional,bearman,4,0
+2026,20,interlagos,Brazilian Grand Prix,conventional,bortoleto,5,0
+2026,20,interlagos,Brazilian Grand Prix,conventional,cam,0,4
+2026,20,interlagos,Brazilian Grand Prix,conventional,colapinto,3,1
+2026,20,interlagos,Brazilian Grand Prix,conventional,gasly,4,0
+2026,20,interlagos,Brazilian Grand Prix,conventional,hadjar,2,2
+2026,20,interlagos,Brazilian Grand Prix,conventional,hamilton,4,5
+2026,20,interlagos,Brazilian Grand Prix,conventional,hulkenberg,2,3
+2026,20,interlagos,Brazilian Grand Prix,conventional,lawson,1,7
+2026,20,interlagos,Brazilian Grand Prix,conventional,leclerc,6,3
+2026,20,interlagos,Brazilian Grand Prix,conventional,max_verstappen,6,0
+2026,20,interlagos,Brazilian Grand Prix,conventional,norris,1,0
+2026,20,interlagos,Brazilian Grand Prix,conventional,perez,2,4
+2026,20,interlagos,Brazilian Grand Prix,conventional,piastri,3,1
+2026,20,interlagos,Brazilian Grand Prix,conventional,russell,4,3
+2026,20,interlagos,Brazilian Grand Prix,conventional,sainz,2,7
+2026,20,interlagos,Brazilian Grand Prix,conventional,stroll,1,4

@@ -2228,3 +2228,24 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,19,rodriguez,Mexico City Grand Prix,conventional,ryo_hirakawa,HIR,haas,Haas F1 Team,#9C9FA2,55,14,83.282,82.47,2.576,R
 2026,19,rodriguez,Mexico City Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,58,22,83.108,82.3,2.364,R
 2026,19,rodriguez,Mexico City Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,1,,,,,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,59,51,77.392,76.836,2.1863,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,61,39,76.629,76.768,2.0955,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,61,54,76.322,75.431,0.31762,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,63,32,76.035,76.163,1.2915,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,61,36,77.189,77.022,2.4335,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,60,33,76.612,76.716,2.0266,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,cam,CAM,haas,Haas F1 Team,#9C9FA2,57,45,77.669,77.391,2.9237,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,61,37,76.901,76.765,2.0922,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,62,42,76.615,76.669,1.9641,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,64,48,76.674,75.925,0.97414,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,61,34,75.108,75.192,0,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,62,52,77.439,76.338,1.5235,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,64,56,76.782,76.092,1.1967,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,66,41,76.028,76.347,1.536,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,63,52,75.731,75.451,0.34432,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,64,56,75.534,75.314,0.16198,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,62,47,78.555,78.215,4.0206,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,64,50,75.448,75.729,0.7144,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,66,42,75.614,75.989,1.0602,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,60,43,78.15,77.147,2.6001,R
+2026,20,interlagos,Brazilian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,26,12,81.998,79.2,5.3301,R

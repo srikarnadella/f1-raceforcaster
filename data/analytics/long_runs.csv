@@ -1658,3 +1658,34 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,19,rodriguez,Mexico City Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,8,SOFT,81.222,80.639,3.4604,FP3
 2026,19,rodriguez,Mexico City Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,6,MEDIUM,80.881,78.44,0.63914,FP3
 2026,19,rodriguez,Mexico City Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,5,MEDIUM,79.907,77.942,0,FP3
+2026,20,interlagos,Brazilian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,6,MEDIUM,76.001,75.46,1.7704,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,7,SOFT,77.47,76.989,3.8331,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,8,SOFT,76.491,75.667,2.0499,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,cam,CAM,haas,Haas F1 Team,#9C9FA2,10,MEDIUM,77.917,77.167,4.0727,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,8,SOFT,77.45,76.081,2.6088,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,9,SOFT,76.081,75.517,1.8473,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,her,HER,cadillac,Cadillac,#909090,8,SOFT,78.414,77.361,4.3348,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,7,SOFT,76.611,75.798,2.2265,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,9,SOFT,75.999,75.257,1.4971,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,13,SOFT,74.908,74.147,0,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,9,SOFT,75.985,75.126,1.3204,FP1
+2026,20,interlagos,Brazilian Grand Prix,conventional,albon,ALB,williams,Williams,#1868DB,12,SOFT,76.833,76.339,2.5245,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,7,SOFT,77.132,76.467,2.697,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,13,SOFT,75.208,74.707,0.33325,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,14,SOFT,76.377,75.639,1.5848,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,9,SOFT,76.091,75.684,1.6459,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,12,SOFT,76.132,75.525,1.4324,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,12,MEDIUM,76.888,76.294,2.464,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,8,HARD,76.478,75.493,1.3884,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,10,SOFT,75.961,75.374,1.2292,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,9,SOFT,75.611,75.569,1.4908,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,5,MEDIUM,75.963,74.874,0.55796,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,13,SOFT,76.196,75.555,1.4718,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,7,SOFT,75.67,75.161,0.94247,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,9,MEDIUM,75.622,74.459,0,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,HARD,75.303,74.854,0.53037,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,14,SOFT,77.112,76.47,2.7003,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,10,SOFT,75.54,75.015,0.74675,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,12,SOFT,75.683,74.97,0.68591,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,9,SOFT,76.769,76.279,2.4441,FP2
+2026,20,interlagos,Brazilian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,HARD,77.07,76.374,2.5714,FP2

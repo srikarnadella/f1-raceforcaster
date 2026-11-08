@@ -2853,3 +2853,46 @@ season,round,circuit_id,race_name,format,session,constructor_id,team_name,team_c
 2026,19,rodriguez,Mexico City Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,MEDIUM,0.0356,54,True
 2026,19,rodriguez,Mexico City Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,SOFT,0.0174,60,True
 2026,19,rodriguez,Mexico City Grand Prix,conventional,R,williams,Williams,#1868DB,SOFT,0.0345,106,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,alpine,Alpine,#00A1E8,SOFT,0.1203,8,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,audi,Audi,#F50537,SOFT,0.2626,8,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,cadillac,Cadillac,#909090,SOFT,0.3089,8,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,ferrari,Ferrari,#ED1131,SOFT,0.1355,9,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,haas,Haas F1 Team,#9C9FA2,MEDIUM,-0.1755,10,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,mclaren,McLaren,#F47600,SOFT,0.1337,13,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,mercedes,Mercedes,#00D7B6,SOFT,0.1072,9,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,red_bull,Red Bull Racing,#4781D7,SOFT,0.119,9,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,alpine,Alpine,#00A1E8,HARD,0.0956,8,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,alpine,Alpine,#00A1E8,SOFT,0.044,10,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,audi,Audi,#F50537,SOFT,0.1029,12,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,cadillac,Cadillac,#909090,SOFT,0.1048,19,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,haas,Haas F1 Team,#9C9FA2,SOFT,0.0926,9,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,mclaren,McLaren,#F47600,SOFT,0.0375,10,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,mercedes,Mercedes,#00D7B6,SOFT,0.0624,25,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,rb,Racing Bulls,#6C98FF,SOFT,0.0874,27,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,red_bull,Red Bull Racing,#4781D7,MEDIUM,0.1262,9,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,red_bull,Red Bull Racing,#4781D7,SOFT,0.065,9,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,williams,Williams,#1868DB,SOFT,0.0656,21,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,Q,alpine,Alpine,#00A1E8,WET,-0.7713,12,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,Q,cadillac,Cadillac,#909090,WET,-0.7714,13,False
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,alpine,Alpine,#00A1E8,INTERMEDIATE,0.1214,43,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,alpine,Alpine,#00A1E8,SOFT,0.0188,75,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,aston_martin,Aston Martin,#229971,INTERMEDIATE,0.0001,29,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,aston_martin,Aston Martin,#229971,SOFT,-0.0315,47,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,audi,Audi,#F50537,INTERMEDIATE,0.152,43,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,audi,Audi,#F50537,SOFT,0.0273,71,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,cadillac,Cadillac,#909090,INTERMEDIATE,0.0996,21,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,cadillac,Cadillac,#909090,SOFT,0.0055,39,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,ferrari,Ferrari,#ED1131,INTERMEDIATE,0.2218,42,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,ferrari,Ferrari,#ED1131,SOFT,0.0111,74,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,haas,Haas F1 Team,#9C9FA2,INTERMEDIATE,0.1396,41,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,haas,Haas F1 Team,#9C9FA2,SOFT,-0.0434,69,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,mclaren,McLaren,#F47600,INTERMEDIATE,0.0861,44,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,mclaren,McLaren,#F47600,SOFT,-0.0196,78,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,mercedes,Mercedes,#00D7B6,INTERMEDIATE,0.141,45,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,mercedes,Mercedes,#00D7B6,SOFT,0.0115,75,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,rb,Racing Bulls,#6C98FF,INTERMEDIATE,0.1549,45,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,rb,Racing Bulls,#6C98FF,SOFT,-0.0479,77,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,INTERMEDIATE,0.0886,44,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,SOFT,0.0026,81,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,williams,Williams,#1868DB,INTERMEDIATE,0.2424,40,True
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,williams,Williams,#1868DB,SOFT,-0.0093,73,True

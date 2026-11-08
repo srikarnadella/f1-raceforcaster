@@ -2,26 +2,26 @@ circuit_id,f1,f2,cocluster,circuit_type
 albert_park,0.07188,0.08667,1,safety-car prone
 americas,0.3836,0.09906,1,hot track
 bahrain,0.1161,-0.4079,2,overtaking-friendly
-baku,-0.8066,-0.6371,3,safety-car prone
+baku,-0.8066,-0.6371,3,hot track
 catalunya,0.06355,0.158,1,hot track
 hockenheimring,-0.4592,-0.6679,3,
 hungaroring,0.1522,0.2357,1,hot track
 imola,-0.3017,0.7534,0,power / long straights
-interlagos,0.1872,0.2893,1,safety-car prone
+interlagos,0.1872,0.2893,1,"stop-go, slow corners"
 istanbul,2.04,-0.01088,2,
 jeddah,-0.6014,-0.2029,3,power / long straights
-losail,0.2737,0.7103,0,power / long straights
+losail,0.2737,0.7103,0,safety-car prone
 madring,0.2823,-0.9505,2,hot track
-marina_bay,-0.006419,-0.8351,2,twisty / technical
-miami,-0.02861,-0.1061,1,safety-car prone
-monaco,-0.3571,-0.3428,3,twisty / technical
+marina_bay,-0.006419,-0.8351,2,"stop-go, slow corners"
+miami,-0.02861,-0.1061,1,hot track
+monaco,-0.3571,-0.3428,3,"stop-go, slow corners"
 monza,0.09569,0.4013,1,power / long straights
 mugello,-0.5843,0.4814,0,
 nurburgring,-1.758,-0.1128,3,
 portimao,-0.7372,0.3061,3,
 red_bull_ring,0.03687,0.7515,0,hot track
 ricard,-0.4339,-0.5058,3,
-rodriguez,0.6611,-0.3674,2,overtaking-friendly
+rodriguez,0.6611,-0.3674,2,hot track
 sepang,-0.03912,-0.2131,1,overtaking-friendly
 shanghai,0.0703,-0.5708,2,overtaking-friendly
 silverstone,0.1316,0.3528,1,safety-car prone
@@ -29,6 +29,6 @@ sochi,-0.6139,-0.307,3,
 spa,-0.15,0.2701,1,power / long straights
 suzuka,-0.1175,0.004543,1,medium-speed technical
 vegas,0.09962,1.133,0,overtaking-friendly
-villeneuve,0.6518,-1.005,2,safety-car prone
+villeneuve,0.6518,-1.005,2,hot track
 yas_marina,-0.4215,0.526,0,power / long straights
-zandvoort,0.01195,1.708,0,safety-car prone
+zandvoort,0.01195,1.708,0,hot track

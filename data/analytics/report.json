@@ -1,44 +1,44 @@
 {
- "weekends": 89,
+ "weekends": 90,
  "circuits": {
   "k": 6,
-  "silhouette": 0.176,
+  "silhouette": 0.191,
   "explained": [
-   0.34,
-   0.147
+   0.348,
+   0.153
   ],
   "loadings": {
    "pc1": {
     "share_straight": 0.414,
-    "share_fast": 0.079,
-    "share_medium": -0.059,
-    "share_slow": -0.329,
+    "share_fast": 0.123,
+    "share_medium": 0.012,
+    "share_slow": -0.366,
     "avg_speed_kmh": 0.445,
-    "top_speed_kmh": 0.217,
+    "top_speed_kmh": 0.273,
     "full_throttle_pct": 0.421,
-    "braking_pct": -0.314,
-    "gear_changes_per_km": -0.384,
-    "race_deg": -0.068,
-    "race_track_temp": -0.097,
-    "sc_rate": 0.092,
-    "overtakes_per_lap": 0.1,
-    "pit_loss_s": 0.096
+    "braking_pct": -0.296,
+    "gear_changes_per_km": -0.348,
+    "race_deg": -0.059,
+    "race_track_temp": -0.044,
+    "sc_rate": 0.032,
+    "overtakes_per_lap": 0.089,
+    "pit_loss_s": 0.079
    },
    "pc2": {
-    "share_straight": -0.131,
-    "share_fast": 0.113,
-    "share_medium": 0.619,
-    "share_slow": -0.413,
-    "avg_speed_kmh": 0.108,
-    "top_speed_kmh": 0.007,
-    "full_throttle_pct": 0.044,
-    "braking_pct": 0.372,
-    "gear_changes_per_km": -0.134,
-    "race_deg": 0.247,
-    "race_track_temp": 0.184,
-    "sc_rate": -0.379,
-    "overtakes_per_lap": 0.057,
-    "pit_loss_s": 0.071
+    "share_straight": -0.024,
+    "share_fast": 0.29,
+    "share_medium": 0.367,
+    "share_slow": -0.29,
+    "avg_speed_kmh": 0.05,
+    "top_speed_kmh": 0.111,
+    "full_throttle_pct": -0.021,
+    "braking_pct": 0.194,
+    "gear_changes_per_km": 0.136,
+    "race_deg": -0.005,
+    "race_track_temp": 0.528,
+    "sc_rate": -0.469,
+    "overtakes_per_lap": -0.345,
+    "pit_loss_s": -0.082
    }
   }
  },
@@ -60,11 +60,11 @@
     "metric": "pit_loss_s",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 1.0412358292439714,
-    "raw_factor": 1.0662820694556225,
-    "lo": 1.0190565089795567,
-    "hi": 1.1191216614499186,
-    "circuits": 17
+    "factor": 1.0384165811118553,
+    "raw_factor": 1.0603932521151864,
+    "lo": 1.0149685632222754,
+    "hi": 1.1123218489887179,
+    "circuits": 18
    },
    "sc_rate": {
     "metric": "sc_rate",
@@ -80,11 +80,11 @@
     "metric": "avg_speed_kmh",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 0.988587444182865,
-    "raw_factor": 0.9819351135035448,
-    "lo": 0.9727739997193255,
-    "hi": 0.9901524711701554,
-    "circuits": 17
+    "factor": 0.9833364497338644,
+    "raw_factor": 0.9741992023556656,
+    "lo": 0.958236332200046,
+    "hi": 0.9869743019009607,
+    "circuits": 18
    },
    "race_deg": {
     "metric": "race_deg",
@@ -129,16 +129,16 @@
   },
   "profile_model": {
    "coef_per_sd": {
-    "share_straight": 0.051,
-    "share_slow": -0.022,
-    "share_medium": -0.011,
-    "share_fast": -0.066,
-    "top_speed_kmh": 0.198,
-    "braking_pct": -0.018
+    "share_straight": -0.003,
+    "share_slow": 0.022,
+    "share_medium": -0.004,
+    "share_fast": -0.079,
+    "top_speed_kmh": 0.17,
+    "braking_pct": -0.087
    },
    "era_terms": {
-    "2022": 1.12,
-    "2026": 1.264
+    "2022": 1.115,
+    "2026": 1.229
    }
   },
   "validation": {
@@ -155,7 +155,7 @@
     "n": 17
    },
    "model_all_races": {
-    "mae_per_lap": 0.175,
+    "mae_per_lap": 0.174,
     "n": 19
    }
   }
@@ -169,24 +169,24 @@
  },
  "dna_projection": {
   "proj_gap": {
-   "mae_pct": 0.471,
-   "rank_spearman": 0.783,
-   "n": 598
+   "mae_pct": 0.489,
+   "rank_spearman": 0.784,
+   "n": 609
   },
   "blend_gap": {
-   "mae_pct": 0.441,
+   "mae_pct": 0.459,
    "rank_spearman": 0.79,
-   "n": 598
+   "n": 609
   },
   "season_avg_gap": {
-   "mae_pct": 0.43,
+   "mae_pct": 0.447,
    "rank_spearman": 0.791,
-   "n": 598
+   "n": 609
   },
   "last_gap": {
-   "mae_pct": 0.557,
-   "rank_spearman": 0.737,
-   "n": 598
+   "mae_pct": 0.575,
+   "rank_spearman": 0.738,
+   "n": 609
   }
  },
  "affinity": {
@@ -204,10 +204,10 @@
     "visits": 3630
    },
    "same circuit type": {
-    "mae_model": 0.4649,
-    "mae_usual_level": 0.4678,
-    "correlation": 0.107,
-    "visits": 4256
+    "mae_model": 0.4628,
+    "mae_usual_level": 0.4666,
+    "correlation": 0.112,
+    "visits": 4260
    }
   },
   "drivers": 43,
@@ -216,24 +216,24 @@
  "race_pace_model": {
   "gbm": {
    "mae_pct": 0.454,
-   "spearman": 0.811
+   "spearman": 0.809
   },
   "quali_gap_baseline": {
-   "mae_pct": 0.489,
-   "spearman": 0.803
+   "mae_pct": 0.495,
+   "spearman": 0.793
   },
-  "races": 66,
+  "races": 67,
   "shap_mean_abs": {
-   "fp_longrun_gap": 0.05806718425952094,
-   "is_sprint": 0.016309246758993385,
-   "quali_gap_pct": 0.31739397814433723,
-   "race_track_temp": 0.04407401219796411,
-   "share_fast": 0.04144845635132814,
-   "share_slow": 0.05124701473407978,
-   "share_straight": 0.045230166475965235,
-   "team_deg_prior": 0.03481094715627988,
-   "team_racepace_prior": 0.39541052460209747,
-   "team_rmq_prior": 0.019000029572822347
+   "fp_longrun_gap": 0.057255411019369616,
+   "is_sprint": 0.012138439731374105,
+   "quali_gap_pct": 0.3016696519907479,
+   "race_track_temp": 0.04263750056944037,
+   "share_fast": 0.04236561009369116,
+   "share_slow": 0.0512142369793053,
+   "share_straight": 0.04780826851470967,
+   "team_deg_prior": 0.03175801168957546,
+   "team_racepace_prior": 0.4168062289767564,
+   "team_rmq_prior": 0.016241152940557217
   }
  }
 }

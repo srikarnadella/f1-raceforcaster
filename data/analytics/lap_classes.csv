@@ -1684,3 +1684,23 @@ season,round,circuit_id,race_name,format,session,category,laps
 2026,19,rodriguez,Mexico City Grand Prix,conventional,R,invalid,146
 2026,19,rodriguez,Mexico City Grand Prix,conventional,R,neutral,128
 2026,19,rodriguez,Mexico City Grand Prix,conventional,R,traffic,495
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,cool,234
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,invalid,180
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,long,94
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP1,push,62
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,cool,254
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,invalid,170
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,long,197
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP2,push,81
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP3,cool,174
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP3,invalid,202
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP3,long,6
+2026,20,interlagos,Brazilian Grand Prix,conventional,FP3,push,96
+2026,20,interlagos,Brazilian Grand Prix,conventional,Q,cool,170
+2026,20,interlagos,Brazilian Grand Prix,conventional,Q,invalid,129
+2026,20,interlagos,Brazilian Grand Prix,conventional,Q,long,40
+2026,20,interlagos,Brazilian Grand Prix,conventional,Q,push,52
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,clean,902
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,invalid,133
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,neutral,38
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,traffic,365

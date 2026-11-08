@@ -2,25 +2,25 @@ driver_id,circuit_id,mean,count,raw,affinity,t,code,circuit_type
 albon,albert_park,-0.7077,4,-0.6702,-0.4468,-1.706,ALB,safety-car prone
 albon,americas,0.1558,6,0.1933,0.145,0.5256,ALB,hot track
 albon,bahrain,0.1515,7,0.189,0.147,0.5267,ALB,overtaking-friendly
-albon,baku,0.04193,5,0.07941,0.05672,0.3451,ALB,safety-car prone
+albon,baku,0.04193,5,0.07941,0.05672,0.3451,ALB,hot track
 albon,catalunya,-0.07132,7,-0.03383,-0.02631,-0.1241,ALB,hot track
 albon,hockenheimring,0.4458,1,0.4832,0.1611,,ALB,
 albon,hungaroring,0.1414,7,0.1789,0.1391,0.7958,ALB,hot track
 albon,imola,0.4498,2,0.4873,0.2436,5.795,ALB,power / long straights
-albon,interlagos,-0.04316,3,-0.005677,-0.003406,-0.01576,ALB,safety-car prone
+albon,interlagos,-0.04316,3,-0.005677,-0.003406,-0.01576,ALB,"stop-go, slow corners"
 albon,jeddah,-0.6521,3,-0.6146,-0.3688,-1.381,ALB,power / long straights
-albon,losail,-0.1198,3,-0.08232,-0.04939,-0.2647,ALB,power / long straights
+albon,losail,-0.1198,3,-0.08232,-0.04939,-0.2647,ALB,safety-car prone
 albon,madring,-0.005246,1,0.03224,0.01075,,ALB,hot track
-albon,marina_bay,0.06682,5,0.1043,0.07451,0.365,ALB,twisty / technical
-albon,miami,-0.2273,4,-0.1898,-0.1265,-0.8194,ALB,safety-car prone
-albon,monaco,-0.6756,6,-0.6381,-0.4786,-2.422,ALB,twisty / technical
+albon,marina_bay,0.06682,5,0.1043,0.07451,0.365,ALB,"stop-go, slow corners"
+albon,miami,-0.2273,4,-0.1898,-0.1265,-0.8194,ALB,hot track
+albon,monaco,-0.6756,6,-0.6381,-0.4786,-2.422,ALB,"stop-go, slow corners"
 albon,monza,-0.1722,5,-0.1347,-0.09621,-0.2983,ALB,power / long straights
 albon,mugello,0.587,1,0.6245,0.2082,,ALB,
 albon,nurburgring,0.6786,1,0.7161,0.2387,,ALB,
 albon,portimao,0.692,1,0.7295,0.2432,,ALB,
 albon,red_bull_ring,-0.2105,8,-0.173,-0.1384,-0.5557,ALB,hot track
 albon,ricard,-0.8619,2,-0.8244,-0.4122,-2.406,ALB,
-albon,rodriguez,0.3056,5,0.3431,0.245,0.7841,ALB,overtaking-friendly
+albon,rodriguez,0.3056,5,0.3431,0.245,0.7841,ALB,hot track
 albon,sepang,1.1,1,1.138,0.3792,,ALB,overtaking-friendly
 albon,shanghai,-0.2711,3,-0.2336,-0.1402,-0.488,ALB,overtaking-friendly
 albon,silverstone,-0.05419,8,-0.0167,-0.01336,-0.05207,ALB,safety-car prone
@@ -28,29 +28,29 @@ albon,sochi,1.242,1,1.28,0.4265,,ALB,
 albon,spa,0.05499,6,0.09248,0.06936,0.2242,ALB,power / long straights
 albon,suzuka,-0.1529,5,-0.1154,-0.08245,-1.037,ALB,medium-speed technical
 albon,vegas,0.2606,2,0.298,0.149,0.6427,ALB,overtaking-friendly
-albon,villeneuve,-0.03203,4,0.005453,0.003635,0.01705,ALB,safety-car prone
+albon,villeneuve,-0.03203,4,0.005453,0.003635,0.01705,ALB,hot track
 albon,yas_marina,0.2447,5,0.2822,0.2016,2.109,ALB,power / long straights
-albon,zandvoort,-0.1368,2,-0.09936,-0.04968,-0.2509,ALB,safety-car prone
+albon,zandvoort,-0.1368,2,-0.09936,-0.04968,-0.2509,ALB,hot track
 alonso,albert_park,-0.5033,8,-0.1104,-0.08829,-0.546,ALO,safety-car prone
 alonso,americas,-0.6092,11,-0.2163,-0.183,-1.405,ALO,hot track
 alonso,bahrain,-0.4634,8,-0.07042,-0.05633,-0.3533,ALO,overtaking-friendly
-alonso,baku,-0.4798,9,-0.08687,-0.07107,-0.9742,ALO,safety-car prone
+alonso,baku,-0.4798,9,-0.08687,-0.07107,-0.9742,ALO,hot track
 alonso,catalunya,-0.2143,10,0.1786,0.1488,0.827,ALO,hot track
 alonso,hockenheimring,-0.5604,3,-0.1674,-0.1005,-0.4468,ALO,
 alonso,hungaroring,-0.4458,10,-0.0529,-0.04409,-0.3369,ALO,hot track
 alonso,imola,0.5878,3,0.9808,0.5885,2.599,ALO,power / long straights
-alonso,interlagos,-0.4018,8,-0.008858,-0.007087,-0.05598,ALO,safety-car prone
+alonso,interlagos,-0.4018,8,-0.008858,-0.007087,-0.05598,ALO,"stop-go, slow corners"
 alonso,istanbul,-1.609,1,-1.216,-0.4053,,ALO,
 alonso,jeddah,-0.1212,5,0.2717,0.1941,1.712,ALO,power / long straights
-alonso,losail,-0.7701,3,-0.3772,-0.2263,-2.052,ALO,power / long straights
-alonso,marina_bay,-0.7108,9,-0.3179,-0.2601,-1.375,ALO,twisty / technical
-alonso,miami,-0.4492,3,-0.05622,-0.03373,-0.09965,ALO,safety-car prone
-alonso,monaco,-0.2331,9,0.1599,0.1308,0.5322,ALO,twisty / technical
+alonso,losail,-0.7701,3,-0.3772,-0.2263,-2.052,ALO,safety-car prone
+alonso,marina_bay,-0.7108,9,-0.3179,-0.2601,-1.375,ALO,"stop-go, slow corners"
+alonso,miami,-0.4492,3,-0.05622,-0.03373,-0.09965,ALO,hot track
+alonso,monaco,-0.2331,9,0.1599,0.1308,0.5322,ALO,"stop-go, slow corners"
 alonso,monza,-0.3659,11,0.02706,0.0229,0.141,ALO,power / long straights
 alonso,portimao,1.107,1,1.5,0.5,,ALO,
 alonso,red_bull_ring,-0.3322,11,0.06073,0.05139,0.469,ALO,hot track
 alonso,ricard,-0.3881,3,0.004815,0.002889,0.0488,ALO,
-alonso,rodriguez,-0.3377,9,0.05524,0.0452,0.3825,ALO,overtaking-friendly
+alonso,rodriguez,-0.3377,9,0.05524,0.0452,0.3825,ALO,hot track
 alonso,sepang,-0.1054,4,0.2875,0.1917,2.194,ALO,overtaking-friendly
 alonso,shanghai,-0.3482,8,0.04474,0.03579,0.2048,ALO,overtaking-friendly
 alonso,silverstone,-0.3844,11,0.008511,0.007202,0.03538,ALO,safety-car prone
@@ -58,104 +58,104 @@ alonso,sochi,-0.3913,6,0.001604,0.001203,0.005543,ALO,
 alonso,spa,-0.2519,10,0.141,0.1175,0.7428,ALO,power / long straights
 alonso,suzuka,-0.6494,10,-0.2565,-0.2137,-1.385,ALO,medium-speed technical
 alonso,vegas,-0.4614,2,-0.06848,-0.03424,-0.3082,ALO,overtaking-friendly
-alonso,villeneuve,-0.819,8,-0.4261,-0.3409,-1.918,ALO,safety-car prone
+alonso,villeneuve,-0.819,8,-0.4261,-0.3409,-1.918,ALO,hot track
 alonso,yas_marina,-0.1625,10,0.2304,0.192,1.711,ALO,power / long straights
-alonso,zandvoort,-0.05078,4,0.3422,0.2281,5.528,ALO,safety-car prone
+alonso,zandvoort,-0.05078,4,0.3422,0.2281,5.528,ALO,hot track
 antonelli,albert_park,0.8345,2,0.6539,0.327,1.417,ANT,safety-car prone
 antonelli,americas,-0.02573,2,-0.2063,-0.1032,-0.7918,ANT,hot track
 antonelli,bahrain,0.2266,1,0.04605,0.01535,,ANT,overtaking-friendly
-antonelli,baku,0.008871,1,-0.1717,-0.05724,,ANT,safety-car prone
+antonelli,baku,0.008871,1,-0.1717,-0.05724,,ANT,hot track
 antonelli,catalunya,0.3966,2,0.216,0.108,7.07,ANT,hot track
 antonelli,hungaroring,0.2056,2,0.02502,0.01251,0.04413,ANT,hot track
 antonelli,imola,1.29,1,1.109,0.3698,,ANT,power / long straights
-antonelli,interlagos,-0.279,1,-0.4596,-0.1532,,ANT,safety-car prone
+antonelli,interlagos,-0.279,1,-0.4596,-0.1532,,ANT,"stop-go, slow corners"
 antonelli,jeddah,0.4473,1,0.2667,0.08891,,ANT,power / long straights
-antonelli,losail,0.231,1,0.05038,0.01679,,ANT,power / long straights
+antonelli,losail,0.231,1,0.05038,0.01679,,ANT,safety-car prone
 antonelli,madring,-0.3408,1,-0.5213,-0.1738,,ANT,hot track
-antonelli,marina_bay,0.1117,2,-0.06887,-0.03444,-0.2198,ANT,twisty / technical
-antonelli,miami,-0.4524,1,-0.633,-0.211,,ANT,safety-car prone
-antonelli,monaco,-0.01112,2,-0.1917,-0.09586,-0.3599,ANT,twisty / technical
+antonelli,marina_bay,0.1117,2,-0.06887,-0.03444,-0.2198,ANT,"stop-go, slow corners"
+antonelli,miami,-0.4524,1,-0.633,-0.211,,ANT,hot track
+antonelli,monaco,-0.01112,2,-0.1917,-0.09586,-0.3599,ANT,"stop-go, slow corners"
 antonelli,monza,0.04915,2,-0.1314,-0.06572,-25.43,ANT,power / long straights
 antonelli,red_bull_ring,0.4508,2,0.2702,0.1351,59.78,ANT,hot track
-antonelli,rodriguez,0.1755,2,-0.00513,-0.002565,-0.07894,ANT,overtaking-friendly
+antonelli,rodriguez,0.1755,2,-0.00513,-0.002565,-0.07894,ANT,hot track
 antonelli,sepang,-0.2503,1,-0.4309,-0.1436,,ANT,overtaking-friendly
 antonelli,shanghai,0.08915,2,-0.09144,-0.04572,-0.2773,ANT,overtaking-friendly
 antonelli,silverstone,-0.006212,2,-0.1868,-0.0934,-0.4535,ANT,safety-car prone
 antonelli,spa,0.1948,2,0.01422,0.00711,0.02093,ANT,power / long straights
 antonelli,suzuka,-0.03156,2,-0.2122,-0.1061,-0.7002,ANT,medium-speed technical
-antonelli,villeneuve,0.3938,2,0.2132,0.1066,0.7105,ANT,safety-car prone
+antonelli,villeneuve,0.3938,2,0.2132,0.1066,0.7105,ANT,hot track
 antonelli,yas_marina,0.3013,1,0.1207,0.04023,,ANT,power / long straights
-antonelli,zandvoort,0.1936,2,0.01298,0.006492,0.08652,ANT,safety-car prone
+antonelli,zandvoort,0.1936,2,0.01298,0.006492,0.08652,ANT,hot track
 bearman,albert_park,-0.2236,1,-0.01429,-0.004763,,BEA,safety-car prone
 bearman,americas,-0.7885,2,-0.5792,-0.2896,-2.141,BEA,hot track
 bearman,bahrain,0.8505,1,1.06,0.3533,,BEA,overtaking-friendly
-bearman,baku,-0.1792,2,0.0301,0.01505,0.599,BEA,safety-car prone
+bearman,baku,-0.1792,2,0.0301,0.01505,0.599,BEA,hot track
 bearman,catalunya,-0.5305,2,-0.3211,-0.1606,-0.8996,BEA,hot track
 bearman,hungaroring,0.09653,2,0.3059,0.1529,0.5779,BEA,hot track
 bearman,imola,0.3981,1,0.6074,0.2025,,BEA,power / long straights
-bearman,interlagos,-0.6998,2,-0.4905,-0.2452,-1.818,BEA,safety-car prone
+bearman,interlagos,-0.6998,2,-0.4905,-0.2452,-1.818,BEA,"stop-go, slow corners"
 bearman,jeddah,0.1726,2,0.382,0.191,0.4794,BEA,power / long straights
-bearman,losail,-0.5268,1,-0.3175,-0.1058,,BEA,power / long straights
-bearman,marina_bay,-0.8384,2,-0.629,-0.3145,-1.598,BEA,twisty / technical
-bearman,miami,-0.4812,1,-0.2719,-0.09063,,BEA,safety-car prone
-bearman,monaco,0.7924,2,1.002,0.5009,1.497,BEA,twisty / technical
+bearman,losail,-0.5268,1,-0.3175,-0.1058,,BEA,safety-car prone
+bearman,marina_bay,-0.8384,2,-0.629,-0.3145,-1.598,BEA,"stop-go, slow corners"
+bearman,miami,-0.4812,1,-0.2719,-0.09063,,BEA,hot track
+bearman,monaco,0.7924,2,1.002,0.5009,1.497,BEA,"stop-go, slow corners"
 bearman,monza,-0.5819,2,-0.3726,-0.1863,-1.464,BEA,power / long straights
 bearman,red_bull_ring,-0.3284,2,-0.1191,-0.05955,-1.133,BEA,hot track
-bearman,rodriguez,-0.7994,2,-0.5901,-0.295,-1.911,BEA,overtaking-friendly
+bearman,rodriguez,-0.7994,2,-0.5901,-0.295,-1.911,BEA,hot track
 bearman,sepang,-0.2576,1,-0.04821,-0.01607,,BEA,overtaking-friendly
 bearman,shanghai,0.03218,2,0.2415,0.1208,0.6088,BEA,overtaking-friendly
 bearman,silverstone,-0.3773,2,-0.168,-0.084,-0.9336,BEA,safety-car prone
 bearman,spa,-0.4287,2,-0.2194,-0.1097,-0.4224,BEA,power / long straights
 bearman,suzuka,-0.1229,2,0.08648,0.04324,0.08756,BEA,medium-speed technical
 bearman,vegas,0.0947,1,0.304,0.1013,,BEA,overtaking-friendly
-bearman,villeneuve,-0.3363,2,-0.127,-0.0635,-0.5362,BEA,safety-car prone
+bearman,villeneuve,-0.3363,2,-0.127,-0.0635,-0.5362,BEA,hot track
 bearman,yas_marina,0.1544,1,0.3637,0.1212,,BEA,power / long straights
-bearman,zandvoort,0.5173,2,0.7267,0.3633,1.711,BEA,safety-car prone
+bearman,zandvoort,0.5173,2,0.7267,0.3633,1.711,BEA,hot track
 bortoleto,albert_park,-0.09219,2,-0.05898,-0.02949,-5.944,BOR,safety-car prone
 bortoleto,americas,0.6728,2,0.706,0.353,4.042,BOR,hot track
 bortoleto,bahrain,0.1293,1,0.1625,0.05415,,BOR,overtaking-friendly
-bortoleto,baku,-0.3676,2,-0.3344,-0.1672,-1.32,BOR,safety-car prone
+bortoleto,baku,-0.3676,2,-0.3344,-0.1672,-1.32,BOR,hot track
 bortoleto,catalunya,-0.1427,2,-0.1095,-0.05476,-0.2432,BOR,hot track
 bortoleto,hungaroring,-0.05191,2,-0.0187,-0.00935,-0.03123,BOR,hot track
 bortoleto,imola,-0.3372,1,-0.304,-0.1013,,BOR,power / long straights
 bortoleto,jeddah,0.7659,1,0.7991,0.2664,,BOR,power / long straights
-bortoleto,losail,0.2253,1,0.2585,0.08616,,BOR,power / long straights
+bortoleto,losail,0.2253,1,0.2585,0.08616,,BOR,safety-car prone
 bortoleto,madring,0.177,1,0.2102,0.07007,,BOR,hot track
-bortoleto,marina_bay,0.8476,2,0.8808,0.4404,9.335,BOR,twisty / technical
-bortoleto,monaco,0.7421,2,0.7753,0.3877,2.464,BOR,twisty / technical
+bortoleto,marina_bay,0.8476,2,0.8808,0.4404,9.335,BOR,"stop-go, slow corners"
+bortoleto,monaco,0.7421,2,0.7753,0.3877,2.464,BOR,"stop-go, slow corners"
 bortoleto,monza,-0.2683,2,-0.2351,-0.1176,-4.879,BOR,power / long straights
 bortoleto,red_bull_ring,-0.8144,2,-0.7812,-0.3906,-2.271,BOR,hot track
-bortoleto,rodriguez,0.499,2,0.5322,0.2661,35.03,BOR,overtaking-friendly
+bortoleto,rodriguez,0.499,2,0.5322,0.2661,35.03,BOR,hot track
 bortoleto,sepang,-1.18,1,-1.147,-0.3822,,BOR,overtaking-friendly
 bortoleto,shanghai,0.3822,2,0.4154,0.2077,2.397,BOR,overtaking-friendly
 bortoleto,silverstone,-0.1175,2,-0.08427,-0.04214,-2.775,BOR,safety-car prone
 bortoleto,spa,-0.6713,2,-0.6381,-0.319,-2.082,BOR,power / long straights
 bortoleto,suzuka,-0.1743,2,-0.1411,-0.07053,-0.6055,BOR,medium-speed technical
-bortoleto,villeneuve,0.2651,2,0.2983,0.1492,20.25,BOR,safety-car prone
+bortoleto,villeneuve,0.2651,2,0.2983,0.1492,20.25,BOR,hot track
 bortoleto,yas_marina,-0.6902,1,-0.657,-0.219,,BOR,power / long straights
-bortoleto,zandvoort,-0.9013,2,-0.8681,-0.434,-10.21,BOR,safety-car prone
+bortoleto,zandvoort,-0.9013,2,-0.8681,-0.434,-10.21,BOR,hot track
 bottas,albert_park,0.1808,10,0.2138,0.1781,0.9961,BOT,safety-car prone
 bottas,americas,0.003134,11,0.03613,0.03057,0.3686,BOT,hot track
 bottas,bahrain,-0.1085,12,-0.0755,-0.06471,-0.7823,BOT,overtaking-friendly
-bottas,baku,0.2631,9,0.2961,0.2423,1.39,BOT,safety-car prone
+bottas,baku,0.2631,9,0.2961,0.2423,1.39,BOT,hot track
 bottas,catalunya,-0.3142,12,-0.2812,-0.2411,-1.445,BOT,hot track
 bottas,hockenheimring,-0.02492,3,0.008073,0.004844,0.02944,BOT,
 bottas,hungaroring,-0.2436,10,-0.2106,-0.1755,-1.813,BOT,hot track
 bottas,imola,0.132,4,0.165,0.11,0.8251,BOT,power / long straights
-bottas,interlagos,0.09577,8,0.1288,0.103,0.9031,BOT,safety-car prone
+bottas,interlagos,0.09577,8,0.1288,0.103,0.9031,BOT,"stop-go, slow corners"
 bottas,istanbul,0.3885,2,0.4215,0.2107,1.82,BOT,
 bottas,jeddah,-0.1166,3,-0.08363,-0.05018,-0.2813,BOT,power / long straights
-bottas,losail,0.5438,2,0.5768,0.2884,2.205,BOT,power / long straights
-bottas,marina_bay,0.2587,10,0.2917,0.2431,1.691,BOT,twisty / technical
-bottas,miami,-0.7674,4,-0.7344,-0.4896,-2.338,BOT,safety-car prone
-bottas,monaco,-0.2229,10,-0.1899,-0.1583,-0.615,BOT,twisty / technical
+bottas,losail,0.5438,2,0.5768,0.2884,2.205,BOT,safety-car prone
+bottas,marina_bay,0.2587,10,0.2917,0.2431,1.691,BOT,"stop-go, slow corners"
+bottas,miami,-0.7674,4,-0.7344,-0.4896,-2.338,BOT,hot track
+bottas,monaco,-0.2229,10,-0.1899,-0.1583,-0.615,BOT,"stop-go, slow corners"
 bottas,monza,-0.03548,12,-0.002484,-0.002129,-0.02005,BOT,power / long straights
 bottas,mugello,0.07852,1,0.1115,0.03717,,BOT,
 bottas,nurburgring,-0.1417,1,-0.1087,-0.03624,,BOT,
 bottas,portimao,0.1224,2,0.1554,0.07768,0.4256,BOT,
 bottas,red_bull_ring,-0.009134,14,0.02386,0.02088,0.2035,BOT,hot track
 bottas,ricard,-0.02162,4,0.01137,0.007581,0.05056,BOT,
-bottas,rodriguez,-0.1774,10,-0.1444,-0.1203,-0.71,BOT,overtaking-friendly
+bottas,rodriguez,-0.1774,10,-0.1444,-0.1203,-0.71,BOT,hot track
 bottas,sepang,0.004371,5,0.03737,0.02669,0.1791,BOT,overtaking-friendly
 bottas,shanghai,-0.3832,8,-0.3502,-0.2802,-1.475,BOT,overtaking-friendly
 bottas,silverstone,0.07649,12,0.1095,0.09385,0.8576,BOT,safety-car prone
@@ -163,99 +163,99 @@ bottas,sochi,-0.02924,7,0.003759,0.002924,0.01422,BOT,
 bottas,spa,0.2925,10,0.3255,0.2712,1.775,BOT,power / long straights
 bottas,suzuka,-0.1265,10,-0.09348,-0.0779,-0.9203,BOT,medium-speed technical
 bottas,vegas,-0.2362,2,-0.2032,-0.1016,-0.1753,BOT,overtaking-friendly
-bottas,villeneuve,-0.04935,8,-0.01636,-0.01309,-0.0432,BOT,safety-car prone
+bottas,villeneuve,-0.04935,8,-0.01636,-0.01309,-0.0432,BOT,hot track
 bottas,yas_marina,0.01475,11,0.04775,0.0404,0.3745,BOT,power / long straights
-bottas,zandvoort,-0.1543,5,-0.1213,-0.08664,-0.3382,BOT,safety-car prone
+bottas,zandvoort,-0.1543,5,-0.1213,-0.08664,-0.3382,BOT,hot track
 button,albert_park,0.01037,3,-0.09233,-0.0554,-0.2645,BUT,safety-car prone
 button,americas,0.4491,3,0.3464,0.2078,1.216,BUT,hot track
 button,bahrain,-0.1487,2,-0.2514,-0.1257,-1.293,BUT,overtaking-friendly
-button,baku,0.5073,1,0.4046,0.1349,,BUT,safety-car prone
+button,baku,0.5073,1,0.4046,0.1349,,BUT,hot track
 button,catalunya,-0.2317,3,-0.3344,-0.2006,-0.6789,BUT,hot track
 button,hockenheimring,0.5472,2,0.4445,0.2222,0.6167,BUT,
 button,hungaroring,0.1131,3,0.01043,0.00626,0.04325,BUT,hot track
-button,interlagos,0.6713,2,0.5686,0.2843,0.7829,BUT,safety-car prone
-button,marina_bay,0.2688,3,0.1661,0.09968,0.4874,BUT,twisty / technical
-button,monaco,0.03899,4,-0.06372,-0.04248,-0.2067,BUT,twisty / technical
+button,interlagos,0.6713,2,0.5686,0.2843,0.7829,BUT,"stop-go, slow corners"
+button,marina_bay,0.2688,3,0.1661,0.09968,0.4874,BUT,"stop-go, slow corners"
+button,monaco,0.03899,4,-0.06372,-0.04248,-0.2067,BUT,"stop-go, slow corners"
 button,monza,0.03869,3,-0.06401,-0.03841,-0.8193,BUT,power / long straights
 button,red_bull_ring,0.1478,2,0.0451,0.02255,0.1534,BUT,hot track
-button,rodriguez,0.487,1,0.3843,0.1281,,BUT,overtaking-friendly
+button,rodriguez,0.487,1,0.3843,0.1281,,BUT,hot track
 button,sepang,0.1674,2,0.06467,0.03233,0.2347,BUT,overtaking-friendly
 button,shanghai,-0.4071,3,-0.5098,-0.3059,-2.021,BUT,overtaking-friendly
 button,silverstone,0.1971,3,0.09435,0.05661,0.1669,BUT,safety-car prone
 button,sochi,-0.1376,3,-0.2403,-0.1442,-1.642,BUT,
 button,spa,0.03207,2,-0.07063,-0.03532,-0.1647,BUT,power / long straights
 button,suzuka,0.3985,3,0.2958,0.1775,1.114,BUT,medium-speed technical
-button,villeneuve,0.03531,2,-0.06739,-0.0337,-0.3319,BUT,safety-car prone
+button,villeneuve,0.03531,2,-0.06739,-0.0337,-0.3319,BUT,hot track
 button,yas_marina,-0.2365,3,-0.3392,-0.2035,-1.652,BUT,power / long straights
 colapinto,albert_park,0.8683,1,0.417,0.139,,COL,safety-car prone
 colapinto,americas,0.3857,3,-0.0656,-0.03936,-0.3344,COL,hot track
-colapinto,baku,-0.03155,3,-0.4828,-0.2897,-1.502,COL,safety-car prone
+colapinto,baku,-0.03155,3,-0.4828,-0.2897,-1.502,COL,hot track
 colapinto,catalunya,0.7401,2,0.2889,0.1444,0.3472,COL,hot track
 colapinto,hungaroring,0.05616,2,-0.3951,-0.1976,-2.246,COL,hot track
 colapinto,imola,0.9946,1,0.5434,0.1811,,COL,power / long straights
-colapinto,interlagos,1.109,1,0.6581,0.2194,,COL,safety-car prone
-colapinto,losail,0.6299,2,0.1786,0.08931,0.4672,COL,power / long straights
+colapinto,interlagos,1.109,1,0.6581,0.2194,,COL,"stop-go, slow corners"
+colapinto,losail,0.6299,2,0.1786,0.08931,0.4672,COL,safety-car prone
 colapinto,madring,-0.9066,1,-1.358,-0.4526,,COL,hot track
-colapinto,marina_bay,0.2751,3,-0.1761,-0.1057,-0.4062,COL,twisty / technical
-colapinto,miami,-0.05405,1,-0.5053,-0.1684,,COL,safety-car prone
-colapinto,monaco,0.9439,2,0.4926,0.2463,4.634,COL,twisty / technical
+colapinto,marina_bay,0.2751,3,-0.1761,-0.1057,-0.4062,COL,"stop-go, slow corners"
+colapinto,miami,-0.05405,1,-0.5053,-0.1684,,COL,hot track
+colapinto,monaco,0.9439,2,0.4926,0.2463,4.634,COL,"stop-go, slow corners"
 colapinto,monza,0.447,3,-0.004253,-0.002552,-0.01343,COL,power / long straights
 colapinto,red_bull_ring,0.8322,2,0.3809,0.1905,2.295,COL,hot track
-colapinto,rodriguez,0.5105,3,0.05923,0.03554,0.3326,COL,overtaking-friendly
+colapinto,rodriguez,0.5105,3,0.05923,0.03554,0.3326,COL,hot track
 colapinto,sepang,0.7976,1,0.3464,0.1155,,COL,overtaking-friendly
 colapinto,shanghai,0.5211,1,0.06988,0.02329,,COL,overtaking-friendly
 colapinto,silverstone,1.485,2,1.034,0.517,11.68,COL,safety-car prone
 colapinto,spa,0.2201,2,-0.2312,-0.1156,-1.421,COL,power / long straights
 colapinto,suzuka,1.044,1,0.5923,0.1974,,COL,medium-speed technical
 colapinto,vegas,0.6011,2,0.1498,0.07492,0.1135,COL,overtaking-friendly
-colapinto,villeneuve,-0.6915,2,-1.143,-0.5714,-36.87,COL,safety-car prone
+colapinto,villeneuve,-0.6915,2,-1.143,-0.5714,-36.87,COL,hot track
 colapinto,yas_marina,0.3071,2,-0.1442,-0.0721,-0.7264,COL,power / long straights
-colapinto,zandvoort,0.462,2,0.01074,0.00537,0.05148,COL,safety-car prone
+colapinto,zandvoort,0.462,2,0.01074,0.00537,0.05148,COL,hot track
 ericsson,albert_park,0.008937,4,-0.2421,-0.1614,-0.7401,ERI,safety-car prone
 ericsson,americas,-0.08391,4,-0.335,-0.2233,-0.684,ERI,hot track
 ericsson,bahrain,0.06634,5,-0.1847,-0.1319,-0.3656,ERI,overtaking-friendly
-ericsson,baku,0.9429,3,0.6918,0.4151,1.754,ERI,safety-car prone
+ericsson,baku,0.9429,3,0.6918,0.4151,1.754,ERI,hot track
 ericsson,catalunya,0.35,5,0.09892,0.07066,0.3697,ERI,hot track
 ericsson,hockenheimring,0.6556,2,0.4045,0.2023,0.7987,ERI,
 ericsson,hungaroring,0.372,4,0.121,0.08064,0.2631,ERI,hot track
-ericsson,interlagos,0.1193,4,-0.1317,-0.08783,-1.211,ERI,safety-car prone
-ericsson,marina_bay,0.5055,5,0.2545,0.1818,0.7293,ERI,twisty / technical
-ericsson,monaco,0.8591,4,0.608,0.4054,1.526,ERI,twisty / technical
+ericsson,interlagos,0.1193,4,-0.1317,-0.08783,-1.211,ERI,"stop-go, slow corners"
+ericsson,marina_bay,0.5055,5,0.2545,0.1818,0.7293,ERI,"stop-go, slow corners"
+ericsson,monaco,0.8591,4,0.608,0.4054,1.526,ERI,"stop-go, slow corners"
 ericsson,monza,0.1413,5,-0.1097,-0.07837,-0.4329,ERI,power / long straights
 ericsson,red_bull_ring,0.6048,5,0.3537,0.2526,1.111,ERI,hot track
 ericsson,ricard,0.8136,1,0.5626,0.1875,,ERI,
-ericsson,rodriguez,-0.2854,4,-0.5365,-0.3577,-2.02,ERI,overtaking-friendly
+ericsson,rodriguez,-0.2854,4,-0.5365,-0.3577,-2.02,ERI,hot track
 ericsson,sepang,0.02095,4,-0.2301,-0.1534,-0.6237,ERI,overtaking-friendly
 ericsson,shanghai,0.2698,5,0.01876,0.0134,0.07205,ERI,overtaking-friendly
 ericsson,silverstone,0.02938,4,-0.2217,-0.1478,-1.258,ERI,safety-car prone
 ericsson,sochi,0.4293,5,0.1782,0.1273,0.5922,ERI,
 ericsson,spa,0.04024,5,-0.2108,-0.1506,-0.9913,ERI,power / long straights
 ericsson,suzuka,0.1899,5,-0.06114,-0.04367,-0.1633,ERI,medium-speed technical
-ericsson,villeneuve,-0.3864,4,-0.6375,-0.425,-1.537,ERI,safety-car prone
+ericsson,villeneuve,-0.3864,4,-0.6375,-0.425,-1.537,ERI,hot track
 ericsson,yas_marina,0.5727,4,0.3217,0.2145,1.516,ERI,power / long straights
 gasly,albert_park,-0.07095,6,0.2251,0.1689,0.8584,GAS,safety-car prone
 gasly,americas,-0.4677,8,-0.1716,-0.1373,-1.969,GAS,hot track
 gasly,bahrain,-0.1855,9,0.1106,0.09049,0.3621,GAS,overtaking-friendly
-gasly,baku,-0.3635,5,-0.06741,-0.04815,-0.2471,GAS,safety-car prone
+gasly,baku,-0.3635,5,-0.06741,-0.04815,-0.2471,GAS,hot track
 gasly,catalunya,-0.3423,8,-0.04621,-0.03697,-0.2118,GAS,hot track
 gasly,hockenheimring,-0.01129,2,0.2848,0.1424,0.7331,GAS,
 gasly,hungaroring,-0.06899,9,0.2271,0.1858,0.7559,GAS,hot track
 gasly,imola,-0.1951,4,0.101,0.06733,0.3484,GAS,power / long straights
-gasly,interlagos,-0.597,6,-0.3009,-0.2257,-1.443,GAS,safety-car prone
+gasly,interlagos,-0.597,6,-0.3009,-0.2257,-1.443,GAS,"stop-go, slow corners"
 gasly,istanbul,-0.8661,1,-0.57,-0.19,,GAS,
 gasly,jeddah,-0.1492,4,0.1469,0.09791,0.6222,GAS,power / long straights
-gasly,losail,-0.772,4,-0.4759,-0.3173,-1.536,GAS,power / long straights
+gasly,losail,-0.772,4,-0.4759,-0.3173,-1.536,GAS,safety-car prone
 gasly,madring,0.9149,1,1.211,0.4037,,GAS,hot track
-gasly,marina_bay,-0.242,7,0.05413,0.0421,0.1799,GAS,twisty / technical
-gasly,miami,-0.07176,4,0.2243,0.1496,1.934,GAS,safety-car prone
-gasly,monaco,-0.3835,8,-0.08742,-0.06993,-0.2404,GAS,twisty / technical
+gasly,marina_bay,-0.242,7,0.05413,0.0421,0.1799,GAS,"stop-go, slow corners"
+gasly,miami,-0.07176,4,0.2243,0.1496,1.934,GAS,hot track
+gasly,monaco,-0.3835,8,-0.08742,-0.06993,-0.2404,GAS,"stop-go, slow corners"
 gasly,monza,-0.2032,8,0.0929,0.07432,0.8938,GAS,power / long straights
 gasly,mugello,0.3526,1,0.6487,0.2162,,GAS,
 gasly,nurburgring,-0.0829,1,0.2132,0.07106,,GAS,
 gasly,portimao,-0.5925,2,-0.2964,-0.1482,-3.939,GAS,
 gasly,red_bull_ring,-0.4001,11,-0.104,-0.08798,-0.6133,GAS,hot track
 gasly,ricard,0.3186,3,0.6147,0.3688,1.302,GAS,
-gasly,rodriguez,-0.2874,8,0.008638,0.00691,0.05664,GAS,overtaking-friendly
+gasly,rodriguez,-0.2874,8,0.008638,0.00691,0.05664,GAS,hot track
 gasly,sepang,-0.3172,2,-0.02111,-0.01056,-0.04453,GAS,overtaking-friendly
 gasly,shanghai,0.1359,5,0.432,0.3086,1.815,GAS,overtaking-friendly
 gasly,silverstone,-0.8844,8,-0.5883,-0.4707,-2.314,GAS,safety-car prone
@@ -263,9 +263,9 @@ gasly,sochi,-0.3527,3,-0.05665,-0.03399,-0.3251,GAS,
 gasly,spa,-0.1686,7,0.1275,0.09918,1.035,GAS,power / long straights
 gasly,suzuka,-0.1642,8,0.1319,0.1055,0.4666,GAS,medium-speed technical
 gasly,vegas,-1.388,3,-1.092,-0.6552,-2.733,GAS,overtaking-friendly
-gasly,villeneuve,0.1197,5,0.4157,0.297,1.219,GAS,safety-car prone
+gasly,villeneuve,0.1197,5,0.4157,0.297,1.219,GAS,hot track
 gasly,yas_marina,-0.1626,9,0.1335,0.1092,0.6265,GAS,power / long straights
-gasly,zandvoort,-0.7671,5,-0.471,-0.3364,-1.415,GAS,safety-car prone
+gasly,zandvoort,-0.7671,5,-0.471,-0.3364,-1.415,GAS,hot track
 giovinazzi,albert_park,0.1772,2,0.2408,0.1204,6.873,GIO,safety-car prone
 giovinazzi,americas,-0.3442,2,-0.2805,-0.1403,-1.456,GIO,hot track
 giovinazzi,bahrain,-0.2186,4,-0.155,-0.1033,-0.3279,GIO,overtaking-friendly
@@ -273,120 +273,120 @@ giovinazzi,catalunya,0.7031,3,0.7667,0.46,1.056,GIO,hot track
 giovinazzi,hockenheimring,0.3682,1,0.4318,0.1439,,GIO,
 giovinazzi,hungaroring,0.3004,3,0.364,0.2184,1.024,GIO,hot track
 giovinazzi,imola,0.2653,2,0.3289,0.1644,4.667,GIO,power / long straights
-giovinazzi,interlagos,-0.07153,2,-0.007908,-0.003954,-0.04939,GIO,safety-car prone
+giovinazzi,interlagos,-0.07153,2,-0.007908,-0.003954,-0.04939,GIO,"stop-go, slow corners"
 giovinazzi,istanbul,-0.3213,2,-0.2577,-0.1288,-0.2772,GIO,
 giovinazzi,jeddah,-0.2701,1,-0.2065,-0.06883,,GIO,power / long straights
-giovinazzi,losail,0.1275,1,0.1911,0.0637,,GIO,power / long straights
-giovinazzi,marina_bay,-0.1629,1,-0.09924,-0.03308,,GIO,twisty / technical
-giovinazzi,monaco,-0.1744,2,-0.1108,-0.0554,-0.7347,GIO,twisty / technical
+giovinazzi,losail,0.1275,1,0.1911,0.0637,,GIO,safety-car prone
+giovinazzi,marina_bay,-0.1629,1,-0.09924,-0.03308,,GIO,"stop-go, slow corners"
+giovinazzi,monaco,-0.1744,2,-0.1108,-0.0554,-0.7347,GIO,"stop-go, slow corners"
 giovinazzi,monza,0.1742,2,0.2379,0.1189,1.385,GIO,power / long straights
 giovinazzi,mugello,0.4762,1,0.5398,0.1799,,GIO,
 giovinazzi,nurburgring,-1.003,1,-0.9396,-0.3132,,GIO,
 giovinazzi,portimao,-0.2555,2,-0.1919,-0.09596,-0.4663,GIO,
 giovinazzi,red_bull_ring,-0.03386,5,0.02976,0.02126,0.1084,GIO,hot track
 giovinazzi,ricard,-0.8944,2,-0.8308,-0.4154,-1.098,GIO,
-giovinazzi,rodriguez,0.3837,2,0.4473,0.2236,51.4,GIO,overtaking-friendly
+giovinazzi,rodriguez,0.3837,2,0.4473,0.2236,51.4,GIO,hot track
 giovinazzi,shanghai,0.07482,1,0.1384,0.04615,,GIO,overtaking-friendly
 giovinazzi,silverstone,-0.2354,4,-0.1717,-0.1145,-1.648,GIO,safety-car prone
 giovinazzi,sochi,-0.08061,3,-0.01699,-0.01019,-0.02437,GIO,
 giovinazzi,spa,-0.02911,3,0.03451,0.0207,0.03751,GIO,power / long straights
 giovinazzi,suzuka,-0.1164,1,-0.05277,-0.01759,,GIO,medium-speed technical
-giovinazzi,villeneuve,-0.1495,1,-0.0859,-0.02863,,GIO,safety-car prone
+giovinazzi,villeneuve,-0.1495,1,-0.0859,-0.02863,,GIO,hot track
 giovinazzi,yas_marina,-0.515,3,-0.4514,-0.2709,-3.079,GIO,power / long straights
 grosjean,albert_park,-0.4425,4,-0.295,-0.1967,-0.849,GRO,safety-car prone
 grosjean,americas,-0.07164,6,0.07579,0.05684,0.1879,GRO,hot track
 grosjean,bahrain,-0.1631,6,-0.01567,-0.01175,-0.03863,GRO,overtaking-friendly
-grosjean,baku,0.377,3,0.5244,0.3147,1.143,GRO,safety-car prone
+grosjean,baku,0.377,3,0.5244,0.3147,1.143,GRO,hot track
 grosjean,catalunya,0.1248,6,0.2723,0.2042,7.084,GRO,hot track
 grosjean,hockenheimring,-0.2265,4,-0.07902,-0.05268,-0.1658,GRO,
 grosjean,hungaroring,-0.3834,6,-0.236,-0.177,-0.9622,GRO,hot track
 grosjean,imola,-0.02765,1,0.1198,0.03993,,GRO,power / long straights
-grosjean,interlagos,-0.3799,6,-0.2325,-0.1743,-3.128,GRO,safety-car prone
-grosjean,marina_bay,-0.5415,6,-0.394,-0.2955,-1.114,GRO,twisty / technical
-grosjean,monaco,-0.0003241,6,0.1471,0.1103,0.5368,GRO,twisty / technical
+grosjean,interlagos,-0.3799,6,-0.2325,-0.1743,-3.128,GRO,"stop-go, slow corners"
+grosjean,marina_bay,-0.5415,6,-0.394,-0.2955,-1.114,GRO,"stop-go, slow corners"
+grosjean,monaco,-0.0003241,6,0.1471,0.1103,0.5368,GRO,"stop-go, slow corners"
 grosjean,monza,-0.005385,6,0.142,0.1065,0.7533,GRO,power / long straights
 grosjean,mugello,-0.3607,1,-0.2133,-0.07109,,GRO,
 grosjean,nurburgring,0.4901,1,0.6375,0.2125,,GRO,
 grosjean,portimao,-0.1834,1,-0.03599,-0.012,,GRO,
 grosjean,red_bull_ring,-0.1917,7,-0.04428,-0.03444,-0.158,GRO,hot track
 grosjean,ricard,0.2315,2,0.379,0.1895,1.388,GRO,
-grosjean,rodriguez,-0.05656,5,0.09087,0.06491,0.3578,GRO,overtaking-friendly
+grosjean,rodriguez,-0.05656,5,0.09087,0.06491,0.3578,GRO,hot track
 grosjean,sepang,-0.4568,4,-0.3093,-0.2062,-0.8611,GRO,overtaking-friendly
 grosjean,shanghai,0.01032,5,0.1577,0.1127,0.543,GRO,overtaking-friendly
 grosjean,silverstone,-0.1611,6,-0.01366,-0.01024,-0.05856,GRO,safety-car prone
 grosjean,sochi,-0.178,7,-0.03054,-0.02376,-0.07546,GRO,
 grosjean,spa,-0.2337,7,-0.08629,-0.06711,-1.489,GRO,power / long straights
 grosjean,suzuka,-0.06529,5,0.08215,0.05868,0.2858,GRO,medium-speed technical
-grosjean,villeneuve,-0.03784,4,0.1096,0.07306,0.411,GRO,safety-car prone
+grosjean,villeneuve,-0.03784,4,0.1096,0.07306,0.411,GRO,hot track
 grosjean,yas_marina,-0.07117,6,0.07626,0.05719,0.2909,GRO,power / long straights
 gutierrez,albert_park,1.498,2,1.444,0.7221,32.91,GUT,safety-car prone
 gutierrez,americas,0.3261,2,0.2726,0.1363,0.3133,GUT,hot track
 gutierrez,bahrain,-0.387,2,-0.4405,-0.2202,-0.7428,GUT,overtaking-friendly
-gutierrez,baku,0.5203,1,0.4668,0.1556,,GUT,safety-car prone
+gutierrez,baku,0.5203,1,0.4668,0.1556,,GUT,hot track
 gutierrez,catalunya,-0.2036,2,-0.257,-0.1285,-2.216,GUT,hot track
 gutierrez,hockenheimring,-0.388,2,-0.4415,-0.2207,-3.642,GUT,
 gutierrez,hungaroring,0.8075,2,0.754,0.377,1.139,GUT,hot track
-gutierrez,interlagos,0.04937,2,-0.004084,-0.002042,-0.006408,GUT,safety-car prone
-gutierrez,marina_bay,-0.5256,2,-0.5791,-0.2895,-1.488,GUT,twisty / technical
-gutierrez,monaco,-0.1165,2,-0.17,-0.08498,-1.525,GUT,twisty / technical
+gutierrez,interlagos,0.04937,2,-0.004084,-0.002042,-0.006408,GUT,"stop-go, slow corners"
+gutierrez,marina_bay,-0.5256,2,-0.5791,-0.2895,-1.488,GUT,"stop-go, slow corners"
+gutierrez,monaco,-0.1165,2,-0.17,-0.08498,-1.525,GUT,"stop-go, slow corners"
 gutierrez,monza,-0.08196,2,-0.1354,-0.06771,-0.6701,GUT,power / long straights
 gutierrez,red_bull_ring,0.3079,2,0.2544,0.1272,0.5889,GUT,hot track
-gutierrez,rodriguez,-0.6287,1,-0.6822,-0.2274,,GUT,overtaking-friendly
+gutierrez,rodriguez,-0.6287,1,-0.6822,-0.2274,,GUT,hot track
 gutierrez,sepang,-0.3576,2,-0.4111,-0.2055,-0.8962,GUT,overtaking-friendly
 gutierrez,shanghai,0.8546,2,0.8011,0.4006,1.589,GUT,overtaking-friendly
 gutierrez,silverstone,-0.7225,2,-0.7759,-0.388,-0.8383,GUT,safety-car prone
 gutierrez,sochi,-0.08353,2,-0.137,-0.06849,-0.9466,GUT,
 gutierrez,spa,0.2603,1,0.2069,0.06896,,GUT,power / long straights
 gutierrez,suzuka,0.07612,2,0.02266,0.01133,0.1681,GUT,medium-speed technical
-gutierrez,villeneuve,-0.3101,1,-0.3636,-0.1212,,GUT,safety-car prone
+gutierrez,villeneuve,-0.3101,1,-0.3636,-0.1212,,GUT,hot track
 gutierrez,yas_marina,0.04193,2,-0.01153,-0.005763,-0.3959,GUT,power / long straights
 hadjar,albert_park,0.6674,1,0.7857,0.2619,,HAD,safety-car prone
 hadjar,americas,0.03821,1,0.1565,0.05218,,HAD,hot track
 hadjar,bahrain,-0.97,1,-0.8517,-0.2839,,HAD,overtaking-friendly
-hadjar,baku,-0.04515,2,0.07318,0.03659,0.4768,HAD,safety-car prone
+hadjar,baku,-0.04515,2,0.07318,0.03659,0.4768,HAD,hot track
 hadjar,catalunya,-0.3138,2,-0.1955,-0.09774,-0.5032,HAD,hot track
 hadjar,hungaroring,-0.02217,2,0.09617,0.04808,0.5043,HAD,hot track
 hadjar,imola,-1.138,1,-1.019,-0.3398,,HAD,power / long straights
-hadjar,interlagos,-0.02716,1,0.09117,0.03039,,HAD,safety-car prone
+hadjar,interlagos,-0.02716,1,0.09117,0.03039,,HAD,"stop-go, slow corners"
 hadjar,jeddah,0.2574,1,0.3757,0.1252,,HAD,power / long straights
-hadjar,losail,-0.3966,1,-0.2783,-0.09276,,HAD,power / long straights
-hadjar,marina_bay,-0.5248,1,-0.4065,-0.1355,,HAD,twisty / technical
-hadjar,monaco,0.091,2,0.2093,0.1047,0.55,HAD,twisty / technical
+hadjar,losail,-0.3966,1,-0.2783,-0.09276,,HAD,safety-car prone
+hadjar,marina_bay,-0.5248,1,-0.4065,-0.1355,,HAD,"stop-go, slow corners"
+hadjar,monaco,0.091,2,0.2093,0.1047,0.55,HAD,"stop-go, slow corners"
 hadjar,monza,-0.4509,1,-0.3326,-0.1109,,HAD,power / long straights
 hadjar,red_bull_ring,0.2236,2,0.3419,0.171,27.17,HAD,hot track
-hadjar,rodriguez,-0.325,2,-0.2067,-0.1033,-0.3466,HAD,overtaking-friendly
+hadjar,rodriguez,-0.325,2,-0.2067,-0.1033,-0.3466,HAD,hot track
 hadjar,sepang,0.4499,1,0.5682,0.1894,,HAD,overtaking-friendly
 hadjar,shanghai,-0.02316,2,0.09518,0.04759,0.6299,HAD,overtaking-friendly
 hadjar,silverstone,-0.4159,2,-0.2975,-0.1488,-1.188,HAD,safety-car prone
 hadjar,spa,0.539,2,0.6574,0.3287,1.185,HAD,power / long straights
 hadjar,suzuka,-0.349,2,-0.2307,-0.1153,-6.713,HAD,medium-speed technical
 hadjar,vegas,0.4511,1,0.5695,0.1898,,HAD,overtaking-friendly
-hadjar,villeneuve,-0.4344,2,-0.3161,-0.158,-0.6685,HAD,safety-car prone
+hadjar,villeneuve,-0.4344,2,-0.3161,-0.158,-0.6685,HAD,hot track
 hadjar,yas_marina,-0.0963,1,0.02204,0.007347,,HAD,power / long straights
-hadjar,zandvoort,-0.2522,1,-0.1339,-0.04463,,HAD,safety-car prone
+hadjar,zandvoort,-0.2522,1,-0.1339,-0.04463,,HAD,hot track
 hamilton,albert_park,-0.2647,11,-0.2208,-0.1869,-1.497,HAM,safety-car prone
 hamilton,americas,0.0502,12,0.09412,0.08067,0.6771,HAM,hot track
 hamilton,bahrain,-0.01179,12,0.03212,0.02753,0.3389,HAM,overtaking-friendly
-hamilton,baku,0.0792,10,0.1231,0.1026,0.7682,HAM,safety-car prone
+hamilton,baku,0.0792,10,0.1231,0.1026,0.7682,HAM,hot track
 hamilton,catalunya,-0.1037,13,-0.05975,-0.05178,-0.5327,HAM,hot track
 hamilton,hockenheimring,-0.179,2,-0.1351,-0.06754,-0.4184,HAM,
 hamilton,hungaroring,0.07544,10,0.1194,0.09946,0.8206,HAM,hot track
 hamilton,imola,0.09246,5,0.1364,0.09741,1.147,HAM,power / long straights
-hamilton,interlagos,-0.07275,9,-0.02884,-0.02359,-0.2697,HAM,safety-car prone
+hamilton,interlagos,-0.07275,9,-0.02884,-0.02359,-0.2697,HAM,"stop-go, slow corners"
 hamilton,istanbul,-0.3865,2,-0.3425,-0.1713,-1.49,HAM,
 hamilton,jeddah,0.4663,5,0.5102,0.3644,2,HAM,power / long straights
-hamilton,losail,0.1366,4,0.1805,0.1203,0.5361,HAM,power / long straights
+hamilton,losail,0.1366,4,0.1805,0.1203,0.5361,HAM,safety-car prone
 hamilton,madring,-0.00652,1,0.03739,0.01246,,HAM,hot track
-hamilton,marina_bay,-0.1163,10,-0.07241,-0.06034,-0.4714,HAM,twisty / technical
-hamilton,miami,-0.1777,4,-0.1338,-0.08919,-0.6737,HAM,safety-car prone
-hamilton,monaco,0.2359,12,0.2798,0.2399,1.475,HAM,twisty / technical
+hamilton,marina_bay,-0.1163,10,-0.07241,-0.06034,-0.4714,HAM,"stop-go, slow corners"
+hamilton,miami,-0.1777,4,-0.1338,-0.08919,-0.6737,HAM,hot track
+hamilton,monaco,0.2359,12,0.2798,0.2399,1.475,HAM,"stop-go, slow corners"
 hamilton,monza,-0.1599,13,-0.116,-0.1006,-1.351,HAM,power / long straights
 hamilton,mugello,-0.07845,1,-0.03454,-0.01151,,HAM,
 hamilton,nurburgring,0.1419,1,0.1858,0.06194,,HAM,
 hamilton,portimao,-0.1209,2,-0.07697,-0.03849,-0.2114,HAM,
 hamilton,red_bull_ring,-0.135,15,-0.09105,-0.08034,-0.8888,HAM,hot track
 hamilton,ricard,-0.2481,4,-0.2042,-0.1362,-3.076,HAM,
-hamilton,rodriguez,-0.0278,11,0.01611,0.01363,0.2198,HAM,overtaking-friendly
+hamilton,rodriguez,-0.0278,11,0.01611,0.01363,0.2198,HAM,hot track
 hamilton,sepang,-0.3067,5,-0.2628,-0.1877,-1.946,HAM,overtaking-friendly
 hamilton,shanghai,-0.02453,8,0.01938,0.0155,0.08742,HAM,overtaking-friendly
 hamilton,silverstone,-0.1389,14,-0.09499,-0.08311,-1.062,HAM,safety-car prone
@@ -394,29 +394,29 @@ hamilton,sochi,-0.0918,8,-0.04789,-0.03831,-0.2533,HAM,
 hamilton,spa,-0.1651,12,-0.1212,-0.1039,-0.9026,HAM,power / long straights
 hamilton,suzuka,-0.03849,11,0.005422,0.004588,0.0693,HAM,medium-speed technical
 hamilton,vegas,0.5274,2,0.5713,0.2857,2.274,HAM,overtaking-friendly
-hamilton,villeneuve,-0.2192,11,-0.1753,-0.1483,-1.175,HAM,safety-car prone
+hamilton,villeneuve,-0.2192,11,-0.1753,-0.1483,-1.175,HAM,hot track
 hamilton,yas_marina,0.1701,12,0.214,0.1835,1.548,HAM,power / long straights
-hamilton,zandvoort,0.03406,5,0.07797,0.05569,0.3108,HAM,safety-car prone
+hamilton,zandvoort,0.03406,5,0.07797,0.05569,0.3108,HAM,hot track
 hulkenberg,albert_park,0.04141,9,0.1767,0.1446,1.131,HUL,safety-car prone
 hulkenberg,americas,-0.1412,10,-0.005969,-0.004974,-0.03201,HUL,hot track
 hulkenberg,bahrain,-0.4683,10,-0.3331,-0.2776,-1.505,HUL,overtaking-friendly
-hulkenberg,baku,0.3063,7,0.4416,0.3434,1.739,HUL,safety-car prone
+hulkenberg,baku,0.3063,7,0.4416,0.3434,1.739,HUL,hot track
 hulkenberg,catalunya,0.005505,10,0.1408,0.1173,0.4599,HUL,hot track
 hulkenberg,hockenheimring,-0.06015,4,0.07513,0.05008,1.777,HUL,
 hulkenberg,hungaroring,-0.4488,8,-0.3135,-0.2508,-1.499,HUL,hot track
 hulkenberg,imola,-0.6668,2,-0.5316,-0.2658,-0.5288,HUL,power / long straights
-hulkenberg,interlagos,-0.255,8,-0.1198,-0.0958,-0.6996,HUL,safety-car prone
+hulkenberg,interlagos,-0.255,8,-0.1198,-0.0958,-0.6996,HUL,"stop-go, slow corners"
 hulkenberg,jeddah,-0.1517,4,-0.01647,-0.01098,-0.07187,HUL,power / long straights
-hulkenberg,losail,-0.1265,3,0.008797,0.005278,0.01107,HUL,power / long straights
+hulkenberg,losail,-0.1265,3,0.008797,0.005278,0.01107,HUL,safety-car prone
 hulkenberg,madring,-0.1767,1,-0.04141,-0.0138,,HUL,hot track
-hulkenberg,marina_bay,-0.4203,9,-0.285,-0.2332,-1.94,HUL,twisty / technical
-hulkenberg,miami,-0.1357,2,-0.00043,-0.000215,-0.00108,HUL,safety-car prone
-hulkenberg,monaco,-0.1879,10,-0.05259,-0.04383,-0.2495,HUL,twisty / technical
+hulkenberg,marina_bay,-0.4203,9,-0.285,-0.2332,-1.94,HUL,"stop-go, slow corners"
+hulkenberg,miami,-0.1357,2,-0.00043,-0.000215,-0.00108,HUL,hot track
+hulkenberg,monaco,-0.1879,10,-0.05259,-0.04383,-0.2495,HUL,"stop-go, slow corners"
 hulkenberg,monza,0.1089,9,0.2442,0.1998,1.329,HUL,power / long straights
 hulkenberg,nurburgring,1.959,1,2.094,0.698,,HUL,
 hulkenberg,red_bull_ring,-0.1945,9,-0.05922,-0.04846,-0.2297,HUL,hot track
 hulkenberg,ricard,0.4019,2,0.5372,0.2686,1.825,HUL,
-hulkenberg,rodriguez,-0.3858,9,-0.2505,-0.205,-1.723,HUL,overtaking-friendly
+hulkenberg,rodriguez,-0.3858,9,-0.2505,-0.205,-1.723,HUL,hot track
 hulkenberg,sepang,-0.08186,5,0.05341,0.03815,0.1447,HUL,overtaking-friendly
 hulkenberg,shanghai,-0.5592,9,-0.4239,-0.3469,-1.465,HUL,overtaking-friendly
 hulkenberg,silverstone,-0.2441,10,-0.1088,-0.09066,-0.5947,HUL,safety-car prone
@@ -424,19 +424,19 @@ hulkenberg,sochi,-0.1915,6,-0.05621,-0.04216,-0.2314,HUL,
 hulkenberg,spa,0.319,9,0.4543,0.3717,2.999,HUL,power / long straights
 hulkenberg,suzuka,0.0429,10,0.1782,0.1485,1.462,HUL,medium-speed technical
 hulkenberg,vegas,0.1103,2,0.2456,0.1228,0.6781,HUL,overtaking-friendly
-hulkenberg,villeneuve,-0.281,10,-0.1457,-0.1214,-0.5669,HUL,safety-car prone
+hulkenberg,villeneuve,-0.281,10,-0.1457,-0.1214,-0.5669,HUL,hot track
 hulkenberg,yas_marina,-0.1262,9,0.009075,0.007425,0.04749,HUL,power / long straights
-hulkenberg,zandvoort,0.569,3,0.7043,0.4226,2.046,HUL,safety-car prone
+hulkenberg,zandvoort,0.569,3,0.7043,0.4226,2.046,HUL,hot track
 jolyon_palmer,albert_park,-0.06415,1,-0.5291,-0.1764,,PAL,safety-car prone
 jolyon_palmer,americas,-0.3885,1,-0.8535,-0.2845,,PAL,hot track
 jolyon_palmer,bahrain,0.7262,2,0.2612,0.1306,0.58,PAL,overtaking-friendly
-jolyon_palmer,baku,0.04325,1,-0.4217,-0.1406,,PAL,safety-car prone
+jolyon_palmer,baku,0.04325,1,-0.4217,-0.1406,,PAL,hot track
 jolyon_palmer,catalunya,0.781,2,0.316,0.158,0.6985,PAL,hot track
 jolyon_palmer,hockenheimring,-0.1043,1,-0.5692,-0.1897,,PAL,
 jolyon_palmer,hungaroring,0.3348,2,-0.1302,-0.06508,-0.1466,PAL,hot track
-jolyon_palmer,interlagos,-0.2071,1,-0.672,-0.224,,PAL,safety-car prone
-jolyon_palmer,marina_bay,0.6047,2,0.1398,0.06988,0.2922,PAL,twisty / technical
-jolyon_palmer,monaco,1.072,2,0.6074,0.3037,1.606,PAL,twisty / technical
+jolyon_palmer,interlagos,-0.2071,1,-0.672,-0.224,,PAL,"stop-go, slow corners"
+jolyon_palmer,marina_bay,0.6047,2,0.1398,0.06988,0.2922,PAL,"stop-go, slow corners"
+jolyon_palmer,monaco,1.072,2,0.6074,0.3037,1.606,PAL,"stop-go, slow corners"
 jolyon_palmer,monza,-0.244,1,-0.7089,-0.2363,,PAL,power / long straights
 jolyon_palmer,red_bull_ring,0.5878,2,0.1229,0.06143,0.2224,PAL,hot track
 jolyon_palmer,sepang,0.648,2,0.183,0.09152,1.667,PAL,overtaking-friendly
@@ -445,29 +445,29 @@ jolyon_palmer,silverstone,0.8472,2,0.3823,0.1911,0.5815,PAL,safety-car prone
 jolyon_palmer,sochi,0.6656,2,0.2007,0.1003,0.3523,PAL,
 jolyon_palmer,spa,0.04429,2,-0.4207,-0.2103,-1.286,PAL,power / long straights
 jolyon_palmer,suzuka,-0.04246,2,-0.5074,-0.2537,-2.517,PAL,medium-speed technical
-jolyon_palmer,villeneuve,0.9813,1,0.5163,0.1721,,PAL,safety-car prone
+jolyon_palmer,villeneuve,0.9813,1,0.5163,0.1721,,PAL,hot track
 jolyon_palmer,yas_marina,-0.3593,1,-0.8243,-0.2748,,PAL,power / long straights
 kevin_magnussen,albert_park,0.1011,8,0.04695,0.03756,0.2398,MAG,safety-car prone
 kevin_magnussen,americas,0.1957,8,0.1416,0.1132,0.6176,MAG,hot track
 kevin_magnussen,bahrain,-0.1647,9,-0.2188,-0.179,-0.7753,MAG,overtaking-friendly
-kevin_magnussen,baku,-0.4207,5,-0.4748,-0.3392,-1.475,MAG,safety-car prone
+kevin_magnussen,baku,-0.4207,5,-0.4748,-0.3392,-1.475,MAG,hot track
 kevin_magnussen,catalunya,0.1612,9,0.1071,0.08762,0.4455,MAG,hot track
 kevin_magnussen,hockenheimring,-0.3986,4,-0.4527,-0.3018,-1.451,MAG,
 kevin_magnussen,hungaroring,0.1908,8,0.1367,0.1094,1.026,MAG,hot track
 kevin_magnussen,imola,0.3605,3,0.3064,0.1838,0.4392,MAG,power / long straights
-kevin_magnussen,interlagos,0.2205,6,0.1664,0.1248,3.212,MAG,safety-car prone
+kevin_magnussen,interlagos,0.2205,6,0.1664,0.1248,3.212,MAG,"stop-go, slow corners"
 kevin_magnussen,jeddah,-0.08355,3,-0.1377,-0.08259,-0.7627,MAG,power / long straights
-kevin_magnussen,losail,0.09632,2,0.04221,0.0211,0.03067,MAG,power / long straights
-kevin_magnussen,marina_bay,0.05926,7,0.005153,0.004008,0.01912,MAG,twisty / technical
-kevin_magnussen,miami,0.2951,3,0.241,0.1446,0.8633,MAG,safety-car prone
-kevin_magnussen,monaco,-0.07535,8,-0.1295,-0.1036,-0.5703,MAG,twisty / technical
+kevin_magnussen,losail,0.09632,2,0.04221,0.0211,0.03067,MAG,safety-car prone
+kevin_magnussen,marina_bay,0.05926,7,0.005153,0.004008,0.01912,MAG,"stop-go, slow corners"
+kevin_magnussen,miami,0.2951,3,0.241,0.1446,0.8633,MAG,hot track
+kevin_magnussen,monaco,-0.07535,8,-0.1295,-0.1036,-0.5703,MAG,"stop-go, slow corners"
 kevin_magnussen,monza,0.2325,8,0.1784,0.1427,0.9904,MAG,power / long straights
 kevin_magnussen,mugello,0.362,1,0.3079,0.1026,,MAG,
 kevin_magnussen,nurburgring,-0.4877,1,-0.5418,-0.1806,,MAG,
 kevin_magnussen,portimao,0.1838,1,0.1296,0.04322,,MAG,
 kevin_magnussen,red_bull_ring,0.2669,9,0.2128,0.1741,0.897,MAG,hot track
 kevin_magnussen,ricard,-0.5277,3,-0.5818,-0.3491,-1.73,MAG,
-kevin_magnussen,rodriguez,0.09882,6,0.04471,0.03353,0.1732,MAG,overtaking-friendly
+kevin_magnussen,rodriguez,0.09882,6,0.04471,0.03353,0.1732,MAG,hot track
 kevin_magnussen,sepang,-0.3527,3,-0.4068,-0.2441,-1.565,MAG,overtaking-friendly
 kevin_magnussen,shanghai,-0.02786,6,-0.08197,-0.06148,-0.2483,MAG,overtaking-friendly
 kevin_magnussen,silverstone,0.113,7,0.05884,0.04577,0.2335,MAG,safety-car prone
@@ -475,111 +475,111 @@ kevin_magnussen,sochi,-0.2842,6,-0.3383,-0.2537,-1.166,MAG,
 kevin_magnussen,spa,0.05804,8,0.003927,0.003142,0.03418,MAG,power / long straights
 kevin_magnussen,suzuka,0.003718,7,-0.05039,-0.03919,-0.2108,MAG,medium-speed technical
 kevin_magnussen,vegas,-0.1089,2,-0.163,-0.0815,-0.451,MAG,overtaking-friendly
-kevin_magnussen,villeneuve,0.0414,6,-0.01271,-0.009535,-0.02852,MAG,safety-car prone
+kevin_magnussen,villeneuve,0.0414,6,-0.01271,-0.009535,-0.02852,MAG,hot track
 kevin_magnussen,yas_marina,0.3104,9,0.2563,0.2097,1.179,MAG,power / long straights
-kevin_magnussen,zandvoort,0.6855,2,0.6314,0.3157,1.102,MAG,safety-car prone
+kevin_magnussen,zandvoort,0.6855,2,0.6314,0.3157,1.102,MAG,hot track
 kvyat,albert_park,0.2566,4,0.08543,0.05695,0.3956,KVY,safety-car prone
 kvyat,americas,-0.03985,5,-0.211,-0.1507,-0.5009,KVY,hot track
 kvyat,bahrain,0.08283,6,-0.08833,-0.06625,-0.2361,KVY,overtaking-friendly
-kvyat,baku,-0.3343,3,-0.5055,-0.3033,-4.97,KVY,safety-car prone
+kvyat,baku,-0.3343,3,-0.5055,-0.3033,-4.97,KVY,hot track
 kvyat,catalunya,0.4416,6,0.2705,0.2029,0.8597,KVY,hot track
 kvyat,hockenheimring,0.1049,3,-0.06625,-0.03975,-0.1247,KVY,
 kvyat,hungaroring,0.3948,5,0.2236,0.1597,1.274,KVY,hot track
 kvyat,imola,0.2604,1,0.08923,0.02974,,KVY,power / long straights
-kvyat,interlagos,-0.1135,4,-0.2846,-0.1898,-0.8305,KVY,safety-car prone
-kvyat,marina_bay,0.4566,5,0.2855,0.2039,1.278,KVY,twisty / technical
-kvyat,monaco,0.1156,5,-0.05558,-0.0397,-0.4883,KVY,twisty / technical
+kvyat,interlagos,-0.1135,4,-0.2846,-0.1898,-0.8305,KVY,"stop-go, slow corners"
+kvyat,marina_bay,0.4566,5,0.2855,0.2039,1.278,KVY,"stop-go, slow corners"
+kvyat,monaco,0.1156,5,-0.05558,-0.0397,-0.4883,KVY,"stop-go, slow corners"
 kvyat,monza,0.1053,6,-0.06587,-0.0494,-0.6361,KVY,power / long straights
 kvyat,mugello,-0.3514,1,-0.5225,-0.1742,,KVY,
 kvyat,nurburgring,0.08297,1,-0.08819,-0.0294,,KVY,
 kvyat,portimao,0.6722,1,0.501,0.167,,KVY,
 kvyat,red_bull_ring,0.3127,7,0.1416,0.1101,0.3913,KVY,hot track
 kvyat,ricard,1.219,1,1.048,0.3494,,KVY,
-kvyat,rodriguez,0.483,3,0.3118,0.1871,0.5551,KVY,overtaking-friendly
+kvyat,rodriguez,0.483,3,0.3118,0.1871,0.5551,KVY,hot track
 kvyat,sepang,-0.1286,3,-0.2998,-0.1799,-2.032,KVY,overtaking-friendly
 kvyat,shanghai,0.3278,4,0.1567,0.1044,0.5922,KVY,overtaking-friendly
 kvyat,silverstone,0.1086,7,-0.06252,-0.04863,-0.1724,KVY,safety-car prone
 kvyat,sochi,0.06348,5,-0.1077,-0.07692,-0.592,KVY,
 kvyat,spa,0.1773,6,0.006109,0.004582,0.04204,KVY,power / long straights
 kvyat,suzuka,0.4207,4,0.2496,0.1664,1.067,KVY,medium-speed technical
-kvyat,villeneuve,0.0002459,5,-0.1709,-0.1221,-0.9192,KVY,safety-car prone
+kvyat,villeneuve,0.0002459,5,-0.1709,-0.1221,-0.9192,KVY,hot track
 kvyat,yas_marina,-0.08554,5,-0.2567,-0.1834,-1.602,KVY,power / long straights
 latifi,albert_park,1.544,1,0.892,0.2973,,LAT,safety-car prone
 latifi,americas,0.5845,2,-0.06707,-0.03354,-0.2067,LAT,hot track
 latifi,bahrain,0.6363,4,-0.01528,-0.01019,-0.05411,LAT,overtaking-friendly
-latifi,baku,0.5041,2,-0.1475,-0.07376,-1.286,LAT,safety-car prone
+latifi,baku,0.5041,2,-0.1475,-0.07376,-1.286,LAT,hot track
 latifi,catalunya,0.6239,3,-0.02768,-0.01661,-0.1438,LAT,hot track
 latifi,hungaroring,0.4007,3,-0.2509,-0.1505,-1.525,LAT,hot track
 latifi,imola,0.6613,2,0.009723,0.004862,0.04416,LAT,power / long straights
-latifi,interlagos,-0.08005,1,-0.7317,-0.2439,,LAT,safety-car prone
+latifi,interlagos,-0.08005,1,-0.7317,-0.2439,,LAT,"stop-go, slow corners"
 latifi,istanbul,1.269,1,0.6177,0.2059,,LAT,
 latifi,jeddah,0.8732,2,0.2216,0.1108,0.375,LAT,power / long straights
-latifi,losail,0.5522,1,-0.09939,-0.03313,,LAT,power / long straights
-latifi,marina_bay,0.4676,1,-0.184,-0.06134,,LAT,twisty / technical
-latifi,miami,0.06465,1,-0.587,-0.1957,,LAT,safety-car prone
-latifi,monaco,0.9111,2,0.2595,0.1297,1.574,LAT,twisty / technical
+latifi,losail,0.5522,1,-0.09939,-0.03313,,LAT,safety-car prone
+latifi,marina_bay,0.4676,1,-0.184,-0.06134,,LAT,"stop-go, slow corners"
+latifi,miami,0.06465,1,-0.587,-0.1957,,LAT,hot track
+latifi,monaco,0.9111,2,0.2595,0.1297,1.574,LAT,"stop-go, slow corners"
 latifi,monza,0.3183,3,-0.3333,-0.2,-1.98,LAT,power / long straights
 latifi,mugello,0.1139,1,-0.5377,-0.1792,,LAT,
 latifi,nurburgring,0.2832,1,-0.3684,-0.1228,,LAT,
 latifi,portimao,1.379,2,0.7274,0.3637,6.761,LAT,
 latifi,red_bull_ring,0.9616,4,0.31,0.2067,3.803,LAT,hot track
 latifi,ricard,0.8024,2,0.1508,0.07541,0.5377,LAT,
-latifi,rodriguez,0.7023,2,0.05066,0.02533,0.1576,LAT,overtaking-friendly
+latifi,rodriguez,0.7023,2,0.05066,0.02533,0.1576,LAT,hot track
 latifi,silverstone,0.9084,4,0.2568,0.1712,0.7563,LAT,safety-car prone
 latifi,sochi,1.585,1,0.9331,0.311,,LAT,
 latifi,spa,0.761,3,0.1094,0.06566,1.175,LAT,power / long straights
 latifi,suzuka,0.219,1,-0.4326,-0.1442,,LAT,medium-speed technical
 latifi,yas_marina,0.1118,3,-0.5398,-0.3239,-3.555,LAT,power / long straights
-latifi,zandvoort,-0.3398,1,-0.9914,-0.3305,,LAT,safety-car prone
+latifi,zandvoort,-0.3398,1,-0.9914,-0.3305,,LAT,hot track
 lawson,albert_park,0.02876,1,-0.2453,-0.08177,,LAW,safety-car prone
 lawson,americas,-0.03243,2,-0.3065,-0.1532,-2.097,LAW,hot track
 lawson,bahrain,0.9795,1,0.7054,0.2351,,LAW,overtaking-friendly
-lawson,baku,-0.1711,2,-0.4452,-0.2226,-7.076,LAW,safety-car prone
+lawson,baku,-0.1711,2,-0.4452,-0.2226,-7.076,LAW,hot track
 lawson,catalunya,0.1855,2,-0.08857,-0.04428,-0.1698,LAW,hot track
 lawson,hungaroring,0.4158,2,0.1417,0.07087,0.7,LAW,hot track
 lawson,imola,1.151,1,0.8768,0.2923,,LAW,power / long straights
-lawson,interlagos,0.2353,2,-0.03876,-0.01938,-0.1862,LAW,safety-car prone
+lawson,interlagos,0.2353,2,-0.03876,-0.01938,-0.1862,LAW,"stop-go, slow corners"
 lawson,jeddah,-0.2567,1,-0.5308,-0.1769,,LAW,power / long straights
-lawson,losail,0.9149,3,0.6408,0.3845,1.869,LAW,power / long straights
+lawson,losail,0.9149,3,0.6408,0.3845,1.869,LAW,safety-car prone
 lawson,madring,0.3828,1,0.1087,0.03623,,LAW,hot track
-lawson,marina_bay,0.1748,3,-0.09931,-0.05959,-0.4768,LAW,twisty / technical
-lawson,miami,-0.7034,1,-0.9775,-0.3258,,LAW,safety-car prone
-lawson,monaco,-0.4178,2,-0.6918,-0.3459,-0.9769,LAW,twisty / technical
+lawson,marina_bay,0.1748,3,-0.09931,-0.05959,-0.4768,LAW,"stop-go, slow corners"
+lawson,miami,-0.7034,1,-0.9775,-0.3258,,LAW,hot track
+lawson,monaco,-0.4178,2,-0.6918,-0.3459,-0.9769,LAW,"stop-go, slow corners"
 lawson,monza,0.523,3,0.2489,0.1494,1.191,LAW,power / long straights
 lawson,red_bull_ring,-0.1441,2,-0.4182,-0.2091,-6.29,LAW,hot track
-lawson,rodriguez,0.2862,3,0.01209,0.007253,0.0372,LAW,overtaking-friendly
+lawson,rodriguez,0.2862,3,0.01209,0.007253,0.0372,LAW,hot track
 lawson,sepang,-0.8786,1,-1.153,-0.3842,,LAW,overtaking-friendly
 lawson,shanghai,0.737,2,0.4629,0.2315,0.6113,LAW,overtaking-friendly
 lawson,silverstone,0.3326,2,0.05854,0.02927,0.1731,LAW,safety-car prone
 lawson,spa,0.4725,2,0.1984,0.09922,0.4345,LAW,power / long straights
 lawson,suzuka,0.3527,3,0.07866,0.0472,1.422,LAW,medium-speed technical
 lawson,vegas,0.3441,2,0.07002,0.03501,0.08828,LAW,overtaking-friendly
-lawson,villeneuve,0.8788,2,0.6047,0.3024,16.43,LAW,safety-car prone
+lawson,villeneuve,0.8788,2,0.6047,0.3024,16.43,LAW,hot track
 lawson,yas_marina,0.07996,2,-0.1941,-0.09706,-11.82,LAW,power / long straights
-lawson,zandvoort,0.2067,2,-0.06736,-0.03368,-1.46,LAW,safety-car prone
+lawson,zandvoort,0.2067,2,-0.06736,-0.03368,-1.46,LAW,hot track
 leclerc,albert_park,-0.06894,7,0.1181,0.09185,0.8653,LEC,safety-car prone
 leclerc,americas,-0.2172,8,-0.03017,-0.02414,-0.1804,LEC,hot track
 leclerc,bahrain,-0.3006,9,-0.1135,-0.09288,-0.8477,LEC,overtaking-friendly
-leclerc,baku,-0.4926,8,-0.3055,-0.2444,-1.358,LEC,safety-car prone
+leclerc,baku,-0.4926,8,-0.3055,-0.2444,-1.358,LEC,hot track
 leclerc,catalunya,0.1226,9,0.3096,0.2533,1.125,LEC,hot track
 leclerc,hockenheimring,-1.149,1,-0.9617,-0.3206,,LEC,
 leclerc,hungaroring,-0.06308,9,0.124,0.1014,0.932,LEC,hot track
 leclerc,imola,-0.4876,5,-0.3006,-0.2147,-2,LEC,power / long straights
-leclerc,interlagos,0.01596,6,0.203,0.1522,3.073,LEC,safety-car prone
+leclerc,interlagos,0.01596,6,0.203,0.1522,3.073,LEC,"stop-go, slow corners"
 leclerc,istanbul,1.326,1,1.513,0.5043,,LEC,
 leclerc,jeddah,-0.4865,5,-0.2995,-0.2139,-2.14,LEC,power / long straights
-leclerc,losail,-0.3071,4,-0.1201,-0.08006,-0.3046,LEC,power / long straights
+leclerc,losail,-0.3071,4,-0.1201,-0.08006,-0.3046,LEC,safety-car prone
 leclerc,madring,0.006521,1,0.1936,0.06452,,LEC,hot track
-leclerc,marina_bay,-0.1842,7,0.002848,0.002215,0.02875,LEC,twisty / technical
-leclerc,miami,-0.1769,4,0.01018,0.006789,0.3255,LEC,safety-car prone
-leclerc,monaco,-0.08433,8,0.1027,0.08216,0.3839,LEC,twisty / technical
+leclerc,marina_bay,-0.1842,7,0.002848,0.002215,0.02875,LEC,"stop-go, slow corners"
+leclerc,miami,-0.1769,4,0.01018,0.006789,0.3255,LEC,hot track
+leclerc,monaco,-0.08433,8,0.1027,0.08216,0.3839,LEC,"stop-go, slow corners"
 leclerc,monza,-0.2021,9,-0.01503,-0.0123,-0.1263,LEC,power / long straights
 leclerc,mugello,-0.765,1,-0.578,-0.1927,,LEC,
 leclerc,nurburgring,-0.8105,1,-0.6235,-0.2078,,LEC,
 leclerc,portimao,-0.2578,2,-0.07072,-0.03536,-0.3502,LEC,
 leclerc,red_bull_ring,-0.2578,11,-0.07077,-0.05989,-0.586,LEC,hot track
 leclerc,ricard,-0.3698,4,-0.1828,-0.1218,-0.8547,LEC,
-leclerc,rodriguez,-0.0004948,8,0.1865,0.1492,1.96,LEC,overtaking-friendly
+leclerc,rodriguez,-0.0004948,8,0.1865,0.1492,1.96,LEC,hot track
 leclerc,sepang,0.2494,1,0.4364,0.1455,,LEC,overtaking-friendly
 leclerc,shanghai,-0.07144,5,0.1156,0.08257,1.101,LEC,overtaking-friendly
 leclerc,silverstone,-0.2678,10,-0.08072,-0.06727,-0.53,LEC,safety-car prone
@@ -587,73 +587,73 @@ leclerc,sochi,-0.4899,3,-0.3029,-0.1817,-4.706,LEC,
 leclerc,spa,-0.2823,9,-0.09527,-0.07795,-0.8168,LEC,power / long straights
 leclerc,suzuka,-0.3376,7,-0.1505,-0.1171,-0.6396,LEC,medium-speed technical
 leclerc,vegas,0.1781,2,0.3651,0.1826,1.619,LEC,overtaking-friendly
-leclerc,villeneuve,0.4311,5,0.6182,0.4416,2.829,LEC,safety-car prone
+leclerc,villeneuve,0.4311,5,0.6182,0.4416,2.829,LEC,hot track
 leclerc,yas_marina,-0.4282,8,-0.2412,-0.193,-1.064,LEC,power / long straights
-leclerc,zandvoort,0.1181,6,0.3051,0.2288,1.249,LEC,safety-car prone
+leclerc,zandvoort,0.1181,6,0.3051,0.2288,1.249,LEC,hot track
 maldonado,albert_park,0.1874,1,-0.2212,-0.07373,,MAL,safety-car prone
 maldonado,americas,-0.3551,2,-0.7638,-0.3819,-0.8873,MAL,hot track
 maldonado,bahrain,1.219,2,0.8105,0.4052,1.877,MAL,overtaking-friendly
 maldonado,catalunya,-0.1076,1,-0.5162,-0.1721,,MAL,hot track
 maldonado,hockenheimring,1.649,1,1.24,0.4135,,MAL,
 maldonado,hungaroring,0.1074,1,-0.3012,-0.1004,,MAL,hot track
-maldonado,interlagos,0.3612,2,-0.04743,-0.02371,-0.5321,MAL,safety-car prone
-maldonado,marina_bay,1.298,2,0.8889,0.4444,6.48,MAL,twisty / technical
-maldonado,monaco,-0.04833,2,-0.457,-0.2285,-1.807,MAL,twisty / technical
+maldonado,interlagos,0.3612,2,-0.04743,-0.02371,-0.5321,MAL,"stop-go, slow corners"
+maldonado,marina_bay,1.298,2,0.8889,0.4444,6.48,MAL,"stop-go, slow corners"
+maldonado,monaco,-0.04833,2,-0.457,-0.2285,-1.807,MAL,"stop-go, slow corners"
 maldonado,monza,-0.01831,2,-0.427,-0.2135,-3.899,MAL,power / long straights
 maldonado,red_bull_ring,-0.04576,2,-0.4544,-0.2272,-0.6537,MAL,hot track
-maldonado,rodriguez,0.2752,1,-0.1335,-0.04449,,MAL,overtaking-friendly
+maldonado,rodriguez,0.2752,1,-0.1335,-0.04449,,MAL,hot track
 maldonado,sepang,0.8076,2,0.399,0.1995,0.5321,MAL,overtaking-friendly
 maldonado,shanghai,0.2339,1,-0.1747,-0.05825,,MAL,overtaking-friendly
 maldonado,silverstone,0.08578,1,-0.3229,-0.1076,,MAL,safety-car prone
 maldonado,sochi,1.383,2,0.974,0.487,2.432,MAL,
 maldonado,spa,0.2275,2,-0.1811,-0.09055,-3.639,MAL,power / long straights
 maldonado,suzuka,0.2471,2,-0.1615,-0.08076,-0.5097,MAL,medium-speed technical
-maldonado,villeneuve,0.1889,1,-0.2198,-0.07326,,MAL,safety-car prone
+maldonado,villeneuve,0.1889,1,-0.2198,-0.07326,,MAL,hot track
 maldonado,yas_marina,0.153,2,-0.2557,-0.1278,-4.03,MAL,power / long straights
 massa,albert_park,-0.3604,3,-0.3166,-0.1899,-2.181,MAS,safety-car prone
 massa,americas,-0.2498,4,-0.206,-0.1373,-0.4045,MAS,hot track
 massa,bahrain,-0.1229,4,-0.07903,-0.05269,-0.2198,MAS,overtaking-friendly
-massa,baku,0.2233,2,0.2672,0.1336,1.228,MAS,safety-car prone
+massa,baku,0.2233,2,0.2672,0.1336,1.228,MAS,hot track
 massa,catalunya,0.307,4,0.3509,0.2339,0.5399,MAS,hot track
 massa,hockenheimring,0.2906,2,0.3344,0.1672,2.675,MAS,
 massa,hungaroring,0.5948,2,0.6386,0.3193,2.953,MAS,hot track
-massa,interlagos,-0.3132,4,-0.2694,-0.1796,-0.5867,MAS,safety-car prone
-massa,marina_bay,-0.1486,4,-0.1048,-0.06987,-0.5322,MAS,twisty / technical
-massa,monaco,-0.6568,4,-0.613,-0.4086,-1.307,MAS,twisty / technical
+massa,interlagos,-0.3132,4,-0.2694,-0.1796,-0.5867,MAS,"stop-go, slow corners"
+massa,marina_bay,-0.1486,4,-0.1048,-0.06987,-0.5322,MAS,"stop-go, slow corners"
+massa,monaco,-0.6568,4,-0.613,-0.4086,-1.307,MAS,"stop-go, slow corners"
 massa,monza,0.2867,4,0.3306,0.2204,1.665,MAS,power / long straights
 massa,red_bull_ring,-0.01774,4,0.0261,0.0174,0.2114,MAS,hot track
-massa,rodriguez,-0.08838,3,-0.04454,-0.02673,-0.09222,MAS,overtaking-friendly
+massa,rodriguez,-0.08838,3,-0.04454,-0.02673,-0.09222,MAS,hot track
 massa,sepang,0.029,4,0.07283,0.04856,0.4797,MAS,overtaking-friendly
 massa,shanghai,0.07401,4,0.1178,0.07857,0.3361,MAS,overtaking-friendly
 massa,silverstone,0.3336,3,0.3774,0.2264,2.59,MAS,safety-car prone
 massa,sochi,0.1931,3,0.237,0.1422,0.3989,MAS,
 massa,spa,-0.1394,4,-0.09552,-0.06368,-0.3209,MAS,power / long straights
 massa,suzuka,0.2784,3,0.3223,0.1934,3.002,MAS,medium-speed technical
-massa,villeneuve,-0.5497,3,-0.5059,-0.3035,-0.7953,MAS,safety-car prone
+massa,villeneuve,-0.5497,3,-0.5059,-0.3035,-0.7953,MAS,hot track
 massa,yas_marina,-0.2467,4,-0.2029,-0.1353,-0.8156,MAS,power / long straights
 max_verstappen,albert_park,-0.175,6,0.262,0.1965,1.731,VER,safety-car prone
 max_verstappen,americas,-0.1184,10,0.3186,0.2655,1.571,VER,hot track
 max_verstappen,bahrain,-0.3473,12,0.08963,0.07683,0.3875,VER,overtaking-friendly
-max_verstappen,baku,-0.02241,9,0.4146,0.3392,3.908,VER,safety-car prone
+max_verstappen,baku,-0.02241,9,0.4146,0.3392,3.908,VER,hot track
 max_verstappen,catalunya,-0.49,11,-0.05304,-0.04488,-0.2967,VER,hot track
 max_verstappen,hockenheimring,-0.1156,2,0.3214,0.1607,1.235,VER,
 max_verstappen,hungaroring,-0.5455,10,-0.1085,-0.09041,-0.65,VER,hot track
 max_verstappen,imola,-0.5909,4,-0.1539,-0.1026,-0.5619,VER,power / long straights
-max_verstappen,interlagos,-0.3678,10,0.06914,0.05762,0.8018,VER,safety-car prone
+max_verstappen,interlagos,-0.3678,10,0.06914,0.05762,0.8018,VER,"stop-go, slow corners"
 max_verstappen,istanbul,-0.6093,1,-0.1723,-0.05743,,VER,
 max_verstappen,jeddah,-0.1296,5,0.3074,0.2196,1.254,VER,power / long straights
-max_verstappen,losail,-1.437,4,-1,-0.6668,-5.375,VER,power / long straights
+max_verstappen,losail,-1.437,4,-1,-0.6668,-5.375,VER,safety-car prone
 max_verstappen,madring,-0.3813,1,0.05567,0.01856,,VER,hot track
-max_verstappen,marina_bay,-0.2374,9,0.1995,0.1633,0.6669,VER,twisty / technical
-max_verstappen,miami,-0.1107,3,0.3263,0.1958,4.656,VER,safety-car prone
-max_verstappen,monaco,-0.5215,7,-0.08455,-0.06576,-0.6521,VER,twisty / technical
+max_verstappen,marina_bay,-0.2374,9,0.1995,0.1633,0.6669,VER,"stop-go, slow corners"
+max_verstappen,miami,-0.1107,3,0.3263,0.1958,4.656,VER,hot track
+max_verstappen,monaco,-0.5215,7,-0.08455,-0.06576,-0.6521,VER,"stop-go, slow corners"
 max_verstappen,monza,-0.6839,10,-0.2469,-0.2058,-2.15,VER,power / long straights
 max_verstappen,mugello,-0.5836,1,-0.1466,-0.04886,,VER,
 max_verstappen,nurburgring,-0.6741,1,-0.2371,-0.07903,,VER,
 max_verstappen,portimao,-0.4673,2,-0.03031,-0.01515,-0.1378,VER,
 max_verstappen,red_bull_ring,-0.728,14,-0.291,-0.2546,-1.918,VER,hot track
 max_verstappen,ricard,-0.4364,4,0.0005875,0.0003917,0.003692,VER,
-max_verstappen,rodriguez,-0.5748,11,-0.1379,-0.1166,-0.8047,VER,overtaking-friendly
+max_verstappen,rodriguez,-0.5748,11,-0.1379,-0.1166,-0.8047,VER,hot track
 max_verstappen,sepang,0.1058,4,0.5427,0.3618,1.773,VER,overtaking-friendly
 max_verstappen,shanghai,-0.4062,7,0.03082,0.02397,0.1372,VER,overtaking-friendly
 max_verstappen,silverstone,-0.5349,10,-0.09796,-0.08163,-0.439,VER,safety-car prone
@@ -661,75 +661,75 @@ max_verstappen,sochi,-0.329,4,0.108,0.07201,0.3399,VER,
 max_verstappen,spa,-0.5484,12,-0.1114,-0.09552,-0.675,VER,power / long straights
 max_verstappen,suzuka,-0.3223,10,0.1147,0.0956,0.7008,VER,medium-speed technical
 max_verstappen,vegas,-1.121,2,-0.6843,-0.3421,-2.131,VER,overtaking-friendly
-max_verstappen,villeneuve,-0.299,8,0.138,0.1104,0.4396,VER,safety-car prone
+max_verstappen,villeneuve,-0.299,8,0.138,0.1104,0.4396,VER,hot track
 max_verstappen,yas_marina,-0.32,11,0.1169,0.09896,0.7887,VER,power / long straights
-max_verstappen,zandvoort,-0.9144,5,-0.4774,-0.341,-1.712,VER,safety-car prone
+max_verstappen,zandvoort,-0.9144,5,-0.4774,-0.341,-1.712,VER,hot track
 mick_schumacher,albert_park,-0.1869,1,-0.02677,-0.008922,,MSC,safety-car prone
 mick_schumacher,americas,-0.06987,2,0.09027,0.04514,0.381,MSC,hot track
 mick_schumacher,bahrain,-0.1481,2,0.01199,0.005997,0.01631,MSC,overtaking-friendly
-mick_schumacher,baku,0.5025,2,0.6627,0.3313,1.144,MSC,safety-car prone
+mick_schumacher,baku,0.5025,2,0.6627,0.3313,1.144,MSC,hot track
 mick_schumacher,catalunya,-0.001832,2,0.1583,0.07915,0.1835,MSC,hot track
 mick_schumacher,hungaroring,0.4301,1,0.5902,0.1967,,MSC,hot track
 mick_schumacher,imola,-0.01185,2,0.1483,0.07414,0.2238,MSC,power / long straights
-mick_schumacher,interlagos,-0.3683,1,-0.2082,-0.0694,,MSC,safety-car prone
+mick_schumacher,interlagos,-0.3683,1,-0.2082,-0.0694,,MSC,"stop-go, slow corners"
 mick_schumacher,jeddah,-0.3488,2,-0.1887,-0.09433,-0.2461,MSC,power / long straights
-mick_schumacher,miami,-0.6068,1,-0.4466,-0.1489,,MSC,safety-car prone
-mick_schumacher,monaco,0.2194,1,0.3796,0.1265,,MSC,twisty / technical
+mick_schumacher,miami,-0.6068,1,-0.4466,-0.1489,,MSC,hot track
+mick_schumacher,monaco,0.2194,1,0.3796,0.1265,,MSC,"stop-go, slow corners"
 mick_schumacher,monza,-0.2244,2,-0.06426,-0.03213,-0.1882,MSC,power / long straights
 mick_schumacher,portimao,-0.5685,1,-0.4084,-0.1361,,MSC,
 mick_schumacher,red_bull_ring,-0.2741,3,-0.114,-0.06837,-0.3955,MSC,hot track
 mick_schumacher,ricard,0.2407,2,0.4008,0.2004,0.4479,MSC,
-mick_schumacher,rodriguez,0.08645,2,0.2466,0.1233,0.3808,MSC,overtaking-friendly
+mick_schumacher,rodriguez,0.08645,2,0.2466,0.1233,0.3808,MSC,hot track
 mick_schumacher,silverstone,0.09296,2,0.2531,0.1265,0.5695,MSC,safety-car prone
 mick_schumacher,spa,-0.4875,2,-0.3273,-0.1637,-1.146,MSC,power / long straights
 mick_schumacher,suzuka,-0.2189,1,-0.05879,-0.0196,,MSC,medium-speed technical
-mick_schumacher,villeneuve,0.4773,1,0.6375,0.2125,,MSC,safety-car prone
+mick_schumacher,villeneuve,0.4773,1,0.6375,0.2125,,MSC,hot track
 mick_schumacher,yas_marina,-0.8093,2,-0.6492,-0.3246,-6.504,MSC,power / long straights
-mick_schumacher,zandvoort,-0.961,2,-0.8009,-0.4004,-2.839,MSC,safety-car prone
+mick_schumacher,zandvoort,-0.961,2,-0.8009,-0.4004,-2.839,MSC,hot track
 nasr,albert_park,0.5982,1,0.4988,0.1663,,NAS,safety-car prone
 nasr,americas,0.6787,2,0.5793,0.2896,4.641,NAS,hot track
 nasr,bahrain,0.6774,2,0.578,0.289,0.5839,NAS,overtaking-friendly
-nasr,baku,-0.642,1,-0.7414,-0.2471,,NAS,safety-car prone
+nasr,baku,-0.642,1,-0.7414,-0.2471,,NAS,hot track
 nasr,catalunya,-0.05511,2,-0.1545,-0.07725,-0.3105,NAS,hot track
 nasr,hockenheimring,-0.1489,1,-0.2483,-0.08276,,NAS,
 nasr,hungaroring,0.1815,1,0.08212,0.02737,,NAS,hot track
-nasr,interlagos,-0.1272,2,-0.2266,-0.1133,-1.1,NAS,safety-car prone
-nasr,marina_bay,0.146,2,0.0466,0.0233,0.1787,NAS,twisty / technical
-nasr,monaco,-0.5248,1,-0.6241,-0.208,,NAS,twisty / technical
+nasr,interlagos,-0.1272,2,-0.2266,-0.1133,-1.1,NAS,"stop-go, slow corners"
+nasr,marina_bay,0.146,2,0.0466,0.0233,0.1787,NAS,"stop-go, slow corners"
+nasr,monaco,-0.5248,1,-0.6241,-0.208,,NAS,"stop-go, slow corners"
 nasr,monza,0.1832,2,0.08379,0.0419,0.2472,NAS,power / long straights
 nasr,red_bull_ring,-0.5291,2,-0.6284,-0.3142,-1.103,NAS,hot track
-nasr,rodriguez,0.6893,2,0.5899,0.295,6.715,NAS,overtaking-friendly
+nasr,rodriguez,0.6893,2,0.5899,0.295,6.715,NAS,hot track
 nasr,sepang,0.5518,2,0.4524,0.2262,1.095,NAS,overtaking-friendly
 nasr,shanghai,0.1133,2,0.0139,0.006951,0.06168,NAS,overtaking-friendly
 nasr,silverstone,0.2589,1,0.1595,0.05316,,NAS,safety-car prone
 nasr,sochi,-0.9158,2,-1.015,-0.5076,-2.462,NAS,
 nasr,spa,0.1399,2,0.04053,0.02027,0.161,NAS,power / long straights
 nasr,suzuka,0.1045,2,0.005075,0.002537,0.375,NAS,medium-speed technical
-nasr,villeneuve,0.9143,2,0.8149,0.4075,1.832,NAS,safety-car prone
+nasr,villeneuve,0.9143,2,0.8149,0.4075,1.832,NAS,hot track
 nasr,yas_marina,-0.6436,2,-0.743,-0.3715,-2.819,NAS,power / long straights
 norris,albert_park,-0.3649,6,-0.1342,-0.1006,-0.9102,NOR,safety-car prone
 norris,americas,-0.4086,7,-0.1778,-0.1383,-0.8265,NOR,hot track
 norris,bahrain,-0.1087,8,0.1221,0.09768,0.5712,NOR,overtaking-friendly
-norris,baku,0.1443,7,0.3751,0.2917,1.221,NOR,safety-car prone
+norris,baku,0.1443,7,0.3751,0.2917,1.221,NOR,hot track
 norris,catalunya,-0.1034,8,0.1274,0.1019,0.8804,NOR,hot track
 norris,hockenheimring,0.9651,1,1.196,0.3986,,NOR,
 norris,hungaroring,-0.2895,8,-0.05877,-0.04702,-0.6225,NOR,hot track
 norris,imola,-0.1436,5,0.08722,0.0623,0.4298,NOR,power / long straights
-norris,interlagos,-0.7118,5,-0.481,-0.3436,-1.895,NOR,safety-car prone
+norris,interlagos,-0.7118,5,-0.481,-0.3436,-1.895,NOR,"stop-go, slow corners"
 norris,istanbul,-0.4029,1,-0.1721,-0.05738,,NOR,
 norris,jeddah,0.2848,5,0.5156,0.3683,1.896,NOR,power / long straights
-norris,losail,-0.2029,4,0.02792,0.01861,0.09732,NOR,power / long straights
+norris,losail,-0.2029,4,0.02792,0.01861,0.09732,NOR,safety-car prone
 norris,madring,-0.5092,1,-0.2785,-0.09282,,NOR,hot track
-norris,marina_bay,-0.4457,5,-0.2149,-0.1535,-0.6474,NOR,twisty / technical
-norris,miami,-0.2778,4,-0.04705,-0.03137,-0.2981,NOR,safety-car prone
-norris,monaco,-0.3638,7,-0.1331,-0.1035,-0.4529,NOR,twisty / technical
+norris,marina_bay,-0.4457,5,-0.2149,-0.1535,-0.6474,NOR,"stop-go, slow corners"
+norris,miami,-0.2778,4,-0.04705,-0.03137,-0.2981,NOR,hot track
+norris,monaco,-0.3638,7,-0.1331,-0.1035,-0.4529,NOR,"stop-go, slow corners"
 norris,monza,0.05687,8,0.2876,0.2301,2.965,NOR,power / long straights
 norris,mugello,0.1542,1,0.385,0.1283,,NOR,
 norris,nurburgring,-0.05211,1,0.1787,0.05956,,NOR,
 norris,portimao,-0.7611,2,-0.5303,-0.2651,-0.5642,NOR,
 norris,red_bull_ring,-0.7093,10,-0.4785,-0.3987,-3.048,NOR,hot track
 norris,ricard,-0.4054,3,-0.1746,-0.1048,-0.6321,NOR,
-norris,rodriguez,-0.5181,6,-0.2873,-0.2155,-0.7072,NOR,overtaking-friendly
+norris,rodriguez,-0.5181,6,-0.2873,-0.2155,-0.7072,NOR,hot track
 norris,sepang,-0.005221,1,0.2256,0.07518,,NOR,overtaking-friendly
 norris,shanghai,0.146,4,0.3768,0.2512,3.05,NOR,overtaking-friendly
 norris,silverstone,-0.1851,9,0.04564,0.03734,0.9705,NOR,safety-car prone
@@ -737,31 +737,31 @@ norris,sochi,0.2028,2,0.4336,0.2168,3.672,NOR,
 norris,spa,-0.3083,8,-0.0775,-0.062,-0.3496,NOR,power / long straights
 norris,suzuka,-0.002693,6,0.2281,0.1711,2.415,NOR,medium-speed technical
 norris,vegas,-0.3716,3,-0.1408,-0.08448,-0.4885,NOR,overtaking-friendly
-norris,villeneuve,0.06488,5,0.2957,0.2112,1.633,NOR,safety-car prone
+norris,villeneuve,0.06488,5,0.2957,0.2112,1.633,NOR,hot track
 norris,yas_marina,-0.1919,7,0.03883,0.0302,0.4136,NOR,power / long straights
-norris,zandvoort,-0.4361,6,-0.2053,-0.154,-0.6346,NOR,safety-car prone
+norris,zandvoort,-0.4361,6,-0.2053,-0.154,-0.6346,NOR,hot track
 ocon,albert_park,0.2506,6,0.0692,0.0519,0.4362,OCO,safety-car prone
 ocon,americas,0.3155,9,0.1341,0.1097,0.6718,OCO,hot track
 ocon,bahrain,-0.1495,9,-0.3309,-0.2707,-1.171,OCO,overtaking-friendly
-ocon,baku,0.34,6,0.1586,0.1189,0.7997,OCO,safety-car prone
+ocon,baku,0.34,6,0.1586,0.1189,0.7997,OCO,hot track
 ocon,catalunya,0.1331,9,-0.04834,-0.03955,-0.3247,OCO,hot track
 ocon,hockenheimring,1.3,1,1.119,0.3728,,OCO,
 ocon,hungaroring,-0.0783,9,-0.2597,-0.2125,-2.374,OCO,hot track
 ocon,imola,-0.06394,4,-0.2453,-0.1636,-0.7201,OCO,power / long straights
-ocon,interlagos,0.2478,7,0.06642,0.05166,0.5048,OCO,safety-car prone
+ocon,interlagos,0.2478,7,0.06642,0.05166,0.5048,OCO,"stop-go, slow corners"
 ocon,istanbul,1.278,2,1.096,0.5482,3.067,OCO,
 ocon,jeddah,-0.03329,5,-0.2147,-0.1533,-1.195,OCO,power / long straights
-ocon,losail,0.6912,4,0.5098,0.3399,1.711,OCO,power / long straights
-ocon,marina_bay,0.2747,7,0.09329,0.07256,0.3646,OCO,twisty / technical
-ocon,miami,0.1855,3,0.00415,0.00249,0.02086,OCO,safety-car prone
-ocon,monaco,-0.1533,8,-0.3347,-0.2677,-1.149,OCO,twisty / technical
+ocon,losail,0.6912,4,0.5098,0.3399,1.711,OCO,safety-car prone
+ocon,marina_bay,0.2747,7,0.09329,0.07256,0.3646,OCO,"stop-go, slow corners"
+ocon,miami,0.1855,3,0.00415,0.00249,0.02086,OCO,hot track
+ocon,monaco,-0.1533,8,-0.3347,-0.2677,-1.149,OCO,"stop-go, slow corners"
 ocon,monza,0.1196,9,-0.06183,-0.05059,-0.3762,OCO,power / long straights
 ocon,mugello,0.07083,1,-0.1106,-0.03686,,OCO,
 ocon,nurburgring,0.1696,1,-0.01182,-0.003939,,OCO,
 ocon,portimao,-0.4616,2,-0.643,-0.3215,-1.015,OCO,
 ocon,red_bull_ring,0.21,11,0.02864,0.02424,0.156,OCO,hot track
 ocon,ricard,0.1865,3,0.005114,0.003068,0.01706,OCO,
-ocon,rodriguez,0.2496,8,0.06817,0.05453,0.365,OCO,overtaking-friendly
+ocon,rodriguez,0.2496,8,0.06817,0.05453,0.365,OCO,hot track
 ocon,sepang,0.03695,3,-0.1444,-0.08667,-1.232,OCO,overtaking-friendly
 ocon,shanghai,0.4208,5,0.2394,0.171,0.5997,OCO,overtaking-friendly
 ocon,silverstone,0.3998,9,0.2185,0.1787,1.375,OCO,safety-car prone
@@ -769,31 +769,31 @@ ocon,sochi,0.4777,4,0.2963,0.1975,0.7547,OCO,
 ocon,spa,0.1097,9,-0.07172,-0.05868,-0.4542,OCO,power / long straights
 ocon,suzuka,-0.07332,8,-0.2547,-0.2038,-1.289,OCO,medium-speed technical
 ocon,vegas,0.739,3,0.5577,0.3346,1.061,OCO,overtaking-friendly
-ocon,villeneuve,0.5033,6,0.3219,0.2414,0.9802,OCO,safety-car prone
+ocon,villeneuve,0.5033,6,0.3219,0.2414,0.9802,OCO,hot track
 ocon,yas_marina,-0.06716,8,-0.2486,-0.1988,-1.929,OCO,power / long straights
-ocon,zandvoort,0.1153,5,-0.0661,-0.04722,-0.156,OCO,safety-car prone
+ocon,zandvoort,0.1153,5,-0.0661,-0.04722,-0.156,OCO,hot track
 perez,albert_park,-0.2014,9,-0.3451,-0.2824,-2.328,PER,safety-car prone
 perez,americas,0.3246,10,0.1808,0.1507,1.812,PER,hot track
 perez,bahrain,0.3183,12,0.1746,0.1496,0.822,PER,overtaking-friendly
-perez,baku,-0.4352,9,-0.5789,-0.4737,-2.74,PER,safety-car prone
+perez,baku,-0.4352,9,-0.5789,-0.4737,-2.74,PER,hot track
 perez,catalunya,0.2277,12,0.08394,0.07195,0.433,PER,hot track
 perez,hockenheimring,-0.4812,4,-0.625,-0.4166,-2.018,PER,
 perez,hungaroring,0.4497,10,0.306,0.255,1.998,PER,hot track
 perez,imola,0.3198,4,0.1761,0.1174,0.4333,PER,power / long straights
-perez,interlagos,0.2014,10,0.0576,0.048,0.3335,PER,safety-car prone
+perez,interlagos,0.2014,10,0.0576,0.048,0.3335,PER,"stop-go, slow corners"
 perez,istanbul,1.028,2,0.8847,0.4423,2.13,PER,
 perez,jeddah,-0.03415,4,-0.1779,-0.1186,-0.7626,PER,power / long straights
-perez,losail,1.216,2,1.073,0.5364,11.59,PER,power / long straights
-perez,marina_bay,-0.3658,10,-0.5096,-0.4247,-1.944,PER,twisty / technical
-perez,miami,0.1754,4,0.03164,0.02109,0.3885,PER,safety-car prone
-perez,monaco,-0.2523,9,-0.396,-0.324,-2.143,PER,twisty / technical
+perez,losail,1.216,2,1.073,0.5364,11.59,PER,safety-car prone
+perez,marina_bay,-0.3658,10,-0.5096,-0.4247,-1.944,PER,"stop-go, slow corners"
+perez,miami,0.1754,4,0.03164,0.02109,0.3885,PER,hot track
+perez,monaco,-0.2523,9,-0.396,-0.324,-2.143,PER,"stop-go, slow corners"
 perez,monza,0.3514,12,0.2076,0.1779,1.33,PER,power / long straights
 perez,mugello,0.05244,1,-0.09131,-0.03044,,PER,
 perez,nurburgring,-1.921,1,-2.065,-0.6883,,PER,
 perez,portimao,-0.1962,2,-0.3399,-0.17,-0.7654,PER,
 perez,red_bull_ring,0.514,12,0.3702,0.3173,2.001,PER,hot track
 perez,ricard,0.003625,4,-0.1401,-0.09342,-0.3819,PER,
-perez,rodriguez,0.1528,10,0.009042,0.007535,0.02811,PER,overtaking-friendly
+perez,rodriguez,0.1528,10,0.009042,0.007535,0.02811,PER,hot track
 perez,sepang,0.2823,5,0.1386,0.09899,0.7047,PER,overtaking-friendly
 perez,shanghai,-0.3087,7,-0.4525,-0.3519,-1.118,PER,overtaking-friendly
 perez,silverstone,0.3484,9,0.2046,0.1674,1.228,PER,safety-car prone
@@ -801,139 +801,139 @@ perez,sochi,-0.2462,7,-0.39,-0.3033,-2.23,PER,
 perez,spa,0.04853,12,-0.09522,-0.08162,-0.6454,PER,power / long straights
 perez,suzuka,0.225,10,0.08123,0.06769,0.5653,PER,medium-speed technical
 perez,vegas,1.135,2,0.9913,0.4956,3.019,PER,overtaking-friendly
-perez,villeneuve,0.2634,8,0.1197,0.09574,0.4088,PER,safety-car prone
+perez,villeneuve,0.2634,8,0.1197,0.09574,0.4088,PER,hot track
 perez,yas_marina,0.2193,11,0.07554,0.06392,0.5322,PER,power / long straights
-perez,zandvoort,0.9415,4,0.7978,0.5318,2.329,PER,safety-car prone
+perez,zandvoort,0.9415,4,0.7978,0.5318,2.329,PER,hot track
 piastri,albert_park,0.2096,4,0.01392,0.009282,0.1019,PIA,safety-car prone
 piastri,americas,0.4758,4,0.28,0.1867,2.635,PIA,hot track
 piastri,bahrain,0.131,3,-0.06473,-0.03884,-0.1775,PIA,overtaking-friendly
-piastri,baku,-0.4341,4,-0.6298,-0.4199,-1.283,PIA,safety-car prone
+piastri,baku,-0.4341,4,-0.6298,-0.4199,-1.283,PIA,hot track
 piastri,catalunya,0.274,4,0.07829,0.05219,0.3188,PIA,hot track
 piastri,hungaroring,0.2476,4,0.05185,0.03457,0.385,PIA,hot track
 piastri,imola,-0.2061,2,-0.4018,-0.2009,-2.191,PIA,power / long straights
-piastri,interlagos,0.8144,3,0.6187,0.3712,1.715,PIA,safety-car prone
+piastri,interlagos,0.8144,3,0.6187,0.3712,1.715,PIA,"stop-go, slow corners"
 piastri,jeddah,-0.5274,3,-0.7231,-0.4339,-1.789,PIA,power / long straights
-piastri,losail,-0.07884,3,-0.2746,-0.1647,-3.641,PIA,power / long straights
+piastri,losail,-0.07884,3,-0.2746,-0.1647,-3.641,PIA,safety-car prone
 piastri,madring,0.5118,1,0.3161,0.1054,,PIA,hot track
-piastri,marina_bay,0.5022,4,0.3065,0.2043,0.71,PIA,twisty / technical
-piastri,miami,0.1211,3,-0.07463,-0.04478,-3.098,PIA,safety-car prone
-piastri,monaco,0.02106,4,-0.1747,-0.1164,-1.492,PIA,twisty / technical
+piastri,marina_bay,0.5022,4,0.3065,0.2043,0.71,PIA,"stop-go, slow corners"
+piastri,miami,0.1211,3,-0.07463,-0.04478,-3.098,PIA,hot track
+piastri,monaco,0.02106,4,-0.1747,-0.1164,-1.492,PIA,"stop-go, slow corners"
 piastri,monza,-0.02049,4,-0.2162,-0.1441,-2.255,PIA,power / long straights
 piastri,red_bull_ring,0.7249,4,0.5291,0.3528,1.721,PIA,hot track
-piastri,rodriguez,1.243,3,1.047,0.6281,3.706,PIA,overtaking-friendly
+piastri,rodriguez,1.243,3,1.047,0.6281,3.706,PIA,hot track
 piastri,sepang,0.005222,1,-0.1905,-0.0635,,PIA,overtaking-friendly
 piastri,shanghai,-0.03625,3,-0.232,-0.1392,-2.877,PIA,overtaking-friendly
 piastri,silverstone,0.137,4,-0.05872,-0.03914,-1.069,PIA,safety-car prone
 piastri,spa,0.006701,4,-0.189,-0.126,-1.835,PIA,power / long straights
 piastri,suzuka,-0.001471,4,-0.1972,-0.1315,-1.556,PIA,medium-speed technical
 piastri,vegas,0.3746,3,0.1789,0.1074,0.6145,PIA,overtaking-friendly
-piastri,villeneuve,-0.02261,4,-0.2183,-0.1456,-0.9619,PIA,safety-car prone
+piastri,villeneuve,-0.02261,4,-0.2183,-0.1456,-0.9619,PIA,hot track
 piastri,yas_marina,0.08256,3,-0.1132,-0.0679,-1.286,PIA,power / long straights
-piastri,zandvoort,0.5178,4,0.3221,0.2147,1.206,PIA,safety-car prone
+piastri,zandvoort,0.5178,4,0.3221,0.2147,1.206,PIA,hot track
 raikkonen,albert_park,0.3622,6,0.1333,0.09994,0.6588,RAI,safety-car prone
 raikkonen,americas,0.08217,7,-0.1468,-0.1142,-1.3,RAI,hot track
 raikkonen,bahrain,0.1745,9,-0.05441,-0.04451,-0.2652,RAI,overtaking-friendly
-raikkonen,baku,0.3745,3,0.1456,0.08733,0.4455,RAI,safety-car prone
+raikkonen,baku,0.3745,3,0.1456,0.08733,0.4455,RAI,hot track
 raikkonen,catalunya,-0.1266,8,-0.3556,-0.2844,-1.172,RAI,hot track
 raikkonen,hockenheimring,0.1694,4,-0.05956,-0.03971,-0.2128,RAI,
 raikkonen,hungaroring,0.1318,6,-0.09716,-0.07287,-0.3489,RAI,hot track
 raikkonen,imola,-0.2645,2,-0.4935,-0.2467,-7.04,RAI,power / long straights
-raikkonen,interlagos,0.1491,7,-0.07981,-0.06207,-1.017,RAI,safety-car prone
+raikkonen,interlagos,0.1491,7,-0.07981,-0.06207,-1.017,RAI,"stop-go, slow corners"
 raikkonen,istanbul,0.3311,2,0.1021,0.05107,0.1091,RAI,
 raikkonen,jeddah,0.2708,1,0.0419,0.01397,,RAI,power / long straights
-raikkonen,losail,-0.1273,1,-0.3562,-0.1187,,RAI,power / long straights
-raikkonen,marina_bay,0.3834,5,0.1545,0.1103,1.289,RAI,twisty / technical
-raikkonen,monaco,0.4065,7,0.1776,0.1381,1.297,RAI,twisty / technical
+raikkonen,losail,-0.1273,1,-0.3562,-0.1187,,RAI,safety-car prone
+raikkonen,marina_bay,0.3834,5,0.1545,0.1103,1.289,RAI,"stop-go, slow corners"
+raikkonen,monaco,0.4065,7,0.1776,0.1381,1.297,RAI,"stop-go, slow corners"
 raikkonen,monza,0.1805,7,-0.04845,-0.03768,-0.2767,RAI,power / long straights
 raikkonen,mugello,-0.474,1,-0.7029,-0.2343,,RAI,
 raikkonen,nurburgring,1.013,1,0.7845,0.2615,,RAI,
 raikkonen,portimao,0.2579,2,0.02897,0.01449,0.07004,RAI,
 raikkonen,red_bull_ring,0.2548,9,0.02591,0.0212,0.1503,RAI,hot track
 raikkonen,ricard,0.7427,3,0.5138,0.3083,1.083,RAI,
-raikkonen,rodriguez,0.4431,6,0.2142,0.1606,0.5737,RAI,overtaking-friendly
+raikkonen,rodriguez,0.4431,6,0.2142,0.1606,0.5737,RAI,hot track
 raikkonen,sepang,0.3822,3,0.1533,0.09198,0.7125,RAI,overtaking-friendly
 raikkonen,shanghai,0.3341,5,0.1052,0.07514,0.4963,RAI,overtaking-friendly
 raikkonen,silverstone,0.1648,9,-0.06412,-0.05246,-0.6328,RAI,safety-car prone
 raikkonen,sochi,0.1928,8,-0.03613,-0.0289,-0.1533,RAI,
 raikkonen,spa,0.2006,8,-0.02835,-0.02268,-0.08855,RAI,power / long straights
 raikkonen,suzuka,0.3724,6,0.1435,0.1076,0.8542,RAI,medium-speed technical
-raikkonen,villeneuve,0.5194,5,0.2905,0.2075,2.664,RAI,safety-car prone
+raikkonen,villeneuve,0.5194,5,0.2905,0.2075,2.664,RAI,hot track
 raikkonen,yas_marina,0.04402,8,-0.1849,-0.1479,-0.6556,RAI,power / long straights
 ricciardo,albert_park,0.1416,7,0.08179,0.06361,0.2232,RIC,safety-car prone
 ricciardo,americas,-0.1712,8,-0.231,-0.1848,-0.7887,RIC,hot track
 ricciardo,bahrain,-0.3444,10,-0.4042,-0.3369,-1.76,RIC,overtaking-friendly
-ricciardo,baku,0.02017,7,-0.03964,-0.03083,-0.1974,RIC,safety-car prone
+ricciardo,baku,0.02017,7,-0.03964,-0.03083,-0.1974,RIC,hot track
 ricciardo,catalunya,-0.2793,10,-0.3391,-0.2826,-1.897,RIC,hot track
 ricciardo,hockenheimring,-0.1636,3,-0.2234,-0.1341,-1.765,RIC,
 ricciardo,hungaroring,0.02018,10,-0.03963,-0.03302,-0.2007,RIC,hot track
 ricciardo,imola,0.1309,4,0.07105,0.04737,0.189,RIC,power / long straights
-ricciardo,interlagos,0.2365,9,0.1767,0.1446,1.461,RIC,safety-car prone
+ricciardo,interlagos,0.2365,9,0.1767,0.1446,1.461,RIC,"stop-go, slow corners"
 ricciardo,istanbul,-0.9119,1,-0.9717,-0.3239,,RIC,
 ricciardo,jeddah,0.2389,3,0.1791,0.1075,1.171,RIC,power / long straights
-ricciardo,losail,1.06,1,0.9998,0.3333,,RIC,power / long straights
-ricciardo,marina_bay,0.1735,6,0.1136,0.08524,0.5669,RIC,twisty / technical
-ricciardo,miami,0.6323,2,0.5725,0.2862,4.697,RIC,safety-car prone
-ricciardo,monaco,0.4973,7,0.4375,0.3403,1.363,RIC,twisty / technical
+ricciardo,losail,1.06,1,0.9998,0.3333,,RIC,safety-car prone
+ricciardo,marina_bay,0.1735,6,0.1136,0.08524,0.5669,RIC,"stop-go, slow corners"
+ricciardo,miami,0.6323,2,0.5725,0.2862,4.697,RIC,hot track
+ricciardo,monaco,0.4973,7,0.4375,0.3403,1.363,RIC,"stop-go, slow corners"
 ricciardo,monza,0.1135,10,0.05369,0.04474,0.3111,RIC,power / long straights
 ricciardo,mugello,-0.07078,1,-0.1306,-0.04353,,RIC,
 ricciardo,nurburgring,-0.1693,1,-0.2291,-0.07637,,RIC,
 ricciardo,portimao,0.7795,2,0.7197,0.3598,0.7569,RIC,
 ricciardo,red_bull_ring,0.2844,12,0.2246,0.1925,1.1,RIC,hot track
 ricciardo,ricard,0.1569,4,0.09709,0.06473,0.2864,RIC,
-ricciardo,rodriguez,-0.07772,8,-0.1375,-0.11,-0.4026,RIC,overtaking-friendly
+ricciardo,rodriguez,-0.07772,8,-0.1375,-0.11,-0.4026,RIC,hot track
 ricciardo,sepang,0.2846,4,0.2248,0.1498,0.8551,RIC,overtaking-friendly
 ricciardo,shanghai,-0.3177,6,-0.3775,-0.2832,-2.235,RIC,overtaking-friendly
 ricciardo,silverstone,0.2882,10,0.2284,0.1904,1.016,RIC,safety-car prone
 ricciardo,sochi,-0.1521,7,-0.2119,-0.1648,-1.713,RIC,
 ricciardo,spa,-0.03412,10,-0.09393,-0.07828,-0.4059,RIC,power / long straights
 ricciardo,suzuka,0.06105,8,0.001238,0.00099,0.006657,RIC,medium-speed technical
-ricciardo,villeneuve,-0.0278,7,-0.08761,-0.06814,-0.8985,RIC,safety-car prone
+ricciardo,villeneuve,-0.0278,7,-0.08761,-0.06814,-0.8985,RIC,hot track
 ricciardo,yas_marina,-0.003593,9,-0.0634,-0.05187,-0.4731,RIC,power / long straights
-ricciardo,zandvoort,0.6603,3,0.6005,0.3603,0.8405,RIC,safety-car prone
+ricciardo,zandvoort,0.6603,3,0.6005,0.3603,0.8405,RIC,hot track
 rosberg,albert_park,0.6869,3,0.598,0.3588,4.031,ROS,safety-car prone
 rosberg,americas,-0.1112,3,-0.2001,-0.1201,-1.108,ROS,hot track
 rosberg,bahrain,0.1301,3,0.0412,0.02472,0.1578,ROS,overtaking-friendly
-rosberg,baku,-0.9717,1,-1.061,-0.3535,,ROS,safety-car prone
+rosberg,baku,-0.9717,1,-1.061,-0.3535,,ROS,hot track
 rosberg,catalunya,0.07475,3,-0.01415,-0.008487,-0.0711,ROS,hot track
 rosberg,hockenheimring,-0.1437,1,-0.2326,-0.07753,,ROS,
 rosberg,hungaroring,0.2613,2,0.1724,0.08619,0.3919,ROS,hot track
-rosberg,interlagos,-0.004071,3,-0.09297,-0.05578,-1.219,ROS,safety-car prone
-rosberg,marina_bay,-0.1886,3,-0.2775,-0.1665,-1.118,ROS,twisty / technical
-rosberg,monaco,0.05787,3,-0.03103,-0.01862,-0.1535,ROS,twisty / technical
+rosberg,interlagos,-0.004071,3,-0.09297,-0.05578,-1.219,ROS,"stop-go, slow corners"
+rosberg,marina_bay,-0.1886,3,-0.2775,-0.1665,-1.118,ROS,"stop-go, slow corners"
+rosberg,monaco,0.05787,3,-0.03103,-0.01862,-0.1535,ROS,"stop-go, slow corners"
 rosberg,monza,0.4329,3,0.344,0.2064,4.305,ROS,power / long straights
 rosberg,red_bull_ring,0.1038,3,0.01494,0.008964,0.09395,ROS,hot track
-rosberg,rodriguez,0.04337,2,-0.04552,-0.02276,-0.163,ROS,overtaking-friendly
+rosberg,rodriguez,0.04337,2,-0.04552,-0.02276,-0.163,ROS,hot track
 rosberg,sepang,0.1785,3,0.08958,0.05375,0.6479,ROS,overtaking-friendly
 rosberg,shanghai,0.5874,2,0.4985,0.2493,0.9242,ROS,overtaking-friendly
 rosberg,silverstone,0.285,3,0.1961,0.1177,2.319,ROS,safety-car prone
 rosberg,sochi,-0.1867,3,-0.2756,-0.1653,-1.172,ROS,
 rosberg,spa,0.123,2,0.03412,0.01706,0.1122,ROS,power / long straights
 rosberg,suzuka,-0.103,3,-0.1919,-0.1151,-3.299,ROS,medium-speed technical
-rosberg,villeneuve,0.1187,3,0.02981,0.01789,0.2128,ROS,safety-car prone
+rosberg,villeneuve,0.1187,3,0.02981,0.01789,0.2128,ROS,hot track
 rosberg,yas_marina,-0.1502,3,-0.2391,-0.1435,-1.046,ROS,power / long straights
 russell,albert_park,-0.6634,6,-0.3277,-0.2457,-1.001,RUS,safety-car prone
 russell,americas,-0.2467,7,0.08903,0.06924,0.4433,RUS,hot track
 russell,bahrain,-0.2444,8,0.09131,0.07305,0.6465,RUS,overtaking-friendly
-russell,baku,-0.1516,6,0.1841,0.1381,1.323,RUS,safety-car prone
+russell,baku,-0.1516,6,0.1841,0.1381,1.323,RUS,hot track
 russell,catalunya,-0.4051,8,-0.06932,-0.05545,-0.3026,RUS,hot track
 russell,hockenheimring,-0.1577,1,0.1781,0.05936,,RUS,
 russell,hungaroring,-0.6165,6,-0.2808,-0.2106,-1.002,RUS,hot track
 russell,imola,-0.6105,5,-0.2747,-0.1962,-1.329,RUS,power / long straights
-russell,interlagos,-0.1138,5,0.222,0.1585,1.284,RUS,safety-car prone
+russell,interlagos,-0.1138,5,0.222,0.1585,1.284,RUS,"stop-go, slow corners"
 russell,istanbul,-1.253,1,-0.9176,-0.3059,,RUS,
 russell,jeddah,-0.5342,5,-0.1985,-0.1418,-0.9225,RUS,power / long straights
-russell,losail,-0.355,4,-0.01921,-0.01281,-0.1714,RUS,power / long straights
+russell,losail,-0.355,4,-0.01921,-0.01281,-0.1714,RUS,safety-car prone
 russell,madring,0.3419,1,0.6777,0.2259,,RUS,hot track
-russell,marina_bay,-0.1953,5,0.1405,0.1003,1.063,RUS,twisty / technical
-russell,miami,0.3426,4,0.6784,0.4523,4.272,RUS,safety-car prone
-russell,monaco,-0.2113,7,0.1245,0.09681,0.6706,RUS,twisty / technical
+russell,marina_bay,-0.1953,5,0.1405,0.1003,1.063,RUS,"stop-go, slow corners"
+russell,miami,0.3426,4,0.6784,0.4523,4.272,RUS,hot track
+russell,monaco,-0.2113,7,0.1245,0.09681,0.6706,RUS,"stop-go, slow corners"
 russell,monza,-0.2296,8,0.1061,0.08488,1.09,RUS,power / long straights
 russell,mugello,-0.1138,1,0.2219,0.07398,,RUS,
 russell,nurburgring,-0.2824,1,0.05333,0.01778,,RUS,
 russell,portimao,-1.36,2,-1.024,-0.5122,-9.787,RUS,
 russell,red_bull_ring,-0.3593,9,-0.02354,-0.01926,-0.1212,RUS,hot track
 russell,ricard,-0.3729,3,-0.03719,-0.02231,-0.0873,RUS,
-russell,rodriguez,-0.4519,7,-0.1161,-0.09033,-0.4534,RUS,overtaking-friendly
+russell,rodriguez,-0.4519,7,-0.1161,-0.09033,-0.4534,RUS,hot track
 russell,sepang,0.251,1,0.5867,0.1956,,RUS,overtaking-friendly
 russell,shanghai,-0.3495,4,-0.01379,-0.009195,-0.04423,RUS,overtaking-friendly
 russell,silverstone,-0.5379,9,-0.2022,-0.1654,-1.029,RUS,safety-car prone
@@ -941,32 +941,32 @@ russell,sochi,-1.359,2,-1.024,-0.5118,-5.104,RUS,
 russell,spa,-0.146,7,0.1897,0.1476,0.7577,RUS,power / long straights
 russell,suzuka,0.1651,5,0.5008,0.3577,4.361,RUS,medium-speed technical
 russell,vegas,-0.524,2,-0.1883,-0.09415,-0.7575,RUS,overtaking-friendly
-russell,villeneuve,-0.2933,6,0.0425,0.03187,0.1656,RUS,safety-car prone
+russell,villeneuve,-0.2933,6,0.0425,0.03187,0.1656,RUS,hot track
 russell,yas_marina,-0.3857,7,-0.05,-0.03889,-0.3707,RUS,power / long straights
-russell,zandvoort,-0.1576,5,0.1781,0.1272,0.7403,RUS,safety-car prone
+russell,zandvoort,-0.1576,5,0.1781,0.1272,0.7403,RUS,hot track
 sainz,albert_park,0.07077,9,0.1035,0.08466,0.6148,SAI,safety-car prone
 sainz,americas,-0.2808,10,-0.248,-0.2067,-1.292,SAI,hot track
 sainz,bahrain,0.03286,12,0.06557,0.0562,0.3088,SAI,overtaking-friendly
-sainz,baku,0.2779,9,0.3106,0.2541,2.758,SAI,safety-car prone
+sainz,baku,0.2779,9,0.3106,0.2541,2.758,SAI,hot track
 sainz,catalunya,-0.4314,12,-0.3987,-0.3417,-1.582,SAI,hot track
 sainz,hockenheimring,-0.6426,3,-0.6099,-0.3659,-1.465,SAI,
 sainz,hungaroring,-0.01148,11,0.02123,0.01796,0.1702,SAI,hot track
 sainz,imola,0.1953,5,0.228,0.1629,1.414,SAI,power / long straights
-sainz,interlagos,0.1793,8,0.212,0.1696,2.288,SAI,safety-car prone
+sainz,interlagos,0.1793,8,0.212,0.1696,2.288,SAI,"stop-go, slow corners"
 sainz,istanbul,0.4045,1,0.4372,0.1457,,SAI,
 sainz,jeddah,0.2225,4,0.2552,0.1701,1.848,SAI,power / long straights
-sainz,losail,0.02006,4,0.05277,0.03518,0.1296,SAI,power / long straights
+sainz,losail,0.02006,4,0.05277,0.03518,0.1296,SAI,safety-car prone
 sainz,madring,0.005246,1,0.03795,0.01265,,SAI,hot track
-sainz,marina_bay,0.02333,9,0.05603,0.04584,0.3435,SAI,twisty / technical
-sainz,miami,0.07712,4,0.1098,0.07322,1.127,SAI,safety-car prone
-sainz,monaco,0.1019,11,0.1346,0.1139,1.068,SAI,twisty / technical
+sainz,marina_bay,0.02333,9,0.05603,0.04584,0.3435,SAI,"stop-go, slow corners"
+sainz,miami,0.07712,4,0.1098,0.07322,1.127,SAI,hot track
+sainz,monaco,0.1019,11,0.1346,0.1139,1.068,SAI,"stop-go, slow corners"
 sainz,monza,-0.2439,11,-0.2112,-0.1787,-1.549,SAI,power / long straights
 sainz,mugello,-0.154,1,-0.1213,-0.04042,,SAI,
 sainz,nurburgring,0.05213,1,0.08484,0.02828,,SAI,
 sainz,portimao,-0.06131,2,-0.0286,-0.0143,-0.2441,SAI,
 sainz,red_bull_ring,0.1,14,0.1327,0.1161,0.8321,SAI,hot track
 sainz,ricard,0.01932,4,0.05202,0.03468,0.5627,SAI,
-sainz,rodriguez,-0.3089,11,-0.2762,-0.2337,-1.283,SAI,overtaking-friendly
+sainz,rodriguez,-0.3089,11,-0.2762,-0.2337,-1.283,SAI,hot track
 sainz,sepang,-0.5527,4,-0.52,-0.3467,-1.868,SAI,overtaking-friendly
 sainz,shanghai,-0.0206,8,0.0121,0.009684,0.09386,SAI,overtaking-friendly
 sainz,silverstone,0.02821,13,0.06092,0.0528,0.3967,SAI,safety-car prone
@@ -974,21 +974,21 @@ sainz,sochi,-0.0873,5,-0.05459,-0.03899,-0.7195,SAI,
 sainz,spa,0.08013,12,0.1128,0.09671,0.6385,SAI,power / long straights
 sainz,suzuka,-0.09603,10,-0.06332,-0.05277,-0.5532,SAI,medium-speed technical
 sainz,vegas,-0.1773,2,-0.1446,-0.07229,-0.6433,SAI,overtaking-friendly
-sainz,villeneuve,-0.08512,9,-0.05241,-0.04288,-0.2979,SAI,safety-car prone
+sainz,villeneuve,-0.08512,9,-0.05241,-0.04288,-0.2979,SAI,hot track
 sainz,yas_marina,0.1799,11,0.2126,0.1799,1.292,SAI,power / long straights
-sainz,zandvoort,-0.04353,6,-0.01082,-0.008118,-0.04028,SAI,safety-car prone
+sainz,zandvoort,-0.04353,6,-0.01082,-0.008118,-0.04028,SAI,hot track
 sargeant,albert_park,1.222,1,0.5281,0.176,,SAR,safety-car prone
 sargeant,americas,0.5316,1,-0.1619,-0.05396,,SAR,hot track
 sargeant,bahrain,0.4087,2,-0.2848,-0.1424,-1.425,SAR,overtaking-friendly
-sargeant,baku,0.4164,1,-0.277,-0.09234,,SAR,safety-car prone
+sargeant,baku,0.4164,1,-0.277,-0.09234,,SAR,hot track
 sargeant,catalunya,0.6727,2,-0.02076,-0.01038,-0.1116,SAR,hot track
 sargeant,hungaroring,0.2843,2,-0.4092,-0.2046,-3.028,SAR,hot track
-sargeant,interlagos,0.5862,1,-0.1072,-0.03574,,SAR,safety-car prone
+sargeant,interlagos,0.5862,1,-0.1072,-0.03574,,SAR,"stop-go, slow corners"
 sargeant,jeddah,0.6136,1,-0.07983,-0.02661,,SAR,power / long straights
-sargeant,losail,0.5869,1,-0.1066,-0.03552,,SAR,power / long straights
-sargeant,marina_bay,0.6302,1,-0.06325,-0.02108,,SAR,twisty / technical
-sargeant,miami,0.5269,2,-0.1666,-0.0833,-0.4579,SAR,safety-car prone
-sargeant,monaco,1.159,2,0.466,0.233,1.326,SAR,twisty / technical
+sargeant,losail,0.5869,1,-0.1066,-0.03552,,SAR,safety-car prone
+sargeant,marina_bay,0.6302,1,-0.06325,-0.02108,,SAR,"stop-go, slow corners"
+sargeant,miami,0.5269,2,-0.1666,-0.0833,-0.4579,SAR,hot track
+sargeant,monaco,1.159,2,0.466,0.233,1.326,SAR,"stop-go, slow corners"
 sargeant,monza,1.449,1,0.7553,0.2518,,SAR,power / long straights
 sargeant,red_bull_ring,0.5203,2,-0.1732,-0.0866,-0.5129,SAR,hot track
 sargeant,shanghai,1.173,1,0.4794,0.1598,,SAR,overtaking-friendly
@@ -996,28 +996,28 @@ sargeant,silverstone,1.166,2,0.4727,0.2364,0.8616,SAR,safety-car prone
 sargeant,spa,1.015,1,0.3214,0.1071,,SAR,power / long straights
 sargeant,suzuka,0.4737,1,-0.2197,-0.07324,,SAR,medium-speed technical
 sargeant,vegas,0.2036,1,-0.4899,-0.1633,,SAR,overtaking-friendly
-sargeant,villeneuve,0.3463,1,-0.3472,-0.1157,,SAR,safety-car prone
+sargeant,villeneuve,0.3463,1,-0.3472,-0.1157,,SAR,hot track
 stroll,albert_park,0.03786,5,-0.3386,-0.2418,-1.464,STR,safety-car prone
 stroll,americas,0.3394,9,-0.037,-0.03027,-0.09609,STR,hot track
 stroll,bahrain,0.2757,10,-0.1007,-0.08396,-0.4378,STR,overtaking-friendly
-stroll,baku,0.3609,7,-0.01551,-0.01206,-0.07089,STR,safety-car prone
+stroll,baku,0.3609,7,-0.01551,-0.01206,-0.07089,STR,hot track
 stroll,catalunya,0.398,9,0.02162,0.01769,0.1228,STR,hot track
 stroll,hockenheimring,0.6717,2,0.2953,0.1476,24.33,STR,
 stroll,hungaroring,0.08035,10,-0.2961,-0.2467,-1.207,STR,hot track
 stroll,imola,-0.07925,5,-0.4557,-0.3255,-1.405,STR,power / long straights
-stroll,interlagos,0.5767,7,0.2003,0.1558,0.9671,STR,safety-car prone
+stroll,interlagos,0.5767,7,0.2003,0.1558,0.9671,STR,"stop-go, slow corners"
 stroll,istanbul,-1.001,2,-1.377,-0.6885,-3.257,STR,
 stroll,jeddah,0.1926,5,-0.1838,-0.1313,-1.349,STR,power / long straights
-stroll,losail,0.7646,3,0.3882,0.2329,1.959,STR,power / long straights
-stroll,marina_bay,0.8603,8,0.4839,0.3871,1.989,STR,twisty / technical
-stroll,miami,0.2828,4,-0.09357,-0.06238,-0.2123,STR,safety-car prone
-stroll,monaco,0.9088,8,0.5324,0.4259,2.029,STR,twisty / technical
+stroll,losail,0.7646,3,0.3882,0.2329,1.959,STR,safety-car prone
+stroll,marina_bay,0.8603,8,0.4839,0.3871,1.989,STR,"stop-go, slow corners"
+stroll,miami,0.2828,4,-0.09357,-0.06238,-0.2123,STR,hot track
+stroll,monaco,0.9088,8,0.5324,0.4259,2.029,STR,"stop-go, slow corners"
 stroll,monza,0.2125,10,-0.1639,-0.1366,-0.6859,STR,power / long straights
 stroll,mugello,-0.05242,1,-0.4288,-0.1429,,STR,
 stroll,portimao,0.9192,2,0.5428,0.2714,1.975,STR,
 stroll,red_bull_ring,0.0727,11,-0.3037,-0.257,-3.654,STR,hot track
 stroll,ricard,0.4543,3,0.07789,0.04673,0.2449,STR,
-stroll,rodriguez,0.5428,8,0.1664,0.1331,0.7323,STR,overtaking-friendly
+stroll,rodriguez,0.5428,8,0.1664,0.1331,0.7323,STR,hot track
 stroll,sepang,0.3263,2,-0.05016,-0.02508,-1.693,STR,overtaking-friendly
 stroll,shanghai,0.5785,6,0.2021,0.1516,1.341,STR,overtaking-friendly
 stroll,silverstone,0.3928,9,0.01637,0.01339,0.07545,STR,safety-car prone
@@ -1025,133 +1025,133 @@ stroll,sochi,0.347,5,-0.0294,-0.021,-0.06038,STR,
 stroll,spa,0.5052,10,0.1288,0.1073,0.7523,STR,power / long straights
 stroll,suzuka,0.564,7,0.1875,0.1459,0.5257,STR,medium-speed technical
 stroll,vegas,0.4641,2,0.08765,0.04382,0.3908,STR,overtaking-friendly
-stroll,villeneuve,0.8833,7,0.5069,0.3942,1.906,STR,safety-car prone
+stroll,villeneuve,0.8833,7,0.5069,0.3942,1.906,STR,hot track
 stroll,yas_marina,0.3061,9,-0.07035,-0.05756,-0.5938,STR,power / long straights
-stroll,zandvoort,-0.3984,4,-0.7748,-0.5166,-2.193,STR,safety-car prone
+stroll,zandvoort,-0.3984,4,-0.7748,-0.5166,-2.193,STR,hot track
 tsunoda,albert_park,-0.5938,4,-0.8129,-0.5419,-2.021,TSU,safety-car prone
 tsunoda,americas,0.4026,5,0.1835,0.1311,0.7646,TSU,hot track
 tsunoda,bahrain,0.4096,5,0.1905,0.1361,0.5036,TSU,overtaking-friendly
-tsunoda,baku,0.1155,4,-0.1035,-0.06903,-0.4346,TSU,safety-car prone
+tsunoda,baku,0.1155,4,-0.1035,-0.06903,-0.4346,TSU,hot track
 tsunoda,catalunya,0.2239,4,0.004893,0.003262,0.02369,TSU,hot track
 tsunoda,hungaroring,0.6341,5,0.4151,0.2965,0.9631,TSU,hot track
 tsunoda,imola,-0.3686,2,-0.5876,-0.2938,-11.99,TSU,power / long straights
-tsunoda,interlagos,0.2052,4,-0.01387,-0.009247,-0.05031,TSU,safety-car prone
+tsunoda,interlagos,0.2052,4,-0.01387,-0.009247,-0.05031,TSU,"stop-go, slow corners"
 tsunoda,istanbul,0.8737,1,0.6546,0.2182,,TSU,
 tsunoda,jeddah,0.008119,4,-0.2109,-0.1406,-0.713,TSU,power / long straights
-tsunoda,losail,-0.1569,4,-0.3759,-0.2506,-0.588,TSU,power / long straights
+tsunoda,losail,-0.1569,4,-0.3759,-0.2506,-0.588,TSU,safety-car prone
 tsunoda,madring,1.121,1,0.902,0.3007,,TSU,hot track
-tsunoda,marina_bay,0.1911,4,-0.02796,-0.01864,-0.06225,TSU,twisty / technical
-tsunoda,miami,-0.04008,3,-0.2591,-0.1555,-1.089,TSU,safety-car prone
-tsunoda,monaco,0.04405,5,-0.175,-0.125,-0.3114,TSU,twisty / technical
+tsunoda,marina_bay,0.1911,4,-0.02796,-0.01864,-0.06225,TSU,"stop-go, slow corners"
+tsunoda,miami,-0.04008,3,-0.2591,-0.1555,-1.089,TSU,hot track
+tsunoda,monaco,0.04405,5,-0.175,-0.125,-0.3114,TSU,"stop-go, slow corners"
 tsunoda,monza,0.5979,5,0.3789,0.2706,1.085,TSU,power / long straights
 tsunoda,portimao,0.5199,1,0.3009,0.1003,,TSU,
 tsunoda,red_bull_ring,0.312,6,0.093,0.06975,0.6204,TSU,hot track
 tsunoda,ricard,-0.7053,1,-0.9243,-0.3081,,TSU,
-tsunoda,rodriguez,0.6206,5,0.4016,0.2868,1.046,TSU,overtaking-friendly
+tsunoda,rodriguez,0.6206,5,0.4016,0.2868,1.046,TSU,hot track
 tsunoda,shanghai,0.515,2,0.2959,0.148,0.8694,TSU,overtaking-friendly
 tsunoda,silverstone,0.1759,5,-0.0431,-0.03078,-0.1159,TSU,safety-car prone
 tsunoda,sochi,0.1031,1,-0.1159,-0.03863,,TSU,
 tsunoda,spa,0.9409,3,0.7219,0.4331,1.86,TSU,power / long straights
 tsunoda,suzuka,0.06452,4,-0.1545,-0.103,-0.4175,TSU,medium-speed technical
 tsunoda,vegas,-1.124,1,-1.344,-0.4478,,TSU,overtaking-friendly
-tsunoda,villeneuve,0.3902,3,0.1712,0.1027,0.3004,TSU,safety-car prone
+tsunoda,villeneuve,0.3902,3,0.1712,0.1027,0.3004,TSU,hot track
 tsunoda,yas_marina,-0.1373,5,-0.3563,-0.2545,-1.157,TSU,power / long straights
-tsunoda,zandvoort,0.3095,5,0.0905,0.06465,0.1843,TSU,safety-car prone
+tsunoda,zandvoort,0.3095,5,0.0905,0.06465,0.1843,TSU,hot track
 vandoorne,albert_park,0.9919,2,0.5479,0.274,0.7991,VAN,safety-car prone
 vandoorne,americas,0.565,2,0.1211,0.06054,1.184,VAN,hot track
 vandoorne,bahrain,0.1772,3,-0.2667,-0.16,-2.392,VAN,overtaking-friendly
-vandoorne,baku,0.5638,2,0.1198,0.05992,1.16,VAN,safety-car prone
+vandoorne,baku,0.5638,2,0.1198,0.05992,1.16,VAN,hot track
 vandoorne,catalunya,1.303,2,0.8588,0.4294,1.626,VAN,hot track
 vandoorne,hockenheimring,1.069,1,0.6251,0.2084,,VAN,
 vandoorne,hungaroring,0.5894,2,0.1454,0.07272,1.006,VAN,hot track
-vandoorne,interlagos,0.5191,2,0.07516,0.03758,0.3234,VAN,safety-car prone
-vandoorne,marina_bay,0.6436,2,0.1997,0.09984,0.3349,VAN,twisty / technical
-vandoorne,monaco,0.08995,2,-0.354,-0.177,-0.9628,VAN,twisty / technical
+vandoorne,interlagos,0.5191,2,0.07516,0.03758,0.3234,VAN,"stop-go, slow corners"
+vandoorne,marina_bay,0.6436,2,0.1997,0.09984,0.3349,VAN,"stop-go, slow corners"
+vandoorne,monaco,0.08995,2,-0.354,-0.177,-0.9628,VAN,"stop-go, slow corners"
 vandoorne,monza,-0.2286,2,-0.6726,-0.3363,-1.304,VAN,power / long straights
 vandoorne,red_bull_ring,0.3415,2,-0.1025,-0.05125,-0.7911,VAN,hot track
 vandoorne,ricard,0.2001,1,-0.2439,-0.0813,,VAN,
-vandoorne,rodriguez,0.6294,2,0.1854,0.09272,0.3803,VAN,overtaking-friendly
+vandoorne,rodriguez,0.6294,2,0.1854,0.09272,0.3803,VAN,hot track
 vandoorne,sepang,-0.133,1,-0.577,-0.1923,,VAN,overtaking-friendly
 vandoorne,shanghai,0.4913,2,0.04736,0.02368,0.2386,VAN,overtaking-friendly
 vandoorne,silverstone,-0.1094,2,-0.5534,-0.2767,-0.463,VAN,safety-car prone
 vandoorne,sochi,0.6197,2,0.1757,0.08787,1.412,VAN,
 vandoorne,spa,0.3529,2,-0.0911,-0.04555,-4.83,VAN,power / long straights
 vandoorne,suzuka,0.2745,2,-0.1694,-0.08472,-0.6996,VAN,medium-speed technical
-vandoorne,villeneuve,0.3544,2,-0.0896,-0.0448,-0.262,VAN,safety-car prone
+vandoorne,villeneuve,0.3544,2,-0.0896,-0.0448,-0.262,VAN,hot track
 vandoorne,yas_marina,0.4981,2,0.05414,0.02707,0.1525,VAN,power / long straights
 vettel,albert_park,-0.03239,6,0.06281,0.04711,0.2233,VET,safety-car prone
 vettel,americas,0.04551,7,0.1407,0.1094,0.7544,VET,hot track
 vettel,bahrain,0.3276,9,0.4228,0.3459,1.772,VET,overtaking-friendly
-vettel,baku,-0.4333,4,-0.3381,-0.2254,-1.424,VET,safety-car prone
+vettel,baku,-0.4333,4,-0.3381,-0.2254,-1.424,VET,hot track
 vettel,catalunya,-0.08488,9,0.01032,0.008442,0.06101,VET,hot track
 vettel,hockenheimring,0.05181,3,0.147,0.0882,0.5563,VET,
 vettel,hungaroring,-0.2412,8,-0.146,-0.1168,-1.067,VET,hot track
 vettel,imola,0.2974,3,0.3926,0.2355,0.8996,VET,power / long straights
-vettel,interlagos,-0.2721,8,-0.1769,-0.1415,-1.926,VET,safety-car prone
+vettel,interlagos,-0.2721,8,-0.1769,-0.1415,-1.926,VET,"stop-go, slow corners"
 vettel,istanbul,-0.3637,2,-0.2685,-0.1342,-0.2841,VET,
 vettel,jeddah,-0.1902,1,-0.09503,-0.03168,,VET,power / long straights
-vettel,losail,-0.3808,1,-0.2856,-0.0952,,VET,power / long straights
-vettel,marina_bay,-0.179,6,-0.08385,-0.06288,-0.5118,VET,twisty / technical
-vettel,miami,0.2422,1,0.3374,0.1125,,VET,safety-car prone
-vettel,monaco,-0.6092,8,-0.514,-0.4112,-2.188,VET,twisty / technical
+vettel,losail,-0.3808,1,-0.2856,-0.0952,,VET,safety-car prone
+vettel,marina_bay,-0.179,6,-0.08385,-0.06288,-0.5118,VET,"stop-go, slow corners"
+vettel,miami,0.2422,1,0.3374,0.1125,,VET,hot track
+vettel,monaco,-0.6092,8,-0.514,-0.4112,-2.188,VET,"stop-go, slow corners"
 vettel,monza,-0.01224,9,0.08296,0.06787,0.4835,VET,power / long straights
 vettel,mugello,0.7709,1,0.8661,0.2887,,VET,
 vettel,nurburgring,0.8171,1,0.9123,0.3041,,VET,
 vettel,portimao,-0.3591,2,-0.2639,-0.132,-0.3215,VET,
 vettel,red_bull_ring,0.09088,10,0.1861,0.1551,1.091,VET,hot track
 vettel,ricard,0.007947,3,0.1031,0.06189,0.3352,VET,
-vettel,rodriguez,-0.5507,6,-0.4555,-0.3416,-1.41,VET,overtaking-friendly
+vettel,rodriguez,-0.5507,6,-0.4555,-0.3416,-1.41,VET,hot track
 vettel,sepang,-0.6299,3,-0.5347,-0.3208,-1.78,VET,overtaking-friendly
 vettel,shanghai,-0.09829,6,-0.00309,-0.002318,-0.03199,VET,overtaking-friendly
 vettel,silverstone,-0.06733,10,0.02787,0.02322,0.1063,VET,safety-car prone
 vettel,sochi,0.2019,8,0.2971,0.2377,1.267,VET,
 vettel,spa,-0.1437,9,-0.0485,-0.03968,-0.2853,VET,power / long straights
 vettel,suzuka,-0.2802,7,-0.185,-0.1439,-1.043,VET,medium-speed technical
-vettel,villeneuve,-0.6646,6,-0.5694,-0.4271,-3.781,VET,safety-car prone
+vettel,villeneuve,-0.6646,6,-0.5694,-0.4271,-3.781,VET,hot track
 vettel,yas_marina,0.2623,8,0.3575,0.286,1.347,VET,power / long straights
-vettel,zandvoort,0.9413,2,1.036,0.5182,2.445,VET,safety-car prone
+vettel,zandvoort,0.9413,2,1.036,0.5182,2.445,VET,hot track
 wehrlein,albert_park,0.01674,1,0.2496,0.08319,,WEH,safety-car prone
 wehrlein,americas,0.04344,2,0.2763,0.1381,0.9071,WEH,hot track
 wehrlein,bahrain,-1.345,2,-1.112,-0.5559,-8.916,WEH,overtaking-friendly
-wehrlein,baku,-0.1878,2,0.04498,0.02249,0.1677,WEH,safety-car prone
+wehrlein,baku,-0.1878,2,0.04498,0.02249,0.1677,WEH,hot track
 wehrlein,catalunya,-0.4341,2,-0.2013,-0.1007,-0.966,WEH,hot track
 wehrlein,hockenheimring,-0.3378,1,-0.1049,-0.03498,,WEH,
 wehrlein,hungaroring,-0.1663,1,0.06652,0.02217,,WEH,hot track
-wehrlein,interlagos,-0.1424,2,0.09044,0.04522,0.6671,WEH,safety-car prone
-wehrlein,marina_bay,-0.5324,2,-0.2996,-0.1498,-6.192,WEH,twisty / technical
-wehrlein,monaco,0.02384,2,0.2567,0.1283,1.432,WEH,twisty / technical
+wehrlein,interlagos,-0.1424,2,0.09044,0.04522,0.6671,WEH,"stop-go, slow corners"
+wehrlein,marina_bay,-0.5324,2,-0.2996,-0.1498,-6.192,WEH,"stop-go, slow corners"
+wehrlein,monaco,0.02384,2,0.2567,0.1283,1.432,WEH,"stop-go, slow corners"
 wehrlein,monza,0.1406,1,0.3734,0.1245,,WEH,power / long straights
 wehrlein,red_bull_ring,-0.2237,2,0.009157,0.004578,0.02017,WEH,hot track
-wehrlein,rodriguez,-0.2172,2,0.01566,0.00783,0.03769,WEH,overtaking-friendly
+wehrlein,rodriguez,-0.2172,2,0.01566,0.00783,0.03769,WEH,hot track
 wehrlein,sepang,-0.1886,2,0.0442,0.0221,0.1341,WEH,overtaking-friendly
 wehrlein,silverstone,0.008978,2,0.2418,0.1209,5.043,WEH,safety-car prone
 wehrlein,sochi,-0.1219,2,0.1109,0.05546,1.927,WEH,
 wehrlein,spa,-0.01056,2,0.2223,0.1111,0.5003,WEH,power / long straights
 wehrlein,suzuka,0.2686,2,0.5014,0.2507,10.95,WEH,medium-speed technical
-wehrlein,villeneuve,-0.7314,2,-0.4986,-0.2493,-0.432,WEH,safety-car prone
+wehrlein,villeneuve,-0.7314,2,-0.4986,-0.2493,-0.432,WEH,hot track
 wehrlein,yas_marina,-0.2275,2,0.005294,0.002647,0.03238,WEH,power / long straights
 zhou,albert_park,0.569,3,0.2204,0.1323,0.5479,ZHO,safety-car prone
 zhou,americas,0.0879,3,-0.2607,-0.1564,-1.747,ZHO,hot track
 zhou,bahrain,0.351,3,0.002422,0.001453,0.007248,ZHO,overtaking-friendly
-zhou,baku,0.114,3,-0.2346,-0.1407,-0.6137,ZHO,safety-car prone
+zhou,baku,0.114,3,-0.2346,-0.1407,-0.6137,ZHO,hot track
 zhou,catalunya,0.3938,3,0.04526,0.02716,0.08753,ZHO,hot track
 zhou,hungaroring,0.2252,2,-0.1233,-0.06165,-0.4016,ZHO,hot track
 zhou,imola,-0.1523,2,-0.5009,-0.2504,-1.182,ZHO,power / long straights
-zhou,interlagos,0.03407,2,-0.3145,-0.1572,-0.7543,ZHO,safety-car prone
+zhou,interlagos,0.03407,2,-0.3145,-0.1572,-0.7543,ZHO,"stop-go, slow corners"
 zhou,jeddah,0.2411,2,-0.1074,-0.0537,-0.2276,ZHO,power / long straights
-zhou,losail,-0.2814,1,-0.63,-0.21,,ZHO,power / long straights
-zhou,marina_bay,0.1334,3,-0.2151,-0.1291,-0.5785,ZHO,twisty / technical
-zhou,miami,0.9122,3,0.5637,0.3382,1.371,ZHO,safety-car prone
-zhou,monaco,0.974,2,0.6255,0.3127,2.383,ZHO,twisty / technical
+zhou,losail,-0.2814,1,-0.63,-0.21,,ZHO,safety-car prone
+zhou,marina_bay,0.1334,3,-0.2151,-0.1291,-0.5785,ZHO,"stop-go, slow corners"
+zhou,miami,0.9122,3,0.5637,0.3382,1.371,ZHO,hot track
+zhou,monaco,0.974,2,0.6255,0.3127,2.383,ZHO,"stop-go, slow corners"
 zhou,monza,0.2304,3,-0.1181,-0.07088,-0.4565,ZHO,power / long straights
 zhou,red_bull_ring,0.4709,3,0.1223,0.07341,0.5938,ZHO,hot track
 zhou,ricard,0.6879,1,0.3394,0.1131,,ZHO,
-zhou,rodriguez,0.764,3,0.4155,0.2493,1.072,ZHO,overtaking-friendly
+zhou,rodriguez,0.764,3,0.4155,0.2493,1.072,ZHO,hot track
 zhou,shanghai,0.8873,1,0.5388,0.1796,,ZHO,overtaking-friendly
 zhou,silverstone,-0.1174,2,-0.4659,-0.233,-0.9721,ZHO,safety-car prone
 zhou,spa,-1.651,1,-2,-0.6666,,ZHO,power / long straights
 zhou,suzuka,0.4004,3,0.05183,0.0311,0.4369,ZHO,medium-speed technical
 zhou,vegas,0.2504,2,-0.0982,-0.0491,-0.08427,ZHO,overtaking-friendly
-zhou,villeneuve,1.561,2,1.212,0.606,4.062,ZHO,safety-car prone
+zhou,villeneuve,1.561,2,1.212,0.606,4.062,ZHO,hot track
 zhou,yas_marina,0.2288,3,-0.1197,-0.07182,-0.2915,ZHO,power / long straights
-zhou,zandvoort,0.3076,3,-0.04096,-0.02458,-0.06776,ZHO,safety-car prone
+zhou,zandvoort,0.3076,3,-0.04096,-0.02458,-0.06776,ZHO,hot track

@@ -8808,3 +8808,147 @@ rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,ryo_hirakawa,HIR,5,2,1
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,ryo_hirakawa,HIR,6,2,1.001,0.0014497,1,SOFT,quali sim
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,sainz,SAI,1,3,1.0707,0.035257,2,MEDIUM,short / setup runs
 rodriguez,Mexico City Grand Prix,conventional,2026,19,FP3,sainz,SAI,2,2,1.0438,0.047811,8,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,albon,ALB,1,2,1.0111,0.001337,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,albon,ALB,2,2,1.0572,0.055742,9,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,alonso,ALO,3,3,1.0219,0.0014573,6,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,alonso,ALO,5,4,1.0484,0.010629,6,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,antonelli,ANT,1,2,1.0215,0.0058894,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,antonelli,ANT,3,2,1.0137,0.00011818,8,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,antonelli,ANT,5,7,1.0602,0.0075601,13,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,antonelli,ANT,6,4,1.0519,0.004702,5,SOFT,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,arvid_lindblad,LIN,1,3,1.0176,0.0063662,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,arvid_lindblad,LIN,2,3,1.021,0.00053397,8,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,arvid_lindblad,LIN,3,2,1.0019,0.0026721,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,arvid_lindblad,LIN,4,6,1.0667,0.0076799,16,HARD,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bearman,BEA,1,2,1.031,0.0083295,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bearman,BEA,2,2,1.0224,0.00031066,6,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bearman,BEA,4,8,1.0639,0.0069152,4,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,beg,BEG,2,2,1.0029,0.0041462,5,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bortoleto,BOR,1,2,1.0165,0.0033498,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bortoleto,BOR,3,2,1.0609,0.051367,8,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bortoleto,BOR,6,8,1.0534,0.0095056,7,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bottas,BOT,1,2,1.0313,0.010129,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bottas,BOT,3,2,1.0028,0.0039513,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,bro,BRO,3,2,1.0059,0.0083691,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,cam,CAM,1,5,1.038,0.014649,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,cam,CAM,2,2,1.0179,0.00025906,10,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,cam,CAM,5,7,1.0662,0.0057796,16,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,colapinto,COL,1,3,1.0333,0.0052793,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,colapinto,COL,2,2,1.0241,0.00049636,9,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,colapinto,COL,3,3,1.0067,0.031116,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,colapinto,COL,4,10,1.0672,0.0070599,9,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,for,FOR,5,2,1.0167,0.0056698,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,for,FOR,6,2,1.0296,0.0001165,7,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,for,FOR,9,2,1.003,0.0042232,5,SOFT,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,hadjar,HAD,5,2,1.0005,0.00075458,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,hadjar,HAD,6,2,1.0557,0.0068108,7,SOFT,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,hamilton,HAM,1,2,1.0254,0.011248,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,hamilton,HAM,2,2,1.0179,0.0016293,8,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,hamilton,HAM,4,12,1.0575,0.013745,4,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,her,HER,1,2,1.037,0.018241,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,her,HER,2,2,1.0261,0.0025514,8,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,her,HER,3,2,1.0009,0.0012757,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,her,HER,4,8,1.0557,0.010832,9,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,lawson,LAW,1,2,1.024,0.0069043,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,lawson,LAW,3,3,1.0185,0.0022876,9,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,lawson,LAW,4,2,1.0002,0.00031118,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,lawson,LAW,5,7,1.0536,0.0050725,8,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,max_verstappen,VER,1,3,1.0156,0.002715,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,max_verstappen,VER,2,2,1.0042,0.0059455,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,max_verstappen,VER,3,9,1.0562,0.0061986,6,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,max_verstappen,VER,4,2,1.0524,0.0011989,8,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,min,MIN,3,4,1.0306,0.0073147,5,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,min,MIN,4,3,1.0063,0.019837,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,norris,NOR,3,3,1.0255,0.00024312,8,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,norris,NOR,5,13,1.0445,0.0080786,4,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,russell,RUS,1,2,1.0255,0.0063451,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,russell,RUS,2,2,1.0401,0.029636,7,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,russell,RUS,4,11,1.054,0.013313,5,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,sla,SLA,1,3,1.0107,0.0082044,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,stroll,STR,1,2,1.0243,0.011063,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,stroll,STR,2,2,1.019,0.0021378,9,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP1,stroll,STR,3,3,1.0005,0.0013016,2,SOFT,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,albon,ALB,1,4,1.0121,0.0017729,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,albon,ALB,2,2,1.0021,0.0029272,2,SOFT,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,albon,ALB,3,13,1.0536,0.0087276,5,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,alonso,ALO,1,2,1.0128,0.0012673,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,alonso,ALO,2,2,1.0025,0.0035483,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,alonso,ALO,3,11,1.0661,0.0082,9,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,antonelli,ANT,2,2,1.0155,0.0006795,4,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,antonelli,ANT,4,16,1.0655,0.0080383,4,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,arvid_lindblad,LIN,1,3,1.0181,0.0025456,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,arvid_lindblad,LIN,5,14,1.0607,0.0067014,7,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bearman,BEA,1,4,1.0249,0.003876,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bearman,BEA,4,3,1.0647,0.0011464,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bearman,BEA,5,10,1.0576,0.0068192,7,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bortoleto,BOR,1,4,1.0155,0.0046686,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bortoleto,BOR,4,12,1.0606,0.006352,6,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bottas,BOT,1,3,1.0119,0.00032046,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bottas,BOT,2,2,1.0178,0.02513,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bottas,BOT,3,7,1.0543,0.0052658,10,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,bottas,BOT,4,5,1.0398,0.0085355,7,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,cam,CAM,1,2,1.0246,0.0078642,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,cam,CAM,4,2,1.0003,0.00037031,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,cam,CAM,6,6,1.0638,0.0080676,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,colapinto,COL,1,4,1.018,0.0049088,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,colapinto,COL,2,2,1.0015,0.002092,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,colapinto,COL,3,10,1.0627,0.01234,10,HARD,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,gasly,GAS,1,4,1.0156,0.0071951,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,gasly,GAS,5,10,1.0534,0.0029274,9,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,hadjar,HAD,1,3,1.0107,0.0020101,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,hadjar,HAD,4,9,1.0525,0.0031016,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,hadjar,HAD,5,4,1.0451,0.0026475,9,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,hamilton,HAM,1,3,1.0209,0.0011035,4,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,hamilton,HAM,2,2,1.0042,0.0059875,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,hamilton,HAM,3,8,1.0688,0.0070041,11,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,hamilton,HAM,4,5,1.0569,0.010693,6,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,lawson,LAW,1,3,1.0147,4.8084e-05,2,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,lawson,LAW,2,2,1.0009,0.0013251,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,lawson,LAW,3,13,1.0577,0.005227,6,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,leclerc,LEC,1,2,1.0213,0.0048273,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,leclerc,LEC,2,2,1.0442,0.044603,1,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,leclerc,LEC,3,3,1.0014,0.0019246,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,leclerc,LEC,4,10,1.0619,0.010287,8,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,max_verstappen,VER,1,2,1.0165,0.0017224,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,max_verstappen,VER,4,10,1.0652,0.0054628,9,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,norris,NOR,1,3,1.0154,0.001428,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,norris,NOR,3,8,1.0623,0.0055952,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,norris,NOR,4,4,1.055,0.012601,7,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,perez,PER,1,3,1.0143,0.0047052,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,perez,PER,4,14,1.0518,0.0061128,7,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,piastri,PIA,1,2,1.0255,0.0038596,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,piastri,PIA,2,2,1.0231,0.0060978,7,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,piastri,PIA,3,2,1.0027,0.0037999,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,piastri,PIA,4,11,1.0628,0.010398,7,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,russell,RUS,2,2,1.019,0.0026777,3,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,russell,RUS,4,16,1.0681,0.0087988,5,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,sainz,SAI,1,4,1.0223,0.0018965,1,HARD,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,sainz,SAI,2,2,1.0497,0.070223,1,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,sainz,SAI,3,3,1.0591,0.001251,11,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,sainz,SAI,4,9,1.0554,0.0043114,6,SOFT,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,stroll,STR,1,3,1.0153,0.0022999,2,HARD,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,stroll,STR,2,3,1.0021,0.0019565,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP2,stroll,STR,3,7,1.0566,0.010752,10,HARD,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,albon,ALB,1,2,1.0144,0.0017014,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,albon,ALB,2,2,1.0207,0.0012857,8,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,alonso,ALO,1,4,1.0141,0.0017156,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,arvid_lindblad,LIN,1,3,1.0169,0.002056,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,bortoleto,BOR,3,4,1.0515,0.031139,9,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,bottas,BOT,1,2,1.0166,0.0061194,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,colapinto,COL,1,3,1.0225,0.0087575,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,colapinto,COL,2,2,1.0207,0.001086,10,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,gasly,GAS,1,2,1.0225,0.0057332,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,hadjar,HAD,3,2,1.0101,0.00090086,8,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,hadjar,HAD,4,2,1.0003,0.0003623,1,SOFT,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,hulkenberg,HUL,1,2,1.0217,0.0094617,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,hulkenberg,HUL,3,7,1.0503,0.018699,9,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,lawson,LAW,1,2,1.0094,0.0028315,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,leclerc,LEC,1,2,1.0095,0.0027932,3,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,norris,NOR,1,2,1.018,0.00045332,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,perez,PER,1,3,1.0183,0.0076353,1,MEDIUM,quali sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,perez,PER,2,2,1.06,0.0053437,12,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,perez,PER,3,6,1.0827,0.0052914,17,MEDIUM,race sim
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,piastri,PIA,1,3,1.012,0.0016366,2,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,russell,RUS,1,2,1.0182,0.0038208,2,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,sainz,SAI,3,4,1.0454,0.002789,9,MEDIUM,short / setup runs
+interlagos,Brazilian Grand Prix,conventional,2026,20,FP3,stroll,STR,1,2,1.0025,0.0036033,1,MEDIUM,quali sim
