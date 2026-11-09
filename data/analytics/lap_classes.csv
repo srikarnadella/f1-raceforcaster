@@ -1701,6 +1701,6 @@ season,round,circuit_id,race_name,format,session,category,laps
 2026,20,interlagos,Brazilian Grand Prix,conventional,Q,long,40
 2026,20,interlagos,Brazilian Grand Prix,conventional,Q,push,52
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,clean,902
-2026,20,interlagos,Brazilian Grand Prix,conventional,R,invalid,133
+2026,20,interlagos,Brazilian Grand Prix,conventional,R,invalid,132
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,neutral,38
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,traffic,365
