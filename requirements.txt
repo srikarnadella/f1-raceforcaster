@@ -9,7 +9,7 @@ streamlit==1.66.1
 altair==6.3.0
 pyarrow==26.0.0
 pytest==9.2.0
-mlflow-skinny==3.17.2   # experiment tracking (local file store in mlruns/)
+mlflow-skinny==3.18.0   # experiment tracking (local file store in mlruns/)
 optuna==5.0.0          # simulator calibration
 pandera==0.35.0         # data contracts
 shap==0.54.1            # model explanations
