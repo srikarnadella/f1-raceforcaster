@@ -61,3 +61,21 @@ Every promotion, rejection and rollback. Newest last.
 - Hypothesis: 2026 is a new era; down-weighting older seasons harder in the strength fit should cut stale-form error.
 - Composite +0.21%, bootstrap win rate 79%, checks {'bootstrap': False, 'calibration': True, 'composite': False, 'leakage': True, 'no_target_regression': True}
 - Before → after: winner_logloss 1.2090 → 1.2047, podium_brier 0.0659 → 0.0659
+
+## 2026-11-09 — simulator-tuned-2026-11-04: rejected
+- Change: `{"simulator": {"w_quali": 0.6482571136030112, "lap_noise": 0.32076082372353626, "c0": -1.0, "c1": 2.958372354941139, "c2": 3.3115693666092616, "c3": 0.15, "start_noise": 1.158635381284233, "pit_jitter": 2.5, "pace_unc": 0.28013556586030675, "team_share": 0.6, "n_sims": 1000, "weight": 0.5}}` vs champion v3
+- Hypothesis: Scheduled Optuna re-calibration of the race simulator on 2024-2025 (reports/race_sim_lab.json); settings {"w_quali": 0.648, "pace_unc": 0.28, "c1": 2.958, "c2": 3.312, "start_noise": 1.159, "lap_noise": 0.321}.
+- Composite +0.09%, bootstrap win rate 79%, checks {'composite': False, 'no_target_regression': True, 'bootstrap': False, 'calibration': True, 'leakage': True}
+- Before → after: winner_logloss 1.2081 → 1.2065, podium_brier 0.0659 → 0.0659
+
+## 2026-11-09 — form-half-life-4: rejected
+- Change: `{"form": {"form_half_life": 4.0}}` vs champion v3
+- Hypothesis: Faster-adapting driver/constructor form tracks in-season pecking-order changes better.
+- Composite -0.14%, bootstrap win rate 32%, checks {'composite': False, 'no_target_regression': True, 'bootstrap': False, 'calibration': True, 'leakage': True}
+- Before → after: winner_logloss 1.2081 → 1.2093, podium_brier 0.0659 → 0.0661
+
+## 2026-11-09 — dnf-C-0.3: rejected
+- Change: `{"dnf": {"C": 0.3}}` vs champion v3
+- Hypothesis: Stronger regularisation of the DNF model reduces overfitting to noisy reliability history.
+- Composite -0.01%, bootstrap win rate 33%, checks {'composite': False, 'no_target_regression': True, 'bootstrap': False, 'calibration': True, 'leakage': True}
+- Before → after: winner_logloss 1.2081 → 1.2083, podium_brier 0.0659 → 0.0659

@@ -170,3 +170,4 @@ season,round,circuit_id,era,overtakes,race_laps,green_laps,method,per_lap
 2026,17,marina_bay,2026,27,62,60,count_passes-v1,0.43548
 2026,18,americas,2026,41,56,53,count_passes-v1,0.73214
 2026,19,rodriguez,2026,25,71,60,count_passes-v1,0.35211
+2026,20,interlagos,2026,64,71,68,count_passes-v1,0.90141

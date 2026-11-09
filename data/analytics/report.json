@@ -50,11 +50,11 @@
     "metric": "per_lap",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 1.0571057099450851,
-    "raw_factor": 1.0922089318225445,
-    "lo": 0.9478882129596005,
-    "hi": 1.2587610478040347,
-    "circuits": 17
+    "factor": 1.074589003662978,
+    "raw_factor": 1.1184054547918196,
+    "lo": 0.9773738342204705,
+    "hi": 1.2775425551606685,
+    "circuits": 18
    },
    "pit_loss_s": {
     "metric": "pit_loss_s",
@@ -129,34 +129,34 @@
   },
   "profile_model": {
    "coef_per_sd": {
-    "share_straight": -0.003,
-    "share_slow": 0.022,
-    "share_medium": -0.004,
-    "share_fast": -0.079,
-    "top_speed_kmh": 0.17,
-    "braking_pct": -0.087
+    "share_straight": -0.017,
+    "share_slow": 0.032,
+    "share_medium": -0.001,
+    "share_fast": -0.084,
+    "top_speed_kmh": 0.16,
+    "braking_pct": -0.106
    },
    "era_terms": {
-    "2022": 1.115,
-    "2026": 1.229
+    "2022": 1.113,
+    "2026": 1.281
    }
   },
   "validation": {
    "model": {
-    "mae_per_lap": 0.173,
-    "n": 17
+    "mae_per_lap": 0.182,
+    "n": 18
    },
    "last_visit": {
-    "mae_per_lap": 0.263,
-    "n": 17
+    "mae_per_lap": 0.265,
+    "n": 18
    },
    "previous_era_only": {
-    "mae_per_lap": 0.173,
-    "n": 17
+    "mae_per_lap": 0.183,
+    "n": 18
    },
    "model_all_races": {
-    "mae_per_lap": 0.174,
-    "n": 19
+    "mae_per_lap": 0.182,
+    "n": 20
    }
   }
  },
