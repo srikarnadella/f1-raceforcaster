@@ -1,6 +1,6 @@
 # Dashboard only (Streamlit Community Cloud reads this file first, next to the entrypoint).
 # The full pipeline's dependencies are in ../requirements.txt.
-streamlit==1.66.1
+streamlit==1.67.0
 altair==6.3.0
 pandas==2.3.3
 numpy==2.3.5
