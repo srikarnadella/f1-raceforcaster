@@ -1,96 +1,96 @@
 {
  "note": "agree = Spearman with the classified finishing order, averaged over races (95% CI by bootstrap over races); repeat = team rank correlation between consecutive races of a season.",
- "weekends": 89,
+ "weekends": 90,
  "methods": {
   "raw_median": {
    "group": "race pace (after the race)",
-   "agree_spearman": 0.836,
+   "agree_spearman": 0.837,
    "agree_ci": [
-    0.806,
+    0.807,
     0.864
    ],
-   "repeat_spearman": 0.737,
-   "races": 89
+   "repeat_spearman": 0.739,
+   "races": 90
   },
   "green_median": {
    "group": "race pace (after the race)",
    "agree_spearman": 0.823,
    "agree_ci": [
-    0.792,
+    0.794,
     0.851
    ],
-   "repeat_spearman": 0.73,
-   "races": 89
+   "repeat_spearman": 0.732,
+   "races": 90
   },
   "clean_median": {
    "group": "race pace (after the race)",
-   "agree_spearman": 0.718,
+   "agree_spearman": 0.717,
    "agree_ci": [
     0.679,
-    0.755
+    0.752
    ],
-   "repeat_spearman": 0.591,
-   "races": 89
+   "repeat_spearman": 0.595,
+   "races": 90
   },
   "corrected": {
    "group": "race pace (after the race)",
    "agree_spearman": 0.834,
    "agree_ci": [
-    0.804,
-    0.862
+    0.803,
+    0.863
    ],
-   "repeat_spearman": 0.735,
-   "races": 89
+   "repeat_spearman": 0.736,
+   "races": 90
   },
   "quali_position": {
    "group": "pre-race (predictive)",
-   "agree_spearman": 0.759,
+   "agree_spearman": 0.757,
    "agree_ci": [
-    0.721,
-    0.794
+    0.718,
+    0.792
    ],
    "repeat_spearman": 0.712,
-   "races": 89
+   "races": 90
   },
   "quali_best": {
    "group": "pre-race (predictive)",
-   "agree_spearman": 0.767,
+   "agree_spearman": 0.766,
    "agree_ci": [
-    0.728,
-    0.801
+    0.729,
+    0.8
    ],
    "repeat_spearman": 0.718,
-   "races": 88
+   "races": 89
   },
   "quali_ideal": {
    "group": "pre-race (predictive)",
-   "agree_spearman": 0.767,
+   "agree_spearman": 0.766,
    "agree_ci": [
     0.727,
     0.802
    ],
-   "repeat_spearman": 0.714,
-   "races": 88
+   "repeat_spearman": 0.715,
+   "races": 89
   },
   "fp_best": {
    "group": "pre-race (predictive)",
-   "agree_spearman": 0.618,
+   "agree_spearman": 0.619,
    "agree_ci": [
-    0.567,
+    0.569,
     0.667
    ],
-   "repeat_spearman": 0.597,
-   "races": 89
+   "repeat_spearman": 0.6,
+   "races": 90
   },
   "fp_longrun": {
    "group": "pre-race (predictive)",
-   "agree_spearman": 0.42,
+   "agree_spearman": 0.425,
    "agree_ci": [
-    0.355,
-    0.488
+    0.356,
+    0.492
    ],
-   "repeat_spearman": 0.325,
-   "races": 69
+   "repeat_spearman": 0.332,
+   "races": 70
   },
   "sprint_pace": {
    "group": "pre-race (predictive)",
