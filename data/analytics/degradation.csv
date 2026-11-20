@@ -2896,3 +2896,6 @@ season,round,circuit_id,race_name,format,session,constructor_id,team_name,team_c
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,SOFT,0.0026,81,True
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,williams,Williams,#1868DB,INTERMEDIATE,0.2424,40,True
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,williams,Williams,#1868DB,SOFT,-0.0093,73,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,alpine,Alpine,#00A1E8,INTERMEDIATE,-0.9785,10,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,ferrari,Ferrari,#ED1131,INTERMEDIATE,-0.4819,13,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,haas,Haas F1 Team,#9C9FA2,INTERMEDIATE,-0.9007,11,False

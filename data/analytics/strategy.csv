@@ -131,12 +131,12 @@ stops,plan,pace_time_s,time_s,delta_s,pace_only_delta_s,circuit_id,race_name
 2,S15 → M19 → M19,100.7,106.9,11.42,8.317,suzuka,Japanese Grand Prix
 2,S16 → S16 → M21,101.3,107.5,12.04,8.938,suzuka,Japanese Grand Prix
 2,M17 → M18 → H18,102.2,108.4,12.88,9.783,suzuka,Japanese Grand Prix
-1,M19 → H31,70.32,70.32,0,0,vegas,Las Vegas Grand Prix
-1,S14 → H36,72.47,72.47,2.152,2.152,vegas,Las Vegas Grand Prix
-2,S9 → H20 → H21,84.49,84.49,14.17,14.17,vegas,Las Vegas Grand Prix
-2,M12 → H19 → H19,84.55,84.55,14.23,14.23,vegas,Las Vegas Grand Prix
-1,S20 → M30,86.23,86.23,15.91,15.91,vegas,Las Vegas Grand Prix
-2,M13 → M14 → H23,87.65,87.65,17.34,17.34,vegas,Las Vegas Grand Prix
+1,M18 → H32,70.13,70.13,0,0,vegas,Las Vegas Grand Prix
+1,S14 → H36,72.32,72.32,2.19,2.19,vegas,Las Vegas Grand Prix
+2,S9 → H20 → H21,84.34,84.34,14.21,14.21,vegas,Las Vegas Grand Prix
+2,M11 → H19 → H20,84.38,84.38,14.24,14.24,vegas,Las Vegas Grand Prix
+1,S20 → M30,86.97,86.97,16.84,16.84,vegas,Las Vegas Grand Prix
+2,M13 → M14 → H23,87.62,87.62,17.49,17.49,vegas,Las Vegas Grand Prix
 1,S58 → M11,40.73,45.41,0,0,villeneuve,Canadian Grand Prix
 1,S64 → H5,42.17,46.85,1.442,1.442,villeneuve,Canadian Grand Prix
 2,S32 → S32 → M5,59.28,68.63,23.23,18.55,villeneuve,Canadian Grand Prix

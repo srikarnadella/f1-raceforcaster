@@ -74,7 +74,7 @@ shanghai,1.363,1,1,1.5,1.725,,"1 race(s) under these rules, shrunk toward the sc
 silverstone,2.15,2,1,2,2.3,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 spa,0.5,1,1,0,0,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 suzuka,0.8834,1,1,0.6667,0.7668,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
-vegas,1.917,,0,1.667,1.917,,previous era × era factor,sc_rate
+vegas,0.9585,0,1,1.667,1.917,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 villeneuve,0.9585,0,1,1.667,1.917,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 yas_marina,0.3834,,0,0.3333,0.3834,,previous era × era factor,sc_rate
 zandvoort,1.15,0,1,2,2.3,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate

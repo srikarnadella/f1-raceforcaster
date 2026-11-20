@@ -1704,3 +1704,8 @@ season,round,circuit_id,race_name,format,session,category,laps
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,invalid,132
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,neutral,38
 2026,20,interlagos,Brazilian Grand Prix,conventional,R,traffic,365
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP1,invalid,20
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,cool,184
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,invalid,138
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,long,58
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,push,33
