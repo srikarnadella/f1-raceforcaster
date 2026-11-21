@@ -608,3 +608,14 @@ season,round,circuit_id,constructor_id,team_name,team_colour,actual,proj_gap,ble
 2026,20,interlagos,rb,Racing Bulls,#6C98FF,0.3505,0.9033,1.051,1.198,0.6731
 2026,20,interlagos,red_bull,Red Bull Racing,#4781D7,0.5453,0.2931,0.297,0.301,0.2326
 2026,20,interlagos,williams,Williams,#1868DB,2.505,2.256,2.44,2.623,2.766
+2026,21,vegas,alpine,Alpine,#00A1E8,0.7093,1.697,1.878,2.059,7.588
+2026,21,vegas,aston_martin,Aston Martin,#229971,3.735,3.171,3.248,3.324,2.683
+2026,21,vegas,audi,Audi,#F50537,1.669,1.522,1.531,1.541,1.863
+2026,21,vegas,cadillac,Cadillac,#909090,3.717,4.149,4.246,4.344,8.103
+2026,21,vegas,ferrari,Ferrari,#ED1131,1.222,0.3638,0.3769,0.3899,1.541
+2026,21,vegas,haas,Haas F1 Team,#9C9FA2,2.478,2.044,2.076,2.108,2.749
+2026,21,vegas,mclaren,McLaren,#F47600,0.3738,0.4632,0.4351,0.407,0.8358
+2026,21,vegas,mercedes,Mercedes,#00D7B6,0,0,0,0,0
+2026,21,vegas,rb,Racing Bulls,#6C98FF,0.8254,0.9489,1.018,1.088,0.3505
+2026,21,vegas,red_bull,Red Bull Racing,#4781D7,0.2748,0.3623,0.3468,0.3313,0.5453
+2026,21,vegas,williams,Williams,#1868DB,1.805,2.089,2.345,2.602,2.505

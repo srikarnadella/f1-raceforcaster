@@ -14732,3 +14732,157 @@ season,round,circuit_id,race_name,format,code,driver_id,constructor_id,team_name
 2026,20,interlagos,Brazilian Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,5,slow,13.18,69.13,0.33772,1.13
 2026,20,interlagos,Brazilian Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,6,slow,7.3423,91,-0.034412,12
 2026,20,interlagos,Brazilian Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,7,medium,0.76316,204.64,-0.0054048,-3.0168
+2026,21,vegas,Las Vegas Grand Prix,conventional,NOR,norris,mclaren,McLaren,#F47600,1,slow,5.3032,115.34,-0.25556,3.9674
+2026,21,vegas,Las Vegas Grand Prix,conventional,NOR,norris,mclaren,McLaren,#F47600,2,medium,2.2552,208.03,0.013069,-0.27413
+2026,21,vegas,Las Vegas Grand Prix,conventional,NOR,norris,mclaren,McLaren,#F47600,3,slow,5.0782,107.12,-0.16737,2.4952
+2026,21,vegas,Las Vegas Grand Prix,conventional,NOR,norris,mclaren,McLaren,#F47600,4,slow,6.6529,95.275,-0.22626,6.1142
+2026,21,vegas,Las Vegas Grand Prix,conventional,NOR,norris,mclaren,McLaren,#F47600,5,slow,4.1954,93.22,-0.094325,1.5413
+2026,21,vegas,Las Vegas Grand Prix,conventional,NOR,norris,mclaren,McLaren,#F47600,6,slow,4.4933,102.36,-0.30353,5.7455
+2026,21,vegas,Las Vegas Grand Prix,conventional,NOR,norris,mclaren,McLaren,#F47600,7,slow,7.344,99,-0.32334,5
+2026,21,vegas,Las Vegas Grand Prix,conventional,VER,max_verstappen,red_bull,Red Bull Racing,#4781D7,1,slow,5.3862,115.05,-0.17259,3.6691
+2026,21,vegas,Las Vegas Grand Prix,conventional,VER,max_verstappen,red_bull,Red Bull Racing,#4781D7,2,medium,2.2778,203.43,0.035698,-4.8774
+2026,21,vegas,Las Vegas Grand Prix,conventional,VER,max_verstappen,red_bull,Red Bull Racing,#4781D7,3,slow,5.0173,111.19,-0.22832,6.5678
+2026,21,vegas,Las Vegas Grand Prix,conventional,VER,max_verstappen,red_bull,Red Bull Racing,#4781D7,4,slow,6.6449,96.535,-0.23427,7.3742
+2026,21,vegas,Las Vegas Grand Prix,conventional,VER,max_verstappen,red_bull,Red Bull Racing,#4781D7,5,slow,4.1674,92.532,-0.12235,0.85376
+2026,21,vegas,Las Vegas Grand Prix,conventional,VER,max_verstappen,red_bull,Red Bull Racing,#4781D7,6,slow,4.5546,100.16,-0.24225,3.5502
+2026,21,vegas,Las Vegas Grand Prix,conventional,VER,max_verstappen,red_bull,Red Bull Racing,#4781D7,7,slow,7.5018,95.764,-0.16553,1.7636
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOR,bortoleto,audi,Audi,#F50537,1,slow,5.5032,111.17,-0.05561,-0.20981
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOR,bortoleto,audi,Audi,#F50537,2,medium,2.3512,198.51,0.10913,-9.7952
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOR,bortoleto,audi,Audi,#F50537,3,slow,5.2096,107.19,-0.036038,2.5682
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOR,bortoleto,audi,Audi,#F50537,4,slow,6.7186,96.199,-0.16054,7.0381
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOR,bortoleto,audi,Audi,#F50537,5,slow,4.2981,93.752,0.0083311,2.0735
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOR,bortoleto,audi,Audi,#F50537,6,slow,4.6509,100.06,-0.14592,3.4448
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOR,bortoleto,audi,Audi,#F50537,7,slow,7.6624,96.011,-0.0049643,2.0106
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAD,hadjar,red_bull,Red Bull Racing,#4781D7,1,slow,5.2447,117.23,-0.31412,5.8541
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAD,hadjar,red_bull,Red Bull Racing,#4781D7,2,medium,2.2745,207,0.032362,-1.3097
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAD,hadjar,red_bull,Red Bull Racing,#4781D7,3,slow,5.0091,110.11,-0.2365,5.4898
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAD,hadjar,red_bull,Red Bull Racing,#4781D7,4,slow,6.6356,95.402,-0.24363,6.2412
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAD,hadjar,red_bull,Red Bull Racing,#4781D7,5,slow,4.248,93.529,-0.041745,1.8502
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAD,hadjar,red_bull,Red Bull Racing,#4781D7,6,slow,4.569,105.13,-0.22785,8.5137
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAD,hadjar,red_bull,Red Bull Racing,#4781D7,7,slow,7.3997,95.247,-0.26762,1.2468
+2026,21,vegas,Las Vegas Grand Prix,conventional,GAS,gasly,alpine,Alpine,#00A1E8,1,slow,5.413,114.06,-0.14581,2.6803
+2026,21,vegas,Las Vegas Grand Prix,conventional,GAS,gasly,alpine,Alpine,#00A1E8,2,medium,2.2639,208.16,0.021846,-0.14611
+2026,21,vegas,Las Vegas Grand Prix,conventional,GAS,gasly,alpine,Alpine,#00A1E8,3,slow,5.1984,105.12,-0.04716,0.50132
+2026,21,vegas,Las Vegas Grand Prix,conventional,GAS,gasly,alpine,Alpine,#00A1E8,4,slow,6.6368,96.507,-0.24242,7.3464
+2026,21,vegas,Las Vegas Grand Prix,conventional,GAS,gasly,alpine,Alpine,#00A1E8,5,slow,4.2272,99.023,-0.062565,7.3447
+2026,21,vegas,Las Vegas Grand Prix,conventional,GAS,gasly,alpine,Alpine,#00A1E8,6,slow,4.7332,101,-0.063646,4.3869
+2026,21,vegas,Las Vegas Grand Prix,conventional,GAS,gasly,alpine,Alpine,#00A1E8,7,slow,7.5325,97.428,-0.13485,3.4277
+2026,21,vegas,Las Vegas Grand Prix,conventional,PER,perez,cadillac,Cadillac,#909090,1,slow,5.6319,110.26,0.073156,-1.1137
+2026,21,vegas,Las Vegas Grand Prix,conventional,PER,perez,cadillac,Cadillac,#909090,2,medium,2.4171,191.55,0.17495,-16.759
+2026,21,vegas,Las Vegas Grand Prix,conventional,PER,perez,cadillac,Cadillac,#909090,3,slow,5.2265,106.23,-0.019136,1.6122
+2026,21,vegas,Las Vegas Grand Prix,conventional,PER,perez,cadillac,Cadillac,#909090,4,slow,7.0285,93,0.14933,3.8392
+2026,21,vegas,Las Vegas Grand Prix,conventional,PER,perez,cadillac,Cadillac,#909090,5,slow,4.4075,95,0.11776,3.3214
+2026,21,vegas,Las Vegas Grand Prix,conventional,PER,perez,cadillac,Cadillac,#909090,6,slow,4.7363,98.51,-0.06052,1.8968
+2026,21,vegas,Las Vegas Grand Prix,conventional,PER,perez,cadillac,Cadillac,#909090,7,slow,7.9018,89.27,0.23443,-4.7301
+2026,21,vegas,Las Vegas Grand Prix,conventional,ANT,antonelli,mercedes,Mercedes,#00D7B6,1,slow,5.5588,111.38,0,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,ANT,antonelli,mercedes,Mercedes,#00D7B6,2,medium,2.2421,208.31,0,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,ANT,antonelli,mercedes,Mercedes,#00D7B6,3,slow,5.2456,104.62,0,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,ANT,antonelli,mercedes,Mercedes,#00D7B6,4,slow,6.8792,89.161,0,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,ANT,antonelli,mercedes,Mercedes,#00D7B6,5,slow,4.2897,91.679,0,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,ANT,antonelli,mercedes,Mercedes,#00D7B6,6,slow,4.7968,96.613,0,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,ANT,antonelli,mercedes,Mercedes,#00D7B6,7,slow,7.6673,94,0,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALO,alonso,aston_martin,Aston Martin,#229971,1,slow,5.4106,106.46,-0.14822,-4.9189
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALO,alonso,aston_martin,Aston Martin,#229971,2,medium,2.391,192.27,0.14893,-16.039
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALO,alonso,aston_martin,Aston Martin,#229971,3,slow,5.2408,104.46,-0.004796,-0.15849
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALO,alonso,aston_martin,Aston Martin,#229971,4,slow,6.5547,95.047,-0.32453,5.8862
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALO,alonso,aston_martin,Aston Martin,#229971,5,slow,4.3149,93.296,0.025134,1.617
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALO,alonso,aston_martin,Aston Martin,#229971,6,slow,4.5569,97,-0.23986,0.38695
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALO,alonso,aston_martin,Aston Martin,#229971,7,slow,7.4901,94.065,-0.17718,0.064791
+2026,21,vegas,Las Vegas Grand Prix,conventional,LEC,leclerc,ferrari,Ferrari,#ED1131,1,slow,5.4781,113.02,-0.080737,1.6465
+2026,21,vegas,Las Vegas Grand Prix,conventional,LEC,leclerc,ferrari,Ferrari,#ED1131,2,medium,2.2967,204.12,0.054621,-4.1879
+2026,21,vegas,Las Vegas Grand Prix,conventional,LEC,leclerc,ferrari,Ferrari,#ED1131,3,slow,5.1834,109.01,-0.062229,4.3851
+2026,21,vegas,Las Vegas Grand Prix,conventional,LEC,leclerc,ferrari,Ferrari,#ED1131,4,slow,6.5696,94,-0.30956,4.8392
+2026,21,vegas,Las Vegas Grand Prix,conventional,LEC,leclerc,ferrari,Ferrari,#ED1131,5,slow,4.298,93.125,0.0083008,1.4459
+2026,21,vegas,Las Vegas Grand Prix,conventional,LEC,leclerc,ferrari,Ferrari,#ED1131,6,slow,4.3762,103,-0.42058,6.3869
+2026,21,vegas,Las Vegas Grand Prix,conventional,LEC,leclerc,ferrari,Ferrari,#ED1131,7,slow,7.4972,95,-0.17016,1
+2026,21,vegas,Las Vegas Grand Prix,conventional,STR,stroll,aston_martin,Aston Martin,#229971,1,slow,5.4786,108.25,-0.080219,-3.1263
+2026,21,vegas,Las Vegas Grand Prix,conventional,STR,stroll,aston_martin,Aston Martin,#229971,2,medium,2.4047,193.05,0.16264,-15.253
+2026,21,vegas,Las Vegas Grand Prix,conventional,STR,stroll,aston_martin,Aston Martin,#229971,3,slow,5.3748,105,0.12921,0.37907
+2026,21,vegas,Las Vegas Grand Prix,conventional,STR,stroll,aston_martin,Aston Martin,#229971,4,slow,7.0121,97,0.13291,7.8392
+2026,21,vegas,Las Vegas Grand Prix,conventional,STR,stroll,aston_martin,Aston Martin,#229971,5,slow,4.3228,96,0.033101,4.3214
+2026,21,vegas,Las Vegas Grand Prix,conventional,STR,stroll,aston_martin,Aston Martin,#229971,6,slow,4.0478,101.09,-0.74896,4.4727
+2026,21,vegas,Las Vegas Grand Prix,conventional,STR,stroll,aston_martin,Aston Martin,#229971,7,slow,7.6331,93.287,-0.03424,-0.71286
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALB,albon,williams,Williams,#1868DB,1,slow,5.6318,111.06,0.072972,-0.31312
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALB,albon,williams,Williams,#1868DB,2,medium,2.3675,192.97,0.12539,-15.333
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALB,albon,williams,Williams,#1868DB,3,slow,5.3452,102.35,0.0996,-2.2718
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALB,albon,williams,Williams,#1868DB,4,slow,6.9339,92,0.05473,2.8392
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALB,albon,williams,Williams,#1868DB,5,slow,4.3603,88,0.070601,-3.6786
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALB,albon,williams,Williams,#1868DB,6,slow,4.829,98.226,0.032163,1.6128
+2026,21,vegas,Las Vegas Grand Prix,conventional,ALB,albon,williams,Williams,#1868DB,7,slow,7.8035,90.491,0.13622,-3.5088
+2026,21,vegas,Las Vegas Grand Prix,conventional,HUL,hulkenberg,audi,Audi,#F50537,1,slow,5.3733,111.02,-0.18545,-0.35937
+2026,21,vegas,Las Vegas Grand Prix,conventional,HUL,hulkenberg,audi,Audi,#F50537,2,medium,2.3477,206,0.10557,-2.3071
+2026,21,vegas,Las Vegas Grand Prix,conventional,HUL,hulkenberg,audi,Audi,#F50537,3,slow,5.1533,106,-0.092252,1.3791
+2026,21,vegas,Las Vegas Grand Prix,conventional,HUL,hulkenberg,audi,Audi,#F50537,4,slow,6.5569,94.522,-0.32231,5.3608
+2026,21,vegas,Las Vegas Grand Prix,conventional,HUL,hulkenberg,audi,Audi,#F50537,5,slow,4.3929,90.83,0.10314,-0.84846
+2026,21,vegas,Las Vegas Grand Prix,conventional,HUL,hulkenberg,audi,Audi,#F50537,6,slow,4.5553,98,-0.24151,1.3869
+2026,21,vegas,Las Vegas Grand Prix,conventional,HUL,hulkenberg,audi,Audi,#F50537,7,slow,7.5993,94,-0.068028,0
+2026,21,vegas,Las Vegas Grand Prix,conventional,LAW,lawson,rb,Racing Bulls,#6C98FF,1,slow,5.4446,116,-0.11416,4.6236
+2026,21,vegas,Las Vegas Grand Prix,conventional,LAW,lawson,rb,Racing Bulls,#6C98FF,2,medium,2.3085,205,0.066404,-3.3071
+2026,21,vegas,Las Vegas Grand Prix,conventional,LAW,lawson,rb,Racing Bulls,#6C98FF,3,slow,5.3307,105.14,0.085106,0.52069
+2026,21,vegas,Las Vegas Grand Prix,conventional,LAW,lawson,rb,Racing Bulls,#6C98FF,4,slow,6.8004,97.111,-0.078822,7.9506
+2026,21,vegas,Las Vegas Grand Prix,conventional,LAW,lawson,rb,Racing Bulls,#6C98FF,5,slow,4.2545,93.708,-0.035236,2.0292
+2026,21,vegas,Las Vegas Grand Prix,conventional,LAW,lawson,rb,Racing Bulls,#6C98FF,6,slow,4.7647,97.211,-0.032148,0.59748
+2026,21,vegas,Las Vegas Grand Prix,conventional,LAW,lawson,rb,Racing Bulls,#6C98FF,7,slow,7.5847,95.163,-0.082649,1.1628
+2026,21,vegas,Las Vegas Grand Prix,conventional,LIN,arvid_lindblad,rb,Racing Bulls,#6C98FF,1,slow,5.4502,112,-0.10856,0.62358
+2026,21,vegas,Las Vegas Grand Prix,conventional,LIN,arvid_lindblad,rb,Racing Bulls,#6C98FF,2,medium,2.2882,207.03,0.046103,-1.2729
+2026,21,vegas,Las Vegas Grand Prix,conventional,LIN,arvid_lindblad,rb,Racing Bulls,#6C98FF,3,slow,5.3018,103.6,0.056221,-1.0196
+2026,21,vegas,Las Vegas Grand Prix,conventional,LIN,arvid_lindblad,rb,Racing Bulls,#6C98FF,4,slow,6.4677,98.054,-0.41151,8.8932
+2026,21,vegas,Las Vegas Grand Prix,conventional,LIN,arvid_lindblad,rb,Racing Bulls,#6C98FF,5,slow,4.35,96,0.060221,4.3214
+2026,21,vegas,Las Vegas Grand Prix,conventional,LIN,arvid_lindblad,rb,Racing Bulls,#6C98FF,6,slow,4.8905,97.225,0.093733,0.61205
+2026,21,vegas,Las Vegas Grand Prix,conventional,LIN,arvid_lindblad,rb,Racing Bulls,#6C98FF,7,slow,7.5428,98.398,-0.12453,4.3976
+2026,21,vegas,Las Vegas Grand Prix,conventional,COL,colapinto,alpine,Alpine,#00A1E8,1,slow,5.4895,112,-0.069284,0.62358
+2026,21,vegas,Las Vegas Grand Prix,conventional,COL,colapinto,alpine,Alpine,#00A1E8,2,medium,2.2896,203.06,0.047463,-5.2504
+2026,21,vegas,Las Vegas Grand Prix,conventional,COL,colapinto,alpine,Alpine,#00A1E8,3,slow,5.1148,107.1,-0.13081,2.4779
+2026,21,vegas,Las Vegas Grand Prix,conventional,COL,colapinto,alpine,Alpine,#00A1E8,4,slow,6.6204,93,-0.25879,3.8392
+2026,21,vegas,Las Vegas Grand Prix,conventional,COL,colapinto,alpine,Alpine,#00A1E8,5,slow,4.2895,93,-0.00021945,1.3214
+2026,21,vegas,Las Vegas Grand Prix,conventional,COL,colapinto,alpine,Alpine,#00A1E8,6,slow,4.6396,103.48,-0.15721,6.8691
+2026,21,vegas,Las Vegas Grand Prix,conventional,COL,colapinto,alpine,Alpine,#00A1E8,7,slow,7.503,95,-0.16429,1
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,1,slow,5.3736,108.11,-0.18518,-3.2651
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,2,medium,2.348,204.86,0.10592,-3.444
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,3,slow,5.0599,106.41,-0.1857,1.7914
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,4,slow,6.5818,94.071,-0.29735,4.9099
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,5,slow,4.3095,91.543,0.019723,-0.13527
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,6,slow,4.6549,100.6,-0.14194,3.9853
+2026,21,vegas,Las Vegas Grand Prix,conventional,HAM,hamilton,ferrari,Ferrari,#ED1131,7,slow,7.4501,94.267,-0.21719,0.26664
+2026,21,vegas,Las Vegas Grand Prix,conventional,CAM,cam,haas,Haas F1 Team,#9C9FA2,1,slow,5.4578,110.2,-0.10097,-1.1773
+2026,21,vegas,Las Vegas Grand Prix,conventional,CAM,cam,haas,Haas F1 Team,#9C9FA2,2,medium,2.3819,199.54,0.13976,-8.7629
+2026,21,vegas,Las Vegas Grand Prix,conventional,CAM,cam,haas,Haas F1 Team,#9C9FA2,3,slow,5.1606,106,-0.085015,1.3791
+2026,21,vegas,Las Vegas Grand Prix,conventional,CAM,cam,haas,Haas F1 Team,#9C9FA2,4,slow,6.5482,96.309,-0.331,7.1483
+2026,21,vegas,Las Vegas Grand Prix,conventional,CAM,cam,haas,Haas F1 Team,#9C9FA2,5,slow,4.5411,91,0.2514,-0.67863
+2026,21,vegas,Las Vegas Grand Prix,conventional,CAM,cam,haas,Haas F1 Team,#9C9FA2,6,slow,4.5111,96,-0.28566,-0.61305
+2026,21,vegas,Las Vegas Grand Prix,conventional,CAM,cam,haas,Haas F1 Team,#9C9FA2,7,slow,7.6815,93.103,0.014205,-0.89746
+2026,21,vegas,Las Vegas Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,1,slow,5.5716,108.55,0.01277,-2.8247
+2026,21,vegas,Las Vegas Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,2,medium,2.3833,194,0.14115,-14.307
+2026,21,vegas,Las Vegas Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,3,slow,5.3304,104.38,0.084786,-0.24126
+2026,21,vegas,Las Vegas Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,4,slow,7.0998,93.258,0.2206,4.0969
+2026,21,vegas,Las Vegas Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,5,slow,4.312,91,0.022243,-0.67863
+2026,21,vegas,Las Vegas Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,6,slow,4.7149,99.14,-0.081923,2.5266
+2026,21,vegas,Las Vegas Grand Prix,conventional,SAI,sainz,williams,Williams,#1868DB,7,slow,7.7986,88,0.1313,-6
+2026,21,vegas,Las Vegas Grand Prix,conventional,RUS,russell,mercedes,Mercedes,#00D7B6,1,slow,5.4248,114.55,-0.13397,3.1736
+2026,21,vegas,Las Vegas Grand Prix,conventional,RUS,russell,mercedes,Mercedes,#00D7B6,2,medium,2.2051,211,-0.037004,2.6929
+2026,21,vegas,Las Vegas Grand Prix,conventional,RUS,russell,mercedes,Mercedes,#00D7B6,3,slow,5.1316,109.51,-0.11395,4.8936
+2026,21,vegas,Las Vegas Grand Prix,conventional,RUS,russell,mercedes,Mercedes,#00D7B6,4,slow,6.8691,96.076,-0.010128,6.9149
+2026,21,vegas,Las Vegas Grand Prix,conventional,RUS,russell,mercedes,Mercedes,#00D7B6,5,slow,4.2358,92.278,-0.053893,0.59909
+2026,21,vegas,Las Vegas Grand Prix,conventional,RUS,russell,mercedes,Mercedes,#00D7B6,6,slow,4.69,100.31,-0.10683,3.6937
+2026,21,vegas,Las Vegas Grand Prix,conventional,RUS,russell,mercedes,Mercedes,#00D7B6,7,slow,7.4241,96.157,-0.24318,2.1574
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOT,bottas,cadillac,Cadillac,#909090,1,slow,5.599,108,0.040162,-3.3764
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOT,bottas,cadillac,Cadillac,#909090,2,medium,2.4107,194.9,0.16864,-13.403
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOT,bottas,cadillac,Cadillac,#909090,3,slow,5.2921,103,0.046512,-1.6183
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOT,bottas,cadillac,Cadillac,#909090,4,slow,6.9742,92,0.095055,2.8392
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOT,bottas,cadillac,Cadillac,#909090,5,slow,4.2975,90.642,0.0077145,-1.037
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOT,bottas,cadillac,Cadillac,#909090,6,slow,5.0135,95.662,0.21672,-0.95069
+2026,21,vegas,Las Vegas Grand Prix,conventional,BOT,bottas,cadillac,Cadillac,#909090,7,slow,7.7658,88.084,0.098486,-5.9164
+2026,21,vegas,Las Vegas Grand Prix,conventional,PIA,piastri,mclaren,McLaren,#F47600,1,slow,5.4656,110.33,-0.093203,-1.0506
+2026,21,vegas,Las Vegas Grand Prix,conventional,PIA,piastri,mclaren,McLaren,#F47600,2,medium,2.2676,206.01,0.025497,-2.3002
+2026,21,vegas,Las Vegas Grand Prix,conventional,PIA,piastri,mclaren,McLaren,#F47600,3,slow,5.2531,106.82,0.0075235,2.203
+2026,21,vegas,Las Vegas Grand Prix,conventional,PIA,piastri,mclaren,McLaren,#F47600,4,slow,6.8322,94,-0.046986,4.8392
+2026,21,vegas,Las Vegas Grand Prix,conventional,PIA,piastri,mclaren,McLaren,#F47600,5,slow,4.2079,94.338,-0.081881,2.6592
+2026,21,vegas,Las Vegas Grand Prix,conventional,PIA,piastri,mclaren,McLaren,#F47600,6,slow,4.6337,101.57,-0.16314,4.9535
+2026,21,vegas,Las Vegas Grand Prix,conventional,PIA,piastri,mclaren,McLaren,#F47600,7,slow,7.2993,96,-0.36807,2
+2026,21,vegas,Las Vegas Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,1,slow,5.9323,111,0.37353,-0.37642
+2026,21,vegas,Las Vegas Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,2,medium,2.5912,181.14,0.34911,-27.172
+2026,21,vegas,Las Vegas Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,3,slow,6.0194,94.057,0.77377,-10.564
+2026,21,vegas,Las Vegas Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,4,slow,7.3068,92.412,0.42759,3.2512
+2026,21,vegas,Las Vegas Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,5,slow,4.8546,86.554,0.5649,-5.1245
+2026,21,vegas,Las Vegas Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,6,slow,4.4288,93.419,-0.36796,-3.1945
+2026,21,vegas,Las Vegas Grand Prix,conventional,BEA,bearman,haas,Haas F1 Team,#9C9FA2,7,slow,10.145,72.519,2.4778,-21.481

@@ -2899,3 +2899,14 @@ season,round,circuit_id,race_name,format,session,constructor_id,team_name,team_c
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,alpine,Alpine,#00A1E8,INTERMEDIATE,-0.9785,10,False
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,ferrari,Ferrari,#ED1131,INTERMEDIATE,-0.4819,13,False
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,haas,Haas F1 Team,#9C9FA2,INTERMEDIATE,-0.9007,11,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,alpine,Alpine,#00A1E8,MEDIUM,-0.3983,8,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,alpine,Alpine,#00A1E8,SOFT,-0.2548,9,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,aston_martin,Aston Martin,#229971,SOFT,-0.0034,11,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,cadillac,Cadillac,#909090,MEDIUM,-0.1839,9,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,cadillac,Cadillac,#909090,SOFT,-0.4146,11,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,ferrari,Ferrari,#ED1131,SOFT,-0.1992,18,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,haas,Haas F1 Team,#9C9FA2,MEDIUM,-0.0897,13,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,mclaren,McLaren,#F47600,MEDIUM,-0.1855,8,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,mclaren,McLaren,#F47600,SOFT,-0.1545,9,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,mercedes,Mercedes,#00D7B6,MEDIUM,-0.1788,16,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,rb,Racing Bulls,#6C98FF,SOFT,-0.4618,15,False
