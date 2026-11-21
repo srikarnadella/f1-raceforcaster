@@ -481,147 +481,147 @@
    "code": "RUS",
    "constructor_id": "mercedes",
    "quali_gap_pct": 0.3525289425196698,
-   "proj_race_pace_gap": 0.037905547600064815
+   "proj_race_pace_gap": 0.037905547602602396
   },
   {
    "driver_id": "max_verstappen",
    "code": "VER",
    "constructor_id": "red_bull",
    "quali_gap_pct": 0.2747808675833019,
-   "proj_race_pace_gap": 0.07224901345560825
+   "proj_race_pace_gap": 0.07224901345574053
   },
   {
    "driver_id": "norris",
    "code": "NOR",
    "constructor_id": "mclaren",
    "quali_gap_pct": 0.373829784968005,
-   "proj_race_pace_gap": 0.1224395129718246
+   "proj_race_pace_gap": 0.122439512975688
   },
   {
    "driver_id": "piastri",
    "code": "PIA",
    "constructor_id": "mclaren",
    "quali_gap_pct": 1.0714323751504384,
-   "proj_race_pace_gap": 0.44123832042715555
+   "proj_race_pace_gap": 0.4412383204306278
   },
   {
    "driver_id": "hadjar",
    "code": "HAD",
    "constructor_id": "red_bull",
    "quali_gap_pct": 0.7444644435687486,
-   "proj_race_pace_gap": 0.5555375097044564
+   "proj_race_pace_gap": 0.5555375097060027
   },
   {
    "driver_id": "leclerc",
    "code": "LEC",
    "constructor_id": "ferrari",
    "quali_gap_pct": 1.2216033144111016,
-   "proj_race_pace_gap": 0.6091055798747069
+   "proj_race_pace_gap": 0.609105579874583
   },
   {
    "driver_id": "hamilton",
    "code": "HAM",
    "constructor_id": "ferrari",
    "quali_gap_pct": 1.8776692618193147,
-   "proj_race_pace_gap": 0.6111504204173752
+   "proj_race_pace_gap": 0.6111504204203522
   },
   {
    "driver_id": "arvid_lindblad",
    "code": "LIN",
    "constructor_id": "rb",
    "quali_gap_pct": 0.8254076448723557,
-   "proj_race_pace_gap": 1.0471252472801338
+   "proj_race_pace_gap": 1.0471252472803085
   },
   {
    "driver_id": "lawson",
    "code": "LAW",
    "constructor_id": "rb",
    "quali_gap_pct": 1.2301236513904135,
-   "proj_race_pace_gap": 1.1077423553517636
+   "proj_race_pace_gap": 1.107742355351523
   },
   {
    "driver_id": "colapinto",
    "code": "COL",
    "constructor_id": "alpine",
    "quali_gap_pct": 1.1598308713109517,
-   "proj_race_pace_gap": 1.1512866035400622
+   "proj_race_pace_gap": 1.1512866035411513
   },
   {
    "driver_id": "gasly",
    "code": "GAS",
    "constructor_id": "alpine",
    "quali_gap_pct": 0.7093180535290067,
-   "proj_race_pace_gap": 1.1738436330277584
+   "proj_race_pace_gap": 1.1738436330323259
   },
   {
    "driver_id": "hulkenberg",
    "code": "HUL",
    "constructor_id": "audi",
    "quali_gap_pct": 1.668921005825763,
-   "proj_race_pace_gap": 1.2582750485910303
+   "proj_race_pace_gap": 1.2582750485909082
   },
   {
    "driver_id": "albon",
    "code": "ALB",
    "constructor_id": "williams",
    "quali_gap_pct": 2.090677686302489,
-   "proj_race_pace_gap": 1.3196191327019224
+   "proj_race_pace_gap": 1.3196191327064961
   },
   {
    "driver_id": "bortoleto",
    "code": "BOR",
    "constructor_id": "audi",
    "quali_gap_pct": 2.236588457073463,
-   "proj_race_pace_gap": 1.3219497032890384
+   "proj_race_pace_gap": 1.3219497032901282
   },
   {
    "driver_id": "sainz",
    "code": "SAI",
    "constructor_id": "williams",
    "quali_gap_pct": 1.8052463974950195,
-   "proj_race_pace_gap": 1.3243217072765536
+   "proj_race_pace_gap": 1.3243217072772282
   },
   {
    "driver_id": "cam",
    "code": "CAM",
    "constructor_id": "haas",
    "quali_gap_pct": 2.4783530188619007,
-   "proj_race_pace_gap": 1.9364897968880257
+   "proj_race_pace_gap": 1.9364897968913062
   },
   {
    "driver_id": "alonso",
    "code": "ALO",
    "constructor_id": "aston_martin",
    "quali_gap_pct": 3.735102723312722,
-   "proj_race_pace_gap": 2.3244880866357165
+   "proj_race_pace_gap": 2.3244880866396684
   },
   {
    "driver_id": "bearman",
    "code": "BEA",
    "constructor_id": "haas",
    "quali_gap_pct": 15.029874431533763,
-   "proj_race_pace_gap": 2.5831192334228117
+   "proj_race_pace_gap": 2.5831192334234823
   },
   {
    "driver_id": "stroll",
    "code": "STR",
    "constructor_id": "aston_martin",
    "quali_gap_pct": 3.8948590416751028,
-   "proj_race_pace_gap": 2.591217185096447
+   "proj_race_pace_gap": 2.5912171850972983
   },
   {
    "driver_id": "perez",
    "code": "PER",
    "constructor_id": "cadillac",
    "quali_gap_pct": 3.716997007231626,
-   "proj_race_pace_gap": 2.6682006861851146
+   "proj_race_pace_gap": 2.6682006861881944
   },
   {
    "driver_id": "bottas",
    "code": "BOT",
    "constructor_id": "cadillac",
    "quali_gap_pct": 3.949176189918302,
-   "proj_race_pace_gap": 2.8667917761212642
+   "proj_race_pace_gap": 2.86679177612275
   }
  ]
 }

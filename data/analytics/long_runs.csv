@@ -899,7 +899,7 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2025,3,suzuka,Japanese Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6692FF,7,MEDIUM,94.908,95.315,5.7942,FP3
 2025,3,suzuka,Japanese Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#3671C6,8,HARD,94.016,95.43,5.9222,FP3
 2025,3,suzuka,Japanese Grand Prix,conventional,ocon,OCO,haas,Haas F1 Team,#B6BABD,7,HARD,94.895,95.688,6.2089,FP3
-2025,3,suzuka,Japanese Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,6,SOFT,89.958,90.095,0,FP3
+2025,3,suzuka,Japanese Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#FF8000,6,SOFT,89.958,90.094,0,FP3
 2025,3,suzuka,Japanese Grand Prix,conventional,sainz,SAI,williams,Williams,#64C4FF,6,HARD,91.513,93.619,3.9115,FP3
 2025,5,jeddah,Saudi Arabian Grand Prix,conventional,albon,ALB,williams,Williams,#64C4FF,5,MEDIUM,95.554,94.286,1.9141,FP1
 2025,5,jeddah,Saudi Arabian Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,5,MEDIUM,94.978,93.703,1.2835,FP1
