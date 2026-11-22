@@ -2249,3 +2249,24 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,20,interlagos,Brazilian Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,66,42,75.614,75.989,1.0602,R
 2026,20,interlagos,Brazilian Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,60,43,78.15,77.147,2.6001,R
 2026,20,interlagos,Brazilian Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,26,12,81.998,79.2,5.3301,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,aston_martin,Aston Martin,#229971,41,13,100.23,100.53,3.4243,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,42,1,97.244,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,17,,,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,42,11,99.24,99.632,2.4999,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,42,7,98.449,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,42,17,100.42,100.86,3.7653,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,haas,Haas F1 Team,#9C9FA2,40,29,98.775,99.254,2.1106,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,41,4,98.229,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,gasly,GAS,alpine,Alpine,#00A1E8,41,1,96.692,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,39,19,96.56,97.202,0,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,hamilton,HAM,ferrari,Ferrari,#ED1131,40,16,97.255,98.145,0.96969,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,40,26,97.93,98.634,1.4734,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,40,28,98.882,99.16,2.0143,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,leclerc,LEC,ferrari,Ferrari,#ED1131,41,14,97,98.177,1.0027,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,42,37,98.033,98.36,1.1913,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,42,,,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,cadillac,Cadillac,#909090,16,3,99.918,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,42,2,97.029,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,40,4,97.95,,,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,40,22,97.727,98.395,1.227,R
+2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,41,15,100.36,100.77,3.6748,R

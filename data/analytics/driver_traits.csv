@@ -1745,3 +1745,24 @@ season,round,circuit_id,race_name,format,driver_id,deg_s_per_lap,consistency_s,s
 2026,20,interlagos,Brazilian Grand Prix,conventional,russell,0.09568,1.0977,61
 2026,20,interlagos,Brazilian Grand Prix,conventional,sainz,0.17107,0.78667,56
 2026,20,interlagos,Brazilian Grand Prix,conventional,stroll,-0.32095,0.90473,18
+2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,-0.013785,0.79993,41
+2026,21,vegas,Las Vegas Grand Prix,conventional,antonelli,-0.066729,0.65947,42
+2026,21,vegas,Las Vegas Grand Prix,conventional,arvid_lindblad,-0.077252,0.46724,17
+2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,-0.056526,0.74382,42
+2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,-0.076665,0.72188,42
+2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,0.017023,0.83783,42
+2026,21,vegas,Las Vegas Grand Prix,conventional,cam,-0.060161,0.52966,40
+2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,-0.088757,0.72717,41
+2026,21,vegas,Las Vegas Grand Prix,conventional,gasly,-0.059857,0.59697,41
+2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,-0.051354,0.52981,39
+2026,21,vegas,Las Vegas Grand Prix,conventional,hamilton,-0.050577,0.69619,40
+2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,-0.088703,0.63653,40
+2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,-0.069513,0.45297,40
+2026,21,vegas,Las Vegas Grand Prix,conventional,leclerc,-0.057632,0.58835,41
+2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,-0.077466,0.27343,42
+2026,21,vegas,Las Vegas Grand Prix,conventional,norris,-0.090731,0.74228,42
+2026,21,vegas,Las Vegas Grand Prix,conventional,perez,-0.051534,0.41143,16
+2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,-0.069211,0.72604,42
+2026,21,vegas,Las Vegas Grand Prix,conventional,russell,-0.075097,0.47697,40
+2026,21,vegas,Las Vegas Grand Prix,conventional,sainz,-0.037685,0.44355,39
+2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,-0.0079929,0.65059,41

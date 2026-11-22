@@ -2910,3 +2910,23 @@ season,round,circuit_id,race_name,format,session,constructor_id,team_name,team_c
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,mclaren,McLaren,#F47600,SOFT,-0.1545,9,False
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,mercedes,Mercedes,#00D7B6,MEDIUM,-0.1788,16,False
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,rb,Racing Bulls,#6C98FF,SOFT,-0.4618,15,False
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,alpine,Alpine,#00A1E8,MEDIUM,-0.0683,48,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,alpine,Alpine,#00A1E8,SOFT,-0.0827,34,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,aston_martin,Aston Martin,#229971,MEDIUM,0.0198,48,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,aston_martin,Aston Martin,#229971,SOFT,-0.0549,34,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,audi,Audi,#F50537,MEDIUM,-0.0732,49,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,audi,Audi,#F50537,SOFT,-0.0967,33,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,cadillac,Cadillac,#909090,SOFT,0.0135,58,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,ferrari,Ferrari,#ED1131,MEDIUM,-0.0442,48,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,ferrari,Ferrari,#ED1131,SOFT,-0.0688,33,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,haas,Haas F1 Team,#9C9FA2,MEDIUM,-0.0732,17,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,haas,Haas F1 Team,#9C9FA2,SOFT,-0.0478,65,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,mclaren,McLaren,#F47600,MEDIUM,-0.0627,50,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,mclaren,McLaren,#F47600,SOFT,-0.1053,34,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,mercedes,Mercedes,#00D7B6,MEDIUM,-0.0672,40,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,mercedes,Mercedes,#00D7B6,SOFT,-0.0599,42,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,rb,Racing Bulls,#6C98FF,SOFT,-0.0698,57,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,MEDIUM,-0.0705,25,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,SOFT,-0.0544,56,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,williams,Williams,#1868DB,MEDIUM,-0.0161,22,True
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,williams,Williams,#1868DB,SOFT,-0.0656,17,True

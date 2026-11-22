@@ -1716,3 +1716,8 @@ season,round,circuit_id,race_name,format,session,category,laps
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,cool,143
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,invalid,147
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,push,105
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,clean,269
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,invalid,63
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,lap1,20
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,neutral,95
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,traffic,542

@@ -1193,3 +1193,14 @@ season,round,driver_id,code,constructor_id,quali_gap_pct,race_pace_gap_pct,pred
 2026,20,norris,NOR,mclaren,0.8358,0.162,0.6614
 2026,20,piastri,PIA,mclaren,4.178,0.7144,1.069
 2026,20,russell,RUS,mercedes,0,1.06,0
+2026,21,alonso,ALO,aston_martin,3.735,3.424,2.252
+2026,21,bottas,BOT,cadillac,3.949,3.765,2.795
+2026,21,cam,CAM,haas,2.478,2.111,1.864
+2026,21,hadjar,HAD,red_bull,0.7445,0,0.4833
+2026,21,hamilton,HAM,ferrari,1.878,0.9697,0.5389
+2026,21,hulkenberg,HUL,audi,1.669,1.473,1.186
+2026,21,lawson,LAW,rb,1.23,2.014,1.035
+2026,21,leclerc,LEC,ferrari,1.222,1.003,0.5369
+2026,21,max_verstappen,VER,red_bull,0.2748,1.191,0
+2026,21,sainz,SAI,williams,1.805,1.227,1.252
+2026,21,stroll,STR,aston_martin,3.895,3.675,2.519

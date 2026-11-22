@@ -1,44 +1,44 @@
 {
  "weekends": 91,
  "circuits": {
-  "k": 6,
-  "silhouette": 0.181,
+  "k": 5,
+  "silhouette": 0.162,
   "explained": [
-   0.356,
-   0.146
+   0.359,
+   0.159
   ],
   "loadings": {
    "pc1": {
-    "share_straight": 0.41,
-    "share_fast": 0.089,
-    "share_medium": -0.009,
-    "share_slow": -0.351,
-    "avg_speed_kmh": 0.44,
-    "top_speed_kmh": 0.273,
-    "full_throttle_pct": 0.419,
-    "braking_pct": -0.294,
-    "gear_changes_per_km": -0.36,
-    "race_deg": -0.045,
-    "race_track_temp": -0.103,
-    "sc_rate": 0.051,
-    "overtakes_per_lap": 0.139,
-    "pit_loss_s": 0.082
+    "share_straight": 0.407,
+    "share_fast": 0.081,
+    "share_medium": -0.018,
+    "share_slow": -0.342,
+    "avg_speed_kmh": 0.437,
+    "top_speed_kmh": 0.274,
+    "full_throttle_pct": 0.417,
+    "braking_pct": -0.293,
+    "gear_changes_per_km": -0.356,
+    "race_deg": -0.065,
+    "race_track_temp": -0.115,
+    "sc_rate": 0.064,
+    "overtakes_per_lap": 0.151,
+    "pit_loss_s": 0.117
    },
    "pc2": {
-    "share_straight": -0.084,
-    "share_fast": 0.304,
-    "share_medium": 0.535,
-    "share_slow": -0.37,
-    "avg_speed_kmh": 0.06,
-    "top_speed_kmh": 0.055,
-    "full_throttle_pct": 0.004,
-    "braking_pct": 0.291,
-    "gear_changes_per_km": -0.053,
-    "race_deg": 0.111,
-    "race_track_temp": 0.396,
-    "sc_rate": -0.425,
-    "overtakes_per_lap": -0.181,
-    "pit_loss_s": -0.02
+    "share_straight": -0.008,
+    "share_fast": 0.379,
+    "share_medium": 0.387,
+    "share_slow": -0.348,
+    "avg_speed_kmh": 0.082,
+    "top_speed_kmh": 0.03,
+    "full_throttle_pct": 0.005,
+    "braking_pct": 0.125,
+    "gear_changes_per_km": -0.054,
+    "race_deg": 0.065,
+    "race_track_temp": 0.45,
+    "sc_rate": -0.379,
+    "overtakes_per_lap": -0.374,
+    "pit_loss_s": -0.264
    }
   }
  },
@@ -60,21 +60,21 @@
     "metric": "pit_loss_s",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 1.0384165811118553,
-    "raw_factor": 1.0603932521151864,
-    "lo": 1.0149685632222754,
-    "hi": 1.1123218489887179,
-    "circuits": 18
+    "factor": 1.062364946192941,
+    "raw_factor": 1.0967357806513567,
+    "lo": 1.0264515550736377,
+    "hi": 1.1813829699141674,
+    "circuits": 19
    },
    "sc_rate": {
     "metric": "sc_rate",
     "new_era": 2026,
     "old_era": 2022,
-    "factor": 1.1502430892660973,
-    "raw_factor": 1.4048564995509543,
-    "lo": 0.915736525732526,
-    "hi": 2.245847962427467,
-    "circuits": 7
+    "factor": 1.1093983109312948,
+    "raw_factor": 1.2631265847425968,
+    "lo": 0.8447036575045905,
+    "hi": 1.9323555220846058,
+    "circuits": 8
    },
    "avg_speed_kmh": {
     "metric": "avg_speed_kmh",
@@ -161,11 +161,11 @@
   }
  },
  "strategy": {
-  "n": 45,
-  "exact_model": 0.578,
-  "mae_model": 0.544,
-  "exact_last_visit": 0.444,
-  "mae_last_visit": 0.622
+  "n": 46,
+  "exact_model": 0.587,
+  "mae_model": 0.533,
+  "exact_last_visit": 0.457,
+  "mae_last_visit": 0.609
  },
  "dna_projection": {
   "proj_gap": {
@@ -204,10 +204,10 @@
     "visits": 3630
    },
    "same circuit type": {
-    "mae_model": 0.4628,
-    "mae_usual_level": 0.4666,
-    "correlation": 0.112,
-    "visits": 4260
+    "mae_model": 0.463,
+    "mae_usual_level": 0.4667,
+    "correlation": 0.114,
+    "visits": 4312
    }
   },
   "drivers": 43,
@@ -215,25 +215,25 @@
  },
  "race_pace_model": {
   "gbm": {
-   "mae_pct": 0.454,
-   "spearman": 0.809
+   "mae_pct": 0.456,
+   "spearman": 0.81
   },
   "quali_gap_baseline": {
    "mae_pct": 0.495,
-   "spearman": 0.793
+   "spearman": 0.792
   },
-  "races": 67,
+  "races": 68,
   "shap_mean_abs": {
-   "fp_longrun_gap": 0.057255411019369616,
-   "is_sprint": 0.012138439731374105,
-   "quali_gap_pct": 0.3016696519907479,
-   "race_track_temp": 0.04263750056944037,
-   "share_fast": 0.04236561009369116,
-   "share_slow": 0.0512142369793053,
-   "share_straight": 0.04780826851470967,
-   "team_deg_prior": 0.03175801168957546,
-   "team_racepace_prior": 0.4168062289767564,
-   "team_rmq_prior": 0.016241152940557217
+   "fp_longrun_gap": 0.059157620872213885,
+   "is_sprint": 0.017192832969590798,
+   "quali_gap_pct": 0.29893326245940205,
+   "race_track_temp": 0.04819421936034042,
+   "share_fast": 0.04066069126526757,
+   "share_slow": 0.052807793424663074,
+   "share_straight": 0.04350124492638967,
+   "team_deg_prior": 0.03591914625161828,
+   "team_racepace_prior": 0.4170596603526192,
+   "team_rmq_prior": 0.01833536350393643
   }
  }
 }

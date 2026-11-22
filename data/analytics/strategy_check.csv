@@ -49,3 +49,4 @@ season,round,circuit_id,actual_stops,pred_stops,last_visit_stops,plan,actual_rou
 2026,17,marina_bay,1,1,1,S36 → M26,1
 2026,18,americas,1,1,1,M30 → H26,1
 2026,19,rodriguez,2.5,1,1,M32 → H39,2
+2026,21,vegas,1,1,1,M18 → H32,1

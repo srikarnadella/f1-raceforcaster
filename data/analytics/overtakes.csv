@@ -1473,3 +1473,24 @@ season,round,circuit_id,race_name,format,driver_id,overtakes,conceded
 2026,20,interlagos,Brazilian Grand Prix,conventional,russell,4,3
 2026,20,interlagos,Brazilian Grand Prix,conventional,sainz,2,7
 2026,20,interlagos,Brazilian Grand Prix,conventional,stroll,1,4
+2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,7,12
+2026,21,vegas,Las Vegas Grand Prix,conventional,antonelli,8,4
+2026,21,vegas,Las Vegas Grand Prix,conventional,arvid_lindblad,3,3
+2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,4,4
+2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,3,6
+2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,7,9
+2026,21,vegas,Las Vegas Grand Prix,conventional,cam,6,3
+2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,2,7
+2026,21,vegas,Las Vegas Grand Prix,conventional,gasly,4,9
+2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,8,3
+2026,21,vegas,Las Vegas Grand Prix,conventional,hamilton,8,1
+2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,4,1
+2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,4,1
+2026,21,vegas,Las Vegas Grand Prix,conventional,leclerc,3,5
+2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,4,4
+2026,21,vegas,Las Vegas Grand Prix,conventional,norris,9,11
+2026,21,vegas,Las Vegas Grand Prix,conventional,perez,0,2
+2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,11,4
+2026,21,vegas,Las Vegas Grand Prix,conventional,russell,7,9
+2026,21,vegas,Las Vegas Grand Prix,conventional,sainz,2,3
+2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,9,12
