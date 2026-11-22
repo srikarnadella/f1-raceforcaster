@@ -8965,7 +8965,6 @@ vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,bortoleto,BOR,1,4,1.0829,0.0
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,bortoleto,BOR,2,4,1.0113,0.028051,1,INTERMEDIATE,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,bottas,BOT,1,2,1.0501,0.0048522,5,INTERMEDIATE,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,bottas,BOT,2,2,1.0126,0.017823,9,INTERMEDIATE,short / setup runs
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,cam,CAM,2,7,1.0412,0.032559,1,INTERMEDIATE,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,colapinto,COL,1,5,1.024,0.019367,2,INTERMEDIATE,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,colapinto,COL,2,2,1.0326,0.046079,10,INTERMEDIATE,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,gasly,GAS,1,6,1.0406,0.023324,1,INTERMEDIATE,race sim
@@ -8985,12 +8984,13 @@ vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,leclerc,LEC,3,2,1.046,0.0445
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,max_verstappen,VER,4,2,1.0038,0.0053928,1,INTERMEDIATE,quali sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,norris,NOR,1,2,1.0813,0.023961,1,WET,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,norris,NOR,2,5,1.0531,0.020258,1,INTERMEDIATE,race sim
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,norris,NOR,3,3,1.0048,0.012245,8,INTERMEDIATE,quali sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,norris,NOR,3,3,1.0048,0.012245,8,INTERMEDIATE,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,perez,PER,2,8,1.021,0.021994,1,INTERMEDIATE,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,piastri,PIA,1,3,1.0789,0.013901,3,WET,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,piastri,PIA,2,5,1.0503,0.01603,1,INTERMEDIATE,race sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,rafael_camara,CAM,2,7,1.0412,0.032559,1,INTERMEDIATE,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,russell,RUS,2,3,1.0627,0.0079956,1,INTERMEDIATE,short / setup runs
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,russell,RUS,3,3,1.0251,0.012939,6,INTERMEDIATE,quali sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,russell,RUS,3,3,1.0251,0.012939,6,INTERMEDIATE,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,sainz,SAI,1,2,1.0752,0.013861,1,WET,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,sainz,SAI,3,4,1.0174,0.013914,1,INTERMEDIATE,quali sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP2,stroll,STR,1,2,1.0922,0.001533,4,WET,short / setup runs
@@ -9014,10 +9014,7 @@ vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,bortoleto,BOR,1,7,1.0269,0.0
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,bortoleto,BOR,2,2,1.0521,0.062205,2,SOFT,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,bortoleto,BOR,4,4,1.0015,0.015354,1,SOFT,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,bottas,BOT,1,8,1.0492,0.018856,1,SOFT,race sim
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,bottas,BOT,3,6,1.0053,0.026269,4,SOFT,race sim
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,cam,CAM,1,8,1.0621,0.021809,2,MEDIUM,race sim
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,cam,CAM,2,3,1.0243,0.01104,2,MEDIUM,quali sim
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,cam,CAM,3,3,1.0008,0.0048958,2,SOFT,quali sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,bottas,BOT,3,6,1.0053,0.026269,4,SOFT,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,colapinto,COL,1,10,1.0442,0.021784,2,MEDIUM,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,colapinto,COL,2,3,1.0131,0.0069182,2,SOFT,quali sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,colapinto,COL,3,2,1.0039,0.0054817,3,SOFT,quali sim
@@ -9048,12 +9045,15 @@ vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,perez,PER,3,4,1.0501,0.04678
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,piastri,PIA,1,5,1.0273,0.027025,2,SOFT,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,piastri,PIA,2,9,1.0192,0.017805,1,MEDIUM,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,piastri,PIA,3,2,1.0011,0.0015057,1,SOFT,quali sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,rafael_camara,CAM,1,8,1.0621,0.021809,2,MEDIUM,race sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,rafael_camara,CAM,2,3,1.0243,0.01104,2,MEDIUM,quali sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,rafael_camara,CAM,3,3,1.0008,0.0048958,2,SOFT,quali sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,russell,RUS,1,11,1.0412,0.016945,1,MEDIUM,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,russell,RUS,2,2,1.0098,0.0023986,2,SOFT,quali sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,russell,RUS,3,2,1.0014,0.0019926,4,SOFT,quali sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,1,2,1.0517,0.017982,1,MEDIUM,short / setup runs
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,2,5,1.026,0.016838,5,MEDIUM,quali sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,2,5,1.026,0.016838,5,MEDIUM,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,3,2,1.0056,0.0019227,1,SOFT,quali sim
-vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,4,4,1.0147,0.019182,6,SOFT,quali sim
+vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,4,4,1.0147,0.019182,6,SOFT,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,stroll,STR,1,6,1.0212,0.0075767,2,SOFT,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,stroll,STR,2,2,1.0071,0.00080352,2,SOFT,quali sim

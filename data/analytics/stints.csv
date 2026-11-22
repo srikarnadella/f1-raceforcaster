@@ -5191,9 +5191,6 @@ season,round,circuit_id,race_name,format,driver_id,stint,code,team_colour,compou
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,1,BOT,#909090,SOFT,1,19,0,100.66
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,2,BOT,#909090,MEDIUM,20,20,0,153.57
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,3,BOT,#909090,SOFT,21,50,0,100.08
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,1,CAM,#9C9FA2,SOFT,1,18,0,99.715
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,2,CAM,#9C9FA2,MEDIUM,19,21,0,120.95
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,3,CAM,#9C9FA2,SOFT,22,50,0,98.715
 2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,1,COL,#00A1E8,SOFT,1,19,4,98.784
 2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,2,COL,#00A1E8,MEDIUM,20,50,0,97.527
 2026,21,vegas,Las Vegas Grand Prix,conventional,gasly,1,GAS,#00A1E8,SOFT,1,19,4,98.651
@@ -5216,6 +5213,9 @@ season,round,circuit_id,race_name,format,driver_id,stint,code,team_colour,compou
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,1,PER,#909090,SOFT,1,17,0,99.915
 2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,1,PIA,#F47600,SOFT,1,19,0,98.692
 2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,2,PIA,#F47600,MEDIUM,20,50,0,97.33
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,1,CAM,#9C9FA2,SOFT,1,18,0,99.715
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,2,CAM,#9C9FA2,MEDIUM,19,21,0,120.95
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,3,CAM,#9C9FA2,SOFT,22,50,0,98.715
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,1,RUS,#00D7B6,SOFT,1,19,3,98.781
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,2,RUS,#00D7B6,MEDIUM,20,50,0,97.736
 2026,21,vegas,Las Vegas Grand Prix,conventional,sainz,1,SAI,#1868DB,SOFT,1,19,0,98.896

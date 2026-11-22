@@ -100684,7 +100684,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,1,15,7.091,110.35,SOFT,lap1
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,1,16,8.586,111.85,MEDIUM,lap1
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,1,17,8.815,112.08,SOFT,lap1
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,1,18,10.028,113.29,SOFT,lap1
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,1,18,10.028,113.29,SOFT,lap1
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,1,19,10.393,113.65,SOFT,lap1
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,1,20,10.822,114.08,SOFT,lap1
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,1,21,155.08,,MEDIUM,invalid
@@ -100705,7 +100705,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,2,15,8.558,101.37,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,2,16,9.589,101.02,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,2,17,11.163,102.37,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,2,18,12.121,102.22,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,2,18,12.121,102.22,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,2,19,12.494,102.08,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,2,20,13.255,102.42,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,2,21,156.69,101.64,SOFT,clean
@@ -100726,7 +100726,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,3,15,9.803,100.54,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,3,16,10.573,100.22,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,3,17,12.43,100.51,SOFT,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,3,18,13.429,100.47,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,3,18,13.429,100.47,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,3,19,14.402,100.58,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,3,20,15.147,101.82,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,3,21,158.38,100.93,SOFT,clean
@@ -100747,7 +100747,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,4,15,10.599,100.1,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,4,16,10.795,99.537,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,4,17,13.275,100.08,SOFT,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,4,18,14.119,100.03,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,4,18,14.119,100.03,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,4,19,16.036,100.75,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,4,20,16.361,100.65,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,4,21,159.44,100.41,SOFT,clean
@@ -100768,7 +100768,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,5,15,11.973,100.37,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,5,16,12.145,100.87,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,5,17,14.209,100.28,SOFT,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,5,18,14.613,99.696,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,5,18,14.613,99.696,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,5,19,18.876,101.78,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,5,20,19.147,102.42,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,5,21,159.97,99.767,SOFT,clean
@@ -100788,7 +100788,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,6,14,9.126,98.922,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,6,15,12.214,99.637,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,6,16,12.817,99.985,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,6,17,14.871,99.734,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,6,17,14.871,99.734,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,6,18,15.378,100.48,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,6,19,20.703,100.9,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,6,20,21.293,101.71,SOFT,clean
@@ -100809,7 +100809,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,7,14,9.177,98.596,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,7,15,13.371,99.749,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,7,16,14.064,99.915,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,7,17,16.261,99.976,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,7,17,16.261,99.976,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,7,18,17.091,100.39,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,7,19,23.262,101.17,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,7,20,23.553,100.92,SOFT,traffic
@@ -100830,7 +100830,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,8,14,12.754,103.76,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,8,15,14.05,99.935,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,8,16,14.632,99.641,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,8,17,17.061,99.938,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,8,17,17.061,99.938,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,8,18,17.325,99.384,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,8,19,25.425,101.36,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,8,20,25.994,101.52,SOFT,traffic
@@ -100851,7 +100851,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,9,14,13.086,99.551,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,9,15,14.099,99.192,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,9,16,14.981,99.584,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,9,17,17.118,99.355,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,9,17,17.118,99.355,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,9,18,18.093,100.01,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,9,19,26.894,100.66,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,9,20,27.293,100.57,SOFT,traffic
@@ -100872,7 +100872,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,10,14,13.651,99.187,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,10,15,14.731,99.242,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,10,16,15.791,99.296,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,10,17,18.503,99.928,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,10,17,18.503,99.928,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,10,18,18.762,99.237,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,10,19,28.575,100.3,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,10,20,29.951,101.14,SOFT,traffic
@@ -100893,7 +100893,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,11,14,14.575,98.979,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,11,15,15.676,99.033,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,11,16,17.069,99.55,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,11,17,19.993,99.524,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,11,17,19.993,99.524,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,11,18,20.341,99.765,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,11,19,30.942,100.43,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,11,20,32.666,100.8,SOFT,traffic
@@ -100914,7 +100914,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,12,14,14.836,98.681,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,12,15,16.217,98.911,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,12,16,18.681,99.888,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,12,17,21.052,99.407,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,12,17,21.052,99.407,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,12,18,21.645,99.559,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,12,19,33.123,100.14,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,12,20,34.598,100.34,SOFT,clean
@@ -100935,7 +100935,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,13,14,15.763,99.072,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,13,15,17.236,99.194,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,13,16,20.28,99.814,SOFT,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,13,17,22.236,99.335,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,13,17,22.236,99.335,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,13,18,22.653,99.215,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,13,19,34.603,100.12,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,13,20,36.968,100.59,SOFT,traffic
@@ -100956,7 +100956,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,14,14,15.967,98.605,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,14,15,17.621,98.791,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,14,16,21.722,99.918,SOFT,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,14,17,22.885,99.064,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,14,17,22.885,99.064,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,14,18,23.47,99.277,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,14,19,36.605,100.42,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,14,20,39.3,100.77,SOFT,clean
@@ -100976,7 +100976,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,15,13,10.472,98.151,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,15,14,16.106,98.225,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,15,15,18.757,99.088,MEDIUM,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,15,16,23.667,98.976,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,15,16,23.667,98.976,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,15,17,23.919,100.14,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,15,18,24.93,99.361,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,15,19,39.107,100.45,SOFT,clean
@@ -100997,7 +100997,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,16,13,9.991,97.764,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,16,14,16.717,98.733,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,16,15,19.683,99.206,MEDIUM,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,16,16,25.098,99.502,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,16,16,25.098,99.502,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,16,17,25.586,99.91,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,16,18,26.342,99.682,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,16,19,41.389,100.42,SOFT,clean
@@ -101018,7 +101018,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,17,13,10.179,98.504,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,17,14,16.762,98.381,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,17,15,20.584,99.168,MEDIUM,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,17,16,26.219,99.409,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,17,16,26.219,99.409,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,PER,#909090,17,17,26.705,99.344,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,17,18,27.202,99.208,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,17,19,43.371,100.41,SOFT,clean
@@ -101042,7 +101042,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,18,16,29.977,100.64,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,18,17,48.497,103.13,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,18,18,50.494,102.25,SOFT,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,18,19,78.537,150.25,SOFT,invalid
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,18,19,78.537,150.25,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,18,20,231.87,143.47,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,19,1,0,116.26,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,19,2,4.655,120.55,SOFT,invalid
@@ -101062,7 +101062,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,19,16,40.896,127.17,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,19,17,64.949,130.76,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,19,18,66.196,133.86,SOFT,invalid
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,19,19,113.45,151.22,MEDIUM,invalid
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,19,19,113.45,151.22,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,19,20,236.21,120.4,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,20,1,0,157.81,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,#00D7B6,20,2,1.321,153.56,MEDIUM,invalid
@@ -101081,7 +101081,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,20,15,30.551,147.4,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,20,16,45.737,138.49,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,20,17,62.068,153.57,MEDIUM,invalid
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,20,18,74.302,118.33,MEDIUM,neutral
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,20,18,74.302,118.33,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,20,19,199.36,120.83,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,21,1,0,162.61,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,#00D7B6,21,2,0.979,162.31,MEDIUM,neutral
@@ -101099,7 +101099,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hamilton,HAM,#ED1131,21,14,18.029,179.22,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,21,15,19.664,151.75,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,21,16,20.979,137.83,MEDIUM,invalid
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,21,17,32.3,120.95,MEDIUM,invalid
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,21,17,32.3,120.95,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,21,18,34.832,135.34,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,21,19,176.35,139.77,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,22,1,0,153.48,MEDIUM,neutral
@@ -101119,7 +101119,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,22,15,18.049,151.84,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,22,16,19.727,152.2,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,22,17,21.9,140.59,SOFT,neutral
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,22,18,23.889,144.87,SOFT,invalid
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,22,18,23.889,144.87,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,22,19,183.26,160.38,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,23,1,0,153.96,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,#00D7B6,23,2,1.467,154.3,MEDIUM,neutral
@@ -101138,7 +101138,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,23,15,23.249,159.1,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,23,16,25.564,159.63,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,23,17,27.945,159.88,SOFT,neutral
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,23,18,30.671,160.7,SOFT,neutral
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,23,18,30.671,160.7,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,23,19,137.6,108.15,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,24,1,0,149.17,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,#00D7B6,24,2,1.308,149.43,MEDIUM,neutral
@@ -101157,7 +101157,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,24,15,20.069,146.11,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,24,16,20.946,144.69,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,24,17,22.324,143.63,SOFT,neutral
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,24,18,23.16,141.72,SOFT,neutral
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,24,18,23.16,141.72,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,24,19,88.438,100.15,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,25,1,0,150.93,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,#00D7B6,25,2,0.659,150.2,MEDIUM,neutral
@@ -101176,7 +101176,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,25,15,5.874,136.78,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,25,16,6.989,137.09,MEDIUM,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,25,17,7.555,136.19,SOFT,neutral
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,25,18,8.634,136.44,SOFT,neutral
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,25,18,8.634,136.44,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,25,19,37.156,99.599,SOFT,neutral
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,26,1,0,99.284,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,#00D7B6,26,2,0.818,99.603,MEDIUM,traffic
@@ -101194,7 +101194,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,26,14,8.612,102.03,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,26,15,9.471,101.79,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,26,16,9.801,101.66,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,26,17,10.35,101.05,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,26,17,10.35,101.05,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,26,18,15.5,114.06,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,26,19,37.063,99.347,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,max_verstappen,VER,#4781D7,27,1,0,99.111,MEDIUM,clean
@@ -101213,7 +101213,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,27,14,9.29,99.809,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,27,15,10.358,99.995,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,27,16,10.973,100.19,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,27,17,11.152,99.874,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,27,17,11.152,99.874,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,27,18,36.863,98.821,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,27,19,44.656,128.19,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,#00D7B6,28,1,0,97.736,MEDIUM,traffic
@@ -101230,7 +101230,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,28,12,7.223,97.752,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,28,13,8.338,97.898,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,28,14,10.109,98.56,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,28,15,11.559,98.239,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,28,15,11.559,98.239,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,28,16,12.06,99.367,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,28,17,13.246,100.05,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,28,18,37.453,98.338,SOFT,clean
@@ -101250,7 +101250,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,29,13,8.502,98.142,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,29,14,10.728,98.884,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,29,15,12.568,98.916,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,29,16,12.828,99.407,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,29,16,12.828,99.407,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,29,17,14.252,99.305,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,29,18,37.798,98.514,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,29,19,43.662,97.386,SOFT,clean
@@ -101268,7 +101268,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,30,12,8.336,98.184,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,30,13,8.659,98.489,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,30,14,11.495,98.88,MEDIUM,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,30,15,13.432,98.951,SOFT,traffic
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,30,15,13.432,98.951,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,30,16,14.495,99.92,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,30,17,15.34,99.175,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,30,18,37.583,98.082,SOFT,clean
@@ -101286,7 +101286,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,31,11,8.948,98.098,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,31,12,9.233,98.342,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,31,13,9.342,98.334,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,31,14,14.961,99.001,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,31,14,14.961,99.001,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,31,15,15.725,101.54,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,31,16,16.342,99.387,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,31,17,16.634,98.776,SOFT,traffic
@@ -101305,7 +101305,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,32,11,10.407,99.037,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,32,12,10.65,98.876,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,32,13,11.065,99.718,SOFT,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,32,14,15.864,98.378,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,32,14,15.864,98.378,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,32,15,18.231,99.514,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,32,16,18.624,100.67,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,32,17,19.143,100.13,SOFT,traffic
@@ -101324,7 +101324,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,33,11,10.838,98.048,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,33,12,11.97,98.798,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,33,13,12.251,99.438,MEDIUM,clean
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,33,14,16.812,98.775,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,33,14,16.812,98.775,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,33,15,19.78,99.327,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,33,16,20.054,99.046,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,33,17,20.492,99.057,SOFT,traffic
@@ -101343,7 +101343,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,34,11,13.188,100.02,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,34,12,13.437,99.09,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,34,13,13.592,99.333,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,34,14,18.637,99.504,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,34,14,18.637,99.504,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,34,15,21.16,99.019,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,34,16,21.355,99.229,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,34,17,21.733,99.013,SOFT,traffic
@@ -101362,7 +101362,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,35,11,14.049,98.151,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,35,12,14.363,98.307,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,35,13,14.695,98.365,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,35,14,19.861,98.646,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,35,14,19.861,98.646,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,35,15,23.696,99.797,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,35,16,24.041,99.864,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,35,17,24.396,100.49,MEDIUM,clean
@@ -101381,7 +101381,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,36,11,14.346,98.023,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,36,12,14.785,98.067,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,36,13,15.436,98.3,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,36,14,20.933,98.702,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,36,14,20.933,98.702,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,36,15,26.618,100.4,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,36,16,26.728,100.1,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,36,17,27.055,100.19,MEDIUM,traffic
@@ -101400,7 +101400,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,37,11,14.939,97.71,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,37,12,15.487,97.811,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,37,13,15.976,97.734,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,37,14,21.882,98.061,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,37,14,21.882,98.061,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,37,15,29.948,100.58,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,37,16,30.287,100.56,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,37,17,30.58,100.44,MEDIUM,traffic
@@ -101419,7 +101419,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,38,11,15.439,97.812,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,38,12,15.718,97.644,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,38,13,16.73,98.012,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,38,14,23.183,98.652,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,38,14,23.183,98.652,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,38,15,32.61,99.77,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,38,16,32.986,100.36,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,38,17,33.308,100.56,SOFT,traffic
@@ -101438,7 +101438,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,39,11,16.029,97.882,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,39,12,16.265,97.591,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,39,13,16.665,97.333,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,39,14,24.768,98.796,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,39,14,24.768,98.796,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,39,15,35.272,100.02,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,39,16,35.621,99.756,MEDIUM,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,39,17,36.011,99.843,SOFT,traffic
@@ -101457,7 +101457,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,40,11,17.012,97.979,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,40,12,17.687,98.611,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,40,13,17.857,98.211,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,40,14,26.465,98.715,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,40,14,26.465,98.715,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,40,15,37.892,99.522,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,40,16,38.932,100.45,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,40,17,39.15,98.425,SOFT,clean
@@ -101476,7 +101476,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,41,11,17.375,97.502,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,41,12,18.092,97.489,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,41,13,18.948,98.025,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,41,14,27.48,98.213,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,41,14,27.48,98.213,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,41,15,39.776,97.864,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,41,16,40.45,98.156,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,41,17,40.982,100.23,MEDIUM,clean
@@ -101495,7 +101495,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,42,11,18.091,97.341,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,42,12,18.82,97.497,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,42,13,19.246,97.132,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,42,14,29.294,98.492,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,42,14,29.294,98.492,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,42,15,39.626,96.56,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,42,16,40.91,96.617,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,42,17,43.514,98.443,SOFT,traffic
@@ -101514,7 +101514,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,43,11,18.899,97.264,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,43,12,19.747,97.312,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,43,13,20.37,97.496,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,43,14,31.298,98.397,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,43,14,31.298,98.397,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,43,15,39.757,96.6,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,43,16,40.426,96.5,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,43,17,46.526,99.477,SOFT,clean
@@ -101533,7 +101533,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,44,11,19.248,97.406,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,44,12,20.199,97.44,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,44,13,20.491,97.087,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,44,14,32.612,98.357,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,44,14,32.612,98.357,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,44,15,39.32,96.491,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,44,16,39.696,96.328,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,44,17,49.269,99.618,SOFT,clean
@@ -101552,7 +101552,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,45,11,19.817,97.273,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,45,12,21.129,97.686,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,45,13,21.568,97.907,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,45,14,34.052,98.138,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,45,14,34.052,98.138,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,45,15,38.927,96.268,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,45,16,39.381,96.401,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,45,17,51.985,99.315,MEDIUM,traffic
@@ -101571,7 +101571,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,46,11,20.56,97.532,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,46,12,21.95,97.667,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,46,13,22.192,97.26,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,46,14,35.561,98.271,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,46,14,35.561,98.271,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,46,15,38.242,96.095,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,46,16,38.755,96.2,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,46,17,54.749,98.899,MEDIUM,traffic
@@ -101590,7 +101590,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,hulkenberg,HUL,#F50537,47,11,21.337,97.359,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,47,12,22.933,97.487,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,47,13,23.373,97.844,MEDIUM,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,47,14,37.411,98.473,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,47,14,37.411,98.473,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,47,15,37.729,95.945,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,47,16,38.219,96.036,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,47,17,58.041,99.65,MEDIUM,traffic
@@ -101611,7 +101611,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,48,13,23.969,97.179,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,48,14,37.358,96.652,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,48,15,37.815,96.464,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,48,16,40.006,99.282,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,48,16,40.006,99.282,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,48,17,61.671,100.05,SOFT,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,48,18,62.489,101.22,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,48,19,62.772,101.4,MEDIUM,clean
@@ -101630,7 +101630,7 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,BOR,#F50537,49,13,26.288,99.261,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,49,14,36.64,96.148,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,49,15,37.559,96.354,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,49,16,40.925,97.9,SOFT,clean
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,49,16,40.925,97.9,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,49,17,65.156,99.556,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,alonso,ALO,#229971,49,18,66.726,101.02,MEDIUM,traffic
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,49,19,67.12,102.25,SOFT,clean
@@ -101649,6 +101649,6 @@ season,round,circuit_id,race_name,format,driver_id,code,team_colour,lap,position
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,BEA,#9C9FA2,50,13,28.876,99.242,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,HAD,#4781D7,50,14,36.423,96.233,SOFT,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,lawson,LAW,#6C98FF,50,15,36.7,95.591,SOFT,traffic
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,#9C9FA2,50,16,47.791,103.32,SOFT,invalid
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,#9C9FA2,50,16,47.791,103.32,SOFT,invalid
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,#229971,50,17,68.189,99.483,MEDIUM,clean
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,#909090,50,18,71.637,100.97,SOFT,traffic

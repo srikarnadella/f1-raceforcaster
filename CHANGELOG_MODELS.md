@@ -79,3 +79,21 @@ Every promotion, rejection and rollback. Newest last.
 - Hypothesis: Stronger regularisation of the DNF model reduces overfitting to noisy reliability history.
 - Composite -0.01%, bootstrap win rate 33%, checks {'composite': False, 'no_target_regression': True, 'bootstrap': False, 'calibration': True, 'leakage': True}
 - Before → after: winner_logloss 1.2081 → 1.2083, podium_brier 0.0659 → 0.0659
+
+## 2026-11-22 — simulator-tuned-2026-11-18: rejected
+- Change: `{"simulator": {"w_quali": 0.6482571136030112, "lap_noise": 0.32076082372353626, "c0": -1.0, "c1": 2.958372354941139, "c2": 3.3115693666092616, "c3": 0.15, "start_noise": 1.158635381284233, "pit_jitter": 2.5, "pace_unc": 0.28013556586030675, "team_share": 0.6, "n_sims": 1000, "weight": 0.5}}` vs champion v3
+- Hypothesis: Scheduled Optuna re-calibration of the race simulator on 2024-2025 (reports/race_sim_lab.json); settings {"w_quali": 0.648, "pace_unc": 0.28, "c1": 2.958, "c2": 3.312, "start_noise": 1.159, "lap_noise": 0.321}.
+- Composite +0.07%, bootstrap win rate 74%, checks {'composite': False, 'no_target_regression': True, 'bootstrap': False, 'calibration': True, 'leakage': True}
+- Before → after: winner_logloss 1.2097 → 1.2082, podium_brier 0.0661 → 0.0661
+
+## 2026-11-22 — dnf.season_half_life=2.0: rejected
+- Change: `{"dnf": {"season_half_life": 2.0}}` vs champion v3
+- Hypothesis: auto: dnf.season_half_life 4.0 -> 2.0
+- Composite -0.02%, bootstrap win rate 12%, checks {'composite': False, 'no_target_regression': True, 'bootstrap': False, 'calibration': True, 'leakage': True}
+- Before → after: winner_logloss 1.2097 → 1.2101, podium_brier 0.0661 → 0.0661
+
+## 2026-11-22 — form.form_half_life=9.0: rejected
+- Change: `{"form": {"form_half_life": 9.0}}` vs champion v3
+- Hypothesis: auto: form.form_half_life 6.0 -> 9.0
+- Composite +0.04%, bootstrap win rate 57%, checks {'composite': False, 'no_target_regression': True, 'bootstrap': False, 'calibration': True, 'leakage': True}
+- Before → after: winner_logloss 1.2097 → 1.2100, podium_brier 0.0661 → 0.0660

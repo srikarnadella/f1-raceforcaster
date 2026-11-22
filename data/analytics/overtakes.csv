@@ -1479,7 +1479,6 @@ season,round,circuit_id,race_name,format,driver_id,overtakes,conceded
 2026,21,vegas,Las Vegas Grand Prix,conventional,bearman,4,4
 2026,21,vegas,Las Vegas Grand Prix,conventional,bortoleto,3,6
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,7,9
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,6,3
 2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,2,7
 2026,21,vegas,Las Vegas Grand Prix,conventional,gasly,4,9
 2026,21,vegas,Las Vegas Grand Prix,conventional,hadjar,8,3
@@ -1491,6 +1490,7 @@ season,round,circuit_id,race_name,format,driver_id,overtakes,conceded
 2026,21,vegas,Las Vegas Grand Prix,conventional,norris,9,11
 2026,21,vegas,Las Vegas Grand Prix,conventional,perez,0,2
 2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,11,4
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,6,3
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,7,9
 2026,21,vegas,Las Vegas Grand Prix,conventional,sainz,2,3
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,9,12

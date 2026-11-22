@@ -1,0 +1,564 @@
+{
+ "season": 2026,
+ "round": 21,
+ "race_name": "Las Vegas Grand Prix",
+ "teams": [
+  {
+   "team": "alpine",
+   "quali_gap": 0.7093,
+   "race_pace_gap": 0.9182,
+   "best_finish": 5,
+   "points": 18.0,
+   "race_minus_quali": 0.2089
+  },
+  {
+   "team": "aston_martin",
+   "quali_gap": 3.7351,
+   "race_pace_gap": 3.2872,
+   "best_finish": 17,
+   "points": 0.0,
+   "race_minus_quali": -0.4479
+  },
+  {
+   "team": "audi",
+   "quali_gap": 1.6689,
+   "race_pace_gap": 1.4348,
+   "best_finish": 11,
+   "points": 0.0,
+   "race_minus_quali": -0.2341
+  },
+  {
+   "team": "cadillac",
+   "quali_gap": 3.717,
+   "race_pace_gap": 2.2771,
+   "best_finish": 18,
+   "points": 0.0,
+   "race_minus_quali": -1.4399
+  },
+  {
+   "team": "ferrari",
+   "quali_gap": 1.2216,
+   "race_pace_gap": 0.7534,
+   "best_finish": 7,
+   "points": 7.0,
+   "race_minus_quali": -0.4682
+  },
+  {
+   "team": "haas",
+   "quali_gap": 2.4784,
+   "race_pace_gap": 2.0101,
+   "best_finish": 13,
+   "points": 0.0,
+   "race_minus_quali": -0.4683
+  },
+  {
+   "team": "mclaren",
+   "quali_gap": 0.3738,
+   "race_pace_gap": 0.755,
+   "best_finish": 2,
+   "points": 33.0,
+   "race_minus_quali": 0.3812
+  },
+  {
+   "team": "mercedes",
+   "quali_gap": 0.0,
+   "race_pace_gap": 0.7649,
+   "best_finish": 4,
+   "points": 14.0,
+   "race_minus_quali": 0.7649
+  },
+  {
+   "team": "rb",
+   "quali_gap": 0.8254,
+   "race_pace_gap": 1.0046,
+   "best_finish": 14,
+   "points": 0.0,
+   "race_minus_quali": 0.1792
+  },
+  {
+   "team": "red_bull",
+   "quali_gap": 0.2748,
+   "race_pace_gap": 0.0,
+   "best_finish": 1,
+   "points": 25.0,
+   "race_minus_quali": -0.2748
+  },
+  {
+   "team": "williams",
+   "quali_gap": 1.8052,
+   "race_pace_gap": 0.9997,
+   "best_finish": 8,
+   "points": 4.0,
+   "race_minus_quali": -0.8055
+  }
+ ],
+ "race_model": {
+  "fuel": -0.03213122725043577,
+  "deg": -0.04102710995065241,
+  "neutral_laps": 5,
+  "median_stops": 1.0
+ },
+ "drivers": [
+  {
+   "code": "VER",
+   "constructor_id": "red_bull",
+   "start_pos": 2.0,
+   "quali_gap": 0.2748,
+   "race_pace_gap": 0.8987,
+   "n_clean": 37.0,
+   "n_traffic": 5.0,
+   "stops": 1.0,
+   "exp_pos": 3.6108,
+   "p_win": 0.2465,
+   "position": 1,
+   "status": "Finished"
+  },
+  {
+   "code": "NOR",
+   "constructor_id": "mclaren",
+   "start_pos": 4.0,
+   "quali_gap": 0.3738,
+   "race_pace_gap": 0.8268,
+   "n_clean": 1.0,
+   "n_traffic": 41.0,
+   "stops": 1.0,
+   "exp_pos": 5.0828,
+   "p_win": 0.1035,
+   "position": 2,
+   "status": "Finished"
+  },
+  {
+   "code": "PIA",
+   "constructor_id": "mclaren",
+   "start_pos": 7.0,
+   "quali_gap": 0.9266,
+   "race_pace_gap": 0.755,
+   "n_clean": 2.0,
+   "n_traffic": 40.0,
+   "stops": 1.0,
+   "exp_pos": 8.0562,
+   "p_win": 0.0029,
+   "position": 3,
+   "status": "Finished"
+  },
+  {
+   "code": "ANT",
+   "constructor_id": "mercedes",
+   "start_pos": 1.0,
+   "quali_gap": 0.0,
+   "race_pace_gap": 0.7649,
+   "n_clean": 1.0,
+   "n_traffic": 41.0,
+   "stops": 1.0,
+   "exp_pos": 2.3244,
+   "p_win": 0.5658,
+   "position": 4,
+   "status": "Finished"
+  },
+  {
+   "code": "GAS",
+   "constructor_id": "alpine",
+   "start_pos": 9.0,
+   "quali_gap": 0.7093,
+   "race_pace_gap": 0.9182,
+   "n_clean": 1.0,
+   "n_traffic": 41.0,
+   "stops": 1.0,
+   "exp_pos": 11.1316,
+   "p_win": 0.0,
+   "position": 5,
+   "status": "Finished"
+  },
+  {
+   "code": "COL",
+   "constructor_id": "alpine",
+   "start_pos": 10.0,
+   "quali_gap": 1.1598,
+   "race_pace_gap": 1.0194,
+   "n_clean": 4.0,
+   "n_traffic": 38.0,
+   "stops": 1.0,
+   "exp_pos": 12.7022,
+   "p_win": 0.0001,
+   "position": 6,
+   "status": "Finished"
+  },
+  {
+   "code": "HAM",
+   "constructor_id": "ferrari",
+   "start_pos": 12.0,
+   "quali_gap": 1.4485,
+   "race_pace_gap": 0.7534,
+   "n_clean": 16.0,
+   "n_traffic": 25.0,
+   "stops": 1.0,
+   "exp_pos": 9.0833,
+   "p_win": 0.001,
+   "position": 7,
+   "status": "Finished"
+  },
+  {
+   "code": "SAI",
+   "constructor_id": "williams",
+   "start_pos": 14.0,
+   "quali_gap": 1.8052,
+   "race_pace_gap": 0.9997,
+   "n_clean": 22.0,
+   "n_traffic": 20.0,
+   "stops": 1.0,
+   "exp_pos": 15.672,
+   "p_win": 0.0,
+   "position": 8,
+   "status": "Finished"
+  },
+  {
+   "code": "RUS",
+   "constructor_id": "mercedes",
+   "start_pos": 3.0,
+   "quali_gap": 0.3525,
+   "race_pace_gap": 0.8982,
+   "n_clean": 4.0,
+   "n_traffic": 37.0,
+   "stops": 1.0,
+   "exp_pos": 4.4751,
+   "p_win": 0.0499,
+   "position": 9,
+   "status": "Finished"
+  },
+  {
+   "code": "LEC",
+   "constructor_id": "ferrari",
+   "start_pos": 11.0,
+   "quali_gap": 1.2216,
+   "race_pace_gap": 0.912,
+   "n_clean": 14.0,
+   "n_traffic": 28.0,
+   "stops": 1.0,
+   "exp_pos": 8.4466,
+   "p_win": 0.0031,
+   "position": 10,
+   "status": "Finished"
+  },
+  {
+   "code": "HUL",
+   "constructor_id": "audi",
+   "start_pos": 13.0,
+   "quali_gap": 1.6689,
+   "race_pace_gap": 1.4348,
+   "n_clean": 27.0,
+   "n_traffic": 15.0,
+   "stops": 1.0,
+   "exp_pos": 12.0325,
+   "p_win": 0.0,
+   "position": 11,
+   "status": "Finished"
+  },
+  {
+   "code": "BOR",
+   "constructor_id": "audi",
+   "start_pos": 15.0,
+   "quali_gap": 2.2366,
+   "race_pace_gap": 1.5607,
+   "n_clean": 5.0,
+   "n_traffic": 37.0,
+   "stops": 1.0,
+   "exp_pos": 14.3468,
+   "p_win": 0.0,
+   "position": 12,
+   "status": "Finished"
+  },
+  {
+   "code": "BEA",
+   "constructor_id": "haas",
+   "start_pos": 22.0,
+   "quali_gap": 5.0,
+   "race_pace_gap": 2.0101,
+   "n_clean": 11.0,
+   "n_traffic": 31.0,
+   "stops": 1.0,
+   "exp_pos": 17.0775,
+   "p_win": 0.0,
+   "position": 13,
+   "status": "Finished"
+  },
+  {
+   "code": "LAW",
+   "constructor_id": "rb",
+   "start_pos": 8.0,
+   "quali_gap": 1.2301,
+   "race_pace_gap": 1.5873,
+   "n_clean": 28.0,
+   "n_traffic": 12.0,
+   "stops": 1.0,
+   "exp_pos": 9.9774,
+   "p_win": 0.0006,
+   "position": 14,
+   "status": "Finished"
+  },
+  {
+   "code": "HAD",
+   "constructor_id": "red_bull",
+   "start_pos": 5.0,
+   "quali_gap": 0.7445,
+   "race_pace_gap": 0.0,
+   "n_clean": 20.0,
+   "n_traffic": 20.0,
+   "stops": 2.0,
+   "exp_pos": 6.2613,
+   "p_win": 0.0254,
+   "position": 15,
+   "status": "Finished"
+  },
+  {
+   "code": "CAM",
+   "constructor_id": "haas",
+   "start_pos": 17.0,
+   "quali_gap": 2.4784,
+   "race_pace_gap": 2.1704,
+   "n_clean": 30.0,
+   "n_traffic": 11.0,
+   "stops": 2.0,
+   "exp_pos": 17.3379,
+   "p_win": 0.0,
+   "position": 16,
+   "status": "Finished"
+  },
+  {
+   "code": "STR",
+   "constructor_id": "aston_martin",
+   "start_pos": 20.0,
+   "quali_gap": 3.8949,
+   "race_pace_gap": 3.3451,
+   "n_clean": 16.0,
+   "n_traffic": 26.0,
+   "stops": 1.0,
+   "exp_pos": 17.1639,
+   "p_win": 0.0,
+   "position": 17,
+   "status": "Finished"
+  },
+  {
+   "code": "BOT",
+   "constructor_id": "cadillac",
+   "start_pos": 21.0,
+   "quali_gap": 3.9492,
+   "race_pace_gap": 3.2382,
+   "n_clean": 18.0,
+   "n_traffic": 24.0,
+   "stops": 2.0,
+   "exp_pos": 18.8369,
+   "p_win": 0.0,
+   "position": 18,
+   "status": "Finished"
+  },
+  {
+   "code": "ALO",
+   "constructor_id": "aston_martin",
+   "start_pos": 19.0,
+   "quali_gap": 3.7351,
+   "race_pace_gap": 3.2872,
+   "n_clean": 13.0,
+   "n_traffic": 28.0,
+   "stops": 1.0,
+   "exp_pos": 16.4164,
+   "p_win": 0.0,
+   "position": 19,
+   "status": "Retired"
+  },
+  {
+   "code": "LIN",
+   "constructor_id": "rb",
+   "start_pos": 6.0,
+   "quali_gap": 0.8254,
+   "race_pace_gap": 1.0046,
+   "n_clean": 0.0,
+   "n_traffic": 17.0,
+   "stops": 1.0,
+   "exp_pos": 9.4212,
+   "p_win": 0.0012,
+   "position": 20,
+   "status": "Retired"
+  },
+  {
+   "code": "PER",
+   "constructor_id": "cadillac",
+   "start_pos": 18.0,
+   "quali_gap": 3.717,
+   "race_pace_gap": 2.2771,
+   "n_clean": 3.0,
+   "n_traffic": 13.0,
+   "stops": 0.0,
+   "exp_pos": 17.8682,
+   "p_win": 0.0,
+   "position": 21,
+   "status": "Retired"
+  },
+  {
+   "code": "ALB",
+   "constructor_id": "williams",
+   "start_pos": 16.0,
+   "quali_gap": 2.0907,
+   "race_pace_gap": NaN,
+   "n_clean": NaN,
+   "n_traffic": NaN,
+   "stops": NaN,
+   "exp_pos": 15.675,
+   "p_win": 0.0,
+   "position": 22,
+   "status": "Did not start"
+  }
+ ],
+ "over": [
+  {
+   "code": "SAI",
+   "expected": 15.7,
+   "finish": 8
+  },
+  {
+   "code": "COL",
+   "expected": 12.7,
+   "finish": 6
+  },
+  {
+   "code": "GAS",
+   "expected": 11.1,
+   "finish": 5
+  }
+ ],
+ "under": [
+  {
+   "code": "LIN",
+   "expected": 9.4,
+   "finish": 20
+  },
+  {
+   "code": "HAD",
+   "expected": 6.3,
+   "finish": 15
+  },
+  {
+   "code": "ALB",
+   "expected": 15.7,
+   "finish": 22
+  }
+ ],
+ "forecast": {
+  "model_version": "v3",
+  "logged_at": "2026-11-21T16:11:13+00:00",
+  "race_utc": "2026-11-22T04:00:00+00:00",
+  "late": false,
+  "top": [
+   {
+    "code": "ANT",
+    "p_win": 0.56585
+   },
+   {
+    "code": "VER",
+    "p_win": 0.2465
+   },
+   {
+    "code": "NOR",
+    "p_win": 0.1035
+   },
+   {
+    "code": "RUS",
+    "p_win": 0.0499
+   },
+   {
+    "code": "HAD",
+    "p_win": 0.02545
+   }
+  ],
+  "winner": "VER",
+  "winner_p": 0.2465
+ },
+ "scores": {
+  "winner_logloss": {
+   "model": 1.4014427346349634,
+   "grid": 1.5706985355676668,
+   "pole": 3.810962483748841,
+   "uniform": 3.0910424533583156
+  },
+  "podium_brier": {
+   "model": 0.10313163659090906,
+   "grid": 0.10464916814828706,
+   "pole": 0.10464916814828706,
+   "uniform": 0.1177685950413223
+  },
+  "top10_brier": {
+   "model": 0.1696176531818182,
+   "grid": 0.16702938369029352,
+   "pole": 0.16702938369029352,
+   "uniform": 0.2479338842975206
+  },
+  "spearman": {
+   "model": 0.691699604743083,
+   "grid": 0.6329757199322417,
+   "pole": 0.6329757199322417,
+   "uniform": -0.07735742518351214
+  },
+  "mae_pos": {
+   "model": 3.921309090909091,
+   "grid": 4.363636363636363,
+   "pole": 4.363636363636363,
+   "uniform": 5.5
+  }
+ },
+ "misses": [
+  {
+   "code": "LIN",
+   "expected": 9.4,
+   "finish": 20,
+   "hypotheses": [
+    "did not finish (status: Retired)",
+    "hypothesis: 5 neutralised lap(s) (SC/VSC) may have reshuffled strategy",
+    "race pace rank P11 vs qualified P6: one-lap and race pace disagreed"
+   ]
+  },
+  {
+   "code": "HAD",
+   "expected": 6.3,
+   "finish": 15,
+   "hypotheses": [
+    "hypothesis: 5 neutralised lap(s) (SC/VSC) may have reshuffled strategy",
+    "hypothesis: different strategy (2 stops vs field median 1)"
+   ]
+  },
+  {
+   "code": "SAI",
+   "expected": 15.7,
+   "finish": 8,
+   "hypotheses": [
+    "started P20 vs qualified P14: likely grid penalty (not modelled)",
+    "hypothesis: 5 neutralised lap(s) (SC/VSC) may have reshuffled strategy"
+   ]
+  },
+  {
+   "code": "COL",
+   "expected": 12.7,
+   "finish": 6,
+   "hypotheses": [
+    "hypothesis: 5 neutralised lap(s) (SC/VSC) may have reshuffled strategy"
+   ]
+  },
+  {
+   "code": "ALB",
+   "expected": 15.7,
+   "finish": 22,
+   "hypotheses": [
+    "did not finish (status: Did not start)",
+    "hypothesis: 5 neutralised lap(s) (SC/VSC) may have reshuffled strategy"
+   ]
+  }
+ ],
+ "takeaways": [
+  "Grid penalties changed the start order; the model uses qualifying position (penalties not yet a feature).",
+  "aston_martin: race pace better than one-lap pace by 0.45% (supports a race-vs-quali pace feature).",
+  "cadillac: race pace better than one-lap pace by 1.44% (supports a race-vs-quali pace feature).",
+  "ferrari: race pace better than one-lap pace by 0.47% (supports a race-vs-quali pace feature).",
+  "haas: race pace better than one-lap pace by 0.47% (supports a race-vs-quali pace feature).",
+  "mercedes: race pace worse than one-lap pace by 0.76% (supports a race-vs-quali pace feature).",
+  "williams: race pace better than one-lap pace by 0.81% (supports a race-vs-quali pace feature).",
+  "Inferred stint classes (unsupervised, not observed compounds): {'fast-like': 19, 'medium-like': 17, 'durable-like': 4}."
+ ]
+}

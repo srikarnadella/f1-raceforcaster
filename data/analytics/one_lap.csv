@@ -9038,7 +9038,6 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,bearman,BEA,haas,Haas F1 Team,#9C9FA2,110.7,31.929,38.054,40.529,271,15,INTERMEDIATE,110.51,3.1947,3.0204
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,bortoleto,BOR,audi,Audi,#F50537,112.33,32.142,38.683,40.835,264,9,INTERMEDIATE,111.66,4.7105,4.0905
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,bottas,BOT,cadillac,Cadillac,#909090,112.79,32.636,38.831,41.217,261,11,INTERMEDIATE,112.68,5.1477,5.0451
-2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,cam,CAM,haas,Haas F1 Team,#9C9FA2,113.59,32.505,39.455,41.078,273,13,INTERMEDIATE,113.04,5.8888,5.3751
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,colapinto,COL,alpine,Alpine,#00A1E8,109.23,31.629,37.096,40.504,275,11,INTERMEDIATE,109.23,1.8243,1.8243
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,gasly,GAS,alpine,Alpine,#00A1E8,107.34,30.487,36.944,39.912,274,12,INTERMEDIATE,107.34,0.066187,0.066187
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,108.41,30.632,36.774,40.089,279,15,INTERMEDIATE,107.5,1.0581,0.20788
@@ -9050,6 +9049,7 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,norris,NOR,mclaren,McLaren,#F47600,108.84,31.557,37.115,40.165,279,13,INTERMEDIATE,108.84,1.4589,1.4589
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,perez,PER,cadillac,Cadillac,#909090,110.43,31.774,37.591,40.903,271,12,INTERMEDIATE,110.27,2.9449,2.7929
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,piastri,PIA,mclaren,McLaren,#F47600,108.45,31.217,37.263,39.968,281,16,INTERMEDIATE,108.45,1.1009,1.0963
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,113.59,32.505,39.455,41.078,273,13,INTERMEDIATE,113.04,5.8888,5.3751
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,russell,RUS,mercedes,Mercedes,#00D7B6,107.27,30.825,36.989,39.458,283,15,INTERMEDIATE,107.27,0,0
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,sainz,SAI,williams,Williams,#1868DB,111.57,32.538,38.119,40.412,267,7,INTERMEDIATE,111.07,4.0076,3.5396
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP2,stroll,STR,aston_martin,Aston Martin,#229971,109.78,31.756,37.593,40.433,274,17,INTERMEDIATE,109.78,2.3398,2.3398
@@ -9060,7 +9060,6 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,bearman,BEA,haas,Haas F1 Team,#9C9FA2,96.938,27.584,33.101,36.253,308,23,SOFT,96.938,3.0806,3.0806
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,bortoleto,BOR,audi,Audi,#F50537,96.747,27.456,32.741,36.401,306,21,SOFT,96.598,2.8775,2.719
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,bottas,BOT,cadillac,Cadillac,#909090,97.696,28.138,33.394,36.089,303,22,SOFT,97.621,3.8866,3.8069
-2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,cam,CAM,haas,Haas F1 Team,#9C9FA2,97.012,27.757,32.95,36.05,304,24,SOFT,96.757,3.1593,2.8881
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,colapinto,COL,alpine,Alpine,#00A1E8,95.198,27.275,32.321,35.602,310,24,SOFT,95.198,1.2303,1.2303
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,gasly,GAS,alpine,Alpine,#00A1E8,95.443,27.298,32.293,35.382,311,24,SOFT,94.973,1.4908,0.99106
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,95.493,26.98,32.317,36.136,313,22,SOFT,95.433,1.544,1.4802
@@ -9072,6 +9071,7 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,norris,NOR,mclaren,McLaren,#F47600,95.015,26.964,31.723,36.079,316,22,SOFT,94.766,1.0357,0.77094
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,perez,PER,cadillac,Cadillac,#909090,97.132,27.681,32.802,36.191,306,23,SOFT,96.674,3.2869,2.7998
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,piastri,PIA,mclaren,McLaren,#F47600,96.008,27.3,32.16,36.053,315,23,SOFT,95.513,2.0916,1.5653
+2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,97.012,27.757,32.95,36.05,304,24,SOFT,96.757,3.1593,2.8881
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,russell,RUS,mercedes,Mercedes,#00D7B6,94.041,26.894,31.898,35.249,316,25,SOFT,94.041,0,0
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,sainz,SAI,williams,Williams,#1868DB,96.39,27.913,32.444,35.815,319,17,SOFT,96.172,2.4978,2.266
 2026,21,vegas,Las Vegas Grand Prix,conventional,FP3,stroll,STR,aston_martin,Aston Martin,#229971,97.681,28.089,32.768,36.747,303,22,SOFT,97.604,3.8707,3.7888
@@ -9082,7 +9082,6 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,bearman,BEA,haas,Haas F1 Team,#9C9FA2,108,27.539,34.067,43.866,229,4,SOFT,105.47,15.03,12.381
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,bortoleto,BOR,audi,Audi,#F50537,95.993,27.244,32.611,36.119,305,9,SOFT,95.974,2.2366,2.261
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,bottas,BOT,cadillac,Cadillac,#909090,97.601,27.859,33.287,36.35,301,8,SOFT,97.496,3.9492,3.8827
-2026,21,vegas,Las Vegas Grand Prix,conventional,Q,cam,CAM,haas,Haas F1 Team,#9C9FA2,96.22,27.411,33.184,35.625,313,6,SOFT,96.22,2.4784,2.5231
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,colapinto,COL,alpine,Alpine,#00A1E8,94.982,27.134,32.185,35.575,314,12,SOFT,94.894,1.1598,1.1103
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,gasly,GAS,alpine,Alpine,#00A1E8,94.559,27.034,32.087,35.438,308,13,SOFT,94.559,0.70932,0.75331
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,94.592,26.769,31.988,35.811,305,12,SOFT,94.568,0.74446,0.7629
@@ -9094,6 +9093,7 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,norris,NOR,mclaren,McLaren,#F47600,94.244,26.783,31.744,35.561,321,12,SOFT,94.088,0.37383,0.25146
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,perez,PER,cadillac,Cadillac,#909090,97.383,27.652,33.101,36.355,309,8,SOFT,97.108,3.717,3.4693
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,piastri,PIA,mclaren,McLaren,#F47600,94.899,27.007,31.924,35.825,323,15,SOFT,94.756,1.0714,0.96322
+2026,21,vegas,Las Vegas Grand Prix,conventional,Q,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,96.22,27.411,33.184,35.625,313,6,SOFT,96.22,2.4784,2.5231
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,russell,RUS,mercedes,Mercedes,#00D7B6,94.224,26.923,31.832,35.265,303,18,SOFT,94.02,0.35253,0.17901
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,sainz,SAI,williams,Williams,#1868DB,95.588,27.335,32.325,35.804,313,11,SOFT,95.464,1.8052,1.7176
 2026,21,vegas,Las Vegas Grand Prix,conventional,Q,stroll,STR,aston_martin,Aston Martin,#229971,97.55,27.848,32.79,36.912,288,7,SOFT,97.55,3.8949,3.9402
@@ -9103,7 +9103,6 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,bearman,BEA,haas,Haas F1 Team,#9C9FA2,97.312,27.891,33.252,35.559,322,48,SOFT,96.702,1.8004,1.4637
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,bortoleto,BOR,audi,Audi,#F50537,97.087,27.852,33.453,35.552,310,48,MEDIUM,96.857,1.565,1.6263
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,bottas,BOT,cadillac,Cadillac,#909090,98.443,28.666,33.488,35.74,315,47,SOFT,97.894,2.9835,2.7144
-2026,21,vegas,Las Vegas Grand Prix,conventional,R,cam,CAM,haas,Haas F1 Team,#9C9FA2,97.9,28.082,33.327,35.535,313,45,SOFT,96.944,2.4155,1.7176
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,colapinto,COL,alpine,Alpine,#00A1E8,96.207,27.789,32.959,34.978,320,47,MEDIUM,95.726,0.64441,0.43963
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,gasly,GAS,alpine,Alpine,#00A1E8,96.057,27.893,32.9,34.952,312,47,MEDIUM,95.745,0.48749,0.45957
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,95.944,27.62,32.528,35.404,314,45,SOFT,95.552,0.36928,0.25706
@@ -9115,6 +9114,7 @@ season,round,circuit_id,race_name,format,session,driver_id,code,constructor_id,t
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,norris,NOR,mclaren,McLaren,#F47600,96.182,27.966,32.669,34.915,323,48,MEDIUM,95.55,0.61826,0.25497
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,perez,PER,cadillac,Cadillac,#909090,99.296,28.705,34.066,36.256,304,17,SOFT,99.027,3.8759,3.9032
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,piastri,PIA,mclaren,McLaren,#F47600,96.334,27.787,33.193,34.855,325,48,MEDIUM,95.835,0.77727,0.554
+2026,21,vegas,Las Vegas Grand Prix,conventional,R,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,97.9,28.082,33.327,35.535,313,45,SOFT,96.944,2.4155,1.7176
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,russell,RUS,mercedes,Mercedes,#00D7B6,96.331,28.113,32.894,34.782,317,46,MEDIUM,95.789,0.77413,0.50573
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,sainz,SAI,williams,Williams,#1868DB,96.716,28.152,33.264,34.917,316,46,MEDIUM,96.333,1.1769,1.0765
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,stroll,STR,aston_martin,Aston Martin,#229971,98.805,28.586,33.48,36.062,303,47,MEDIUM,98.128,3.3622,2.9599

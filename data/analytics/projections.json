@@ -10,7 +10,7 @@
    "stops": 1,
    "plan": "M26 \u2192 H31",
    "pace_time_s": 74.91122311319972,
-   "time_s": 79.65303422880943,
+   "time_s": 79.4429588708305,
    "delta_s": 0.0,
    "pace_only_delta_s": 0.0
   },
@@ -18,7 +18,7 @@
    "stops": 1,
    "plan": "S11 \u2192 H46",
    "pace_time_s": 84.92971073807087,
-   "time_s": 89.67152185368057,
+   "time_s": 89.46144649570164,
    "delta_s": 10.018487624871142,
    "pace_only_delta_s": 10.018487624871142
   },
@@ -26,7 +26,7 @@
    "stops": 1,
    "plan": "S12 \u2192 M45",
    "pace_time_s": 90.78386101447414,
-   "time_s": 95.52567213008385,
+   "time_s": 95.31559677210491,
    "delta_s": 15.872637901274416,
    "pace_only_delta_s": 15.872637901274416
   },
@@ -34,24 +34,24 @@
    "stops": 2,
    "plan": "M16 \u2192 H20 \u2192 H21",
    "pace_time_s": 96.90105021428488,
-   "time_s": 106.3846724455043,
-   "delta_s": 26.73163821669486,
+   "time_s": 105.96452172954642,
+   "delta_s": 26.521562858715924,
    "pace_only_delta_s": 21.989827101085154
   },
   {
    "stops": 2,
    "plan": "M17 \u2192 M18 \u2192 H22",
    "pace_time_s": 99.1143538061348,
-   "time_s": 108.59797603735421,
-   "delta_s": 28.944941808544783,
+   "time_s": 108.17782532139634,
+   "delta_s": 28.734866450565846,
    "pace_only_delta_s": 24.203130692935076
   },
   {
    "stops": 2,
    "plan": "S7 \u2192 H25 \u2192 H25",
    "pace_time_s": 99.21989528834828,
-   "time_s": 108.70351751956771,
-   "delta_s": 29.05048329075828,
+   "time_s": 108.28336680360984,
+   "delta_s": 28.840407932779343,
    "pace_only_delta_s": 24.30867217514856
   }
  ],
@@ -67,10 +67,10 @@
    "HARD": 0.27266666666666667
   },
   "pit_loss": 31.239018303627812,
-  "passing_ease": 0.6048490736991907
+  "passing_ease": 0.6223553535307691
  },
  "circuit": {
-  "overtakes_per_lap": 0.48387925895935263,
+  "overtakes_per_lap": 0.4978842828246153,
   "pit_loss_s": 31.239018303627812,
   "race_laps": 57.0,
   "sc_rate": 2.2187966218625896,
@@ -289,125 +289,133 @@
     "driver_id": "antonelli",
     "code": "ANT",
     "constructor_id": "mercedes",
-    "p_pole": 0.4033,
-    "p_win": 0.2958,
-    "p_top3": 0.643
+    "p_pole": 0.37,
+    "p_win": 0.285,
+    "p_top3": 0.6352
    },
    {
     "driver_id": "max_verstappen",
     "code": "VER",
     "constructor_id": "red_bull",
-    "p_pole": 0.1733,
-    "p_win": 0.1953,
-    "p_top3": 0.4977
+    "p_pole": 0.1767,
+    "p_win": 0.1985,
+    "p_top3": 0.4916
    },
    {
     "driver_id": "norris",
     "code": "NOR",
     "constructor_id": "mclaren",
-    "p_pole": 0.1667,
-    "p_win": 0.1432,
-    "p_top3": 0.3926
-   },
-   {
-    "driver_id": "leclerc",
-    "code": "LEC",
-    "constructor_id": "ferrari",
-    "p_pole": 0.0733,
-    "p_win": 0.0911,
-    "p_top3": 0.3116
+    "p_pole": 0.1467,
+    "p_win": 0.1493,
+    "p_top3": 0.4228
    },
    {
     "driver_id": "russell",
     "code": "RUS",
     "constructor_id": "mercedes",
-    "p_pole": 0.0433,
-    "p_win": 0.0892,
-    "p_top3": 0.3598
+    "p_pole": 0.0567,
+    "p_win": 0.0917,
+    "p_top3": 0.3593
    },
    {
     "driver_id": "hamilton",
     "code": "HAM",
     "constructor_id": "ferrari",
-    "p_pole": 0.05,
-    "p_win": 0.0759,
-    "p_top3": 0.2811
+    "p_pole": 0.09,
+    "p_win": 0.0875,
+    "p_top3": 0.293
    },
    {
-    "driver_id": "hadjar",
-    "code": "HAD",
-    "constructor_id": "red_bull",
-    "p_pole": 0.0333,
-    "p_win": 0.0423,
-    "p_top3": 0.1996
+    "driver_id": "leclerc",
+    "code": "LEC",
+    "constructor_id": "ferrari",
+    "p_pole": 0.0633,
+    "p_win": 0.0778,
+    "p_top3": 0.2799
    },
    {
     "driver_id": "piastri",
     "code": "PIA",
     "constructor_id": "mclaren",
-    "p_pole": 0.0233,
-    "p_win": 0.0394,
-    "p_top3": 0.1772
+    "p_pole": 0.0333,
+    "p_win": 0.0502,
+    "p_top3": 0.2163
+   },
+   {
+    "driver_id": "hadjar",
+    "code": "HAD",
+    "constructor_id": "red_bull",
+    "p_pole": 0.04,
+    "p_win": 0.0347,
+    "p_top3": 0.1618
    },
    {
     "driver_id": "lawson",
     "code": "LAW",
     "constructor_id": "rb",
-    "p_pole": 0.0167,
-    "p_win": 0.0114,
-    "p_top3": 0.0513
+    "p_pole": 0.0033,
+    "p_win": 0.008,
+    "p_top3": 0.0444
    },
    {
     "driver_id": "arvid_lindblad",
     "code": "LIN",
     "constructor_id": "rb",
     "p_pole": 0.01,
-    "p_win": 0.0073,
-    "p_top3": 0.0351
-   },
-   {
-    "driver_id": "gasly",
-    "code": "GAS",
-    "constructor_id": "alpine",
-    "p_pole": 0.0067,
-    "p_win": 0.0024,
-    "p_top3": 0.0122
+    "p_win": 0.0071,
+    "p_top3": 0.0377
    },
    {
     "driver_id": "hulkenberg",
     "code": "HUL",
     "constructor_id": "audi",
-    "p_pole": 0.0,
-    "p_win": 0.0022,
-    "p_top3": 0.0136
+    "p_pole": 0.0067,
+    "p_win": 0.003,
+    "p_top3": 0.0163
    },
    {
-    "driver_id": "bortoleto",
-    "code": "BOR",
-    "constructor_id": "audi",
-    "p_pole": 0.0,
-    "p_win": 0.0015,
-    "p_top3": 0.0075
+    "driver_id": "gasly",
+    "code": "GAS",
+    "constructor_id": "alpine",
+    "p_pole": 0.0033,
+    "p_win": 0.0025,
+    "p_top3": 0.0142
    },
    {
     "driver_id": "colapinto",
     "code": "COL",
     "constructor_id": "alpine",
     "p_pole": 0.0,
-    "p_win": 0.001,
-    "p_top3": 0.0051
+    "p_win": 0.0012,
+    "p_top3": 0.0064
+   },
+   {
+    "driver_id": "bortoleto",
+    "code": "BOR",
+    "constructor_id": "audi",
+    "p_pole": 0.0,
+    "p_win": 0.0011,
+    "p_top3": 0.007
    },
    {
     "driver_id": "bearman",
     "code": "BEA",
     "constructor_id": "haas",
     "p_pole": 0.0,
-    "p_win": 0.0008,
-    "p_top3": 0.0044
+    "p_win": 0.0009,
+    "p_top3": 0.0045
    },
    {
     "driver_id": "sainz",
     "code": "SAI",
+    "constructor_id": "williams",
+    "p_pole": 0.0,
+    "p_win": 0.0005,
+    "p_top3": 0.0031
+   },
+   {
+    "driver_id": "albon",
+    "code": "ALB",
     "constructor_id": "williams",
     "p_pole": 0.0,
     "p_win": 0.0004,
@@ -419,15 +427,15 @@
     "constructor_id": "aston_martin",
     "p_pole": 0.0,
     "p_win": 0.0002,
-    "p_top3": 0.0015
+    "p_top3": 0.0016
    },
    {
-    "driver_id": "albon",
-    "code": "ALB",
-    "constructor_id": "williams",
+    "driver_id": "rafael_camara",
+    "code": "CAM",
+    "constructor_id": "haas",
     "p_pole": 0.0,
     "p_win": 0.0002,
-    "p_top3": 0.0016
+    "p_top3": 0.0008
    },
    {
     "driver_id": "stroll",
@@ -435,7 +443,7 @@
     "constructor_id": "aston_martin",
     "p_pole": 0.0,
     "p_win": 0.0002,
-    "p_top3": 0.0011
+    "p_top3": 0.0009
    },
    {
     "driver_id": "perez",
@@ -443,15 +451,7 @@
     "constructor_id": "cadillac",
     "p_pole": 0.0,
     "p_win": 0.0001,
-    "p_top3": 0.0006
-   },
-   {
-    "driver_id": "rafael_camara",
-    "code": "RAF",
-    "constructor_id": "haas",
-    "p_pole": 0.0,
-    "p_win": 0.0001,
-    "p_top3": 0.0006
+    "p_top3": 0.0008
    },
    {
     "driver_id": "bottas",
@@ -459,7 +459,7 @@
     "constructor_id": "cadillac",
     "p_pole": 0.0,
     "p_win": 0.0,
-    "p_top3": 0.0005
+    "p_top3": 0.0003
    }
   ]
  }

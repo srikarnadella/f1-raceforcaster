@@ -6702,9 +6702,6 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,medium,2.4107,0.16864,-4.3529,3.5502,97.601
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,slow,34.942,0.50465,-3.6738,3.3106,97.601
 2026,21,vegas,Las Vegas Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,straight,60.248,3.0347,-1.9938,1.9021,97.601
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,haas,Haas F1 Team,#9C9FA2,medium,2.3819,0.13976,-2.0759,2.3099,96.22
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,haas,Haas F1 Team,#9C9FA2,slow,33.9,-0.53704,-1.1104,0.23071,96.22
-2026,21,vegas,Las Vegas Grand Prix,conventional,cam,CAM,haas,Haas F1 Team,#9C9FA2,straight,59.938,2.7243,-0.6884,1.377,96.22
 2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,medium,2.2896,0.047463,-0.35223,-1.6548,94.982
 2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,slow,33.657,-0.78061,0.69504,-0.48943,94.982
 2026,21,vegas,Las Vegas Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,straight,59.036,1.8221,0.68829,-0.1488,94.982
@@ -6738,6 +6735,9 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,medium,2.2676,0.025497,1.0955,-2.5983,94.763
 2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,slow,33.692,-0.74575,0.67172,-0.38639,94.763
 2026,21,vegas,Las Vegas Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,straight,58.804,1.5903,0.37771,-0.54101,94.763
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,medium,2.3819,0.13976,-2.0759,2.3099,96.22
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,slow,33.9,-0.53704,-1.1104,0.23071,96.22
+2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,straight,59.938,2.7243,-0.6884,1.377,96.22
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,medium,2.2051,-0.037004,3.5458,-5.2829,94.224
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,slow,33.775,-0.66195,1.5413,-0.13861,94.224
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,straight,58.243,1.03,1.4247,-1.4887,94.224
