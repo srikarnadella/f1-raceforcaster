@@ -1,10 +1,10 @@
 {
- "races": 172,
- "hit_rate": 0.5523255813953488,
- "mean_p_winner": 0.4127497093023255,
- "mean_fav_p": 0.5403718023255814,
+ "races": 173,
+ "hit_rate": 0.5491329479768786,
+ "mean_p_winner": 0.41168554913294797,
+ "mean_fav_p": 0.5406205202312138,
  "miss_causes": {
-  "safety-car race reshuffled it": 20,
+  "safety-car race reshuffled it": 21,
   "favourite's teammate won": 17,
   "another front-runner was faster on the day": 15,
   "winner started P4 or lower": 15,
@@ -25,9 +25,9 @@
   },
   {
    "fav_bucket": "(0.45, 0.6]",
-   "races": 61,
-   "predicted": 0.523844262295082,
-   "actual": 0.5737704918032787
+   "races": 62,
+   "predicted": 0.5248048387096774,
+   "actual": 0.5645161290322581
   },
   {
    "fav_bucket": "(0.6, 0.75]",
@@ -50,8 +50,8 @@
   },
   {
    "winner_start (6 = 6+)": 2,
-   "races": 35,
-   "mean_p_given_to_winner": 0.28109285714285714
+   "races": 36,
+   "mean_p_given_to_winner": 0.27963611111111114
   },
   {
    "winner_start (6 = 6+)": 3,
@@ -126,10 +126,10 @@
   },
   {
    "season": 2026,
-   "races": 20,
-   "hit_rate": 0.65,
-   "winner_p": 0.43228,
-   "fav_p": 0.5211925
+   "races": 21,
+   "hit_rate": 0.6190476190476191,
+   "winner_p": 0.4225833333333333,
+   "fav_p": 0.5241547619047618
   }
  ],
  "worst_misses": [
@@ -351,7 +351,7 @@
   }
  ],
  "notes": [
-  "The favourite won 55% of 172 races while being given 54% on average: well-confident.",
-  "Most common miss: safety-car race reshuffled it (20 of 77 misses)."
+  "The favourite won 55% of 173 races while being given 54% on average: well-confident.",
+  "Most common miss: safety-car race reshuffled it (21 of 78 misses)."
  ]
 }
