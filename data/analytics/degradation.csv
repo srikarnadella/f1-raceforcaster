@@ -2930,3 +2930,14 @@ season,round,circuit_id,race_name,format,session,constructor_id,team_name,team_c
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,red_bull,Red Bull Racing,#4781D7,SOFT,-0.0544,56,True
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,williams,Williams,#1868DB,MEDIUM,-0.0161,22,True
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,williams,Williams,#1868DB,SOFT,-0.0656,17,True
+2026,22,losail,Qatar Grand Prix,conventional,FP1,mclaren,McLaren,#F47600,SOFT,0.4702,14,False
+2026,22,losail,Qatar Grand Prix,conventional,FP1,mercedes,Mercedes,#00D7B6,MEDIUM,0.0761,8,False
+2026,22,losail,Qatar Grand Prix,conventional,FP1,rb,Racing Bulls,#6C98FF,MEDIUM,0.1677,8,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,audi,Audi,#F50537,HARD,0.079,10,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,cadillac,Cadillac,#909090,MEDIUM,0.2593,8,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,haas,Haas F1 Team,#9C9FA2,MEDIUM,0.1109,11,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,mclaren,McLaren,#F47600,MEDIUM,0.0137,13,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,mercedes,Mercedes,#00D7B6,MEDIUM,0.0847,16,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,rb,Racing Bulls,#6C98FF,MEDIUM,0.0659,23,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,red_bull,Red Bull Racing,#4781D7,MEDIUM,0.0449,18,False
+2026,22,losail,Qatar Grand Prix,conventional,FP2,williams,Williams,#1868DB,MEDIUM,0.1194,11,False

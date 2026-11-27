@@ -9057,3 +9057,103 @@ vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,3,2,1.0056,0.00192
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,sainz,SAI,4,4,1.0147,0.019182,6,SOFT,short / setup runs
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,stroll,STR,1,6,1.0212,0.0075767,2,SOFT,race sim
 vegas,Las Vegas Grand Prix,conventional,2026,21,FP3,stroll,STR,2,2,1.0071,0.00080352,2,SOFT,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,albon,ALB,1,4,1.0179,0.041029,1,MEDIUM,short / setup runs
+losail,Qatar Grand Prix,conventional,2026,22,FP1,albon,ALB,3,4,1.065,0.012195,6,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,antonelli,ANT,1,2,1.0158,0.0080128,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,antonelli,ANT,5,8,1.0637,0.003291,13,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,arvid_lindblad,LIN,1,2,1.028,0.010431,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,arvid_lindblad,LIN,6,5,1.0709,0.01554,7,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,bearman,BEA,7,3,1.0884,0.01089,7,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,bortoleto,BOR,2,4,1.0172,0.01424,3,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,bortoleto,BOR,5,3,1.0701,0.011171,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,bottas,BOT,1,2,1.037,0.002571,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,bottas,BOT,3,3,1.0013,0.0033292,1,SOFT,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,bottas,BOT,4,6,1.0835,0.015669,9,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,colapinto,COL,1,5,1.0151,0.013435,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,colapinto,COL,2,2,1.0002,0.00034772,1,SOFT,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,colapinto,COL,3,8,1.0759,0.012102,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,cra,CRA,1,5,1.0207,0.018066,1,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,cra,CRA,2,3,1.0001,0.00086197,1,SOFT,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,cra,CRA,3,4,1.0761,0.014003,9,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,gasly,GAS,3,2,1.0034,0.0016996,8,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,gasly,GAS,6,6,1.0781,0.0117,7,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hadjar,HAD,1,2,1.0234,0.010867,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hadjar,HAD,3,2,1.0494,0.061574,8,MEDIUM,short / setup runs
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hadjar,HAD,6,5,1.0765,0.011224,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hamilton,HAM,2,3,1.0068,0.0044949,4,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hamilton,HAM,3,3,1.0024,0.054898,1,SOFT,short / setup runs
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hamilton,HAM,5,3,1.0633,0.0097024,13,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hulkenberg,HUL,2,4,1.0169,0.0057985,2,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hulkenberg,HUL,5,3,1.0539,0.013301,7,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,hulkenberg,HUL,6,3,1.0539,0.014179,13,HARD,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,lawson,LAW,1,2,1.0151,0.0087239,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,lawson,LAW,6,8,1.0595,0.0059416,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,leclerc,LEC,1,3,1.0081,0.0083493,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,leclerc,LEC,5,6,1.0638,0.011349,6,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,leclerc,LEC,6,2,1.048,0.0045872,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,max_verstappen,VER,1,2,1.0218,0.0023197,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,max_verstappen,VER,6,6,1.0699,0.010151,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,norris,NOR,1,3,1.0194,0.045189,1,HARD,short / setup runs
+losail,Qatar Grand Prix,conventional,2026,22,FP1,norris,NOR,2,2,1.0103,0.00083271,7,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,norris,NOR,5,6,1.0537,0.0084548,6,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,perez,PER,2,3,1.0254,0.019378,2,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,perez,PER,4,2,1.0034,0.0048453,1,SOFT,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,perez,PER,5,4,1.072,0.0087752,13,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,piastri,PIA,1,2,1.0389,0.0037341,1,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,piastri,PIA,3,2,1.0416,0.0492,10,HARD,short / setup runs
+losail,Qatar Grand Prix,conventional,2026,22,FP1,piastri,PIA,5,10,1.0566,0.027285,1,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,rafael_camara,CAM,1,3,1.0364,0.019163,1,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,rafael_camara,CAM,2,2,1.0214,0.0095728,8,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,rafael_camara,CAM,5,5,1.0664,0.010138,7,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,russell,RUS,1,2,1.0169,0.002255,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,russell,RUS,2,2,1.0049,0.0025844,7,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,russell,RUS,3,2,1.0002,0.00025337,2,SOFT,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,russell,RUS,4,3,1.0635,0.0093973,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,russell,RUS,5,3,1.0691,0.0039445,15,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,sainz,SAI,1,2,1.0145,0.0091932,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,sainz,SAI,5,6,1.0535,0.020427,8,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,stroll,STR,1,2,1.0191,0.012773,1,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,stroll,STR,2,2,1.0148,1.6365e-05,7,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP1,stroll,STR,3,2,1.0449,0.063456,1,SOFT,short / setup runs
+losail,Qatar Grand Prix,conventional,2026,22,FP2,albon,ALB,5,2,1.06,0.0028856,8,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,albon,ALB,6,9,1.0706,0.0071733,5,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,alonso,ALO,5,2,1.0027,0.0038788,3,SOFT,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,alonso,ALO,6,3,1.0606,0.012453,9,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,antonelli,ANT,1,2,1.0044,0.0062134,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,antonelli,ANT,4,12,1.0646,0.014293,11,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,arvid_lindblad,LIN,1,2,1.0019,0.0027014,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,arvid_lindblad,LIN,4,14,1.0614,0.0043752,9,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,bearman,BEA,1,2,1.0057,0.0081157,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,bearman,BEA,6,6,1.0683,0.014425,3,SOFT,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,bearman,BEA,7,6,1.0619,0.0037339,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,bortoleto,BOR,1,3,1.0078,0.0031506,1,HARD,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,bortoleto,BOR,4,12,1.0637,0.0071302,11,HARD,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,bottas,BOT,1,2,1.0044,0.0030989,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,bottas,BOT,6,10,1.0638,0.011032,9,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,colapinto,COL,2,2,1.0009,0.0012124,5,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,colapinto,COL,6,7,1.0656,0.011712,10,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,gasly,GAS,1,3,1.0123,0.0037598,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,hadjar,HAD,1,2,1.0082,0.0026141,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,hadjar,HAD,5,13,1.067,0.0071097,10,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,hamilton,HAM,2,2,1.0015,0.0021747,5,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,hamilton,HAM,6,3,1.0556,0.00090502,11,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,hulkenberg,HUL,1,2,1.0101,0.0035159,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,hulkenberg,HUL,4,11,1.0727,0.0077153,7,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,lawson,LAW,1,3,1.0028,0.0027564,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,lawson,LAW,4,14,1.0645,0.0085586,8,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,leclerc,LEC,6,2,1.0666,0.0034053,6,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,max_verstappen,VER,1,3,1.0057,0.0063533,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,max_verstappen,VER,3,13,1.0638,0.0061914,8,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,norris,NOR,1,2,1.0096,0.0023197,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,norris,NOR,3,12,1.0686,0.0072055,8,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,perez,PER,1,2,1.0012,0.0014385,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,perez,PER,6,3,1.0635,0.0010561,12,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,piastri,PIA,1,2,1.0099,0.0016673,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,piastri,PIA,4,14,1.0715,0.010737,8,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,rafael_camara,CAM,1,2,1.0166,0.0090731,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,rafael_camara,CAM,6,8,1.0682,0.0053408,13,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,russell,RUS,1,3,1.0016,0.0031844,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,russell,RUS,4,13,1.0664,0.013016,11,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,sainz,SAI,4,12,1.0623,0.012461,5,MEDIUM,race sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,stroll,STR,1,2,1.0029,0.00088951,1,MEDIUM,quali sim
+losail,Qatar Grand Prix,conventional,2026,22,FP2,stroll,STR,2,2,1.0326,0.046116,3,SOFT,short / setup runs

@@ -1,44 +1,44 @@
 {
- "weekends": 91,
+ "weekends": 92,
  "circuits": {
   "k": 5,
-  "silhouette": 0.162,
+  "silhouette": 0.164,
   "explained": [
-   0.359,
-   0.159
+   0.358,
+   0.161
   ],
   "loadings": {
    "pc1": {
-    "share_straight": 0.407,
+    "share_straight": 0.408,
     "share_fast": 0.081,
-    "share_medium": -0.018,
-    "share_slow": -0.342,
+    "share_medium": -0.017,
+    "share_slow": -0.343,
     "avg_speed_kmh": 0.437,
-    "top_speed_kmh": 0.274,
+    "top_speed_kmh": 0.276,
     "full_throttle_pct": 0.417,
     "braking_pct": -0.293,
     "gear_changes_per_km": -0.356,
-    "race_deg": -0.065,
-    "race_track_temp": -0.115,
-    "sc_rate": 0.064,
+    "race_deg": -0.063,
+    "race_track_temp": -0.113,
+    "sc_rate": 0.046,
     "overtakes_per_lap": 0.151,
-    "pit_loss_s": 0.117
+    "pit_loss_s": 0.116
    },
    "pc2": {
-    "share_straight": -0.008,
-    "share_fast": 0.379,
-    "share_medium": 0.387,
-    "share_slow": -0.348,
-    "avg_speed_kmh": 0.082,
-    "top_speed_kmh": 0.03,
-    "full_throttle_pct": 0.005,
-    "braking_pct": 0.125,
-    "gear_changes_per_km": -0.054,
-    "race_deg": 0.065,
-    "race_track_temp": 0.45,
-    "sc_rate": -0.379,
-    "overtakes_per_lap": -0.374,
-    "pit_loss_s": -0.264
+    "share_straight": -0.013,
+    "share_fast": 0.368,
+    "share_medium": 0.398,
+    "share_slow": -0.349,
+    "avg_speed_kmh": 0.077,
+    "top_speed_kmh": 0.024,
+    "full_throttle_pct": 0.001,
+    "braking_pct": 0.135,
+    "gear_changes_per_km": -0.05,
+    "race_deg": 0.072,
+    "race_track_temp": 0.443,
+    "sc_rate": -0.401,
+    "overtakes_per_lap": -0.369,
+    "pit_loss_s": -0.243
    }
   }
  },

@@ -1721,3 +1721,11 @@ season,round,circuit_id,race_name,format,session,category,laps
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,lap1,20
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,neutral,95
 2026,21,vegas,Las Vegas Grand Prix,conventional,R,traffic,542
+2026,22,losail,Qatar Grand Prix,conventional,FP1,cool,243
+2026,22,losail,Qatar Grand Prix,conventional,FP1,invalid,222
+2026,22,losail,Qatar Grand Prix,conventional,FP1,long,45
+2026,22,losail,Qatar Grand Prix,conventional,FP1,push,81
+2026,22,losail,Qatar Grand Prix,conventional,FP2,cool,222
+2026,22,losail,Qatar Grand Prix,conventional,FP2,invalid,225
+2026,22,losail,Qatar Grand Prix,conventional,FP2,long,120
+2026,22,losail,Qatar Grand Prix,conventional,FP2,push,65

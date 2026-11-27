@@ -1718,3 +1718,25 @@ season,round,circuit_id,race_name,format,driver_id,code,constructor_id,team_name
 2026,21,vegas,Las Vegas Grand Prix,conventional,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,102.31,102.58,4.7718,FP3
 2026,21,vegas,Las Vegas Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,9,MEDIUM,97.893,99.076,1.1945,FP3
 2026,21,vegas,Las Vegas Grand Prix,conventional,stroll,STR,aston_martin,Aston Martin,#229971,6,SOFT,99.755,100.06,2.1989,FP3
+2026,22,losail,Qatar Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,8,MEDIUM,88.514,90.593,4.9161,FP1
+2026,22,losail,Qatar Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,MEDIUM,86.698,88.938,2.9993,FP1
+2026,22,losail,Qatar Grand Prix,conventional,cra,CRA,aston_martin,Aston Martin,#229971,5,HARD,88.095,91.837,6.357,FP1
+2026,22,losail,Qatar Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,8,MEDIUM,90.69,92.587,7.2255,FP1
+2026,22,losail,Qatar Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,6,SOFT,88.585,86.985,0.73684,FP1
+2026,22,losail,Qatar Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,8,SOFT,88.273,86.348,0,FP1
+2026,22,losail,Qatar Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,5,SOFT,90.55,88.032,1.9496,FP1
+2026,22,losail,Qatar Grand Prix,conventional,antonelli,ANT,mercedes,Mercedes,#00D7B6,8,MEDIUM,88.074,86.761,0,FP2
+2026,22,losail,Qatar Grand Prix,conventional,arvid_lindblad,LIN,rb,Racing Bulls,#6C98FF,14,MEDIUM,89.736,88.596,2.1148,FP2
+2026,22,losail,Qatar Grand Prix,conventional,bearman,BEA,haas,Haas F1 Team,#9C9FA2,6,MEDIUM,91.316,90.401,4.1955,FP2
+2026,22,losail,Qatar Grand Prix,conventional,bortoleto,BOR,audi,Audi,#F50537,10,HARD,89.963,88.339,1.8183,FP2
+2026,22,losail,Qatar Grand Prix,conventional,bottas,BOT,cadillac,Cadillac,#909090,8,MEDIUM,92.34,91.35,5.2891,FP2
+2026,22,losail,Qatar Grand Prix,conventional,colapinto,COL,alpine,Alpine,#00A1E8,5,MEDIUM,91.322,90.005,3.7381,FP2
+2026,22,losail,Qatar Grand Prix,conventional,hadjar,HAD,red_bull,Red Bull Racing,#4781D7,9,MEDIUM,89.064,87.748,1.1368,FP2
+2026,22,losail,Qatar Grand Prix,conventional,hulkenberg,HUL,audi,Audi,#F50537,5,MEDIUM,90.136,89.5,3.1563,FP2
+2026,22,losail,Qatar Grand Prix,conventional,lawson,LAW,rb,Racing Bulls,#6C98FF,9,MEDIUM,89.661,88.567,2.0811,FP2
+2026,22,losail,Qatar Grand Prix,conventional,max_verstappen,VER,red_bull,Red Bull Racing,#4781D7,9,MEDIUM,88.882,87.753,1.143,FP2
+2026,22,losail,Qatar Grand Prix,conventional,norris,NOR,mclaren,McLaren,#F47600,7,MEDIUM,88.734,87.969,1.3923,FP2
+2026,22,losail,Qatar Grand Prix,conventional,piastri,PIA,mclaren,McLaren,#F47600,6,MEDIUM,88.654,88,1.4277,FP2
+2026,22,losail,Qatar Grand Prix,conventional,rafael_camara,CAM,haas,Haas F1 Team,#9C9FA2,5,MEDIUM,91.649,90.275,4.0502,FP2
+2026,22,losail,Qatar Grand Prix,conventional,russell,RUS,mercedes,Mercedes,#00D7B6,8,MEDIUM,88.287,87.097,0.3869,FP2
+2026,22,losail,Qatar Grand Prix,conventional,sainz,SAI,williams,Williams,#1868DB,11,MEDIUM,91.11,90.252,4.0232,FP2

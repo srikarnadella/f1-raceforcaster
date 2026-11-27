@@ -53,12 +53,12 @@ stops,plan,pace_time_s,time_s,delta_s,pace_only_delta_s,circuit_id,race_name
 2,S12 → M19 → M19,79.06,84.48,13.57,10.86,jeddah,Saudi Arabian Grand Prix
 2,S13 → S14 → M23,81.2,86.63,15.71,13,jeddah,Saudi Arabian Grand Prix
 2,M18 → M18 → H14,81.23,86.66,15.74,13.03,jeddah,Saudi Arabian Grand Prix
-1,M26 → H31,74.91,79.44,0,0,losail,Qatar Grand Prix
-1,S11 → H46,84.93,89.46,10.02,10.02,losail,Qatar Grand Prix
-1,S12 → M45,90.78,95.32,15.87,15.87,losail,Qatar Grand Prix
-2,M16 → H20 → H21,96.9,106,26.52,21.99,losail,Qatar Grand Prix
-2,M17 → M18 → H22,99.11,108.2,28.73,24.2,losail,Qatar Grand Prix
-2,S7 → H25 → H25,99.22,108.3,28.84,24.31,losail,Qatar Grand Prix
+1,M26 → H31,73.86,78.39,0,0,losail,Qatar Grand Prix
+1,S11 → H46,84.08,88.62,10.23,10.23,losail,Qatar Grand Prix
+1,S11 → M46,89.5,94.03,15.64,15.64,losail,Qatar Grand Prix
+2,M16 → H20 → H21,96.24,105.3,26.91,22.38,losail,Qatar Grand Prix
+2,M17 → M18 → H22,98.35,107.4,29.03,24.5,losail,Qatar Grand Prix
+2,S7 → H25 → H25,98.66,107.7,29.34,24.81,losail,Qatar Grand Prix
 1,S15 → H42,60.87,64.73,0,0,madring,Spanish Grand Prix
 1,M16 → H41,61.86,65.72,0.9915,0.9915,madring,Spanish Grand Prix
 2,S9 → H24 → H24,72.68,80.41,15.67,11.81,madring,Spanish Grand Prix

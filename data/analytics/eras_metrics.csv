@@ -61,7 +61,7 @@ hungaroring,0,0,1,0,0,,"1 race(s) under these rules, shrunk toward the scaled pr
 imola,1.109,,0,1,1.109,,previous era × era factor,sc_rate
 interlagos,1.109,0,1,2,2.219,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 jeddah,1.109,,0,1,1.109,,previous era × era factor,sc_rate
-losail,2.219,,0,2,2.219,,previous era × era factor,sc_rate
+losail,1.109,0,1,2,2.219,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 madring,0,0,1,,,,1 race(s) under these rules,sc_rate
 marina_bay,0.3698,0,1,0.6667,0.7396,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
 miami,1.424,1,1,1.667,1.849,,"1 race(s) under these rules, shrunk toward the scaled prior",sc_rate
